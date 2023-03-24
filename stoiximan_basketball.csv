@@ -1,0 +1,288 @@
+date,time,team1,team2,WIN_1,WIN_2,Handicap_1,Hand_1_odds,Handicap_2,Hand_2_odds,O,O_odds,U,U_odds
+  24/03,23:00,Utah Utes (W),LSU Tigers (W),2.80,1.40,+5.5,1.87,-5.5,1.87,O 149.5,1.83,U 149.5,1.91
+24/03,23:00,TEC MTY Leon,TEC MTY Hidalgo,5.80,1.11,+12.5,1.87,-12.5,1.87,O 157.5,1.87,U 157.5,1.87
+24/03,23:30,Newfoundland Rogues,Windsor Express,2.35,1.55,+4.5,1.87,-4.5,1.87,O 221.5,1.88,U 221.5,1.85
+24/03,23:30,Esgueira U23,Clube Bola,1.009,12.50,-22.5,1.87,+22.5,1.87,O 132.5,1.87,U 132.5,1.87
+24/03,23:30,LAC Basquetebol,Club 5Basket U23,2.35,1.55,+3.5,1.87,-3.5,1.87,O 125.5,1.87,U 125.5,1.87
+24/03,23:30,Maria Pia Sport Clube,Nacional Natacao,2.35,1.55,+3.5,1.87,-3.5,1.87,O 133.5,1.87,U 133.5,1.87
+24/03,23:45,Maia Basket,Sport Lisboa Benfica II,1.35,3.05,-6.5,1.83,+6.5,1.91,O 156.5,1.87,U 156.5,1.87
+25/03,00:00,Basquete Santos Memorial,Cruzeiro,1.78,1.98,-1.5,1.87,+1.5,1.87,O 139.5,1.87,U 139.5,1.87
+25/03,00:00,FAR Rabat,MTB Majd,1.37,2.95,-6.5,1.87,+6.5,1.87,O 139.5,1.87,U 139.5,1.87
+25/03,00:00,Espanol de Talca,Universidad de Concepcion,8.75,1.05,+24.5,1.87,-24.5,1.88,O 166.5,1.88,U 166.5,1.87
+25/03,00:30,Alabama Crimson Tide,San Diego State Aztecs,1.30,3.70,-6.5,1.83,+6.5,1.98,O 137.5,1.88,U 137.5,1.93
+25/03,00:30,Unifacisa,Bauru,2.18,1.65,+2.5,1.83,-2.5,1.90,O 146.5,1.83,U 146.5,1.91
+25/03,00:30,LSB (W),Veracruz Campinas (W),2.12,1.70,+2.5,1.83,-2.5,1.91,O 145.5,1.83,U 145.5,1.91
+25/03,00:45,Bucaneros de La Guaira,Cangrejeros de Monagas,1.21,4.05,-8.5,1.82,+8.5,1.93,O 164.5,1.87,U 164.5,1.87
+25/03,01:00,Boston Celtics,Indiana Pacers,1.15,5.80,-12.5,1.88,+12.5,1.93,O 236.5,1.93,U 236.5,1.88
+25/03,01:00,Washington Wizards,San Antonio Spurs,1.30,3.70,-8.5,1.91,+8.5,1.90,O 228.5,1.91,U 228.5,1.90
+25/03,01:00,Columbia Lions (W),Syracuse Orange (W),1.62,2.20,-2.5,1.87,+2.5,1.87,O 143.5,1.87,U 143.5,1.87
+25/03,01:00,Club Atletico Obras Sanitarias,Club Atletico Riachuelo de La Rioja,1.25,3.70,-8.5,1.87,+8.5,1.87,O 166.5,1.87,U 166.5,1.87
+25/03,01:00,Atletico Caza y Pesca,Club Sportivo Pilar,1.45,2.62,-5.5,1.87,+5.5,1.87,O 154.5,1.87,U 154.5,1.87
+25/03,01:00,Ateneo P. Versailles,Gimnasia de Ituzaingo,1.98,1.78,+1.5,1.87,-1.5,1.87,O 151.5,1.91,U 151.5,1.83
+25/03,01:00,Claridad,Club Social y Deportivo Presidente Derqui,7.40,1.07,+15.5,1.87,-15.5,1.87,O 156.5,1.88,U 156.5,1.85
+25/03,01:00,Villa Mitre II,Club Atletico River Plate,6.20,1.10,+13.5,1.87,-13.5,1.87,O 137.5,1.91,U 137.5,1.83
+25/03,01:00,Broncos de Caracas,Taurinos de Aragua,1.007,13.50,-25.5,1.85,+25.5,1.88,O 163.5,1.90,U 163.5,1.85
+25/03,01:00,Gaiteros Del Zulia,Trotamundos de Carabobo,3.45,1.28,+8.5,1.82,-8.5,1.93,O 158.5,1.85,U 158.5,1.88
+25/03,01:00,Centauros de Portuguesa,Llaneros de Guarico,1.31,3.25,-7.5,1.87,+7.5,1.87,O 155.5,1.88,U 155.5,1.85
+25/03,01:00,Corinthians,EC Uniao Corinthians,1.25,3.85,-9.5,1.87,+9.5,1.87,O 158.5,1.83,U 158.5,1.91
+25/03,01:00,Basquete Cearense,Pinheiros,3.45,1.30,+7.5,1.88,-7.5,1.85,O 159.5,1.83,U 159.5,1.90
+25/03,01:15,Houston Cougars,Miami Florida Hurricanes,1.28,3.85,-7.5,1.90,+7.5,1.91,O 139.5,1.90,U 139.5,1.91
+25/03,01:15,Urupan de Pando,Trouville,1.44,2.67,-4.5,1.85,+4.5,1.88,O 172.5,1.90,U 172.5,1.85
+25/03,01:30,Toronto Raptors,Detroit Pistons,1.08,8.50,-14.5,1.90,+14.5,1.91,O 223.5,1.90,U 223.5,1.91
+25/03,01:30,Iowa Hawkeyes (W),Colorado Buffaloes (W),1.35,3.00,-5.5,1.80,+5.5,1.93,O 146.5,1.91,U 146.5,1.82
+25/03,01:30,Club Deportivo Universidad Catolica,Mun. Puente Alto,2.20,1.62,+2.5,1.88,-2.5,1.85,O 157.5,1.87,U 157.5,1.87
+25/03,02:00,Memphis Grizzlies,Houston Rockets,1.11,7.20,-12.5,1.87,+12.5,1.93,O 233.5,1.87,U 233.5,1.93
+25/03,02:00,Arkansas Razorbacks (W),Texas Tech Red Raiders (W),1.16,4.90,-9.5,1.87,+9.5,1.87,O 140.5,1.87,U 140.5,1.87
+25/03,02:00,Ameghino de Villa Maria,Jachal de San Juan,1.04,9.00,-18.5,1.83,+18.5,1.90,O 163.5,1.85,U 163.5,1.88
+25/03,02:00,Bochas Sport Club de Colonia Caroya,El Ceibo,2.82,1.40,+5.5,1.90,-5.5,1.85,O 161.5,1.88,U 161.5,1.85
+25/03,02:00,UNAM,TEC MTY Monterrey,2.50,1.50,+4.5,1.87,-4.5,1.87,O 137.5,1.87,U 137.5,1.87
+25/03,02:00,Grises de Humacao,Piratas de Quebradillas,2.15,1.65,+2.5,1.87,-2.5,1.87,O 167.5,1.88,U 167.5,1.85
+25/03,02:00,San German,Mayaguez,1.42,2.70,-5.5,1.85,+5.5,1.88,O 164.5,1.88,U 164.5,1.85
+25/03,02:00,Mets de Guaynabo,Bayamon,2.15,1.65,+2.5,1.88,-2.5,1.85,O 165.5,1.85,U 165.5,1.88
+25/03,02:10,Asociacion Deportiva Atenas,San Martin Corrientes,3.45,1.28,+7.5,1.91,-7.5,1.82,O 152.5,1.87,U 152.5,1.88
+25/03,02:40,Dallas Mavericks,Charlotte Hornets,1.08,8.50,-14.5,1.85,+14.5,1.95,O 226.5,1.87,U 226.5,1.95
+25/03,02:45,Real Club De Lima,Leones SC,1.78,1.98,-1.5,1.87,+1.5,1.87,O 152.5,1.88,U 152.5,1.85
+25/03,03:00,Utah Jazz,Milwaukee Bucks,4.75,1.21,+9.5,1.87,-9.5,1.93,O 235.5,1.90,U 235.5,1.91
+25/03,03:00,Creighton Bluejays,Princeton Tigers,1.20,4.85,-9.5,1.85,+9.5,1.98,O 140.5,1.90,U 140.5,1.90
+25/03,03:00,El Tala de Rosario,Santa Paula de Galvez,2.75,1.42,+5.5,1.87,-5.5,1.87,O 160.5,1.88,U 160.5,1.85
+25/03,03:00,Alberdi de Tucuman,Avellaneda Central de Tucuman,1.55,2.35,-3.5,1.87,+3.5,1.87,O 161.5,1.88,U 161.5,1.85
+25/03,03:00,UP Guadalajara,TEC MTY Guadalajara,2.45,1.52,+4.5,1.87,-4.5,1.87,O 145.5,1.87,U 145.5,1.87
+25/03,03:00,Universidad Interamericana,UPAEP,1.31,3.30,-7.5,1.87,+7.5,1.87,O 137.5,1.87,U 137.5,1.87
+25/03,03:30,AD Isidro Metapan,Brujos Izalco,1.10,6.10,-12.5,1.82,+12.5,1.93,O 170.5,1.83,U 170.5,1.91
+25/03,03:30,Teporacas de Chihuahua (W),Quetzales Sajoma (W),1.17,4.60,-11.5,1.87,+11.5,1.87,O 138.5,1.87,U 138.5,1.87
+25/03,03:45,Texas Longhorns,Xavier Musketeers,1.56,2.78,-4.5,1.95,+4.5,1.87,O 148.5,1.93,U 148.5,1.88
+25/03,04:00,Sacramento Kings,Phoenix Suns,1.62,2.35,-3.5,1.95,+3.5,1.87,O 239.5,1.90,U 239.5,1.91
+25/03,04:00,Louisville Cardinals (W),Ole Mississippi Rebels (W),1.65,2.15,-2.5,1.87,+2.5,1.87,O 125.5,1.87,U 125.5,1.87
+25/03,04:00,Washington Huskies (W),Kansas State Wildcats (W),1.57,2.32,-3.5,1.87,+3.5,1.87,O 123.5,1.87,U 123.5,1.87
+25/03,04:00,CEU,TEC MTY Puebla,1.16,4.85,-11.5,1.87,+11.5,1.87,O 153.5,1.87,U 153.5,1.87
+25/03,04:10,Golden State Warriors,Philadelphia 76ers,1.55,2.81,-5.5,1.95,+5.5,1.85,O 234.5,1.87,U 234.5,1.95
+25/03,04:10,Portland Trail Blazers,Chicago Bulls,2.47,1.57,+3.5,1.98,-3.5,1.85,O 222.5,1.90,U 222.5,1.90
+25/03,04:15,Regatas Lima,Lima Norte,1.04,9.00,-18.5,1.87,+18.5,1.87,O 144.5,1.87,U 144.5,1.87
+25/03,04:30,Zonkeys de Tijuana,Halcones de Ciudad Obregon,1.78,1.98,-1.5,1.87,+1.5,1.87,O 175.5,1.88,U 175.5,1.85
+25/03,04:40,Los Angeles Lakers,Oklahoma City Thunder,1.50,2.70,-4.5,1.85,+4.5,1.98,O 231.5,1.93,U 231.5,1.88
+25/03,05:15,Pioneros de Los Mochis,Astros de Jalisco,2.05,1.72,+2.5,1.85,-2.5,1.88,O 176.5,1.90,U 176.5,1.85
+25/03,05:15,Venados de Mazatlan,Rayos de Hermosillo,2.05,1.72,+2.5,1.83,-2.5,1.91,O 170.5,1.85,U 170.5,1.90
+25/03,06:00,Bankstown Bruins (W),Illawara Hawks (W),13.50,1.006,+24.5,1.88,-24.5,1.85,O 132.5,1.85,U 132.5,1.90
+25/03,06:35,Shimane Susanoo Magic,Kyoto Hannaryz,1.10,6.20,-12.5,1.80,+12.5,1.93,O 158.5,1.87,U 158.5,1.87
+25/03,07:00,Manly Warringah Sea Eagles (W),Central Coast Crusaders (W),1.19,4.30,-10.5,1.85,+10.5,1.88,O 138.5,1.87,U 138.5,1.87
+25/03,07:00,Koshigaya Alphas,Nishinomiya Storks,1.40,2.80,-5.5,1.82,+5.5,1.93,O 153.5,1.83,U 153.5,1.91
+25/03,07:00,Tokyo Hachioji Trains,Saitama Broncos,4.40,1.19,+10.5,1.87,-10.5,1.87,O 164.5,1.85,U 164.5,1.88
+25/03,07:00,Shonan United BC,Yamaguchi Patriots,1.42,2.70,-5.5,1.85,+5.5,1.88,O 168.5,1.87,U 168.5,1.87
+25/03,07:00,Taiwan Power (W),Chunghua Telecom (W),2.75,1.42,+5.5,1.82,-5.5,1.91,O 129.5,1.87,U 129.5,1.87
+25/03,07:05,Shiga Lake Stars,Sun Rockers Shibuya,3.40,1.29,+7.5,1.83,-7.5,1.91,O 169.5,1.88,U 169.5,1.85
+25/03,07:05,Toyama Grouses,Hiroshima Dragonflies,6.20,1.10,+13.5,1.93,-13.5,1.82,O 168.5,1.83,U 168.5,1.91
+25/03,08:00,Bankstown Bruins,Illawarra Hawks II,3.70,1.25,+7.5,1.93,-7.5,1.82,O 173.5,1.85,U 173.5,1.88
+25/03,08:00,Albury Wodonga Bandits (W),Hills Hornets (W),1.006,14.00,-24.5,1.85,+24.5,1.90,O 142.5,1.85,U 142.5,1.88
+25/03,08:00,Newcastle Falcons (W),Canberra Nationals (W),1.21,4.10,-9.5,1.91,+9.5,1.83,O 132.5,1.87,U 132.5,1.87
+25/03,08:00,Sutherland Sharks (W),Inner West Bulls (W),1.02,11.00,-27.5,1.90,+27.5,1.85,O 142.5,1.83,U 142.5,1.90
+25/03,08:00,Ehime Orange Vikings,Kumamoto Volters,2.07,1.70,+2.5,1.87,-2.5,1.87,O 160.5,1.88,U 160.5,1.85
+25/03,08:00,Gifu Swoops,Yokohama Excellence,4.30,1.19,+9.5,1.87,-9.5,1.87,O 173.5,1.87,U 173.5,1.87
+25/03,08:05,Yokohama B Corsairs,Shinshu Brave Warriors,1.40,2.80,-5.5,1.87,+5.5,1.87,O 152.5,1.83,U 152.5,1.91
+25/03,08:05,Tokyo Alvark,Levanga Hokkaido,1.06,7.70,-14.5,1.87,+14.5,1.87,O 158.5,1.83,U 158.5,1.91
+25/03,08:05,Aisin Seahorses Mikawa,Osaka Evessa,2.07,1.70,+1.5,1.93,-1.5,1.80,O 156.5,1.90,U 156.5,1.85
+25/03,08:05,Gunma Crane Thunders,Akita Northern Happinets,1.57,2.32,-3.5,1.87,+3.5,1.87,O 159.5,1.83,U 159.5,1.91
+25/03,08:05,Utsunomiya Brex,Sanen NeoPhoenix,1.24,3.80,-7.5,1.87,+7.5,1.87,O 149.5,1.83,U 149.5,1.91
+25/03,09:00,Manly Warringah Sea Eagles,Central Coast Crusaders,2.15,1.65,+2.5,1.91,-2.5,1.82,O 148.5,1.88,U 148.5,1.87
+25/03,09:00,Brisbane Capitals (W),Northside Wizards (W),3.20,1.32,+7.5,1.82,-7.5,1.93,O 149.5,1.87,U 149.5,1.87
+25/03,09:00,North Gold Coast Seahawks (W),Gold Coast Rollers (W),1.15,4.90,-10.5,1.85,+10.5,1.88,O 150.5,1.85,U 150.5,1.88
+25/03,09:00,Saga Ballooners,Yamagata Wyverns,1.21,4.15,-9.5,1.87,+9.5,1.87,O 154.5,1.90,U 154.5,1.83
+25/03,09:00,Cathay Life (W),Taiyuan (W),1.36,3.00,-6.5,1.87,+6.5,1.87,O 138.5,1.91,U 138.5,1.83
+25/03,09:05,Nagoya Diamond Dolphins,Fighting Eagles Nagoya,1.34,3.10,-6.5,1.83,+6.5,1.90,O 161.5,1.87,U 161.5,1.87
+25/03,09:30,USC Rip City (W),Sunshine Coast Phoenix (W),1.19,4.30,-9.5,1.90,+9.5,1.85,O 144.5,1.85,U 144.5,1.90
+25/03,10:00,Albury Wodonga Bandits,Hills Hornets,1.50,2.50,-4.5,1.87,+4.5,1.88,O 165.5,1.91,U 165.5,1.83
+25/03,10:00,West Adelaide Bearcats (W),Woodville Warriors (W),-26.5,1.90,+26.5,1.85,O 145.5,1.88,U 145.5,1.87,No_bet,No_bet
+25/03,10:00,South Adelaide Panthers (W),Eastern Mavericks (W),1.04,9.50,-19.5,1.83,+19.5,1.91,O 146.5,1.83,U 146.5,1.91
+25/03,10:00,Southern Tigers (W),Forestville Eagles (W),2.32,1.57,+3.5,1.91,-3.5,1.83,O 143.5,1.85,U 143.5,1.88
+25/03,10:00,Central Districts Lions (W),North Adelaide Rockets (W),2.07,1.70,+2.5,1.87,-2.5,1.87,O 142.5,1.87,U 142.5,1.87
+25/03,10:00,Bambitious Nara,Fukuoka Rizing,2.32,1.57,+3.5,1.88,-3.5,1.85,O 157.5,1.88,U 157.5,1.85
+25/03,10:00,KT Sonicboom,Changwon LG Sakers,2.60,1.47,+5.5,1.88,-5.5,1.85,O 155.5,1.90,U 155.5,1.85
+25/03,10:00,Seoul Thunders,Goyang Orions,1.70,2.12,-2.5,1.90,+2.5,1.83,O 156.5,1.90,U 156.5,1.85
+25/03,10:15,Newcastle Falcons,Canberra Gunners,1.52,2.42,-4.5,1.90,+4.5,1.85,O 150.5,1.85,U 150.5,1.88
+25/03,10:30,Sydney City Comets,Hornsby Spiders,1.02,11.25,-24.5,1.87,+24.5,1.88,O 161.5,1.87,U 161.5,1.87
+25/03,10:30,Darwin Salties (W),Southern Districts Spartans (W),1.70,2.12,-2.5,1.91,+2.5,1.83,O 150.5,1.88,U 150.5,1.85
+25/03,10:35,Niigata Albirex,Chiba Jets,10.50,1.02,+17.5,1.87,-17.5,1.87,O 166.5,1.87,U 166.5,1.87
+25/03,11:00,Brisbane Capitals,Northside Wizards,2.55,1.47,+4.5,1.88,-4.5,1.87,O 178.5,1.90,U 178.5,1.83
+25/03,11:00,North Gold Coast Seahawks,Gold Coast Rollers,4.15,1.21,+9.5,1.91,-9.5,1.83,O 184.5,1.85,U 184.5,1.88
+25/03,11:00,Aomori Watts,Altiri Chiba,3.80,1.24,+8.5,1.87,-8.5,1.87,O 163.5,1.91,U 163.5,1.83
+25/03,11:00,Fukushima Firebonds,Earthfriends Tokyo Z,1.07,7.60,-13.5,1.88,+13.5,1.85,O 156.5,1.90,U 156.5,1.85
+25/03,11:00,Taiwan Beer,Bank of Taiwan,2.50,1.50,+5.5,1.83,-5.5,1.91,O 156.5,1.85,U 156.5,1.88
+25/03,11:05,Ryukyu Golden Kings Okinawa,Sendai 89ers,1.12,5.70,-12.5,1.87,+12.5,1.87,O 147.5,1.83,U 147.5,1.91
+25/03,11:05,Kawasaki Brave Thunders,Ibaraki Robots,1.13,5.40,-11.5,1.87,+11.5,1.87,O 165.5,1.87,U 165.5,1.87
+25/03,11:30,USC Rip City,Sunshine Coast Phoenix,1.45,2.62,-5.5,1.87,+5.5,1.87,O 174.5,1.87,U 174.5,1.87
+25/03,11:30,Tryhoop Okayama,Kagoshima Rebnise,2.70,1.42,+5.5,1.88,-5.5,1.85,O 158.5,1.87,U 158.5,1.87
+25/03,11:45,West Adelaide Bearcats,Woodville Warriors,1.29,3.40,-7.5,1.83,+7.5,1.90,O 169.5,1.88,U 169.5,1.85
+25/03,11:45,South Adelaide Panthers,Eastern Mavericks,1.05,8.50,-16.5,1.83,+16.5,1.91,O 169.5,1.83,U 169.5,1.90
+25/03,11:45,Southern Tigers,Forestville Eagles,6.30,1.10,+13.5,1.87,-13.5,1.87,O 170.5,1.88,U 170.5,1.85
+25/03,11:45,Central Districts Lions,North Adelaide Rockets,2.50,1.50,+4.5,1.87,-4.5,1.87,O 165.5,1.87,U 165.5,1.88
+25/03,12:00,Nagasaki,Kagawa Five Arrows,1.02,10.75,-17.5,1.95,+17.5,1.80,O 171.5,1.85,U 171.5,1.90
+25/03,12:00,Wonju Dongbu Promy,Daegu Pegasus,1.29,3.50,-7.5,1.87,+7.5,1.87,O 159.5,1.83,U 159.5,1.91
+25/03,12:00,Jeanne D'Arc (W),CEMT (W),-35.5,1.87,+35.5,1.87,O 125.5,1.87,U 125.5,1.87,No_bet,No_bet
+25/03,12:00,Manisa,Merkezefendi,1.55,2.40,-3.5,1.82,+3.5,1.91,O 163.5,1.85,U 163.5,1.90
+25/03,12:00,Quezon Huskers,Rizal Golden Coolers,1.27,3.55,-8.5,1.87,+8.5,1.87,O 155.5,1.87,U 155.5,1.87
+25/03,12:30,Darwin Salties,Southern Districts Spartans,1.11,6.00,-13.5,1.87,+13.5,1.87,O 183.5,1.87,U 183.5,1.87
+25/03,13:00,Changhua BLL,Yulon Dinos,2.85,1.39,+5.5,1.87,-5.5,1.87,O 156.5,1.85,U 156.5,1.88
+25/03,13:00,Kaohsiung Steelers,Fubon Braves,3.50,1.27,+8.5,1.87,-8.5,1.87,O 191.5,1.87,U 191.5,1.87
+25/03,13:00,New Taipei CTBC DEA,Taiwan Beer HeroBears,1.34,3.05,-7.5,1.90,+7.5,1.85,O 200.5,1.87,U 200.5,1.87
+25/03,13:30,Turgutlu Belediyespor (W),Edremit BLD (W),3.55,1.27,+8.5,1.87,-8.5,1.87,O 145.5,1.87,U 145.5,1.87
+25/03,14:00,Bataan Risers,Nueva Ecija Rice Vanguards,2.75,1.42,+5.5,1.87,-5.5,1.87,O 162.5,1.87,U 162.5,1.87
+25/03,14:30,CB Getafe,La Solana,1.50,2.47,-4.5,1.85,+4.5,1.90,O 157.5,1.85,U 157.5,1.88
+25/03,14:30,Konyaspor,Efes,4.75,1.18,+10.5,1.82,-10.5,1.91,O 162.5,1.88,U 162.5,1.85
+25/03,15:00,KK Slodes,KK Hercegovac,4.25,1.20,+10.5,1.85,-10.5,1.85,O 179.5,1.85,U 179.5,1.85
+25/03,15:30,Amager (W),Herlev (W),1.78,1.98,-1.5,1.87,+1.5,1.87,O 134.5,1.88,U 134.5,1.85
+25/03,16:00,AS Apollon Patras,Promitheas,3.05,1.40,+6.5,1.85,-6.5,1.98,O 152.5,1.91,U 152.5,1.90
+25/03,16:00,Nevezis,Prienai,1.31,3.35,-7.5,1.85,+7.5,1.88,O 170.5,1.87,U 170.5,1.87
+25/03,16:00,Delikatesas,Atletas Kaunas,1.78,1.98,-1.5,1.87,+1.5,1.87,O 160.5,1.88,U 160.5,1.85
+25/03,16:00,Ilirija (W),Triglav (W),2.07,1.70,+2.5,1.87,-2.5,1.87,O 135.5,1.87,U 135.5,1.87
+25/03,16:00,Helsingborg,Sloga Uppsala,1.17,4.60,-10.5,1.91,+10.5,1.82,O 163.5,1.87,U 163.5,1.87
+25/03,16:00,Nymburk,Decin,1.14,5.50,-11.5,1.85,+11.5,1.88,O 165.5,1.83,U 165.5,1.91
+25/03,16:30,FC Gaia,Famalicense,7.80,1.06,+16.5,1.87,-16.5,1.87,O 136.5,1.87,U 136.5,1.87
+25/03,16:30,CS Rapid Bucuresti,CSM CSU Oradea,3.80,1.24,+8.5,1.88,-8.5,1.87,O 159.5,1.90,U 159.5,1.85
+25/03,16:30,KK Borac Zemun,KK Joker Sombor,3.55,1.27,+8.5,1.85,-8.5,1.85,O 182.5,1.85,U 182.5,1.85
+25/03,16:30,Hogsbo,IK Eos,1.12,5.70,-15.5,1.90,+15.5,1.85,O 180.5,1.85,U 180.5,1.90
+25/03,16:30,KP Brno (W),Sokol Hradec Kralove (W),2.02,1.75,+1.5,1.90,-1.5,1.83,O 149.5,1.87,U 149.5,1.87
+25/03,16:45,SC Beirut,Dynamo Lebanon,1.80,1.93,-1.5,1.95,+1.5,1.78,O 164.5,1.85,U 164.5,1.90
+25/03,16:45,Maia Basket (W),Fayal Sport Club (W),1.26,3.65,-8.5,1.87,+8.5,1.87,O 126.5,1.87,U 126.5,1.87
+25/03,17:00,Aris,Ionikos Nikaias,1.005,14.00,-20.5,1.80,+20.5,1.95,O 157.5,1.83,U 157.5,1.91
+25/03,17:00,Agrinio,Eleftheroupoli,3.75,1.25,+8.5,1.87,-8.5,1.87,O 156.5,1.87,U 156.5,1.87
+25/03,17:00,AO Triton,Aias Evosmou,1.17,4.65,-10.5,1.87,+10.5,1.87,O 142.5,1.87,U 142.5,1.87
+25/03,17:00,Koroivos Amaliadas,Papagou,1.38,2.87,-5.5,1.87,+5.5,1.87,O 160.5,1.87,U 160.5,1.87
+25/03,17:00,Kavala,FEA N.F-N.CH.,2.30,1.57,+3.5,1.87,-3.5,1.87,O 158.5,1.87,U 158.5,1.87
+25/03,17:00,Panerithraikos,NE Megaridas,1.21,4.05,-9.5,1.87,+9.5,1.87,O 151.5,1.87,U 151.5,1.87
+25/03,17:00,AO Amyntas,Marousi,2.00,1.75,+1.5,1.90,-1.5,1.83,O 150.5,1.88,U 150.5,1.85
+25/03,17:00,Buducnost (W),Montana (W),1.02,10.75,-22.5,1.85,+22.5,1.90,O 141.5,1.85,U 141.5,1.90
+25/03,17:00,SC Prometey,KK Viimsi,1.01,12.50,-27.5,1.88,+27.5,1.87,O 171.5,1.87,U 171.5,1.87
+25/03,17:00,San Salvatore (W),Pallacanestro Vado Savona (W),1.47,2.57,-4.5,1.85,+4.5,1.90,O 122.5,1.85,U 122.5,1.88
+25/03,17:00,Rytas Vilnius,Lietkabelis,1.50,2.57,-3.5,1.82,+3.5,1.91,O 165.5,1.90,U 165.5,1.83
+25/03,17:00,UD Oliveirense,FC Porto,2.95,1.37,+6.5,1.83,-6.5,1.90,O 151.5,1.85,U 151.5,1.88
+25/03,17:00,AD Galomar,ABC Santo Andre,1.26,3.65,-8.5,1.87,+8.5,1.87,O 161.5,1.85,U 161.5,1.90
+25/03,17:00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+CBC/Coracao do Ribatejo,1.22,4.05,-10.5,1.87,+10.5,1.87,O 145.5,1.87,U 145.5,1.87,No_bet,No_bet,No_bet
+25/03,17:00,Porto U23,Juvemaia ACDC,1.65,2.15,-2.5,1.87,+2.5,1.87,O 150.5,1.87,U 150.5,1.87
+25/03,17:00,Ockelbo,Wetterbygden Stars,1.12,5.70,-11.5,1.87,+11.5,1.87,O 166.5,1.87,U 166.5,1.87
+25/03,17:00,Besiktas,Gaziantep,1.35,3.15,-6.5,1.88,+6.5,1.85,O 157.5,1.88,U 157.5,1.87
+25/03,17:00,Kauhajoen Karhu,Pyrintö Tampere,1.04,9.25,-16.5,1.82,+16.5,1.93,O 166.5,1.85,U 166.5,1.90
+25/03,17:00,Salon Vilpas Vikings,Kouvot Kouvola,1.50,2.47,-4.5,1.85,+4.5,1.90,O 185.5,1.85,U 185.5,1.88
+25/03,17:15,Cardiff Met Archers (W),Caledonia Pride (W),7.40,1.07,+15.5,1.87,-15.5,1.87,O 140.5,1.87,U 140.5,1.87
+25/03,17:15,Quart,CE Bisbal,7.40,1.07,+14.5,1.87,-14.5,1.87,O 145.5,1.85,U 145.5,1.90
+25/03,17:30,Maryland Terrapins (W),Notre Dame Fighting Irish (W),1.45,2.62,-5.5,1.93,+5.5,1.82,O 137.5,1.87,U 137.5,1.87
+25/03,18:00,Iraklis,Mesologgi BC,1.14,5.10,-11.5,1.87,+11.5,1.87,O 155.5,1.83,U 155.5,1.91
+25/03,18:00,Mistelbach Mustangs,Wörthersee Piraten,1.35,3.05,-6.5,1.85,+6.5,1.88,O 161.5,1.88,U 161.5,1.85
+25/03,18:00,Essex Rebels (W),Nottingham Wildcats (W),1.10,6.20,-13.5,1.87,+13.5,1.87,O 142.5,1.87,U 142.5,1.87
+25/03,18:00,Sheffield Hatters (W),Sevenoaks Suns (W),1.47,2.57,-4.5,1.83,+4.5,1.90,O 145.5,1.87,U 145.5,1.87
+25/03,18:00,CD Mutilbasket (W),GEiEG (W),1.42,2.72,-5.5,1.88,+5.5,1.85,O 125.5,1.85,U 125.5,1.88
+25/03,18:00,Ovarense,Sporting CP,5.50,1.13,+11.5,1.93,-11.5,1.82,O 163.5,1.85,U 163.5,1.88
+25/03,18:00,Eskilstuna,Huddinge,1.12,5.70,-12.5,1.90,+12.5,1.85,O 167.5,1.83,U 167.5,1.90
+25/03,18:00,Levhartice Chomutov (W),Slavia Praha (W),1.47,2.55,-4.5,1.87,+4.5,1.87,O 138.5,1.87,U 138.5,1.87
+25/03,18:30,SKN St. Polten,BC Vienna,3.95,1.24,+8.5,1.88,-8.5,1.85,O 160.5,1.85,U 160.5,1.88
+25/03,18:30,La Salle (W),Baloncesto Alcobendas (W),3.05,1.34,+6.5,1.90,-6.5,1.83,O 144.5,1.87,U 144.5,1.87
+25/03,18:30,Slask Wroclaw,Astoria Bydgoszcz,1.09,7.10,-12.5,1.83,+12.5,1.90,O 171.5,1.90,U 171.5,1.85
+25/03,18:30,SAM Basket Massagno,Lions de Geneve,1.07,7.40,-15.5,1.87,+15.5,1.87,O 160.5,1.88,U 160.5,1.85
+25/03,18:30,Swiss Central Basketball,BBC Nyon,4.90,1.15,+11.5,1.80,-11.5,1.93,O 151.5,1.87,U 151.5,1.87
+25/03,18:30,Zurich Wildcats,Bernex Basket,1.50,2.47,-4.5,1.87,+4.5,1.87,O 147.5,1.87,U 147.5,1.87
+25/03,18:30,Pully Lausanne Foxes,Goldcoast Wallabies,1.01,12.00,-25.5,1.87,+25.5,1.87,O 148.5,1.87,U 148.5,1.87
+25/03,18:30,Club 5Basket,Academico FC,1.30,3.35,-8.5,1.87,+8.5,1.87,O 160.5,1.87,U 160.5,1.87
+25/03,18:30,CSM Targu Jiu,CSA Steaua Bucuresti,1.98,1.78,+1.5,1.85,-1.5,1.88,O 161.5,1.87,U 161.5,1.88
+25/03,18:30,CSM Galati,Miercurea Ciuc,1.06,8.00,-14.5,1.87,+14.5,1.87,O 163.5,1.83,U 163.5,1.91
+25/03,18:30,CSO Voluntari,BC CSU Sibiu,1.45,2.65,-5.5,1.82,+5.5,1.93,O 158.5,1.88,U 158.5,1.87
+25/03,18:30,Jezica (W),ZKD Maribor (W),1.10,6.20,-13.5,1.87,+13.5,1.87,O 137.5,1.87,U 137.5,1.87
+25/03,18:30,Elazig Basketbol Kulubu (W),Fenerbahce Gelisim (W),2.47,1.50,+4.5,1.87,-4.5,1.87,O 144.5,1.87,U 144.5,1.87
+25/03,18:30,USK Prague,SK Slavia Prague,1.14,5.50,-11.5,1.88,+11.5,1.85,O 161.5,1.83,U 161.5,1.91
+25/03,18:30,Ostrava,Brno,3.50,1.29,+7.5,1.87,-7.5,1.87,O 171.5,1.91,U 171.5,1.83
+25/03,19:00,Jennersdorf Blackbirds,KOS Celovec,1.42,2.70,-6.5,1.91,+6.5,1.82,O 143.5,1.88,U 143.5,1.85
+25/03,19:00,Ulm,Ludwigsburg,1.65,2.32,-3.5,1.95,+3.5,1.85,O 174.5,1.93,U 174.5,1.88
+25/03,19:00,Mitteldeutscher,Göttingen,1.93,1.93,+1.5,1.80,-1.5,2.02,O 168.5,1.88,U 168.5,1.93
+25/03,19:00,Dresden Titans,Eisbaren Bremerhaven,1.72,2.05,-2.5,1.93,+2.5,1.82,O 163.5,1.88,U 163.5,1.85
+25/03,19:00,Obradoiro,Breogan,1.45,2.82,-4.5,1.83,+4.5,1.98,O 159.5,1.91,U 159.5,1.90
+25/03,19:00,Basquet Girona,Manresa,1.52,2.65,-4.5,1.90,+4.5,1.90,O 166.5,1.91,U 166.5,1.90
+25/03,19:00,Valencia (W),Gran Canaria (W),1.04,9.25,-18.5,1.82,+18.5,1.93,O 142.5,1.85,U 142.5,1.88
+25/03,19:00,Pallacanestro Sanga Milano (W),Alpo Basket (W),1.04,9.25,-16.5,1.85,+16.5,1.88,O 132.5,1.85,U 132.5,1.90
+25/03,19:00,KK Dinamo Zagreb,KK Zabok,1.50,2.45,-4.5,1.87,+4.5,1.87,O 163.5,1.87,U 163.5,1.87
+25/03,19:00,KK Gorica,Alkar,1.26,3.65,-8.5,1.93,+8.5,1.82,O 164.5,1.85,U 164.5,1.90
+25/03,19:00,NKE-Csata (W),Aluinvent DVTK Miskolc (W),8.25,1.05,+16.5,1.91,-16.5,1.82,O 138.5,1.87,U 138.5,1.87
+25/03,19:00,MTK Budapest (W),PINKK Pecsi 424 (W),-35.5,1.82,+35.5,1.93,O 148.5,1.91,U 148.5,1.83,No_bet,No_bet
+25/03,19:00,Atomeromu KSC Szekszard (W),Uni Gyor (W),2.15,1.65,+2.5,1.91,-2.5,1.83,O 148.5,1.91,U 148.5,1.83
+25/03,19:00,PEAC-Pecs (W),Sopron Basket (W),7.00,1.08,+14.5,1.90,-14.5,1.83,O 131.5,1.91,U 131.5,1.83
+25/03,19:00,Atomeromu KSC Szekszard (W),Uni Gyor (W),2.30,1.57,+3.5,1.90,-3.5,1.83,O 146.5,1.85,U 146.5,1.88
+25/03,19:00,Vasas Akademia (W),BKG-PRIMA Szigetszentmiklos (W),1.10,6.20,-14.5,1.85,+14.5,1.90,O 138.5,1.85,U 138.5,1.90
+25/03,19:00,Polpharma,KS AZS AWF Krakow,1.22,4.00,-9.5,1.93,+9.5,1.82,O 161.5,1.87,U 161.5,1.87
+25/03,19:00,Scalipus Tasca Xico da Cana,Paco De Arcos Clinia,1.82,1.91,-1.5,1.95,+1.5,1.80,O 133.5,1.87,U 133.5,1.87
+25/03,19:00,Coimbroes (W),ACD Ferragudo (W),3.65,1.26,+8.5,1.87,-8.5,1.87,O 133.5,1.87,U 133.5,1.87
+25/03,19:00,Ville De Dakar,US Rail,1.04,9.50,-19.5,1.87,+19.5,1.87,O 134.5,1.87,U 134.5,1.87
+25/03,19:00,KK Pirot,Spd Radnicki Kragujevac,2.62,1.45,+5.5,1.85,-5.5,1.85,O 180.5,1.85,U 180.5,1.85
+25/03,19:00,MBK Lucenec,Spisska Nova Ves,1.60,2.25,-3.5,1.85,+3.5,1.90,O 170.5,1.87,U 170.5,1.87
+25/03,19:00,BK Inter Bratislava,BK Iskra Svit,2.15,1.65,+3.5,1.82,-3.5,1.91,O 162.5,1.87,U 162.5,1.87
+25/03,19:00,HBK Prievidza,BK Levicki Patrioti,3.65,1.26,+8.5,1.87,-8.5,1.87,O 155.5,1.85,U 155.5,1.90
+25/03,19:00,MBK Handlova,MBK Komarno,10.25,1.03,+18.5,1.88,-18.5,1.85,O 171.5,1.85,U 171.5,1.90
+25/03,19:15,AEK Athens,Panathinaikos,5.00,1.19,+9.5,1.91,-9.5,1.90,O 155.5,1.91,U 155.5,1.90
+25/03,19:15,CB Prat,Cornella,1.16,4.75,-11.5,1.83,+11.5,1.91,O 154.5,1.87,U 154.5,1.87
+25/03,19:15,Bembibre (W),Leganes (W),1.22,3.95,-9.5,1.90,+9.5,1.83,O 136.5,1.85,U 136.5,1.88
+25/03,19:30,Dornbirn Lions,Vienna United,2.47,1.50,+4.5,1.90,-4.5,1.85,O 167.5,1.85,U 167.5,1.88
+25/03,19:30,BBU Salzburg,Mattersburg Rocks,1.98,1.78,+1.5,1.87,-1.5,1.87,O 149.5,1.88,U 149.5,1.85
+25/03,19:30,Gernika Bizkaia (W),Sedis (W),1.65,2.15,-2.5,1.88,+2.5,1.85,O 126.5,1.83,U 126.5,1.90
+25/03,19:30,Lacturale Araski (W),CDB Clarinos (W),1.08,7.10,-14.5,1.82,+14.5,1.91,O 133.5,1.87,U 133.5,1.87
+25/03,19:30,MBA Rocwork,Fisica Torres Vedras,2.30,1.57,+3.5,1.87,-3.5,1.87,O 140.5,1.87,U 140.5,1.87
+25/03,19:30,Galatasaray,Bursaspor,1.65,2.22,-2.5,1.82,+2.5,1.91,O 164.5,1.90,U 164.5,1.85
+25/03,19:45,Hapoel Tel Aviv,Bnei Herzliya,1.24,3.95,-8.5,1.87,+8.5,1.87,O 170.5,1.87,U 170.5,1.87
+25/03,19:45,FC Arges Pitesti,CSM Constanta,1.33,3.15,-7.5,1.93,+7.5,1.82,O 157.5,1.87,U 157.5,1.87
+25/03,20:00,South Carolina Gamecocks (W),UCLA Bruins (W),1.02,10.75,-17.5,1.87,+17.5,1.87,O 127.5,1.87,U 127.5,1.87
+25/03,20:00,Borac Cacak,MZT Skopje,1.65,2.22,-3.5,1.91,+3.5,1.83,O 170.5,1.88,U 170.5,1.85
+25/03,20:00,Phoenix Hagen,Gladiators Trier,1.47,2.57,-5.5,1.88,+5.5,1.85,O 175.5,1.85,U 175.5,1.88
+25/03,20:00,Panthers Schwenningen,Rasta Vechta,9.75,1.03,+20.5,1.91,-20.5,1.83,O 156.5,1.83,U 156.5,1.91
+25/03,20:00,Giessen 46ers,Nürnberg Falcons,1.38,2.92,-6.5,1.91,+6.5,1.82,O 164.5,1.90,U 164.5,1.85
+25/03,20:00,Ourense,Valladolid,2.30,1.57,+4.5,1.83,-4.5,1.91,O 147.5,1.87,U 147.5,1.87
+25/03,20:00,CB Tormes,Zamorano,2.95,1.36,+6.5,1.85,-6.5,1.88,O 150.5,1.91,U 150.5,1.83
+25/03,20:00,Alcobendas,Tobarra,1.01,12.00,-25.5,1.85,+25.5,1.90,O 148.5,1.85,U 148.5,1.90
+25/03,20:00,Nuova Pallacanestro Treviso (W),Libertas Udine (W),3.25,1.31,+7.5,1.83,-7.5,1.91,O 124.5,1.85,U 124.5,1.90
+25/03,20:00,Skrljevo,KK Bosco,1.18,4.45,-10.5,1.87,+10.5,1.87,O 165.5,1.88,U 165.5,1.87
+25/03,20:00,SC Braga,Olivais Futebol Clube,1.14,5.20,-13.5,1.87,+13.5,1.87,O 151.5,1.87,U 151.5,1.87
+25/03,20:00,Guifoes S.C.,Casino Figueira Ginasio,2.00,1.75,+1.5,1.87,-1.5,1.87,O 144.5,1.87,U 144.5,1.87
+25/03,20:00,CLIP (W),GDRAR (W),1.47,2.55,-4.5,1.87,+4.5,1.87,O 132.5,1.87,U 132.5,1.87
+25/03,20:00,Metalac Valjevo,Novi Pazar,1.11,5.80,-12.5,1.88,+12.5,1.85,O 167.5,1.85,U 167.5,1.90
+25/03,20:00,Helios Suns Domzale,Sencur,1.21,4.15,-9.5,1.87,+9.5,1.87,O 154.5,1.85,U 154.5,1.90
+25/03,20:04,Boraas Basket,Sodertalje Kings,1.18,4.45,-11.5,1.82,+11.5,1.91,O 162.5,1.91,U 162.5,1.83
+25/03,20:30,Tigers Tübingen,Bayer Giants Leverkusen,1.12,5.70,-13.5,1.93,+13.5,1.82,O 167.5,1.90,U 167.5,1.85
+25/03,20:30,Karlsruhe Lions,Kirchheim Knights,1.27,3.55,-8.5,1.93,+8.5,1.82,O 161.5,1.83,U 161.5,1.91
+25/03,20:30,Lhospitalet,CB Alginet,1.50,2.47,-4.5,1.85,+4.5,1.90,O 153.5,1.85,U 153.5,1.88
+25/03,20:30,Real Canoe,Zornotza Saskibaloi,2.47,1.50,+4.5,1.90,-4.5,1.85,O 157.5,1.85,U 157.5,1.88
+25/03,20:30,Gandia,Benidorm,1.07,7.40,-14.5,1.87,+14.5,1.87,O 141.5,1.85,U 141.5,1.90
+25/03,20:30,Real Madrid II,Zentro Basket Madrid,1.10,6.20,-13.5,1.87,+13.5,1.87,O 155.5,1.85,U 155.5,1.90
+25/03,20:30,Sangalhos,CD Povoa,4.65,1.17,+11.5,1.82,-11.5,1.91,O 154.5,1.85,U 154.5,1.90
+25/03,20:30,KK Sloga,Zlatibor,2.30,1.57,+4.5,1.83,-4.5,1.91,O 163.5,1.87,U 163.5,1.87
+25/03,20:45,Royal IV Brussel,Basics Melsele,1.78,1.98,-1.5,1.87,+1.5,1.87,O 155.5,1.90,U 155.5,1.85
+25/03,20:45,Juvemaia (W),CB Queluz (W),4.35,1.19,+10.5,1.87,-10.5,1.87,O 124.5,1.87,U 124.5,1.87
+25/03,21:00,Nova Southeastern Sharks,West Liberty State Hilltoppers,1.45,2.87,-5.5,1.90,+5.5,1.90,O 179.5,1.90,U 179.5,1.90
+25/03,21:00,Limburg United II,Belgacom Spirou Charleroi II,1.02,11.25,-18.5,1.85,+18.5,1.88,O 156.5,1.85,U 156.5,1.90
+25/03,21:00,Fos Provence Basket,ASVEL Lyon-Villeurbanne,4.25,1.24,+8.5,1.93,-8.5,1.88,O 158.5,1.93,U 158.5,1.88
+25/03,21:00,Cholet,Paris Basketball,1.32,3.55,-7.5,1.93,+7.5,1.87,O 172.5,1.90,U 172.5,1.91
+25/03,21:00,Nanterre,SLUC Nancy,1.60,2.42,-3.5,1.87,+3.5,1.95,O 164.5,1.87,U 164.5,1.95
+25/03,21:00,Pau-Lacq-Orthez,Blois,1.38,3.15,-7.5,1.95,+7.5,1.85,O 166.5,1.91,U 166.5,1.90
+25/03,21:00,Strasbourg,Gravelines,1.38,3.15,-6.5,1.91,+6.5,1.90,O 161.5,1.87,U 161.5,1.95
+25/03,21:00,Boulazac Dordogne Pro,Saint-Chamond,1.36,3.00,-5.5,1.85,+5.5,1.90,O 172.5,1.85,U 172.5,1.88
+25/03,21:00,Elan Chalon,Chalons-Reims,1.62,2.20,-3.5,1.93,+3.5,1.82,O 149.5,1.91,U 149.5,1.83
+25/03,21:00,Ujap Quimper 29,Saint-Quentin,2.37,1.55,+3.5,1.87,-3.5,1.88,O 156.5,1.87,U 156.5,1.87
+25/03,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+Berck/Rang Du Fliers,AS Kaysersberg,1.29,3.40,-8.5,1.87,+8.5,1.87,O 151.5,1.87,U 151.5,1.87,No_bet,No_bet
+25/03,21:00,Les Sables Vendee,Cergy,1.91,1.83,+1.5,1.80,-1.5,1.95,O 148.5,1.87,U 148.5,1.87
+25/03,21:00,Roche Vendee BC (W),SAS Toulouse Metropole (W),1.29,3.40,-7.5,1.85,+7.5,1.90,O 143.5,1.85,U 143.5,1.88
+25/03,21:00,Hainaut (W),Lyon ASVEL (W),5.10,1.14,+11.5,1.88,-11.5,1.85,O 143.5,1.82,U 143.5,1.91
+25/03,21:00,Angers (W),Tarbes (W),1.60,2.25,-3.5,1.90,+3.5,1.85,O 140.5,1.83,U 140.5,1.90
+25/03,21:00,Antwerp Giants,Aris Leeuwarden,1.03,10.25,-17.5,1.85,+17.5,1.88,O 154.5,1.85,U 154.5,1.90
+25/03,21:00,San Pablo Burgos,Tau Castello,1.12,5.50,-11.5,1.82,+11.5,1.93,O 155.5,1.85,U 155.5,1.90
+25/03,21:00,Scafati,Trieste,1.57,2.50,-4.5,1.95,+4.5,1.85,O 160.5,1.90,U 160.5,1.91
+25/03,21:00,Gornik Walbrzych,PGE Turow Zgorzelec,1.07,7.60,-18.5,1.90,+18.5,1.85,O 159.5,1.87,U 159.5,1.87
+25/03,21:00,Angra,CB Albufeira,3.40,1.29,+8.5,1.87,-8.5,1.87,O 148.5,1.87,U 148.5,1.87
+25/03,21:04,Jamtland Basket,Koping Stars,1.17,4.60,-12.5,1.91,+12.5,1.82,O 152.5,1.87,U 152.5,1.87
+25/03,21:30,LDP Donza,Gembo Borgerhout,1.04,9.25,-16.5,1.85,+16.5,1.88,O 150.5,1.85,U 150.5,1.90
+25/03,21:30,Oxaco Boechout,Bent Schoenen Waregem,1.98,1.78,+1.5,1.87,-1.5,1.87,O 161.5,1.90,U 161.5,1.85
+25/03,21:30,Hamburg Towers,Frankfurt,1.25,4.15,-8.5,1.95,+8.5,1.85,O 168.5,1.90,U 168.5,1.90
+25/03,21:30,Rostock Seawolves,Wurzburg,1.65,2.30,-2.5,1.88,+2.5,1.93,O 168.5,1.88,U 168.5,1.93
+25/03,21:30,Leuven Bears,Feyenoord Basketball,1.21,4.15,-9.5,1.87,+9.5,1.87,O 150.5,1.85,U 150.5,1.90
+25/03,21:30,Kangoeroes Basket Mechelen,Landstede Basketball Zwolle,1.24,3.75,-8.5,1.83,+8.5,1.91,O 160.5,1.83,U 160.5,1.91
+25/03,21:30,Generali Okapi Aalstar,Den Helder Suns,1.03,10.25,-20.5,1.83,+20.5,1.91,O 163.5,1.83,U 163.5,1.91
+25/03,21:30,Basket Carugate (W),Itas Alperia Bolzano (W),1.32,3.20,-7.5,1.87,+7.5,1.87,O 129.5,1.87,U 129.5,1.87
+25/03,21:45,Basket SKT Ieper,Antwerp Giants II,1.42,2.77,-5.5,1.85,+5.5,1.90,O 151.5,1.85,U 151.5,1.88
+25/03,21:45,Belfius BCCA Neufchateau,BBC Croonen Lommel,1.31,3.25,-7.5,1.85,+7.5,1.88,O 164.5,1.85,U 164.5,1.88
+25/03,21:45,Granada,UCAM Murcia,2.05,1.82,+1.5,1.90,-1.5,1.90,O 165.5,1.90,U 165.5,1.90
+25/03,21:45,Barcelona,Joventut Badalona,1.23,4.40,-9.5,1.90,+9.5,1.91,O 157.5,1.91,U 157.5,1.90
+25/03,22:00,Connecticut Huskies (W),Ohio State Buckeyes (W),1.18,4.55,-10.5,1.93,+10.5,1.80,O 144.5,1.82,U 144.5,1.91
+25/03,22:00,KK Studentski Centar,Buducnost,3.55,1.28,+7.5,1.93,-7.5,1.82,O 169.5,1.90,U 169.5,1.83
