@@ -1,0 +1,653 @@
+championship,team1,team2,time,1,odds_1,X,odds_X,2,odds_2,Over,odds_over,Under,odds_under,GG,odds_gg,NG,odds_ng
+Europe - EURO 2024 - Qualifying,Austria,Azerbaijan,21:45,1,1.22,X,6.20,2,14.00,O 2.5,1.70,U 2.5,2.15,GG,2.50,NG,1.52
+Europe - EURO 2024 - Qualifying,Czech Republic,Poland,21:45,1,2.30,X,3.30,2,3.75,O 2.5,2.20,U 2.5,1.69,GG,1.89,NG,1.88
+Europe - EURO 2024 - Qualifying,France,Netherlands,21:45,1,1.68,X,4.35,2,5.60,O 2.5,1.81,U 2.5,2.01,GG,1.84,NG,1.94
+Europe - EURO 2024 - Qualifying,Gibraltar,Greece,21:45,1,41.00,X,10.75,2,1.07,O 3.5,2.10,U 3.5,1.74,GG,3.80,NG,1.26
+Europe - EURO 2024 - Qualifying,Moldova,Faroe Islands,21:45,1,2.45,X,3.05,2,3.15,O 1.5,1.53,U 1.5,2.50,GG,2.15,NG,1.69
+Europe - EURO 2024 - Qualifying,Serbia,Lithuania,21:45,1,1.06,X,12.50,2,35.00,O 3.5,1.75,U 3.5,2.09,GG,2.75,NG,1.43
+Europe - EURO 2024 - Qualifying,Sweden,Belgium,21:45,1,3.60,X,3.35,2,2.10,O 2.5,2.15,U 2.5,1.70,GG,1.93,NG,1.85
+Europe - EURO 2024 - Qualifying,Scotland,Cyprus,Sat 16:00,1,1.24,X,6.00,2,13.25,O 2.5,1.73,U 2.5,2.10,GG,2.50,NG,1.52
+Europe - EURO 2024 - Qualifying,Armenia,Turkey,Sat 19:00,1,7.20,X,4.35,2,1.47,O 2.5,1.99,U 2.5,1.83,GG,2.20,NG,1.65
+Europe - EURO 2024 - Qualifying,Belarus,Switzerland,Sat 19:00,1,17.00,X,6.50,2,1.19,O 2.5,1.70,U 2.5,2.15,GG,2.70,NG,1.45
+Europe - EURO 2024 - Qualifying,Israel,Kosovo,Sat 19:00,1,1.95,X,3.45,2,4.05,O 2.5,2.15,U 2.5,1.72,GG,1.94,NG,1.83
+Europe - EURO U19 - Qualification,Croatia U19,Sweden U19,Sat 15:00,1,1.70,X,3.85,2,4.15,O 2.5,1.73,U 2.5,2.03,GG,1.73,NG,2.03
+Europe - EURO U19 - Qualification,Poland U19,Latvia U19,Sat 15:00,1,1.23,X,5.70,2,10.00,O 2.5,1.72,U 2.5,2.04,GG,2.40,NG,1.53
+Europe - EURO U19 - Qualification,England U19,Iceland U19,Sat 16:00,1,1.15,X,6.60,2,14.25,O 3.5,2.35,U 3.5,1.56,GG,2.45,NG,1.52
+Europe - EURO U19 - Qualification,Romania U19,N. Ireland U19,Sat 16:00,1,1.99,X,3.55,2,3.25,O 2.5,1.84,U 2.5,1.90,GG,1.74,NG,2.02
+Europe - EURO U19 - Qualification,Germany U19,Belgium U19,Sat 17:00,1,1.85,X,3.65,2,3.65,O 2.5,1.76,U 2.5,2.00,GG,1.70,NG,2.08
+Europe - EURO U19 - Qualification,Ukraine U19,Denmark U19,Sat 17:00,1,6.70,X,4.55,2,1.39,O 2.5,1.68,U 2.5,2.10,GG,1.94,NG,1.81
+Europe - EURO U19 - Qualification,Ireland U19,Estonia U19,Sat 18:30,1,1.22,X,5.90,2,9.70,O 3.5,2.03,U 3.5,1.73,GG,1.87,NG,1.87
+Europe - EURO U19 - Qualification,France U19,Norway U19,Sat 19:00,1,1.51,X,4.15,2,5.35,O 2.5,1.70,U 2.5,2.08,GG,1.81,NG,1.93
+Europe - EURO U19 - Qualification,Portugal U19,Czech Republic U19,Sat 19:00,1,1.64,X,3.75,2,4.70,O 2.5,1.76,U 2.5,1.99,GG,1.77,NG,1.98
+Europe - EURO U19 - Qualification,Spain U19,Luxembourg U19,Sat 19:00,1,1.12,X,7.00,2,16.50,O 3.5,1.69,U 3.5,2.09,GG,2.03,NG,1.73
+Greece - Super League 2,AEK Athens II,Apollon Smyrnis,Sat 13:45,1,7.90,X,3.50,2,1.45,O 2.5,2.25,U 2.5,1.57,GG,2.45,NG,1.49
+Spain - Segunda Division,Cartagena,Lugo,22:00,1,1.75,X,3.60,2,5.00,O 2.5,2.20,U 2.5,1.66,GG,2.08,NG,1.70
+Spain - Segunda Division,Ibiza Eivissa UD,Burgos CF,Sat 17:15,1,2.50,X,2.90,2,3.25,O 1.5,1.61,U 1.5,2.30,GG,2.25,NG,1.60
+Spain - Segunda Division,Racing Santander,Levante,Sat 17:15,1,3.15,X,3.05,2,2.50,O 1.5,1.51,U 1.5,2.50,GG,2.08,NG,1.70
+Spain - Segunda Division,Alaves,Tenerife,Sat 19:30,1,1.98,X,3.15,2,4.40,O 1.5,1.66,U 1.5,2.20,GG,2.55,NG,1.48
+Greece - Super League 1 U19,OFI U19,PAS Giannina U19,Sat 15:00,1,2.20,X,3.20,2,2.90,O 2.5,1.76,U 2.5,1.96,GG,1.61,NG,2.20
+Mexico - Liga MX,Mazatlan FC,Leon,Sat 05:05,1,4.05,X,3.60,2,1.90,O 2.5,1.84,U 2.5,1.98,GG,1.73,NG,2.07
+Africa - Africa Cup of Nations - Qualification,Burkina Faso,Togo,in 40',1,1.71,X,3.45,2,5.10,O 2.5,2.35,U 2.5,1.58,GG,2.20,NG,1.62
+Africa - Africa Cup of Nations - Qualification,Egypt,Malawi,in 40',1,1.27,X,4.85,2,12.50,O 2.5,1.99,U 2.5,1.79,GG,2.75,NG,1.41
+Africa - Africa Cup of Nations - Qualification,Equatorial Guinea,Botswana,in 40',1,1.71,X,3.25,2,5.60,O 1.5,1.57,U 1.5,2.35,GG,2.50,NG,1.49
+Africa - Africa Cup of Nations - Qualification,Mali,Gambia,in 40',1,1.69,X,3.35,2,5.50,O 1.5,1.51,U 1.5,2.50,GG,2.40,NG,1.54
+Africa - Africa Cup of Nations - Qualification,Senegal,Mozambique,in 40',1,1.25,X,5.25,2,12.75,O 2.5,1.91,U 2.5,1.87,GG,2.70,NG,1.43
+Africa - Africa Cup of Nations - Qualification,Cameroon,Namibia,22:30,1,1.37,X,4.25,2,9.30,O 2.5,2.40,U 2.5,1.56,GG,2.90,NG,1.38
+Africa - Africa Cup of Nations - Qualification,Guinea,Ethiopia,22:30,1,1.72,X,3.25,2,5.50,O 1.5,1.55,U 1.5,2.40,GG,2.45,NG,1.51
+Africa - Africa Cup of Nations - Qualification,Tunisia,Libya,22:30,1,1.35,X,4.40,2,9.60,O 2.5,2.09,U 2.5,1.72,GG,2.55,NG,1.47
+Japan - J League Cup,Jubilo Iwata,Sapporo,Sat 07:00,1,3.55,X,3.65,2,1.95,O 2.5,1.76,U 2.5,2.04,GG,1.66,NG,2.15
+World - International Friendlies,Kuwait,Philippines,in 40',1,1.34,X,4.90,2,8.40,O 2.5,1.70,U 2.5,2.10,GG,2.05,NG,1.72
+World - International Friendlies,Saudi Arabia,Venezuela,in 40',1,2.40,X,3.10,2,3.00,O 2.5,2.45,U 2.5,1.53,GG,2.07,NG,1.70
+World - International Friendlies,Myanmar,Kyrgyzstan,Sat 14:30,1,6.60,X,4.95,2,1.39,O 2.5,1.71,U 2.5,2.10,GG,1.98,NG,1.77
+World - International Friendlies,Syria,Thailand,Sat 20:00,1,2.45,X,3.20,2,2.85,O 2.5,2.30,U 2.5,1.60,GG,1.97,NG,1.78
+World - International Friendlies,United Arab Emirates,Tajikistan,Sat 20:00,1,1.44,X,4.60,2,6.40,O 2.5,1.70,U 2.5,2.10,GG,1.89,NG,1.85
+World - Youth Friendlies,Spain U21,Switzerland U21,22:00,1,1.41,X,4.60,2,5.70,O 3.5,2.25,U 3.5,1.58,GG,1.69,NG,2.05
+World - Youth Friendlies,North Macedonia U21,Finland U21,Sat 15:00,1,3.00,X,3.30,2,2.10,O 2.5,2.00,U 2.5,1.73,GG,1.82,NG,1.88
+World - Youth Friendlies,Slovakia U21,Bulgaria U21,Sat 17:30,1,2.45,X,3.10,2,2.60,O 2.5,1.97,U 2.5,1.75,GG,1.75,NG,1.97
+World - Youth Friendlies,England U21,France U21,Sat 19:00,1,2.15,X,3.20,2,3.00,O 2.5,1.83,U 2.5,1.88,GG,1.66,NG,2.09
+World - Youth Friendlies,Netherlands U21,Norway U21,Sat 19:00,1,1.39,X,4.50,2,6.00,O 2.5,1.56,U 2.5,2.30,GG,1.77,NG,1.94
+World - Club Friendlies,NK Maribor,Lokomotiva Zagreb,Sat 13:00,1,2.15,X,3.70,2,2.80,O 2.5,1.74,U 2.5,2.02,GG,1.66,NG,2.15
+World - Club Friendlies,Piast Gliwice,Podbeskidzie Bielsko Bial,Sat 13:00,1,1.50,X,4.10,2,5.00,O 2.5,1.65,U 2.5,2.10,GG,1.76,NG,1.95
+World - Club Friendlies,JJK,FC Vaajakoski,Sat 13:30,1,1.27,X,5.15,2,7.90,O 3.5,2.10,U 3.5,1.65,GG,1.79,NG,1.92
+World - Club Friendlies,Egersund,Brodd,Sat 14:00,1,1.31,X,5.25,2,6.30,O 3.5,1.79,U 3.5,1.91,GG,1.54,NG,2.35
+World - Club Friendlies,Gjovik/Lyn,Fram Larvik,Sat 14:00,1,1.73,X,4.25,2,3.35,O 3.5,1.79,U 3.5,1.92,GG,1.36,NG,2.90
+World - Club Friendlies,Sibenik,HSK Zrinjski Mostar,Sat 14:00,1,2.70,X,3.75,2,2.10,O 3.5,2.20,U 3.5,1.60,GG,1.46,NG,2.55
+World - Club Friendlies,CSM Politehnica Iasi,FC Botosani,Sat 14:30,1,2.75,X,3.50,2,2.15,O 2.5,1.77,U 2.5,1.94,GG,1.67,NG,2.08
+World - Club Friendlies,Aalesund,Molde FK,Sat 15:00,1,5.10,X,4.55,2,1.48,O 3.5,2.09,U 3.5,1.69,GG,1.57,NG,2.30
+World - Club Friendlies,Sandnes,Start,Sat 18:00,1,2.25,X,3.65,2,2.55,O 3.5,2.15,U 3.5,1.62,GG,1.44,NG,2.60
+Australia - NPL Northern NSW,Adamstown,New Lambton,Sat 05:30,1,2.85,X,3.75,2,2.07,O 3.5,2.20,U 3.5,1.60,GG,1.46,NG,2.55
+Australia - NPL Northern NSW,Albirex Niigata (W),Chifure AS Elfen Saitama (W),Sat 06:00,1,2.15,X,3.00,2,3.25,O 2.5,2.25,U 2.5,1.58,GG,1.94,NG,1.77
+Australia - NPL Northern NSW,Calder United (W),Alamein United (W),Sat 06:00,1,1.64,X,4.10,2,4.05,O 3.5,2.06,U 3.5,1.68,GG,1.48,NG,2.50
+Australia - NPL Northern NSW,Heidelberg United (W),Bulleen Lions (W),Sat 06:30,1,1.61,X,4.10,2,4.25,O 3.5,2.09,U 3.5,1.66,GG,1.50,NG,2.40
+Australia - NPL Northern NSW,AC Nagano Parceiro (W),JEF United Ichihara Chiba (W),Sat 07:00,1,3.45,X,3.00,2,2.04,O 2.5,2.35,U 2.5,1.52,GG,2.07,NG,1.68
+Australia - NPL Northern NSW,Weston Workers,Newcastle Olympic FC,Sat 08:00,1,2.10,X,3.70,2,2.80,O 2.5,1.56,U 2.5,2.30,GG,1.51,NG,2.40
+Australia - NPL Northern NSW,Boroondara Eagles FC (W),Bayside United (W),Sat 09:00,1,2.10,X,3.45,2,2.95,O 3.5,1.99,U 3.5,1.73,GG,1.36,NG,2.90
+Australia - NPL Northern NSW,Maitland FC,Valentine FC,Sat 09:00,1,1.24,X,5.80,2,8.40,O 3.5,1.95,U 3.5,1.77,GG,1.75,NG,1.96
+Australia - NPL Northern NSW,SV Fugen,SC Imst 1933,Sat 17:00,1,3.10,X,3.90,2,1.89,O 3.5,1.87,U 3.5,1.83,GG,1.36,NG,2.90
+England - National League,Aldershot,Gateshead FC,Sat 17:00,1,2.70,X,3.45,2,2.40,O 2.5,1.84,U 2.5,1.94,GG,1.68,NG,2.10
+England - National League,Altrincham,Southend,Sat 17:00,1,2.70,X,3.35,2,2.45,O 2.5,1.90,U 2.5,1.87,GG,1.71,NG,2.06
+England - National League,Boreham Wood FC,Eastleigh,Sat 17:00,1,1.98,X,3.45,2,3.65,O 2.5,2.03,U 2.5,1.76,GG,1.86,NG,1.88
+England - National League,Chesterfield,Halifax,Sat 17:00,1,1.56,X,4.05,2,5.50,O 2.5,1.88,U 2.5,1.90,GG,1.95,NG,1.80
+England - National League,Dorking Wanderers,Maidenhead,Sat 17:00,1,2.80,X,3.55,2,2.30,O 2.5,1.72,U 2.5,2.09,GG,1.60,NG,2.25
+England - National League,Maidstone United,Woking,Sat 17:00,1,5.00,X,3.90,2,1.63,O 2.5,1.86,U 2.5,1.91,GG,1.87,NG,1.87
+England - National League,Notts County,Scunthorpe,Sat 17:00,1,1.25,X,5.90,2,9.90,O 3.5,2.15,U 3.5,1.68,GG,1.90,NG,1.84
+England - National League,Oldham,Solihull,Sat 17:00,1,2.40,X,3.45,2,2.75,O 2.5,1.82,U 2.5,1.95,GG,1.67,NG,2.15
+England - National League,Torquay,Dagenham & Redbridge,Sat 17:00,1,2.45,X,3.40,2,2.70,O 2.5,1.85,U 2.5,1.93,GG,1.67,NG,2.10
+England - National League,Wealdstone,Barnet,Sat 17:00,1,3.05,X,3.55,2,2.15,O 2.5,1.73,U 2.5,2.08,GG,1.61,NG,2.25
+England - National League,Wrexham FC,York City,Sat 17:00,1,1.29,X,5.30,2,9.50,O 2.5,1.63,U 2.5,2.25,GG,2.07,NG,1.70
+England - National League,Yeovil,Bromley,Sat 17:00,1,2.95,X,3.25,2,2.35,O 2.5,2.20,U 2.5,1.65,GG,1.91,NG,1.83
+England - Isthmian Premier Division,Aveley FC,Brightlingsea Regent,Sat 17:00,1,1.21,X,5.70,2,10.25,O 3.5,2.10,U 3.5,1.65,GG,1.95,NG,1.76
+England - Isthmian Premier Division,Billericay Town,Carshalton,Sat 17:00,1,2.08,X,3.50,2,3.00,O 2.5,1.77,U 2.5,1.94,GG,1.67,NG,2.07
+England - Isthmian Premier Division,Bishops Stortford,Bognor Regis Town,Sat 17:00,1,1.55,X,4.05,2,4.90,O 2.5,1.65,U 2.5,2.10,GG,1.73,NG,1.99
+England - Isthmian Premier Division,Bowers & Pitsea,Folkestone Invicta,Sat 17:00,1,4.30,X,3.90,2,1.63,O 2.5,1.56,U 2.5,2.25,GG,1.60,NG,2.20
+England - Isthmian Premier Division,Canvey Island,Hastings Utd,Sat 17:00,1,1.94,X,3.50,2,3.30,O 2.5,1.88,U 2.5,1.82,GG,1.78,NG,1.93
+England - Isthmian Premier Division,Corinthian-Casuals,Wingate & Finchley FC,Sat 17:00,1,3.25,X,3.60,2,1.94,O 2.5,1.68,U 2.5,2.06,GG,1.62,NG,2.15
+England - Isthmian Premier Division,Cray Wanderers,Horsham,Sat 17:00,1,2.08,X,3.60,2,2.95,O 2.5,1.67,U 2.5,2.08,GG,1.60,NG,2.20
+England - Isthmian Premier Division,Herne Bay FC,Enfield Town,Sat 17:00,1,3.95,X,3.80,2,1.71,O 2.5,1.58,U 2.5,2.25,GG,1.59,NG,2.25
+England - Isthmian Premier Division,Hornchurch,Margate,Sat 17:00,1,1.34,X,4.70,2,7.00,O 2.5,1.54,U 2.5,2.30,GG,1.81,NG,1.90
+England - Isthmian Premier Division,Kingstonian,Haringey Borough,Sat 17:00,1,2.20,X,3.60,2,2.75,O 2.5,1.58,U 2.5,2.25,GG,1.52,NG,2.40
+England - Isthmian Premier Division,Lewes,Potters Bar Town FC,Sat 17:00,1,1.40,X,4.45,2,6.10,O 2.5,1.56,U 2.5,2.30,GG,1.76,NG,1.96
+England - League 1,Charlton,Wycombe,Sat 17:00,1,2.50,X,3.40,2,2.80,O 2.5,1.94,U 2.5,1.83,GG,1.73,NG,2.03
+England - League 1,Exeter,Accrington,Sat 17:00,1,1.76,X,3.80,2,4.60,O 2.5,1.91,U 2.5,1.87,GG,1.85,NG,1.89
+England - League 1,Fleetwood Town,Lincoln,Sat 17:00,1,2.35,X,3.20,2,3.20,O 2.5,2.30,U 2.5,1.61,GG,1.95,NG,1.80
+England - League 1,Milton Keynes Dons,Morecambe,Sat 17:00,1,1.81,X,3.60,2,4.55,O 2.5,2.04,U 2.5,1.76,GG,1.93,NG,1.82
+England - League 1,Peterborough,Derby,Sat 17:00,1,2.55,X,3.50,2,2.65,O 2.5,1.85,U 2.5,1.93,GG,1.68,NG,2.10
+England - League 1,Portsmouth,Port Vale,Sat 17:00,1,2.06,X,3.45,2,3.65,O 2.5,2.10,U 2.5,1.70,GG,1.91,NG,1.83
+England - National League North,AFC Fylde,Gloucester City,Sat 17:00,1,1.48,X,4.35,2,6.00,O 2.5,1.76,U 2.5,2.04,GG,1.90,NG,1.83
+England - National League North,Banbury,Telford,Sat 17:00,1,1.91,X,3.70,2,3.60,O 2.5,1.82,U 2.5,1.96,GG,1.73,NG,2.03
+England - National League North,Blyth Spartans,Chester,Sat 17:00,1,3.55,X,3.60,2,1.96,O 2.5,1.94,U 2.5,1.84,GG,1.81,NG,1.93
+England - National League North,Bradford PA,Buxton FC,Sat 17:00,1,3.65,X,3.65,2,1.93,O 2.5,1.94,U 2.5,1.84,GG,1.82,NG,1.92
+England - National League North,Curzon Ashton FC,Chorley Football Club,Sat 17:00,1,2.90,X,3.45,2,2.30,O 2.5,2.10,U 2.5,1.72,GG,1.88,NG,1.86
+England - National League North,Farsley Celtic FC,Peterborough Sports FC,Sat 17:00,1,2.30,X,3.55,2,2.80,O 2.5,1.88,U 2.5,1.89,GG,1.72,NG,2.04
+England - National League North,Hereford,Kings Lynn Town,Sat 17:00,1,3.40,X,3.55,2,2.02,O 2.5,2.03,U 2.5,1.76,GG,1.87,NG,1.87
+England - National League North,Kettering,Darlington,Sat 17:00,1,2.80,X,3.30,2,2.45,O 2.5,2.04,U 2.5,1.76,GG,1.80,NG,1.95
+England - National League North,Kidderminster,Alfreton Town FC,Sat 17:00,1,1.91,X,3.60,2,3.70,O 2.5,2.08,U 2.5,1.73,GG,1.93,NG,1.81
+England - National League North,Leamington,Boston United,Sat 17:00,1,2.40,X,3.40,2,2.75,O 2.5,2.04,U 2.5,1.76,GG,1.82,NG,1.92
+England - National League North,Scarborough Athletic,Southport,Sat 17:00,1,2.02,X,3.60,2,3.40,O 2.5,1.87,U 2.5,1.90,GG,1.74,NG,2.01
+England - National League North,Spennymoor Town,Brackley Town,Sat 17:00,1,2.85,X,3.45,2,2.35,O 2.5,1.99,U 2.5,1.79,GG,1.79,NG,1.95
+England - Northern Premier League,Atherton Collieries,Gainsborough,Sat 17:00,1,3.40,X,3.30,2,1.98,O 2.5,1.94,U 2.5,1.77,GG,1.79,NG,1.92
+England - Northern Premier League,FC United of Manchester,Marske United FC,Sat 17:00,1,1.53,X,4.30,2,4.70,O 2.5,1.54,U 2.5,2.30,GG,1.64,NG,2.15
+England - Northern Premier League,Guiseley,Belper Town,Sat 17:00,1,1.41,X,4.45,2,6.10,O 2.5,1.58,U 2.5,2.25,GG,1.77,NG,1.94
+England - Northern Premier League,Lancaster,Hyde United,Sat 17:00,1,3.25,X,3.50,2,1.97,O 2.5,1.90,U 2.5,1.81,GG,1.78,NG,1.92
+England - Northern Premier League,Nantwich Town FC,Bamber Bridge,Sat 17:00,1,2.95,X,3.50,2,2.10,O 2.5,1.82,U 2.5,1.88,GG,1.71,NG,2.02
+England - Northern Premier League,South Shields,Radcliffe,Sat 17:00,1,1.60,X,3.80,2,4.75,O 2.5,1.79,U 2.5,1.91,GG,1.82,NG,1.88
+England - Northern Premier League,Stafford Rangers,Morpeth Town,Sat 17:00,1,2.10,X,3.70,2,2.80,O 2.5,1.72,U 2.5,2.01,GG,1.65,NG,2.10
+England - Northern Premier League,Stalybridge Celtic,Ashton,Sat 17:00,1,2.25,X,3.45,2,2.70,O 2.5,1.81,U 2.5,1.90,GG,1.69,NG,2.05
+England - Northern Premier League,Warrington Town,Liversedge,Sat 17:00,1,1.43,X,4.40,2,5.70,O 2.5,1.56,U 2.5,2.30,GG,1.73,NG,2.00
+England - Northern Premier League,Whitby Town,Marine,Sat 17:00,1,2.95,X,3.35,2,2.15,O 2.5,1.94,U 2.5,1.77,GG,1.78,NG,1.93
+England - Southern Premier League - Central,Alvechurch,Bedford,Sat 17:00,1,1.69,X,4.00,2,3.85,O 3.5,2.25,U 3.5,1.56,GG,1.55,NG,2.30
+England - Southern Premier League - Central,Barwell,Hednesford,Sat 17:00,1,1.68,X,3.95,2,4.00,O 2.5,1.60,U 2.5,2.20,GG,1.63,NG,2.15
+England - Southern Premier League - Central,Basford United,Redditch,Sat 17:00,1,2.25,X,3.45,2,2.70,O 2.5,1.79,U 2.5,1.92,GG,1.67,NG,2.08
+England - Southern Premier League - Central,Bromsgrove Rovers,Mickleover Sports,Sat 17:00,1,2.70,X,3.75,2,2.15,O 2.5,1.56,U 2.5,2.30,GG,1.51,NG,2.40
+England - Southern Premier League - Central,Coalville,Kings Langley,Sat 17:00,1,1.33,X,4.90,2,6.90,O 3.5,2.15,U 3.5,1.62,GG,1.74,NG,1.98
+England - Southern Premier League - Central,Hitchin,Stratford Town,Sat 17:00,1,2.15,X,3.45,2,2.85,O 2.5,1.77,U 2.5,1.94,GG,1.66,NG,2.10
+England - Southern Premier League - Central,Needham Market FC,Nuneaton,Sat 17:00,1,2.75,X,3.50,2,2.20,O 2.5,1.90,U 2.5,1.81,GG,1.76,NG,1.95
+England - Southern Premier League - Central,Royston Town FC,Tamworth,Sat 17:00,1,3.55,X,3.70,2,1.82,O 2.5,1.68,U 2.5,2.06,GG,1.65,NG,2.10
+England - Southern Premier League - Central,Rushall Olympic,St Ives Town F.C.,Sat 17:00,1,1.46,X,4.50,2,5.25,O 3.5,2.20,U 3.5,1.59,GG,1.63,NG,2.15
+England - Southern Premier League - Central,Rushden & Diamonds,Leiston FC,Sat 17:00,1,5.70,X,4.40,2,1.44,O 2.5,1.61,U 2.5,2.20,GG,1.77,NG,1.94
+England - Southern Premier League - Central,Stourbridge FC,Ilkeston,Sat 17:00,1,2.03,X,3.75,2,2.95,O 3.5,2.25,U 3.5,1.57,GG,1.48,NG,2.45
+England - League 2,Barrow,AFC Wimbledon,Sat 17:00,1,2.10,X,3.25,2,3.75,O 2.5,2.35,U 2.5,1.58,GG,2.04,NG,1.72
+England - League 2,Colchester,Tranmere,Sat 17:00,1,2.40,X,3.20,2,3.15,O 2.5,2.45,U 2.5,1.54,GG,2.06,NG,1.71
+England - League 2,Crawley Town,Rochdale,Sat 17:00,1,2.20,X,3.45,2,3.30,O 2.5,1.98,U 2.5,1.80,GG,1.78,NG,1.97
+England - League 2,Doncaster,Northampton,Sat 17:00,1,3.65,X,3.35,2,2.10,O 2.5,2.30,U 2.5,1.60,GG,2.02,NG,1.74
+England - League 2,Gillingham,Carlisle,Sat 17:00,1,3.20,X,3.15,2,2.40,O 2.5,2.45,U 2.5,1.53,GG,2.07,NG,1.71
+England - League 2,Grimsby,Walsall,Sat 17:00,1,2.35,X,3.20,2,3.20,O 2.5,2.35,U 2.5,1.58,GG,2.00,NG,1.76
+England - League 2,Hartlepool,Leyton Orient,Sat 17:00,1,4.40,X,3.55,2,1.84,O 2.5,2.15,U 2.5,1.68,GG,2.00,NG,1.75
+England - League 2,Mansfield,Sutton Utd,Sat 17:00,1,2.20,X,3.45,2,3.25,O 2.5,1.99,U 2.5,1.79,GG,1.79,NG,1.95
+England - League 2,Stevenage,Salford City,Sat 17:00,1,1.96,X,3.55,2,3.90,O 2.5,1.99,U 2.5,1.80,GG,1.83,NG,1.91
+England - League 2,Swindon,Stockport,Sat 17:00,1,3.45,X,3.35,2,2.15,O 2.5,2.06,U 2.5,1.74,GG,1.84,NG,1.90
+England - Premier League 2,Blackburn Rovers U21,Arsenal U21,Sat 15:00,1,2.60,X,3.75,2,2.20,O 3.5,2.20,U 3.5,1.60,GG,1.45,NG,2.55
+England - FA Premier (W),Everton (W),Liverpool (W),21:30,1,1.95,X,3.40,2,3.40,O 2.5,2.01,U 2.5,1.71,GG,1.87,NG,1.83
+England - FA Premier (W),Tottenham Hotspur (W),Arsenal (W),Sat 17:00,1,7.80,X,4.85,2,1.30,O 2.5,1.58,U 2.5,2.25,GG,1.93,NG,1.78
+England - FA Premier (W),Manchester United (W),West Ham United FC (W),Sat 19:30,1,1.13,X,6.50,2,16.50,O 3.5,2.20,U 3.5,1.59,GG,2.50,NG,1.47
+England - Southern Premier League - South,Tiverton Town,Plymouth Parkway,21:45,1,2.25,X,3.70,2,2.55,O 2.5,1.65,U 2.5,2.10,GG,1.59,NG,2.20
+England - Southern Premier League - South,Dorchester,Merthyr,Sat 17:00,1,2.45,X,3.60,2,2.45,O 2.5,1.58,U 2.5,2.25,GG,1.51,NG,2.40
+England - Southern Premier League - South,Hanwell Town,Swindon Supermarine F.C.,Sat 17:00,1,2.70,X,3.70,2,2.15,O 2.5,1.63,U 2.5,2.15,GG,1.57,NG,2.25
+England - Southern Premier League - South,Harrow Borough,Gosport Borough FC,Sat 17:00,1,2.15,X,3.70,2,2.75,O 2.5,1.63,U 2.5,2.15,GG,1.56,NG,2.25
+England - Southern Premier League - South,Hendon,Hartley Wintney,Sat 17:00,1,1.68,X,3.95,2,3.95,O 2.5,1.56,U 2.5,2.25,GG,1.59,NG,2.20
+England - Southern Premier League - South,Metropolitan Police,Chesham United FC,Sat 17:00,1,2.70,X,3.70,2,2.15,O 2.5,1.63,U 2.5,2.15,GG,1.57,NG,2.25
+England - Southern Premier League - South,North Leigh,Weston Super Mare,Sat 17:00,1,6.90,X,5.10,2,1.32,O 3.5,2.20,U 3.5,1.61,GG,1.76,NG,1.95
+England - Southern Premier League - South,Poole Town,Hayes & Yeading,Sat 17:00,1,2.10,X,3.65,2,2.80,O 2.5,1.61,U 2.5,2.20,GG,1.55,NG,2.30
+England - Southern Premier League - South,Truro City,Salisbury FC,Sat 17:00,1,1.39,X,4.60,2,6.10,O 2.5,1.54,U 2.5,2.30,GG,1.75,NG,1.96
+England - Southern Premier League - South,Winchester City Football Club,Beaconsfield Town FC,Sat 17:00,1,3.10,X,3.80,2,1.94,O 3.5,2.25,U 3.5,1.56,GG,1.50,NG,2.45
+England - Southern Premier League - South,Yate Town,Bracknell Town,Sat 17:00,1,6.50,X,4.95,2,1.35,O 3.5,2.01,U 3.5,1.71,GG,1.64,NG,2.15
+Spain - Primera Division RFEF,CD San Fernando,Talavera,Sat 18:00,1,2.06,X,3.25,2,3.35,O 2.5,2.25,U 2.5,1.59,GG,2.02,NG,1.74
+Spain - Primera Division RFEF,Real Sociedad B,Calahorra,Sat 18:00,1,1.87,X,3.40,2,3.80,O 2.5,2.15,U 2.5,1.67,GG,1.98,NG,1.77
+Spain - Primera Division RFEF,Cordoba,Racing Club De Ferrol,Sat 20:00,1,2.20,X,3.15,2,3.20,O 2.5,2.45,U 2.5,1.52,GG,2.10,NG,1.67
+Spain - Primera Division RFEF,Linares,Algeciras,Sat 20:00,1,2.55,X,3.15,2,2.60,O 2.5,2.20,U 2.5,1.64,GG,1.90,NG,1.83
+Spain - Primera Division RFEF,Logrones,Club Deportivo Eldense,Sat 20:00,1,3.10,X,2.95,2,2.35,O 1.5,1.56,U 1.5,2.35,GG,2.25,NG,1.61
+Spain - Primera Division RFEF,Sabadell,Barcelona B,Sat 20:00,1,2.10,X,3.25,2,3.30,O 2.5,2.35,U 2.5,1.55,GG,2.08,NG,1.69
+Spain - Segunda Division RFEF,AD Alcorcon ΙΙ,CD Coria,Sat 17:00,1,2.50,X,2.95,2,2.75,O 2.5,2.30,U 2.5,1.54,GG,1.97,NG,1.75
+Spain - Segunda Division RFEF,Real Oviedo B,Real Valladolid B,Sat 17:00,1,2.20,X,3.00,2,3.15,O 1.5,1.50,U 1.5,2.40,GG,2.15,NG,1.64
+Spain - Segunda Division RFEF,Beasain,UD Logrones B,Sat 17:30,1,1.79,X,3.25,2,4.30,O 1.5,1.53,U 1.5,2.35,GG,2.40,NG,1.51
+Spain - Segunda Division RFEF,Bergantinos,CD Burgos Promesas,Sat 18:00,1,1.98,X,3.15,2,3.60,O 1.5,1.50,U 1.5,2.40,GG,2.20,NG,1.60
+Spain - Segunda Division RFEF,CD Guijuelo,Zamora,Sat 18:00,1,2.65,X,2.75,2,2.80,O 1.5,1.55,U 1.5,2.30,GG,2.15,NG,1.63
+Spain - Segunda Division RFEF,CD Palencia Cristo Atletico,Laredo,Sat 18:00,1,1.92,X,3.10,2,3.90,O 1.5,1.56,U 1.5,2.25,GG,2.35,NG,1.52
+Spain - Segunda Division RFEF,Racing Rioja CF,Arnedo,Sat 18:00,1,1.60,X,3.40,2,5.60,O 1.5,1.53,U 1.5,2.35,GG,2.60,NG,1.44
+Spain - Segunda Division RFEF,Atletico Saguntino,UE Olot,Sat 18:30,1,2.10,X,3.10,2,3.25,O 2.5,2.45,U 2.5,1.49,GG,2.15,NG,1.63
+Spain - Segunda Division RFEF,Real Aviles CF,Rayo Cantabria,Sat 19:00,1,1.77,X,3.25,2,4.45,O 1.5,1.56,U 1.5,2.30,GG,2.45,NG,1.49
+Spain - Segunda Division RFEF,Utebo,SD Gernika,Sat 19:00,1,2.30,X,2.90,2,3.15,O 1.5,1.55,U 1.5,2.30,GG,2.20,NG,1.60
+Spain - Segunda Division RFEF,Real Sociedad C,CD Brea,Sat 20:00,1,2.10,X,3.00,2,3.40,O 1.5,1.56,U 1.5,2.30,GG,2.25,NG,1.56
+Germany - 3. Liga,Dynamo Dresden,Bayreuth,Sat 15:00,1,1.38,X,4.95,2,7.10,O 2.5,1.58,U 2.5,2.35,GG,1.84,NG,1.90
+Germany - 3. Liga,Meppen,Erzgebirge Aue,Sat 15:00,1,3.00,X,3.45,2,2.25,O 2.5,1.84,U 2.5,1.94,GG,1.68,NG,2.10
+Germany - 3. Liga,Rot Weiss Essen,FC Wehen Wiesbaden,Sat 15:00,1,3.10,X,3.30,2,2.25,O 2.5,1.78,U 2.5,2.01,GG,1.61,NG,2.25
+Germany - 3. Liga,SV Waldhof Mannheim,Osnabruck,Sat 15:00,1,2.25,X,3.45,2,2.95,O 2.5,1.71,U 2.5,2.10,GG,1.58,NG,2.30
+Germany - 3. Liga,Verl,Elversberg,Sat 15:00,1,3.65,X,3.80,2,1.88,O 2.5,1.63,U 2.5,2.25,GG,1.58,NG,2.30
+Germany - 3. Liga,VfB Oldenburg,Viktoria Koln,Sat 15:00,1,3.10,X,3.50,2,2.15,O 2.5,1.78,U 2.5,2.01,GG,1.64,NG,2.15
+Germany - Oberliga,Altona 93,Wandsbeker TSV,in 10',1,1.85,X,3.90,2,3.30,O 3.5,2.15,U 3.5,1.62,GG,1.47,NG,2.50
+Germany - Oberliga,SC Spelle-Venhaus,TUS Bersenbruck,in 10',1,1.75,X,3.75,2,3.80,O 3.5,1.92,U 3.5,1.78,GG,1.39,NG,2.80
+Germany - Oberliga,Tura Harksheide,SV Rugenbergen,in 10',1,2.25,X,3.65,2,2.65,O 3.5,2.20,U 3.5,1.60,GG,1.44,NG,2.60
+Germany - Oberliga,TUS Komet Arsten,BTS Neustadt,in 10',1,3.35,X,3.85,2,1.84,O 3.5,1.83,U 3.5,1.88,GG,1.34,NG,3.00
+Germany - Oberliga,Bonner SC,Viktoria Arnoldsweiler,in 25',1,1.14,X,7.50,2,15.00,O 3.5,2.06,U 3.5,1.68,Markets are not available,No_market,No_market,No_market
+Germany - Oberliga,FSV Budissa Bautzen,Westerhausen,Sat 14:00,1,1.45,X,4.55,2,5.25,O 3.5,2.10,U 3.5,1.65,GG,1.59,NG,2.20
+Germany - Oberliga,Werder Bremen III,ESC Geestemunde,Sat 14:00,1,6.00,X,5.40,2,1.34,O 3.5,1.64,U 3.5,2.15,GG,1.43,NG,2.60
+Germany - Oberliga,ASV Neumarkt,Weiden,Sat 15:00,1,1.55,X,4.25,2,4.50,O 3.5,2.20,U 3.5,1.59,GG,1.58,NG,2.25
+Germany - Oberliga,DJK Gebenbach,SpVgg Bayern Hof,Sat 15:00,1,1.47,X,4.45,2,5.05,O 3.5,2.15,U 3.5,1.64,GG,1.59,NG,2.20
+Germany - Oberliga,Eintracht Bamberg,Grossbardorf,Sat 15:00,1,1.33,X,5.10,2,6.50,O 3.5,2.08,U 3.5,1.67,GG,1.69,NG,2.05
+Germany - Oberliga,FC Deisenhofen,VFB Hallbergmoos,Sat 15:00,1,1.25,X,5.40,2,8.50,O 3.5,2.10,U 3.5,1.65,GG,1.83,NG,1.87
+Germany - Oberliga,FC Eilenburg,Bischofswerdaer FV,Sat 15:00,1,1.51,X,4.35,2,4.85,O 3.5,2.15,U 3.5,1.61,GG,1.58,NG,2.25
+Germany - Oberliga,FSV Schoningen 2011,1. FC Germ Egestorf/Langreder,Sat 15:00,1,2.20,X,3.90,2,2.55,O 3.5,2.25,U 3.5,1.57,GG,1.48,NG,2.45
+Germany - Oberliga,Goeppinger SV,Neckarsulmer Sport Union,Sat 15:00,1,1.64,X,4.05,2,4.10,O 2.5,1.56,U 2.5,2.25,GG,1.61,NG,2.20
+Germany - Oberliga,Luneburger SK Hansa,VfL Oldenburg,Sat 15:00,1,4.30,X,4.30,2,1.58,O 3.5,2.07,U 3.5,1.68,GG,1.51,NG,2.40
+Germany - Oberliga,Neumunster,Heider SV,Sat 15:00,1,2.07,X,4.15,2,2.65,O 3.5,1.86,U 3.5,1.84,GG,1.35,NG,2.95
+Germany - Oberliga,Pansdorf,Husumer SV,Sat 15:00,1,2.15,X,4.35,2,2.45,O 3.5,1.83,U 3.5,1.88,GG,1.35,NG,2.95
+Germany - Oberliga,RSV Eintracht 1949,FSV Union Furstenwalde,Sat 15:00,1,1.94,X,3.75,2,3.15,O 3.5,2.06,U 3.5,1.68,GG,1.41,NG,2.70
+Germany - Oberliga,SG Dynamo Schwerin,FSV Optik Rathenow,Sat 15:00,1,1.91,X,4.10,2,3.00,O 3.5,2.20,U 3.5,1.61,GG,1.48,NG,2.45
+Germany - Oberliga,SG Union Sandersdorf,SC Freital,Sat 15:00,1,3.00,X,3.45,2,2.08,O 2.5,1.84,U 2.5,1.86,GG,1.72,NG,2.00
+Germany - Oberliga,Stuttgart Kickers,EV Ravensburg,Sat 15:00,1,1.09,X,7.10,2,23.00,O 3.5,1.69,U 3.5,2.04,Markets are not available,No_market,No_market,No_market
+Germany - Oberliga,TSV 1860 Munchen II,TSV Kottern,Sat 15:00,1,1.98,X,3.90,2,2.95,O 2.5,1.56,U 2.5,2.30,GG,1.54,NG,2.35
+Germany - Oberliga,TSV 1860 Rosenheim,SV Erlbach,Sat 15:00,1,4.25,X,3.90,2,1.64,O 2.5,1.67,U 2.5,2.07,GG,1.70,NG,2.03
+Germany - Oberliga,TSV 1865 Dachau,FC Memmingen,Sat 15:00,1,3.75,X,3.85,2,1.74,O 2.5,1.65,U 2.5,2.10,GG,1.65,NG,2.10
+Germany - Oberliga,TSV Kornburg,Eltersdorf,Sat 15:00,1,6.30,X,4.75,2,1.37,O 3.5,2.15,U 3.5,1.61,GG,1.69,NG,2.05
+Germany - Oberliga,VFB Auerbach,VfL Halle 96,Sat 15:00,1,2.08,X,3.80,2,2.80,O 2.5,1.60,U 2.5,2.20,GG,1.56,NG,2.30
+Germany - Oberliga,Arminia Ludwigshafen,Pfeddersheim,Sat 15:30,1,2.07,X,4.00,2,2.75,O 3.5,2.15,U 3.5,1.64,GG,1.45,NG,2.55
+Germany - Oberliga,KSV Baunatal,Rot-Weiss Hadamar,Sat 15:30,1,1.74,X,4.05,2,3.55,O 3.5,2.15,U 3.5,1.62,GG,1.50,NG,2.40
+Germany - Oberliga,1. Hanauer FC 93,FC Giessen 1927 Teutonia 1900 VfB,Sat 16:00,1,3.55,X,4.30,2,1.70,O 3.5,2.04,U 3.5,1.69,GG,1.47,NG,2.50
+Germany - Oberliga,Blumenthaler SV,Leher TS,Sat 16:00,1,2.15,X,4.20,2,2.50,O 3.5,1.65,U 3.5,2.10,GG,1.28,NG,3.35
+Germany - Oberliga,BSV Holzhausen,FC Pforzheim,Sat 16:00,1,3.60,X,4.20,2,1.71,O 3.5,2.04,U 3.5,1.69,GG,1.46,NG,2.55
+Germany - Oberliga,Eintracht Frankfurt II,TSV Steinbach II,Sat 16:00,1,1.14,X,7.30,2,12.00,O 3.5,1.66,U 3.5,2.09,Markets are not available,No_market,No_market,No_market
+Germany - Oberliga,FC Bayern Alzenau 1920,SV Rot-Weiss Walldorf,Sat 16:00,1,2.15,X,3.80,2,2.70,O 3.5,2.25,U 3.5,1.58,GG,1.47,NG,2.50
+Germany - Oberliga,FC Einheit Rudolstadt,FC AN Der Fahner Hohe,Sat 16:00,1,1.79,X,3.90,2,3.50,O 2.5,1.58,U 2.5,2.25,GG,1.58,NG,2.25
+Germany - Oberliga,FC Karbach,FV Diefflen,Sat 16:00,1,2.70,X,3.95,2,2.10,O 3.5,2.01,U 3.5,1.71,GG,1.40,NG,2.75
+Germany - Oberliga,FSV 08 Bissingen,Villingen,Sat 16:00,1,1.95,X,3.90,2,3.05,O 3.5,2.10,U 3.5,1.66,GG,1.44,NG,2.60
+Germany - Oberliga,FSV Fernwald,SC 1929 Waldgirmes,Sat 16:00,1,1.51,X,4.60,2,4.55,O 3.5,1.86,U 3.5,1.84,GG,1.45,NG,2.55
+Germany - Oberliga,Kaiserslautern II,SV Gonsenheim,Sat 16:00,1,1.92,X,3.75,2,3.20,O 3.5,2.25,U 3.5,1.56,GG,1.49,NG,2.45
+Germany - Oberliga,OSC Bremerhaven,FC Oberneuland,Sat 16:00,1,3.90,X,4.40,2,1.63,O 3.5,1.77,U 3.5,1.94,GG,1.37,NG,2.85
+Germany - Oberliga,SC Viktoria 06 Griesheim,TSV Steinbach,Sat 16:00,1,2.55,X,3.95,2,2.20,O 3.5,2.15,U 3.5,1.64,GG,1.44,NG,2.60
+Germany - Oberliga,SV Curslack-Neuengamme,SC Victoria Hamburg,Sat 16:00,1,3.80,X,4.45,2,1.63,O 3.5,1.82,U 3.5,1.89,GG,1.39,NG,2.75
+Germany - Oberliga,SV Ramlingen-Ehlershausen,SC Blau-Weiß Papenburg,Sat 16:00,1,1.49,X,4.60,2,4.75,O 3.5,1.99,U 3.5,1.73,GG,1.52,NG,2.35
+Germany - Oberliga,SV Schalding Heining,FC 1920 Gundelfingen,Sat 16:00,1,1.43,X,4.50,2,5.70,O 2.5,1.60,U 2.5,2.20,GG,1.79,NG,1.92
+Germany - Oberliga,Weidenhausen,SV 1898 Unter Flockenbach,Sat 16:00,1,2.10,X,3.95,2,2.70,O 3.5,1.96,U 3.5,1.75,GG,1.38,NG,2.80
+Germany - Oberliga,FK Pirmasens,Koblenz,Sat 16:30,1,2.15,X,3.75,2,2.70,O 2.5,1.71,U 2.5,2.02,GG,1.65,NG,2.10
+Germany - Oberliga,Freiburger FC,SV Oberachern,Sat 16:30,1,3.20,X,4.10,2,1.84,O 3.5,2.25,U 3.5,1.57,GG,1.52,NG,2.35
+Germany - Oberliga,FSV Jaegersburg,SF Eisbachtal,Sat 16:30,1,1.72,X,4.05,2,3.65,O 3.5,1.85,U 3.5,1.86,GG,1.37,NG,2.85
+Germany - Oberliga,FV Dudenhofen,Ahrweiler BC 1920,Sat 16:30,1,1.63,X,4.30,2,3.95,O 3.5,2.07,U 3.5,1.68,GG,1.49,NG,2.45
+Germany - Oberliga,Hertha Wiesbach,TUS Kirchberg,Sat 16:30,1,1.52,X,4.65,2,4.35,O 3.5,1.77,U 3.5,1.94,GG,1.40,NG,2.70
+Germany - Oberliga,Reutlingen,FSV Hollenbach,Sat 16:30,1,2.00,X,3.70,2,3.00,O 2.5,1.56,U 2.5,2.30,GG,1.52,NG,2.35
+Germany - Oberliga,SV Auersmacher,Engers,Sat 16:30,1,2.75,X,3.80,2,2.10,O 3.5,2.20,U 3.5,1.60,GG,1.46,NG,2.55
+Germany - Oberliga,TuS Mechtersheim,TSV Schott Mainz,Sat 16:30,1,3.70,X,3.75,2,1.77,O 2.5,1.58,U 2.5,2.25,GG,1.57,NG,2.25
+Germany - Oberliga,FT Braunschweig,Lupo-Martini,Sat 17:00,1,6.30,X,4.70,2,1.37,O 3.5,2.15,U 3.5,1.64,GG,1.67,NG,2.08
+Germany - Oberliga,SSV Jahn Regensburg II,ASV Cham,Sat 17:00,1,2.09,X,3.70,2,2.85,O 3.5,2.25,U 3.5,1.57,GG,1.48,NG,2.50
+Germany - Oberliga,SV Kirchanschoring,FC Ismaning,Sat 17:00,1,1.48,X,4.45,2,5.00,O 3.5,2.25,U 3.5,1.57,GG,1.63,NG,2.15
+Germany - Oberliga,TUS Dietkirchen,TSV Eintracht Stadtallendorf,Sat 17:00,1,5.00,X,4.80,2,1.45,O 3.5,1.86,U 3.5,1.84,GG,1.48,NG,2.50
+Germany - Oberliga,TUSPO Surheide,TS Woltmershausen,Sat 17:00,1,2.10,X,4.25,2,2.55,O 3.5,1.75,U 3.5,1.97,GG,1.31,NG,3.15
+Germany - Oberliga,Wurzburger,DJK Ammerthal,Sat 17:00,1,2.65,X,3.75,2,2.20,O 2.5,1.58,U 2.5,2.25,GG,1.53,NG,2.35
+Germany - Oberliga,Oldenburger SV,TSV Bordesholm,Sat 19:00,1,1.94,X,4.05,2,2.95,O 3.5,1.92,U 3.5,1.79,GG,1.38,NG,2.80
+France - Division 1 (W),Dijon Fco (W),Rodez Aveyron (W),Sat 14:45,1,2.15,X,3.15,2,3.10,O 2.5,1.69,U 2.5,2.05,GG,1.55,NG,2.30
+France - Division 1 (W),FC Girondins Bordeaux (W),Paris FC (W),Sat 14:45,1,7.50,X,5.35,2,1.27,O 3.5,1.92,U 3.5,1.78,GG,1.68,NG,2.06
+France - Division 1 (W),Stade De Reims (W),Soyaux Asj (W),Sat 14:45,1,1.43,X,4.60,2,5.15,O 3.5,2.02,U 3.5,1.71,GG,1.56,NG,2.30
+France - Division 1 (W),Olympique Lyon (W),EA Guingamp (W),Sat 16:00,1,1.13,X,6.70,2,13.50,O 3.5,1.79,U 3.5,1.92,Markets are not available,No_market,No_market,No_market
+Spain - Tercera Division RFEF,Arucas CF,Las Palmas B,23:00,1,3.55,X,3.20,2,1.94,O 2.5,2.15,U 2.5,1.63,GG,1.95,NG,1.76
+Spain - Tercera Division RFEF,Estrella CF,CD San Fernando,23:00,1,7.60,X,4.50,2,1.32,O 2.5,1.77,U 2.5,1.94,GG,2.15,NG,1.63
+Spain - Tercera Division RFEF,Athletic Torrellano,Villarreal C,Sat 13:00,1,2.35,X,2.90,2,2.95,O 1.5,1.53,U 1.5,2.35,GG,2.15,NG,1.62
+Spain - Tercera Division RFEF,Panaderia,Marino,Sat 14:00,1,1.57,X,3.75,2,4.80,O 2.5,2.08,U 2.5,1.67,GG,2.15,NG,1.64
+Spain - Tercera Division RFEF,UD Tamaraceite,Tenerife II,Sat 14:30,1,2.15,X,3.05,2,3.15,O 2.5,2.30,U 2.5,1.56,GG,1.99,NG,1.73
+Spain - Tercera Division RFEF,Vitoria,Pasaia KE,Sat 16:30,1,1.40,X,4.15,2,6.50,O 2.5,1.84,U 2.5,1.87,GG,2.07,NG,1.67
+Spain - Tercera Division RFEF,Valle Egues,CD Cortes,Sat 16:45,1,1.63,X,3.45,2,4.85,O 2.5,2.20,U 2.5,1.61,GG,2.15,NG,1.63
+Spain - Tercera Division RFEF,CD Huarte,Burlades,Sat 17:00,1,1.55,X,3.65,2,5.25,O 2.5,2.00,U 2.5,1.73,GG,2.05,NG,1.69
+Spain - Tercera Division RFEF,CD Subiza,CD Pamplona,Sat 17:00,1,1.60,X,3.65,2,4.75,O 2.5,1.89,U 2.5,1.82,GG,1.91,NG,1.80
+Spain - Tercera Division RFEF,Comillas CF,CD Varea,Sat 17:00,1,5.40,X,3.80,2,1.51,O 2.5,1.94,U 2.5,1.77,GG,2.04,NG,1.70
+Spain - Tercera Division RFEF,Mercadal,FC Inter Manacor,Sat 17:00,1,1.60,X,3.50,2,5.05,O 2.5,2.02,U 2.5,1.71,GG,2.01,NG,1.72
+Spain - Tercera Division RFEF,San Ignacio,Aurrera de Ondarroa,Sat 17:00,1,2.75,X,3.15,2,2.35,O 2.5,2.25,U 2.5,1.58,GG,1.96,NG,1.75
+Spain - Tercera Division RFEF,SD Lagunak,CD Cantolagua,Sat 17:00,1,3.00,X,3.20,2,2.15,O 2.5,1.90,U 2.5,1.81,GG,1.72,NG,2.00
+Spain - Tercera Division RFEF,Silva SD,CD Estradense,Sat 17:00,1,2.20,X,3.10,2,3.00,O 2.5,2.20,U 2.5,1.60,GG,1.93,NG,1.78
+Spain - Tercera Division RFEF,Ponferradina II,Becerril,Sat 17:15,1,1.57,X,3.80,2,4.80,O 2.5,1.94,U 2.5,1.77,GG,1.99,NG,1.73
+Spain - Tercera Division RFEF,CD Llosetense,CF Platges de Calvia,Sat 17:30,1,2.35,X,2.95,2,2.90,O 2.5,2.35,U 2.5,1.52,GG,2.02,NG,1.71
+Spain - Tercera Division RFEF,CD Manchego Ciudad Real,CD Torrijos,Sat 17:30,1,1.45,X,3.75,2,6.50,O 2.5,2.10,U 2.5,1.65,GG,2.30,NG,1.55
+Spain - Tercera Division RFEF,CE Constancia,SD Portmany,Sat 17:30,1,1.57,X,3.50,2,5.25,O 2.5,2.08,U 2.5,1.67,GG,2.09,NG,1.66
+Spain - Tercera Division RFEF,Illescas,Calvo Sotelo Puertollano,Sat 17:30,1,1.96,X,3.15,2,3.55,O 2.5,2.40,U 2.5,1.52,GG,2.10,NG,1.65
+Spain - Tercera Division RFEF,Touring Ke,Aurrera de Vitoria,Sat 17:30,1,1.50,X,3.85,2,5.40,O 2.5,1.86,U 2.5,1.84,GG,1.97,NG,1.75
+Spain - Tercera Division RFEF,UD Santa Marta,CD Mirandes II,Sat 17:30,1,3.35,X,3.20,2,2.00,O 2.5,2.01,U 2.5,1.71,GG,1.83,NG,1.87
+Spain - Tercera Division RFEF,UE Tona,Peralada,Sat 17:30,1,2.95,X,3.15,2,2.20,O 2.5,2.10,U 2.5,1.66,GG,1.88,NG,1.83
+Spain - Tercera Division RFEF,Club Deportivo Avance Ezcabarte,Pena Sport,Sat 17:45,1,3.40,X,3.15,2,2.01,O 2.5,1.98,U 2.5,1.74,GG,1.79,NG,1.92
+Spain - Tercera Division RFEF,AD Cartaya,Pozoblanco,Sat 18:00,1,1.99,X,3.15,2,3.45,O 2.5,2.30,U 2.5,1.54,GG,2.07,NG,1.68
+Spain - Tercera Division RFEF,AD Ceuta B,Coria CF,Sat 18:00,1,2.15,X,2.90,2,3.30,O 1.5,1.51,U 1.5,2.40,GG,2.15,NG,1.63
+Spain - Tercera Division RFEF,Atletico Astorga FC,Salamanca,Sat 18:00,1,2.04,X,3.00,2,3.50,O 2.5,2.20,U 2.5,1.61,GG,1.92,NG,1.79
+Spain - Tercera Division RFEF,Barakaldo,CD Padura,Sat 18:00,1,1.26,X,4.90,2,9.10,O 2.5,1.72,U 2.5,2.01,GG,2.25,NG,1.58
+Spain - Tercera Division RFEF,CD Ardoi,CD Oberena,Sat 18:00,1,1.72,X,3.55,2,4.05,O 2.5,1.87,U 2.5,1.83,GG,1.82,NG,1.88
+Spain - Tercera Division RFEF,CD Basconia,Portugalete,Sat 18:00,1,2.35,X,3.00,2,2.85,O 2.5,2.25,U 2.5,1.58,GG,1.93,NG,1.78
+Spain - Tercera Division RFEF,CD Union Sur Yaiza,La Cuadra,Sat 18:00,1,2.75,X,3.10,2,2.35,O 2.5,1.97,U 2.5,1.75,GG,1.75,NG,1.97
+Spain - Tercera Division RFEF,UC Cartes,SD Atletico Albericia,Sat 18:00,1,3.65,X,3.35,2,1.86,O 2.5,2.07,U 2.5,1.67,GG,1.93,NG,1.78
+Spain - Tercera Division RFEF,UD Tenerife Sur Ibarra,CD Mensajero,Sat 18:00,1,4.05,X,3.55,2,1.72,O 2.5,1.88,U 2.5,1.82,GG,1.83,NG,1.87
+Spain - Tercera Division RFEF,Unami Cp,Atletico Tordesillas,Sat 18:00,1,3.80,X,3.05,2,1.92,O 2.5,2.35,U 2.5,1.52,GG,2.10,NG,1.65
+Spain - Tercera Division RFEF,Vimenor,CD Naval,Sat 18:00,1,1.76,X,3.30,2,4.20,O 2.5,2.25,U 2.5,1.58,GG,2.10,NG,1.66
+Spain - Tercera Division RFEF,SD Solares Medio Cudeyo,Escobedo,Sat 18:15,1,4.25,X,3.55,2,1.69,O 2.5,1.90,U 2.5,1.81,GG,1.86,NG,1.84
+Spain - Tercera Division RFEF,CD Acero,Patacona CF,Sat 18:30,1,2.15,X,2.85,2,3.45,O 1.5,1.51,U 1.5,2.40,GG,2.15,NG,1.64
+Spain - Tercera Division RFEF,Conil CF,Puente Genil FC,Sat 18:30,1,2.75,X,3.00,2,2.40,O 2.5,2.30,U 2.5,1.56,GG,1.97,NG,1.75
+Spain - Tercera Division RFEF,PE Sant Jordi,Union Deportiva Poblense,Sat 18:30,1,4.80,X,3.45,2,1.64,O 2.5,1.94,U 2.5,1.77,GG,1.91,NG,1.80
+Spain - Tercera Division RFEF,Santa Ursula,Lanzarote,Sat 18:30,1,2.10,X,3.00,2,3.30,O 2.5,2.30,U 2.5,1.55,GG,1.99,NG,1.73
+Spain - Tercera Division RFEF,UD Collerense,Santanyi,Sat 18:30,1,3.00,X,3.15,2,2.20,O 2.5,2.02,U 2.5,1.71,GG,1.80,NG,1.90
+Spain - Tercera Division RFEF,SD Revilla,Tropezon,Sat 18:45,1,6.10,X,3.95,2,1.44,O 2.5,1.86,U 2.5,1.84,GG,2.04,NG,1.70
+Spain - Tercera Division RFEF,Urduliz FT,CD Anaitasuna,Sat 19:00,1,3.35,X,2.95,2,2.10,O 2.5,2.35,U 2.5,1.52,GG,2.04,NG,1.70
+Spain - Tercera Division RFEF,Villarrubia,CD Villacanas,Sat 19:00,1,1.53,X,3.65,2,5.40,O 2.5,2.04,U 2.5,1.70,GG,2.10,NG,1.65
+Spain - Tercera Division RFEF,CD Manacor,CD Binissalem,Sat 19:15,1,1.33,X,4.25,2,8.10,O 2.5,2.00,U 2.5,1.73,GG,2.45,NG,1.49
+Spain - Tercera Division RFEF,SD Deusto,SCD Durango,Sat 19:30,1,2.06,X,3.00,2,3.45,O 2.5,2.35,U 2.5,1.52,GG,2.06,NG,1.68
+Spain - Tercera Division RFEF,Yague CF,Casalarreina CF,Sat 19:30,1,3.45,X,3.35,2,1.92,O 2.5,1.76,U 2.5,1.95,GG,1.66,NG,2.10
+Spain - Tercera Division RFEF,CF Elche B,Rayo Ibense,Sat 20:00,1,1.64,X,3.40,2,4.85,O 2.5,2.20,U 2.5,1.60,GG,2.15,NG,1.63
+Spain - Primera Division (W),Athletic Bilbao (W),Sevilla (W),in 40',1,3.20,X,3.30,2,2.07,O 2.5,1.79,U 2.5,1.92,GG,1.66,NG,2.10
+Spain - Primera Division (W),UDG Tenerife (W),Sporting de Huelva (W),Sat 13:00,1,1.39,X,4.45,2,6.30,O 2.5,1.80,U 2.5,1.91,GG,2.06,NG,1.68
+Spain - Primera Division (W),Real Betis Balompie (W),Villarreal (W),Sat 17:00,1,1.90,X,3.75,2,3.25,O 2.5,1.80,U 2.5,1.91,GG,1.74,NG,1.98
+Spain - Primera Division (W),Barcelona (W),Real Madrid CF (W),Sat 19:15,1,1.12,X,8.00,2,15.00,O 3.5,1.76,U 3.5,1.95,Markets are not available,No_market,No_market,No_market
+Germany - Bundesliga (W),Bayern Munich (W),VfL Wolfsburg (W),Sat 18:55,1,2.70,X,3.70,2,2.15,O 2.5,1.75,U 2.5,1.97,GG,1.67,NG,2.08
+Italy - Serie A (W),Sampdoria (W),Fcf Como (W),Sat 13:30,1,2.75,X,3.60,2,2.15,O 2.5,1.70,U 2.5,2.04,GG,1.62,NG,2.15
+Italy - Serie A (W),Inter Milan (W),FC Juventus (W),Sat 15:30,1,2.95,X,3.55,2,2.04,O 2.5,1.71,U 2.5,2.01,GG,1.64,NG,2.15
+France - Championnat National U19,OGC Nice U19,SC Air Bel U19,Sat 16:00,1,2.25,X,3.10,2,2.90,O 2.5,1.78,U 2.5,1.93,GG,1.61,NG,2.20
+France - Championnat National U19,Olympique Marseille U19,AC Ajaccio U19,Sat 16:00,1,1.93,X,3.40,2,3.40,O 2.5,1.67,U 2.5,2.08,GG,1.58,NG,2.25
+France - Championnat National U19,Monaco U19,AS Beziers U19,Sat 17:00,1,2.15,X,3.20,2,3.00,O 2.5,1.70,U 2.5,2.04,GG,1.57,NG,2.25
+Germany - Regionalliga,Hannover 96 II,SV Drochtersen/Assel,in 10',1,2.03,X,3.45,2,3.25,O 2.5,1.89,U 2.5,1.85,GG,1.75,NG,2.00
+Germany - Regionalliga,Lubeck,Blau-Weiss Lohne,in 40',1,1.22,X,5.90,2,9.80,O 3.5,2.25,U 3.5,1.60,GG,2.02,NG,1.74
+Germany - Regionalliga,Lichtenberg 47,Babelsberg,Sat 14:00,1,3.25,X,3.70,2,1.95,O 2.5,1.74,U 2.5,2.01,GG,1.68,NG,2.10
+Germany - Regionalliga,SC Weiche Flensburg 08,Atlas Delmenhorst,Sat 14:30,1,1.50,X,4.20,2,5.35,O 2.5,1.69,U 2.5,2.10,GG,1.81,NG,1.93
+Germany - Regionalliga,Bahlinger,VfR Wormatia Worms,Sat 15:00,1,1.89,X,3.40,2,3.75,O 2.5,2.08,U 2.5,1.70,GG,1.93,NG,1.81
+Germany - Regionalliga,Bocholt VV,Preussen Munster,Sat 15:00,1,7.40,X,4.95,2,1.33,O 3.5,2.35,U 3.5,1.55,GG,1.87,NG,1.87
+Germany - Regionalliga,BSV Schwarz-Weib Rehden,FC Teutonia Ottensen 1905,Sat 15:00,1,3.05,X,3.75,2,2.02,O 2.5,1.64,U 2.5,2.15,GG,1.59,NG,2.25
+Germany - Regionalliga,Eintracht Trier,SG Barockstadt Fulda-Lehnerz,Sat 15:00,1,3.45,X,3.65,2,1.91,O 2.5,1.71,U 2.5,2.06,GG,1.65,NG,2.15
+Germany - Regionalliga,FC Kaan-Marienborn,1. FC Duren,Sat 15:00,1,2.65,X,3.35,2,2.45,O 2.5,1.91,U 2.5,1.83,GG,1.73,NG,2.03
+Germany - Regionalliga,FC Wurzburger Kickers,1. FC Schweinfurt 05,Sat 15:00,1,1.37,X,4.75,2,6.70,O 2.5,1.57,U 2.5,2.30,GG,1.83,NG,1.91
+Germany - Regionalliga,Hessen Kassel,Homburg 08,Sat 15:00,1,3.30,X,3.60,2,1.96,O 2.5,1.75,U 2.5,2.01,GG,1.67,NG,2.10
+Germany - Regionalliga,Kickers Emden,Holstein Kiel II,Sat 15:00,1,5.15,X,4.10,2,1.53,O 2.5,1.76,U 2.5,1.99,GG,1.87,NG,1.87
+Germany - Regionalliga,SpVgg Greuther Furth II,FV Illertissen,Sat 15:00,1,2.90,X,3.45,2,2.20,O 2.5,1.78,U 2.5,1.96,GG,1.66,NG,2.15
+Germany - Regionalliga,SpVgg Hankofen-Hailing,Unterhaching,Sat 15:00,1,6.50,X,4.35,2,1.42,O 2.5,1.79,U 2.5,1.96,GG,2.02,NG,1.74
+Germany - Regionalliga,SSV Ulm 1846,FSV Frankfurt,Sat 15:00,1,1.43,X,4.35,2,6.20,O 2.5,1.71,U 2.5,2.06,GG,1.91,NG,1.83
+Germany - Regionalliga,Stuttgart II,SGV Freiberg,Sat 15:00,1,1.71,X,4.00,2,3.95,O 2.5,1.59,U 2.5,2.25,GG,1.61,NG,2.20
+Germany - Regionalliga,SV Lippstadt 08,Fortuna Dusseldorf II,Sat 15:00,1,2.15,X,3.55,2,2.95,O 2.5,1.70,U 2.5,2.08,GG,1.61,NG,2.25
+Germany - Regionalliga,SV Rodinghausen,Fortuna Koln,Sat 15:00,1,2.20,X,3.30,2,3.00,O 2.5,1.81,U 2.5,1.94,GG,1.66,NG,2.15
+Germany - Regionalliga,SV Turkgucu Ataspor Munchen,VfB Eichstatt,Sat 15:00,1,1.81,X,3.70,2,3.75,O 2.5,1.71,U 2.5,2.06,GG,1.67,NG,2.10
+Germany - Regionalliga,TSV Aubstadt,TSV Buchbach,Sat 15:00,1,1.69,X,3.85,2,4.20,O 2.5,1.71,U 2.5,2.06,GG,1.72,NG,2.05
+Germany - Regionalliga,TSV Rain/Lech,SPVGG Ansbach,Sat 15:00,1,2.30,X,3.45,2,2.70,O 2.5,1.79,U 2.5,1.96,GG,1.66,NG,2.15
+Germany - Regionalliga,TSV Steinbach,Rot-Weiss Koblenz,Sat 15:00,1,1.28,X,5.15,2,8.70,O 2.5,1.64,U 2.5,2.15,GG,2.09,NG,1.69
+Germany - Regionalliga,1 FC Nuremberg II,Viktoria Aschaffenburg,Sat 15:30,1,1.94,X,3.75,2,3.25,O 2.5,1.70,U 2.5,2.08,GG,1.65,NG,2.15
+Germany - Regionalliga,FC Pipinsried,DJK Vilzing,Sat 17:00,1,2.35,X,3.55,2,2.65,O 2.5,1.71,U 2.5,2.06,GG,1.61,NG,2.25
+Italy - Serie C,AC Renate,Padova,Sat 15:30,1,3.30,X,3.20,2,2.09,O 2.5,2.20,U 2.5,1.62,GG,1.97,NG,1.78
+Italy - Serie C,AZ Picerno,Gelbison Vallo Della Lucania,Sat 15:30,1,1.76,X,3.20,2,4.70,O 1.5,1.53,U 1.5,2.40,GG,2.40,NG,1.54
+Italy - Serie C,FC Giugliano 1928,Fidelis Andria 1928,Sat 15:30,1,2.04,X,3.15,2,3.55,O 1.5,1.53,U 1.5,2.40,GG,2.25,NG,1.60
+Italy - Serie C,Foggia,Monterosi FC,Sat 15:30,1,1.56,X,3.70,2,5.60,O 2.5,2.15,U 2.5,1.64,GG,2.25,NG,1.61
+Italy - Serie C,Latina Calcio,Crotone,Sat 15:30,1,3.55,X,3.20,2,2.02,O 2.5,2.30,U 2.5,1.57,GG,2.05,NG,1.72
+Italy - Serie C,Turris,Acr Messina,Sat 15:30,1,2.50,X,2.95,2,2.80,O 2.5,2.25,U 2.5,1.59,GG,1.92,NG,1.82
+Italy - Serie C,SS Taranto 1927,Avellino,Sat 18:30,1,3.15,X,3.05,2,2.25,O 1.5,1.53,U 1.5,2.40,GG,2.20,NG,1.63
+Italy - Serie C,SSD Potenza Calcio,Juve Stabia,Sat 18:30,1,2.25,X,3.25,2,3.00,O 2.5,2.15,U 2.5,1.64,GG,1.94,NG,1.81
+Portugal - Campeonato Feminino,Torreense (W),Braga (W),Sat 17:00,1,10.75,X,5.90,2,1.18,O 3.5,2.07,U 3.5,1.67,GG,1.99,NG,1.73
+Portugal - Championship U19,Pacos Ferreira U19,Tondela U19,Sat 17:00,1,1.69,X,3.80,2,3.90,O 2.5,1.54,U 2.5,2.30,GG,1.55,NG,2.30
+Netherlands - Eredivisie (W),Feyenoord (W),ADO Den Haag (W),in 10',1,3.20,X,3.60,2,1.97,O 2.5,1.73,U 2.5,1.99,GG,1.66,NG,2.10
+Netherlands - Eredivisie (W),PSV Eindhoven (W),SC Telstar VVNH (W),in 10',1,1.12,X,7.50,2,15.00,O 3.5,1.65,U 3.5,2.10,Markets are not available,No_market,No_market,No_market
+Portugal - Campeonato De Portugal,Praiense,Rabo De Peixe,Sat 18:00,1,2.30,X,3.15,2,2.85,O 2.5,2.20,U 2.5,1.61,GG,1.92,NG,1.79
+Netherlands - Tweede Divisie,Excelsior Maassluis,Noordwijk,Sat 15:30,1,2.85,X,3.45,2,2.20,O 2.5,1.69,U 2.5,2.05,GG,1.59,NG,2.20
+Netherlands - Tweede Divisie,OFC Oostzaan,FC Lisse,Sat 15:30,1,3.80,X,3.85,2,1.73,O 2.5,1.61,U 2.5,2.20,GG,1.61,NG,2.20
+Netherlands - Tweede Divisie,Scheveningen,FC Volendam II,Sat 15:30,1,1.72,X,3.80,2,3.90,O 2.5,1.72,U 2.5,2.01,GG,1.71,NG,2.02
+Netherlands - Tweede Divisie,Amsterdamsche FC,Kozakken Boys,Sat 16:00,1,1.58,X,4.10,2,4.50,O 2.5,1.63,U 2.5,2.15,GG,1.70,NG,2.04
+Netherlands - Tweede Divisie,Rijnsburgse Boys,HHC Hardenberg,Sat 16:00,1,2.25,X,3.60,2,2.65,O 2.5,1.65,U 2.5,2.10,GG,1.57,NG,2.25
+Netherlands - Tweede Divisie,VV Ijsselmeervogels,Koninklijke Hfc,Sat 16:00,1,3.30,X,3.50,2,1.95,O 2.5,1.74,U 2.5,1.97,GG,1.66,NG,2.09
+Netherlands - Tweede Divisie,TEC,VV Katwijk,Sat 16:30,1,6.10,X,4.55,2,1.40,O 2.5,1.56,U 2.5,2.30,GG,1.76,NG,1.95
+Netherlands - Tweede Divisie,De Treffers,Sparta Rotterdam Reserves,Sat 19:00,1,1.74,X,3.85,2,3.75,O 2.5,1.58,U 2.5,2.25,GG,1.58,NG,2.25
+Austria - Regionalliga,Donaufeld,Scheiblingkirchen-Warth Usv,Sat 15:00,1,2.04,X,3.60,2,3.00,O 2.5,1.61,U 2.5,2.20,GG,1.54,NG,2.30
+Austria - Regionalliga,Admira Dornbirn,Schwarz Weiss Bregenz,Sat 16:00,1,8.10,X,5.45,2,1.26,O 3.5,1.97,U 3.5,1.75,GG,1.73,NG,2.00
+Austria - Regionalliga,ASV Siegendorf,Kremsler,Sat 16:00,1,1.92,X,3.65,2,3.25,O 2.5,1.63,U 2.5,2.15,GG,1.58,NG,2.25
+Austria - Regionalliga,FC Rotenberg,FC Egg,Sat 16:00,1,1.86,X,3.75,2,3.40,O 3.5,2.10,U 3.5,1.64,GG,1.45,NG,2.55
+Austria - Regionalliga,SAK Klagenfurt,SC Weiz,Sat 16:00,1,3.40,X,3.60,2,1.90,O 2.5,1.75,U 2.5,1.97,GG,1.68,NG,2.07
+Austria - Regionalliga,SC Gofis,SC Rothis,Sat 16:00,1,2.70,X,3.90,2,2.10,O 3.5,1.99,U 3.5,1.73,GG,1.39,NG,2.75
+Austria - Regionalliga,Wiener Neustadt,ASK Elektra,Sat 16:00,1,6.10,X,4.50,2,1.40,O 2.5,1.61,U 2.5,2.20,GG,1.81,NG,1.89
+Austria - Regionalliga,Traiskirchen Lions,SV Stripfing/Weiden,Sat 16:30,1,5.70,X,4.15,2,1.47,O 2.5,1.73,U 2.5,1.99,GG,1.88,NG,1.82
+Austria - Regionalliga,Leobendorf,Neusiedl,Sat 17:00,1,2.15,X,3.45,2,2.95,O 2.5,1.76,U 2.5,1.95,GG,1.65,NG,2.10
+Austria - Regionalliga,Wiener Viktoria,FC Mauerwerk,Sat 17:00,1,2.05,X,3.70,2,2.95,O 2.5,1.54,U 2.5,2.30,GG,1.50,NG,2.40
+Austria - Regionalliga,USV RB Weindorf ST Anna,Union Volksbank Vocklamarkt,Sat 20:00,1,1.79,X,3.70,2,3.70,O 2.5,1.65,U 2.5,2.10,GG,1.62,NG,2.15
+Belgium - Super League (W),Genk (W),KAA Gent (W),21:30,1,1.41,X,4.30,2,6.00,O 2.5,1.68,U 2.5,2.06,GG,1.89,NG,1.82
+Belgium - Super League (W),White Star Woluwe (W),Royal Charleroi SC (W),21:30,1,1.57,X,4.00,2,4.50,O 2.5,1.61,U 2.5,2.20,GG,1.67,NG,2.08
+Belgium - Super League (W),Zulte Waregem (W),Yellow-Red KV Mechelen (W),Sat 16:30,1,1.42,X,4.40,2,5.60,O 2.5,1.63,U 2.5,2.15,GG,1.81,NG,1.89
+Norway - Toppserien (W),Asane (W),Roa (W),Sat 16:00,1,2.60,X,3.70,2,2.20,O 3.5,2.10,U 3.5,1.64,GG,1.42,NG,2.65
+Norway - Toppserien (W),Lillestrom Kvinner (W),Avaldsnes (W),Sat 16:00,1,1.28,X,5.15,2,7.50,O 3.5,2.20,U 3.5,1.61,GG,1.82,NG,1.89
+Norway - Toppserien (W),Lyn (W),SK Brann (W),Sat 16:00,1,11.50,X,5.70,2,1.18,O 3.5,2.30,U 3.5,1.56,GG,2.20,NG,1.61
+Norway - Toppserien (W),Rosenborg BK Kvinner (W),Stabaek (W),Sat 16:00,1,1.25,X,5.15,2,8.70,O 2.5,1.54,U 2.5,2.30,GG,1.98,NG,1.74
+Norway - Toppserien (W),Valerenga (W),Arna Bjornar (W),Sat 17:45,1,1.09,X,7.50,2,16.25,O 3.5,1.65,U 3.5,2.10,Markets are not available,No_market,No_market,No_market
+Poland - Liga III,FC Wieczysta Krakow,Orleta Radzyn,Sat 13:00,1,1.25,X,5.35,2,8.30,O 3.5,2.10,U 3.5,1.65,GG,1.84,NG,1.87
+Poland - Liga III,KS Stilon Gorzov WLKP,Rakow II Czestochowa,Sat 13:00,1,5.15,X,4.10,2,1.49,O 2.5,1.63,U 2.5,2.15,GG,1.74,NG,1.98
+Poland - Liga III,Legia Warszawa II,Sokol Ostroda,Sat 13:00,1,1.53,X,4.05,2,4.75,O 3.5,2.10,U 3.5,1.65,GG,1.54,NG,2.35
+Poland - Liga III,LKS Lodz II,Legionovia Legionowo,Sat 13:00,1,2.20,X,3.55,2,2.65,O 2.5,1.63,U 2.5,2.15,GG,1.55,NG,2.30
+Poland - Liga III,Miedz Legnica II,Gwarek Tarnowskie Gory,Sat 13:00,1,2.90,X,3.45,2,2.10,O 2.5,1.73,U 2.5,1.99,GG,1.64,NG,2.15
+Poland - Liga III,LKS Vineta Wolin,Polonia Sroda Wielkopolska,Sat 13:30,1,3.15,X,4.00,2,1.84,O 3.5,2.15,U 3.5,1.61,GG,1.48,NG,2.45
+Poland - Liga III,Polonia Nysa,Warta Gorzow Wielkopolski,Sat 14:00,1,2.05,X,3.55,2,2.95,O 2.5,1.73,U 2.5,2.00,GG,1.64,NG,2.10
+Poland - Liga III,Unia Swarzedz,Zawisza Bydgoszcz,Sat 14:00,1,2.75,X,3.55,2,2.15,O 2.5,1.73,U 2.5,1.99,GG,1.64,NG,2.10
+Poland - Liga III,Unia Solec Kujawski,Gedania Gdansk,Sat 15:00,1,5.20,X,4.20,2,1.48,O 2.5,1.58,U 2.5,2.25,GG,1.70,NG,2.03
+Poland - Liga III,Avia Swidnik,Ostrowiec,Sat 16:00,1,1.64,X,3.80,2,4.25,O 2.5,1.79,U 2.5,1.91,GG,1.81,NG,1.90
+Poland - Liga III,Carina Gubin,LKS Goczalkowice-Zdroj,Sat 16:00,1,1.93,X,3.60,2,3.20,O 2.5,1.81,U 2.5,1.90,GG,1.73,NG,1.99
+Poland - Liga III,Concordia Elblag,Jagiellonia II Biaystok,Sat 16:00,1,4.05,X,3.90,2,1.65,O 2.5,1.63,U 2.5,2.15,GG,1.65,NG,2.10
+Poland - Liga III,GKS Pniowek Pawlowice,MKS Kluczbork,Sat 16:00,1,2.10,X,3.55,2,2.80,O 2.5,1.63,U 2.5,2.15,GG,1.56,NG,2.30
+Poland - Liga III,Korona Kielce II,Podlasie Biala Podlaska,Sat 16:00,1,1.81,X,3.65,2,3.55,O 2.5,1.72,U 2.5,2.00,GG,1.68,NG,2.06
+Poland - Liga III,KP Starogard Gdansk,Blekitni Stargard Szczecinski,Sat 16:00,1,1.75,X,3.70,2,3.75,O 2.5,1.79,U 2.5,1.92,GG,1.76,NG,1.95
+Poland - Liga III,MKS Odra Wodzislaw Slaski,Rekord Bielsko Biala,Sat 16:00,1,5.20,X,4.45,2,1.44,O 3.5,2.25,U 3.5,1.57,GG,1.66,NG,2.10
+Poland - Liga III,Olimpia Zambrow,Pogon Grodzisk Mazowiecki,Sat 16:00,1,4.65,X,3.95,2,1.56,O 2.5,1.65,U 2.5,2.10,GG,1.72,NG,2.01
+Poland - Liga III,Pilica Bialobrzegi,Pelikan Lowicz,Sat 16:00,1,2.70,X,3.50,2,2.20,O 2.5,1.67,U 2.5,2.08,GG,1.58,NG,2.25
+Poland - Liga III,Sokol Kleczew,Olimpia Grudziadz,Sat 16:00,1,6.20,X,4.45,2,1.38,O 2.5,1.60,U 2.5,2.20,GG,1.83,NG,1.88
+Poland - Liga III,Stal Brzeg,Sleza Wroclaw,Sat 16:00,1,3.85,X,3.90,2,1.69,O 3.5,2.20,U 3.5,1.60,GG,1.52,NG,2.40
+Poland - Liga III,Swit Nowy Dwor Mazowiecki,Bron Radom,Sat 16:00,1,1.55,X,4.20,2,4.45,O 3.5,2.30,U 3.5,1.56,GG,1.60,NG,2.20
+Poland - Liga III,Warta Sieradz,Lechia Tomaszow Mazowiecki,Sat 16:00,1,3.80,X,3.80,2,1.71,O 2.5,1.63,U 2.5,2.15,GG,1.63,NG,2.15
+Poland - Liga III,Chelmianka Chelm,Stal Stalowa Wola,Sat 16:30,1,3.00,X,3.45,2,2.05,O 2.5,1.83,U 2.5,1.87,GG,1.72,NG,2.01
+Poland - Liga III,Jarota Jarocin,Cartusia Kartuzy,Sat 16:30,1,2.90,X,3.40,2,2.10,O 2.5,1.78,U 2.5,1.93,GG,1.66,NG,2.09
+Poland - Liga III,Wisloka Debica,Sokol Sieniawa,Sat 16:30,1,1.77,X,3.70,2,3.65,O 2.5,1.69,U 2.5,2.04,GG,1.67,NG,2.08
+Poland - Liga III,Mlawianka Mlawa,Ursus Warszawa,Sat 17:00,1,1.39,X,4.65,2,5.60,O 3.5,2.15,U 3.5,1.64,GG,1.64,NG,2.10
+Poland - Liga III,Baltyk Gdynia,Pogon II Szczecin,Sat 18:00,1,17.00,X,6.30,2,1.12,O 3.5,2.30,U 3.5,1.56,Markets are not available,No_market,No_market,No_market
+Scotland - League 1,Clyde,Airdrieonians,21:30,1,5.50,X,4.35,2,1.52,O 2.5,1.58,U 2.5,2.35,GG,1.69,NG,2.09
+Scotland - League 1,Edinburgh City,Queen Of The South,21:45,1,2.95,X,3.40,2,2.30,O 2.5,1.83,U 2.5,1.95,GG,1.66,NG,2.15
+Scotland - League 1,Falkirk,Kelty Hearts FC,21:45,1,1.41,X,4.40,2,7.50,O 2.5,1.89,U 2.5,1.89,GG,2.15,NG,1.65
+Scotland - League 1,Peterhead,Alloa,Sat 17:00,1,5.50,X,4.15,2,1.54,O 2.5,1.78,U 2.5,2.01,GG,1.86,NG,1.88
+Scotland - League 1,Montrose,Dunfermline,Sat 18:00,1,3.55,X,3.55,2,1.97,O 2.5,1.83,U 2.5,1.94,GG,1.71,NG,2.06
+Scotland - League 2,East Fife,Elgin City,22:00,1,2.20,X,3.40,2,3.20,O 2.5,1.83,U 2.5,1.95,GG,1.67,NG,2.15
+Scotland - League 2,Albion Rovers,Bonnyrigg Rose,Sat 17:00,1,1.88,X,3.65,2,3.80,O 2.5,1.85,U 2.5,1.92,GG,1.76,NG,2.00
+Scotland - League 2,Annan Athletic,Stranraer,Sat 17:00,1,1.77,X,3.80,2,4.10,O 2.5,1.70,U 2.5,2.10,GG,1.66,NG,2.15
+Scotland - League 2,Stenhousemuir,Forfar,Sat 17:00,1,2.15,X,3.55,2,3.05,O 2.5,1.78,U 2.5,2.01,GG,1.65,NG,2.15
+Scotland - League 2,Stirling Albion,Dumbarton,Sat 17:00,1,1.95,X,3.65,2,3.55,O 2.5,1.78,U 2.5,2.01,GG,1.68,NG,2.10
+Poland - Liga II,Znicz Pruszkow,Olimpia Elblag,Sat 14:00,1,1.96,X,3.15,2,3.70,O 2.5,2.04,U 2.5,1.70,GG,1.84,NG,1.86
+Poland - Liga II,KS Siarka Tarnobrzeg,Kotwica Kolobrzeg,Sat 15:00,1,3.55,X,3.20,2,1.99,O 2.5,2.10,U 2.5,1.65,GG,1.90,NG,1.81
+Poland - Liga II,Hutnik Krakow,Zaglebie Lubin II,Sat 16:00,1,2.09,X,3.50,2,3.00,O 2.5,1.63,U 2.5,2.15,GG,1.54,NG,2.30
+Poland - Liga II,Jkh GKS Jastrzebie,Radunia Stezyca,Sat 16:00,1,2.80,X,3.35,2,2.25,O 2.5,1.77,U 2.5,1.94,GG,1.64,NG,2.15
+Poland - Liga II,Wisla Pulawy,Polonia Warszawa,Sat 16:15,1,2.20,X,3.25,2,2.95,O 2.5,1.84,U 2.5,1.87,GG,1.68,NG,2.07
+Scotland - Championship,Ayr,Cove Rangers,21:45,1,1.40,X,4.80,2,7.10,O 2.5,1.65,U 2.5,2.20,GG,1.89,NG,1.85
+Scotland - Championship,Inverness CT,Partick Thistle,21:45,1,3.00,X,3.25,2,2.40,O 2.5,2.03,U 2.5,1.76,GG,1.78,NG,1.97
+Scotland - Championship,Queens Park,Arbroath,21:45,1,1.71,X,3.85,2,4.65,O 2.5,1.82,U 2.5,1.95,GG,1.80,NG,1.94
+Turkey - 2. Lig,Ankaraspor Kulübü,Afjet Afyonspor,Sat 13:00,1,2.25,X,3.10,2,3.00,O 2.5,2.20,U 2.5,1.60,GG,1.92,NG,1.79
+Turkey - 2. Lig,Balikesirspor,Serik Belediyespor,Sat 13:00,1,3.25,X,3.15,2,2.10,O 2.5,2.10,U 2.5,1.65,GG,1.87,NG,1.83
+Turkey - 2. Lig,Duzcespor,Arnavutkoy Belediyesi Genclik Ve Spor,Sat 13:00,1,1.79,X,3.40,2,4.05,O 2.5,2.15,U 2.5,1.63,GG,2.02,NG,1.71
+Turkey - 2. Lig,Esenler Erokspor,Batman Petrolspor,Sat 13:00,1,1.35,X,4.35,2,7.80,O 2.5,1.85,U 2.5,1.85,GG,2.20,NG,1.60
+Turkey - 2. Lig,Fethiyespor,Kocaelispor,Sat 13:00,1,3.95,X,3.30,2,1.84,O 2.5,2.20,U 2.5,1.60,GG,2.03,NG,1.70
+Turkey - 2. Lig,Hekimoglu Trabzon,Ankara Demirspor,Sat 13:00,1,1.51,X,3.65,2,6.20,O 2.5,2.01,U 2.5,1.72,GG,2.10,NG,1.65
+Turkey - 2. Lig,Inegolspor,Somaspor,Sat 13:00,1,2.70,X,3.25,2,2.35,O 2.5,2.07,U 2.5,1.67,GG,1.85,NG,1.85
+Turkey - 2. Lig,Kirklarelispor,Bucaspor,Sat 13:00,1,3.45,X,3.10,2,2.05,O 2.5,2.35,U 2.5,1.52,GG,2.08,NG,1.67
+Turkey - 2. Lig,Menemen Belediye Spor,Isparta 32 Spor,Sat 13:00,1,2.30,X,3.10,2,2.90,O 2.5,2.30,U 2.5,1.54,GG,2.02,NG,1.71
+Turkey - 2. Lig,Utas Usakspor A.s,Sariyer,Sat 13:00,1,2.30,X,3.15,2,2.85,O 2.5,2.07,U 2.5,1.67,GG,1.84,NG,1.86
+Turkey - 2. Lig,Van Spor FK,Karacabey Belediyespor,Sat 13:00,1,2.25,X,3.00,2,3.10,O 2.5,2.35,U 2.5,1.52,GG,2.02,NG,1.71
+Turkey - 2. Lig,Zonguldak Komurspor,Etimesgut Belediyespor,Sat 13:00,1,1.98,X,3.25,2,3.50,O 2.5,2.25,U 2.5,1.58,GG,2.02,NG,1.71
+Turkey - U19 League,Altay U19,Ankara Keclorengucu U19,Sat 10:00,1,2.25,X,3.50,2,2.65,O 2.5,1.77,U 2.5,1.94,GG,1.66,NG,2.09
+Turkey - U19 League,Antalyaspor U19,Umraniyespor U19,Sat 11:00,1,1.51,X,4.30,2,4.65,O 3.5,2.15,U 3.5,1.61,GG,1.58,NG,2.25
+Turkey - U19 League,Balikesirspor U19,Samsunspor U19,Sat 11:00,1,5.60,X,4.45,2,1.41,O 2.5,1.56,U 2.5,2.30,GG,1.74,NG,1.97
+Turkey - U19 League,Bandirmaspor U19,Adanaspor U19,Sat 11:00,1,1.76,X,4.00,2,3.40,O 3.5,2.20,U 3.5,1.59,GG,1.51,NG,2.40
+Turkey - U19 League,Bodrumspor U19,Eskisehirspor U19,Sat 11:00,1,1.86,X,3.40,2,3.60,O 2.5,1.86,U 2.5,1.84,GG,1.75,NG,1.96
+Turkey - U19 League,Boluspor U19,Bursaspor U19,Sat 11:00,1,2.20,X,3.25,2,2.90,O 3.5,2.15,U 3.5,1.63,GG,1.39,NG,2.75
+Turkey - U19 League,Denizlispor U19,Genclerbirligi U19,Sat 11:00,1,2.10,X,3.60,2,2.80,O 2.5,1.67,U 2.5,2.08,GG,1.59,NG,2.20
+Turkey - U19 League,Eyupspor U19,BB Erzurumspor U19,Sat 11:00,1,1.72,X,3.75,2,3.85,O 2.5,1.73,U 2.5,1.99,GG,1.72,NG,2.01
+Turkey - U19 League,Kocaelispor U19,Erokspor U19,Sat 11:00,1,1.74,X,3.60,2,3.85,O 2.5,1.82,U 2.5,1.89,GG,1.78,NG,1.93
+Turkey - U19 League,Konyaspor U19,Kasimpasa U19,Sat 11:00,1,1.57,X,3.85,2,4.70,O 2.5,1.77,U 2.5,1.94,GG,1.83,NG,1.88
+Turkey - U19 League,Sakaryaspor U19,Pendikspor U19,Sat 11:00,1,2.09,X,3.65,2,2.80,O 2.5,1.63,U 2.5,2.15,GG,1.57,NG,2.25
+Turkey - U19 League,Tuzlaspor U19,Caykur Rizespor U19,Sat 11:00,1,2.01,X,3.55,2,3.00,O 2.5,1.77,U 2.5,1.94,GG,1.69,NG,2.05
+Turkey - U19 League,Manisaspor U19,Afjet Afyonspor U19,Sat 13:00,1,1.41,X,4.30,2,6.00,O 2.5,1.60,U 2.5,2.20,GG,1.79,NG,1.92
+Turkey - 1. Lig,Keciorengucu,Genclerbirligi,Sat 12:30,1,1.90,X,3.65,2,3.70,O 2.5,1.87,U 2.5,1.90,GG,1.77,NG,1.98
+Turkey - 1. Lig,Tuzlaspor,Goztepe,Sat 12:30,1,2.80,X,3.40,2,2.40,O 2.5,1.94,U 2.5,1.84,GG,1.74,NG,2.02
+Turkey - 1. Lig,Altay Izmir,Manisa Futbol Kulubu,Sat 15:00,1,3.25,X,3.40,2,2.10,O 2.5,1.94,U 2.5,1.84,GG,1.76,NG,1.99
+Bosnia - Prva Liga,FK Zeljeznicar Banjaluka,FK Sutjeska Foca,Sat 14:00,1,1.34,X,4.85,2,6.40,O 2.5,1.58,U 2.5,2.25,GG,1.87,NG,1.84
+Bosnia - Prva Liga,FK Podrinje,FK Kozara Gradiska,Sat 15:30,1,1.64,X,3.60,2,4.45,O 2.5,1.86,U 2.5,1.84,GG,1.85,NG,1.86
+Bosnia - Prva Liga,FK Drina Zvornik,FK Famos Vojkovici,Sat 16:00,1,1.60,X,3.90,2,4.45,O 2.5,1.90,U 2.5,1.81,GG,1.95,NG,1.77
+Bosnia - Prva Liga,FK Ljubic Prnjavor,Radnik Bijeljina,Sat 16:00,1,1.48,X,3.95,2,5.45,O 2.5,1.95,U 2.5,1.76,GG,2.09,NG,1.66
+Bosnia - Prva Liga,FK Sloboda Mrkonjic Grad,FK Laktasi,Sat 16:00,1,4.40,X,3.90,2,1.60,O 2.5,1.77,U 2.5,1.94,GG,1.81,NG,1.89
+Bosnia - Prva Liga,FK Sloboda Novi Grad,FK Omarska,Sat 16:00,1,1.22,X,5.50,2,9.00,O 3.5,2.06,U 3.5,1.68,Markets are not available,No_market,No_market,No_market
+Bosnia - Prva Liga,FK Radnicki Lukavac,FK Radnik Hadzici,Sat 16:30,1,2.20,X,3.70,2,2.60,O 2.5,1.77,U 2.5,1.94,GG,1.69,NG,2.04
+Bosnia - Prva Liga,NK Travnik,NK Gosk Gabela,Sat 16:30,1,6.40,X,4.65,2,1.35,O 2.5,1.61,U 2.5,2.20,GG,1.87,NG,1.83
+Czech Republic - 2. Liga,MFK Chrudim,Taborsko,Sat 15:00,1,2.08,X,3.35,2,3.20,O 2.5,1.96,U 2.5,1.79,GG,1.80,NG,1.95
+Croatia - Prva NL,HNK Vukovar 1991,NK Jarun,Sat 16:00,1,1.58,X,3.85,2,4.85,O 2.5,1.77,U 2.5,1.94,GG,1.82,NG,1.88
+Croatia - Prva NL,Dubrava,BSK Bijelo Brdo,Sat 16:30,1,1.73,X,3.50,2,4.25,O 2.5,2.05,U 2.5,1.69,GG,1.98,NG,1.74
+Denmark - 3rd Division,Dalum,Naesby,Sat 14:00,1,13.75,X,6.10,2,1.15,O 3.5,2.15,U 3.5,1.64,Markets are not available,No_market,No_market,No_market
+Denmark - 3rd Division,FA 2000,Vanlose,Sat 14:45,1,1.96,X,3.45,2,3.20,O 2.5,1.83,U 2.5,1.88,GG,1.73,NG,2.00
+Denmark - 3rd Division,AB Tarnby,IF Lyseng,Sat 15:00,1,2.10,X,3.55,2,2.85,O 2.5,1.58,U 2.5,2.25,GG,1.52,NG,2.40
+Denmark - 3rd Division,Holstebro,Ishoej IF,Sat 15:00,1,3.60,X,3.65,2,1.79,O 2.5,1.65,U 2.5,2.10,GG,1.62,NG,2.15
+Denmark - 3rd Division,Middelfart,Oure-Skolernes BK,Sat 15:00,1,1.19,X,5.70,2,10.25,O 3.5,1.98,U 3.5,1.74,GG,1.88,NG,1.82
+Denmark - 3rd Division,Silkeborg Kfum,VSK Arhus,Sat 15:00,1,2.50,X,3.20,2,2.50,O 2.5,1.82,U 2.5,1.89,GG,1.65,NG,2.10
+Denmark - Denmark Series,GVI,Goerslev IF,Sat 13:00,1,2.15,X,3.60,2,2.75,O 2.5,1.60,U 2.5,2.20,GG,1.54,NG,2.35
+Denmark - Denmark Series,Aalborg BK II,Vri,Sat 14:00,1,1.55,X,4.35,2,4.25,O 3.5,2.20,U 3.5,1.59,GG,1.58,NG,2.25
+Denmark - Denmark Series,ASA Aarhus,Arhus Fremad 2,Sat 14:00,1,3.65,X,4.25,2,1.67,O 3.5,1.95,U 3.5,1.76,GG,1.43,NG,2.60
+Denmark - Denmark Series,Frederikssund IK,Avarta,Sat 14:00,1,3.45,X,3.80,2,1.80,O 3.5,2.25,U 3.5,1.56,GG,1.52,NG,2.40
+Denmark - Denmark Series,Karlslunde IF,Herstedster IC,Sat 14:00,1,1.34,X,5.00,2,6.20,O 3.5,1.95,U 3.5,1.77,GG,1.60,NG,2.20
+Denmark - Denmark Series,OKS Odense,Tarup-Paarup IF,Sat 14:00,1,2.70,X,3.75,2,2.10,O 2.5,1.63,U 2.5,2.15,GG,1.58,NG,2.25
+Denmark - Denmark Series,Otterup,Hedensted IF,Sat 14:00,1,5.40,X,4.45,2,1.43,O 3.5,2.25,U 3.5,1.58,GG,1.67,NG,2.08
+Denmark - Denmark Series,Viby IF,FC Djursland,Sat 14:00,1,1.25,X,5.80,2,7.40,O 3.5,1.80,U 3.5,1.91,GG,1.62,NG,2.15
+Denmark - Denmark Series,Marienlyst,Holbaek,Sat 14:30,1,2.60,X,3.70,2,2.20,O 2.5,1.54,U 2.5,2.30,GG,1.50,NG,2.45
+Denmark - Denmark Series,Norresundby FB,Kjellerup,Sat 14:30,1,1.45,X,4.60,2,4.95,O 3.5,1.92,U 3.5,1.79,GG,1.50,NG,2.40
+Denmark - Denmark Series,Bronshoj,Ringkobing,Sat 15:00,1,1.70,X,4.00,2,3.70,O 2.5,1.54,U 2.5,2.30,GG,1.57,NG,2.25
+Denmark - Denmark Series,Odder IGF,Vejgaard Bsk,Sat 15:00,1,2.95,X,3.80,2,1.98,O 2.5,1.54,U 2.5,2.30,GG,1.51,NG,2.40
+Denmark - Denmark Series,Greve,B 1908,Sat 15:30,1,1.71,X,3.90,2,3.75,O 3.5,2.25,U 3.5,1.56,GG,1.54,NG,2.35
+Denmark - Denmark Series,Varde,Brabrand IF II,Sat 16:30,1,1.83,X,3.85,2,3.30,O 2.5,1.63,U 2.5,2.15,GG,1.61,NG,2.15
+Ireland - 1st Division,Bray Wanderers,Wexford Youths,21:45,1,2.01,X,3.40,2,3.35,O 2.5,1.90,U 2.5,1.84,GG,1.76,NG,1.99
+Ireland - 1st Division,Galway United,Longford Town FC,21:45,1,1.19,X,5.80,2,13.00,O 2.5,1.70,U 2.5,2.07,GG,2.60,NG,1.47
+Ireland - 1st Division,Kerry FC,Athlone Town,21:45,1,6.30,X,4.60,2,1.40,O 2.5,1.62,U 2.5,2.20,GG,1.84,NG,1.90
+Ireland - 1st Division,Finn Harps,Cobh Ramblers,22:00,1,2.85,X,3.25,2,2.35,O 2.5,2.03,U 2.5,1.73,GG,1.82,NG,1.92
+Czech Republic - 3. Liga,Bohemians Praha 1905 II,Kraluv Dvur,Sat 11:15,1,1.63,X,3.90,2,4.30,O 2.5,1.70,U 2.5,2.04,GG,1.73,NG,1.99
+Czech Republic - 3. Liga,FC Hradec Kralove II,FK Pardubice II,Sat 11:15,1,1.85,X,3.75,2,3.40,O 2.5,1.67,U 2.5,2.08,GG,1.64,NG,2.15
+Czech Republic - 3. Liga,Jablonec II,Sokol Zapy,Sat 11:15,1,1.97,X,3.75,2,3.10,O 2.5,1.65,U 2.5,2.10,GG,1.60,NG,2.20
+Czech Republic - 3. Liga,Loko Vltavin,Admira Praha,Sat 11:15,1,2.20,X,3.45,2,2.80,O 2.5,1.87,U 2.5,1.83,GG,1.74,NG,1.98
+Czech Republic - 3. Liga,SK Benesov,Usti nad Labem,Sat 11:15,1,1.78,X,3.85,2,3.60,O 2.5,1.69,U 2.5,2.05,GG,1.67,NG,2.08
+Czech Republic - 3. Liga,SK Motorlet Praha,FC Viktoria Plzen II,Sat 11:15,1,2.15,X,3.50,2,2.80,O 2.5,1.71,U 2.5,2.02,GG,1.62,NG,2.15
+Czech Republic - 3. Liga,FK Prepere,Zivanice,Sat 11:30,1,1.74,X,3.80,2,3.80,O 2.5,1.62,U 2.5,2.15,GG,1.62,NG,2.15
+Czech Republic - 3. Liga,SK Dynamo Ceske Budejovice ΙΙ,FK Dukla Praha II,Sat 11:30,1,1.76,X,4.05,2,3.50,O 2.5,1.58,U 2.5,2.25,GG,1.60,NG,2.20
+Czech Republic - 3. Liga,TJ Prestice,Hostoun,Sat 15:30,1,1.94,X,3.80,2,3.10,O 2.5,1.61,U 2.5,2.20,GG,1.57,NG,2.25
+Czech Republic - 3. Liga,Banik Sous,Slovan Velvary,Sat 16:00,1,1.97,X,3.60,2,3.15,O 2.5,1.58,U 2.5,2.25,GG,1.53,NG,2.35
+Czech Republic - 3. Liga,CSK Uhersky Brod,Hlucin,Sat 16:00,1,3.15,X,3.80,2,1.92,O 2.5,1.63,U 2.5,2.15,GG,1.59,NG,2.20
+Czech Republic - 3. Liga,FK Apos Blansko,FC Fastav Zlin ΙΙ,Sat 16:00,1,1.85,X,3.70,2,3.45,O 2.5,1.65,U 2.5,2.10,GG,1.62,NG,2.15
+Czech Republic - 3. Liga,FK Hodonin,SK Hanacka Slavia Kromeriz,Sat 16:00,1,3.80,X,3.75,2,1.76,O 2.5,1.63,U 2.5,2.15,GG,1.61,NG,2.15
+Czech Republic - 3. Liga,Frydek-Mistek,SK Hranice,Sat 16:00,1,1.94,X,3.60,2,3.25,O 2.5,1.65,U 2.5,2.10,GG,1.59,NG,2.20
+Czech Republic - 3. Liga,Frydlant Nad Ostravici,FC Velke Mezirici,Sat 16:00,1,1.82,X,3.90,2,3.45,O 3.5,2.25,U 3.5,1.58,GG,1.50,NG,2.40
+Czech Republic - 3. Liga,Vitkovice,Slovacko II,Sat 16:00,1,8.60,X,5.25,2,1.26,O 3.5,2.04,U 3.5,1.70,GG,1.78,NG,1.93
+Czech Republic - 3. Liga,Znojmo,Slovan Rosice,Sat 16:00,1,2.07,X,3.85,2,2.80,O 2.5,1.58,U 2.5,2.25,GG,1.54,NG,2.30
+Czech Republic - 3. Liga,Karlovy Vary,FC Pisek,Sat 19:00,1,1.92,X,3.60,2,3.30,O 2.5,1.65,U 2.5,2.10,GG,1.60,NG,2.20
+Czech Republic - League U19,Ceske Budejovice U19,Slovacko U19,Sat 14:00,1,1.98,X,3.75,2,2.95,O 2.5,1.71,U 2.5,2.01,GG,1.66,NG,2.09
+Czech Republic - League U19,Pribram U19,Karvina U19,Sat 14:15,1,7.50,X,5.60,2,1.25,O 3.5,1.91,U 3.5,1.79,GG,1.69,NG,2.05
+Czech Republic - League U19,FC Banik Ostrava U19,Mlada Boleslav U19,Sat 15:00,1,1.91,X,3.95,2,3.00,O 2.5,1.60,U 2.5,2.20,GG,1.59,NG,2.20
+Czech Republic - League U19,FC Fastav Zlin U19,Dukla Prague U19,Sat 15:00,1,2.10,X,3.85,2,2.70,O 3.5,1.96,U 3.5,1.76,GG,1.38,NG,2.80
+Denmark - 2nd Division,HIK Hellerup,Brabrand,Sat 13:45,1,1.84,X,3.60,2,3.70,O 2.5,1.79,U 2.5,1.96,GG,1.72,NG,2.04
+N. Ireland - NIFL Premiership,Dungannon Swifts,Linfield FC,21:45,1,13.50,X,5.80,2,1.19,O 2.5,1.70,U 2.5,2.08,GG,2.60,NG,1.46
+N. Ireland - NIFL Premiership,Ballymena United FC,Glenavon,Sat 17:00,1,2.90,X,3.40,2,2.20,O 2.5,1.78,U 2.5,1.97,GG,1.65,NG,2.15
+N. Ireland - NIFL Premiership,Coleraine,Larne FC,Sat 17:00,1,3.20,X,3.05,2,2.20,O 2.5,2.30,U 2.5,1.57,GG,2.00,NG,1.75
+N. Ireland - NIFL Premiership,Crusaders,Carrick Rangers FC,Sat 17:00,1,1.31,X,5.00,2,8.00,O 2.5,1.57,U 2.5,2.30,GG,1.92,NG,1.82
+N. Ireland - NIFL Premiership,Newry City,Cliftonville,Sat 17:00,1,7.60,X,4.95,2,1.32,O 3.5,2.30,U 3.5,1.58,GG,1.84,NG,1.90
+N. Ireland - NIFL Championship,Annagh United,Ballinamallard United,Sat 17:00,1,1.66,X,4.00,2,4.20,O 2.5,1.57,U 2.5,2.30,GG,1.61,NG,2.25
+N. Ireland - NIFL Championship,Dundela,Ards,Sat 17:00,1,1.87,X,3.85,2,3.35,O 3.5,2.25,U 3.5,1.59,GG,1.50,NG,2.45
+N. Ireland - NIFL Championship,Harland and Wolff Welders,Loughgall,Sat 17:00,1,5.80,X,4.55,2,1.43,O 2.5,1.57,U 2.5,2.30,GG,1.75,NG,2.00
+N. Ireland - NIFL Championship,Knockbreda,Institute,Sat 17:00,1,3.20,X,3.80,2,1.96,O 3.5,2.35,U 3.5,1.55,GG,1.52,NG,2.45
+N. Ireland - NIFL Championship,Newington FK,Ballyclare Comrades Football Club,Sat 17:00,1,2.60,X,3.80,2,2.25,O 3.5,2.30,U 3.5,1.58,GG,1.49,NG,2.50
+N. Ireland - NIFL Championship,Warrenpoint Town,Dergview,Sat 17:00,1,1.41,X,4.60,2,6.20,O 3.5,2.25,U 3.5,1.59,GG,1.71,NG,2.07
+Slovenia - 2. SNL,ND Beltinci,Krsko Posavlje,Sat 16:00,1,1.54,X,3.95,2,5.05,O 2.5,1.69,U 2.5,2.04,GG,1.78,NG,1.93
+Slovakia - 2. Liga,Dubnica Nad Vahom,FK Povazska Bystrica,Sat 15:30,1,2.30,X,3.50,2,2.70,O 2.5,1.76,U 2.5,1.99,GG,1.65,NG,2.15
+Slovakia - 2. Liga,FK Humenne,Dolny Kubin,Sat 15:30,1,1.48,X,4.30,2,5.50,O 2.5,1.68,U 2.5,2.10,GG,1.83,NG,1.91
+Slovakia - 2. Liga,Puchov,FK Raca Bratislava,Sat 15:30,1,1.57,X,4.10,2,4.80,O 2.5,1.62,U 2.5,2.20,GG,1.70,NG,2.08
+Slovakia - 2. Liga,Slavoj Trebisov,Tatran Presov,Sat 15:30,1,3.85,X,3.60,2,1.81,O 2.5,1.93,U 2.5,1.82,GG,1.85,NG,1.89
+Switzerland - NLA (W),Young Boys (W),FC Yverdon (W),Sat 17:00,1,1.07,X,8.20,2,19.25,O 3.5,1.64,U 3.5,2.10,Markets are not available,No_market,No_market,No_market
+Wales - Premier League,GAP Connah'S Quay,Newtown,21:45,1,1.60,X,3.95,2,5.60,O 2.5,1.96,U 2.5,1.82,GG,1.99,NG,1.76
+Wales - Premier League,Aberystwyth,Flint Town United FC,Sat 16:30,1,2.90,X,3.35,2,2.25,O 2.5,1.74,U 2.5,2.02,GG,1.61,NG,2.25
+Wales - Premier League,Haverfordwest County,Caernarfon,Sat 16:30,1,1.95,X,3.45,2,3.45,O 2.5,1.67,U 2.5,2.15,GG,1.58,NG,2.30
+Wales - Premier League,Penybont FC,Bala Town,Sat 16:30,1,2.15,X,3.40,2,3.05,O 2.5,1.80,U 2.5,1.94,GG,1.67,NG,2.10
+Wales - Premier League,The New Saints,Cardiff Met University,Sat 16:30,1,1.15,X,6.90,2,13.75,O 3.5,1.86,U 3.5,1.88,GG,1.99,NG,1.76
+Wales - Cymru Championship,Abergavenny Town,Ynyshir Albions,21:30,1,1.93,X,3.75,2,3.20,O 2.5,1.58,U 2.5,2.25,GG,1.54,NG,2.30
+Wales - Cymru Championship,Llandudno,Conwy Borough FC,21:30,1,1.18,X,6.00,2,11.75,O 3.5,2.02,U 3.5,1.71,GG,1.99,NG,1.73
+Wales - Cymru Championship,Llanelli AFC,Briton Ferry,21:30,1,2.20,X,3.75,2,2.55,O 3.5,2.20,U 3.5,1.60,GG,1.46,NG,2.55
+Wales - Cymru Championship,Ruthin Town FC,Buckley Town,21:30,1,1.87,X,3.85,2,3.30,O 3.5,2.25,U 3.5,1.56,GG,1.51,NG,2.40
+Wales - Cymru Championship,Carmarthen Town AFC,Goytre United FC,Sat 16:00,1,1.43,X,4.45,2,5.35,O 3.5,2.25,U 3.5,1.58,GG,1.66,NG,2.09
+Wales - Cymru Championship,Chirk,Llanidloes Town,Sat 16:00,1,2.03,X,3.75,2,2.85,O 3.5,2.25,U 3.5,1.58,GG,1.48,NG,2.50
+Wales - Cymru Championship,Barry Town,Pontardawe Town,Sat 16:30,1,1.22,X,5.90,2,8.50,O 3.5,1.79,U 3.5,1.91,GG,1.68,NG,2.07
+Wales - Cymru Championship,Cambrian & Clydach,Cwmbran Celtic FC,Sat 16:30,1,1.72,X,4.00,2,3.60,O 3.5,1.91,U 3.5,1.80,GG,1.40,NG,2.75
+Wales - Cymru Championship,Colwyn Bay,Holywell,Sat 16:30,1,1.56,X,4.00,2,4.50,O 2.5,1.58,U 2.5,2.25,GG,1.65,NG,2.10
+Wales - Cymru Championship,Holyhead Hotspur FC,Cefn Druids,Sat 16:30,1,3.10,X,3.65,2,1.95,O 3.5,2.25,U 3.5,1.58,GG,1.47,NG,2.50
+Wales - Cymru Championship,Llantwit Major,Afan Lido FC,Sat 16:30,1,2.15,X,3.40,2,2.85,O 3.5,2.30,U 3.5,1.55,GG,1.46,NG,2.50
+Wales - Cymru Championship,Mold Alexandra,Gresford Athletic,Sat 16:30,1,1.99,X,3.55,2,3.10,O 2.5,1.67,U 2.5,2.08,GG,1.60,NG,2.20
+Wales - Cymru Championship,Porthmadog,Penrhyncoch,Sat 16:30,1,1.73,X,3.85,2,3.70,O 3.5,2.25,U 3.5,1.56,GG,1.53,NG,2.35
+Wales - Cymru Championship,Prestatyn,Guilsfield,Sat 16:30,1,3.05,X,3.70,2,1.95,O 3.5,2.25,U 3.5,1.58,GG,1.48,NG,2.50
+Wales - Cymru Championship,Taff's Well AFC,Ammanford,Sat 16:30,1,1.62,X,4.15,2,4.00,O 3.5,2.15,U 3.5,1.62,GG,1.53,NG,2.35
+Wales - Cymru Championship,Trefelin FC,Swansea University FC,Sat 16:30,1,1.72,X,3.85,2,3.70,O 3.5,2.20,U 3.5,1.60,GG,1.51,NG,2.40
+Argentina - Primera C Metropolitana,Real Pilar FC,Berazategui,Sat 19:30,1,2.20,X,3.20,2,2.95,O 2.5,2.30,U 2.5,1.54,GG,2.06,NG,1.68
+Brazil - Campeonato Paulista A3,Desportivo Brasil SP,Gremio Prudente,Sat 20:00,1,2.30,X,3.00,2,2.95,O 2.5,2.45,U 2.5,1.49,GG,2.09,NG,1.66
+Brazil - Campeonato Paulista A3,Sao Bernardo SP,Capivariano FC SP,Sat 20:00,1,2.30,X,3.15,2,2.85,O 2.5,2.25,U 2.5,1.58,GG,1.97,NG,1.75
+Brazil - Campeonato Paulista A3,Uniao Suzano AC SP,EC Sao Jose,Sat 20:00,1,2.15,X,2.85,2,3.35,O 2.5,2.40,U 2.5,1.51,GG,2.03,NG,1.70
+Brazil - Campeonato Capixaba,Real Noroeste ES,Serra ES,Sat 00:45,1,1.84,X,3.35,2,3.75,O 2.5,1.94,U 2.5,1.77,GG,1.83,NG,1.88
+Brazil - Campeonato Capixaba,Nova Venecia,Rio Branco FC-AC,Sat 20:00,1,1.62,X,3.70,2,4.50,O 2.5,1.80,U 2.5,1.91,GG,1.81,NG,1.89
+Brazil - Carioca U20,CR Flamengo RJ U20,AA Portuguesa RJ U20,Sat 15:00,1,1.18,X,5.60,2,12.25,O 2.5,1.57,U 2.5,2.25,GG,2.30,NG,1.54
+Mexico - Liga MX (W),Club America (W),Guadalajara (W),Sat 03:00,1,1.74,X,3.50,2,4.20,O 2.5,1.83,U 2.5,1.87,GG,1.77,NG,1.94
+Mexico - Liga MX (W),Queretaro (W),Unam Pumas (W),Sat 05:05,1,3.95,X,3.45,2,1.80,O 2.5,2.15,U 2.5,1.63,GG,2.03,NG,1.70
+Mexico - Liga MX (W),Cruz Azul (W),FC Juarez (W),Sat 20:00,1,2.90,X,3.40,2,2.15,O 2.5,1.83,U 2.5,1.87,GG,1.70,NG,2.03
+Costa Rica - Primera Division,Guadelupe FC,Sporting FC,Sat 01:30,1,3.25,X,3.45,2,2.04,O 2.5,1.84,U 2.5,1.90,GG,1.72,NG,2.05
+Costa Rica - Primera Division,LD Alajuelense,AD Guanacasteca,Sat 04:00,1,1.29,X,4.90,2,9.10,O 2.5,1.79,U 2.5,1.95,GG,2.30,NG,1.57
+Costa Rica - Primera Division,Puntarenas FC,Deportivo Saprissa,Sat 04:00,1,4.05,X,3.40,2,1.83,O 2.5,2.20,U 2.5,1.64,GG,2.03,NG,1.73
+Mexico - Liga de Expansion MX,Alebrijes de Oaxaca,Club Atletico La Paz,Sat 01:05,1,1.88,X,3.95,2,3.65,O 2.5,1.72,U 2.5,2.08,GG,1.68,NG,2.10
+Mexico - Liga de Expansion MX,Cancun FC,Cimarrones de Sonora,Sat 03:05,1,2.85,X,3.25,2,2.50,O 2.5,2.30,U 2.5,1.60,GG,1.98,NG,1.77
+USA - USL Championship,Pittsburgh Riverhounds,Miami,Sat 01:00,1,1.94,X,3.50,2,3.50,O 2.5,1.95,U 2.5,1.79,GG,1.83,NG,1.91
+USA - USL Championship,Rio Grande Valley FC,Monterey Bay FC,Sat 02:00,1,1.53,X,4.25,2,4.95,O 2.5,1.62,U 2.5,2.20,GG,1.72,NG,2.04
+USA - USL Championship,Hartford Athletic,Birmingham Legion FC,Sat 20:00,1,3.15,X,3.50,2,2.04,O 2.5,1.68,U 2.5,2.10,GG,1.59,NG,2.25
+USA - NWSL (W),North Carolina Courage (W),Kansas City (W),Sat 20:00,1,1.91,X,3.45,2,3.35,O 2.5,1.76,U 2.5,1.95,GG,1.67,NG,2.07
+Panama - LPF,CA Independiente de La Chorrera,Plaza Amador,Sat 03:00,1,1.97,X,3.10,2,3.70,O 2.5,2.35,U 2.5,1.53,GG,2.07,NG,1.67
+Mexico - Segunda Division,Inter Playa Del Carmen,Tritones Vallarta MFC,Sat 01:00,1,1.90,X,3.30,2,3.70,O 2.5,2.15,U 2.5,1.62,GG,1.98,NG,1.74
+Colombia - Primera B,Itagui Leones,Valledupar FC,23:00,1,1.81,X,3.30,2,4.30,O 2.5,2.35,U 2.5,1.55,GG,2.15,NG,1.64
+Colombia - Primera B,Boyaca Patriotas,Fortaleza,Sat 01:00,1,2.00,X,3.15,2,3.70,O 2.5,2.35,U 2.5,1.55,GG,2.09,NG,1.69
+Colombia - Primera B,Deportes Quindio,Orsomarso,Sat 01:05,1,1.49,X,3.80,2,6.50,O 2.5,2.20,U 2.5,1.61,GG,2.40,NG,1.54
+Colombia - Primera A,Rionegro Aguilas,Envigado,Sat 03:10,1,1.70,X,3.70,2,5.25,O 2.5,2.30,U 2.5,1.60,GG,2.25,NG,1.61
+Chile - Segunda Division,Lautaro de Buin,CDSC Iberia,Sat 01:00,1,1.94,X,3.45,2,3.40,O 2.5,1.71,U 2.5,2.02,GG,1.62,NG,2.15
+Peru - Liga 1,Universitario de Deportes,Cienciano,Sat 03:30,1,1.49,X,3.95,2,5.90,O 2.5,1.86,U 2.5,1.88,GG,1.99,NG,1.76
+Colombia - Liga Femenina,Deportes Tolima (W),Atletico Nacional (W),23:00,1,5.50,X,3.80,2,1.53,O 2.5,1.95,U 2.5,1.76,GG,2.04,NG,1.70
+Colombia - Liga Femenina,Junior (W),Deportivo Pereira (W),Sat 01:00,1,2.70,X,2.80,2,2.70,O 2.5,2.40,U 2.5,1.51,GG,1.98,NG,1.74
+Uruguay - Primera Division,Defensor Sporting,Plaza Colonia,Sat 02:15,1,1.62,X,4.00,2,5.20,O 2.5,2.15,U 2.5,1.68,GG,2.15,NG,1.64
+Uruguay - Primera Division,Danubio,Deportivo Maldonado,Sat 15:00,1,2.20,X,3.25,2,3.40,O 2.5,2.50,U 2.5,1.51,GG,2.15,NG,1.65
+Uruguay - Segunda Division,Rentistas,Cerrito,Sat 00:00,1,1.67,X,3.45,2,4.70,O 2.5,2.20,U 2.5,1.61,GG,2.10,NG,1.64
+Indonesia - Liga 1,Persebaya Surabaya,Tira-Persikabo,Sat 15:30,1,1.82,X,3.50,2,3.75,O 2.5,1.76,U 2.5,1.95,GG,1.69,NG,2.05
+UAE - 1st Division,AL Arabi (UAE),Al Rams,Sat 20:00,1,1.66,X,3.70,2,4.25,O 2.5,1.76,U 2.5,1.95,GG,1.76,NG,1.95
+UAE - 1st Division,Al-Thaid,Fursan Hispania FC,Sat 20:00,1,1.31,X,4.75,2,7.20,O 2.5,1.60,U 2.5,2.20,GG,1.94,NG,1.77
+UAE - 1st Division,Masafi,Al Urooba,Sat 20:00,1,3.15,X,3.40,2,2.01,O 2.5,1.87,U 2.5,1.83,GG,1.75,NG,1.97
+UAE - 1st Division,Masfoot Sports Club,City Football Club,Sat 20:00,1,1.43,X,4.30,2,5.60,O 2.5,1.67,U 2.5,2.07,GG,1.85,NG,1.85
+Japan - Nadeshiko League (W),Bunnies Gunma FC White Star (W),Nippon Scu (W),Sat 06:00,1,2.85,X,3.10,2,2.30,O 2.5,2.15,U 2.5,1.63,GG,1.88,NG,1.82
+Japan - Nadeshiko League (W),Ehime (W),AS Harima Albion (W),Sat 06:00,1,4.80,X,3.65,2,1.59,O 2.5,1.92,U 2.5,1.79,GG,1.93,NG,1.78
+Japan - J3-League,Grulla Morioka FC,Azul Claro Numazu,Sat 07:00,1,1.94,X,3.30,2,3.50,O 2.5,1.91,U 2.5,1.80,GG,1.77,NG,1.95
+Japan - J2-League,JEF United,Okayama,Sat 07:00,1,2.50,X,3.00,2,2.80,O 2.5,2.35,U 2.5,1.55,GG,2.00,NG,1.76
+Japan - J2-League,Omiya Ardija,Oita Trinita,Sat 07:00,1,3.20,X,3.15,2,2.15,O 2.5,2.08,U 2.5,1.70,GG,1.85,NG,1.89
+Japan - J2-League,Tokushima Vortis,Blaublitz Akita,Sat 07:00,1,2.30,X,2.95,2,3.20,O 1.5,1.56,U 1.5,2.30,GG,2.25,NG,1.61
+Japan - J2-League,V Varen Nagasaki,Montedio Yamagata,Sat 07:00,1,2.65,X,3.10,2,2.55,O 2.5,2.07,U 2.5,1.70,GG,1.81,NG,1.93
+Japan - J2-League,Vegalta Sendai,Zweigen Kanazawa,Sat 07:00,1,1.85,X,3.40,2,3.90,O 2.5,1.97,U 2.5,1.78,GG,1.85,NG,1.89
+Japan - J2-League,Tokyo Verdy,Kumamoto,Sat 08:00,1,2.01,X,3.25,2,3.50,O 2.5,2.08,U 2.5,1.70,GG,1.89,NG,1.85
+Cameroon - Elite One,AS Fortuna,Apejes de Mfou,Sat 15:00,1,2.95,X,3.35,2,2.15,O 2.5,1.99,U 2.5,1.73,GG,1.82,NG,1.88
+Cameroon - Elite One,Renaissance FC de Ngoumou,Aigle Royal De La Menoua,Sat 17:00,1,3.75,X,3.15,2,1.94,O 1.5,1.55,U 1.5,2.30,GG,2.35,NG,1.54
+Cameroon - Elite One,UMS de Loum,Colombe FC,Sat 17:00,1,2.35,X,2.85,2,3.05,O 1.5,1.60,U 1.5,2.20,GG,2.30,NG,1.56
+Senegal - Premier League,Teungueth,Cneps,Sat 18:30,1,1.52,X,3.40,2,6.60,O 1.5,1.62,U 1.5,2.15,GG,3.00,NG,1.34
+Australia - NPL Western Australia,Cockburn City,Bayswater City,Sat 09:00,1,3.75,X,4.00,2,1.68,O 3.5,2.04,U 3.5,1.70,GG,1.46,NG,2.55
+Australia - NPL Western Australia,Inglewood,Balcatta FC,Sat 09:00,1,1.42,X,4.55,2,5.35,O 3.5,2.10,U 3.5,1.65,GG,1.61,NG,2.20
+Australia - NPL Western Australia,Perth Glory U21,Armadale SC,Sat 09:00,1,3.35,X,4.20,2,1.74,O 3.5,1.77,U 3.5,1.94,GG,1.35,NG,2.95
+Australia - NPL Western Australia,Perth RedStar FC,Stirling Lions,Sat 09:00,1,1.90,X,3.75,2,3.15,O 3.5,2.20,U 3.5,1.60,GG,1.47,NG,2.50
+Australia - NPL Western Australia,Perth SC,Sorrento,Sat 09:00,1,2.25,X,3.75,2,2.55,O 3.5,2.20,U 3.5,1.60,GG,1.46,NG,2.55
+Australia - NPL Western Australia,Olympic Kingsway SC,Floreat Athena F.C.,Sat 13:00,1,2.95,X,3.65,2,2.00,O 3.5,2.10,U 3.5,1.64,GG,1.43,NG,2.65
+Australia - NPL Victoria,Moreland City,North Geelong Warriors,Sat 06:00,1,1.84,X,3.70,2,3.50,O 2.5,1.58,U 2.5,2.25,GG,1.55,NG,2.30
+Australia - NPL Victoria,Avondale FC,Green Gully Cavaliers,Sat 06:15,1,1.74,X,3.60,2,4.05,O 2.5,1.67,U 2.5,2.07,GG,1.64,NG,2.10
+Australia - NPL Victoria,Dandenong Thunder,Port Melbourne Sharks,Sat 10:00,1,2.95,X,3.35,2,2.15,O 2.5,1.78,U 2.5,1.93,GG,1.64,NG,2.10
+Australia - NPL Victoria,Oakleigh Cannons FC,Hume City,Sat 10:45,1,1.47,X,4.20,2,5.50,O 2.5,1.56,U 2.5,2.30,GG,1.69,NG,2.05
+Australia - NPL New South Wales,North Shore Mariners,St George City FA,Sat 08:00,1,4.10,X,4.00,2,1.65,O 3.5,2.20,U 3.5,1.60,GG,1.53,NG,2.35
+Australia - NPL New South Wales,Sutherland Sharks,Sydney United,Sat 09:30,1,3.50,X,3.80,2,1.82,O 3.5,2.25,U 3.5,1.58,GG,1.50,NG,2.40
+Australia - NPL New South Wales,Sydney Olympic,NSW Spirit,Sat 09:30,1,1.68,X,3.70,2,4.20,O 2.5,1.65,U 2.5,2.10,GG,1.65,NG,2.10
+Australia - NPL New South Wales,Marconi Stallions,Manly United FC,Sat 10:00,1,1.80,X,3.75,2,3.60,O 2.5,1.54,U 2.5,2.30,GG,1.53,NG,2.35
+Australia - NPL New South Wales,Western Sydney Wandererers U21,APIA Leichhardt Tigers,Sat 10:00,1,3.50,X,3.85,2,1.81,O 3.5,2.10,U 3.5,1.64,GG,1.46,NG,2.55
+Australia - NPL Queensland (W),Lions FC (W),Olympic FC NPL (W),Sat 08:45,1,1.01,X,11.25,2,29.00,O 4.5,1.61,U 4.5,2.20,Markets are not available,No_market,No_market,No_market
+Australia - NPL Queensland (W),Peninsula Power FC (W),Sunshine Coast Wanderers (W),Sat 11:00,1,1.30,X,5.20,2,6.80,O 3.5,2.00,U 3.5,1.73,GG,1.68,NG,2.07
+Australia - NPL South Australia (W),Fulham United (W),West Adelaide (W),Sat 05:30,1,9.30,X,5.80,2,1.20,O 3.5,1.95,U 3.5,1.77,GG,1.82,NG,1.89
+Australia - NPL South Australia (W),Adelaide Comets (W),West Torrens Birkalla SC (W),Sat 06:15,1,1.29,X,5.15,2,7.10,O 3.5,2.05,U 3.5,1.69,GG,1.72,NG,2.01
+Australia - NPL South Australia (W),Metro United (W),Flinders United (W),Sat 08:00,1,1.33,X,5.05,2,6.20,O 3.5,2.05,U 3.5,1.69,GG,1.66,NG,2.09
+Australia - South Australia NPL,Modbury Jets SC,South Adelaide,Sat 06:30,1,2.07,X,3.70,2,2.90,O 3.5,2.06,U 3.5,1.69,GG,1.40,NG,2.70
+Australia - South Australia NPL,Sturt Lions,Adelaide United U21,Sat 06:30,1,3.50,X,3.70,2,1.85,O 3.5,2.08,U 3.5,1.67,GG,1.43,NG,2.65
+Australia - South Australia NPL,Adelaide Comets,Cambelltown City,Sat 08:30,1,1.94,X,3.60,2,3.25,O 2.5,1.63,U 2.5,2.15,GG,1.57,NG,2.25
+Australia - South Australia NPL,Metrostars,West Adelaide SC,Sat 11:00,1,1.27,X,5.45,2,7.80,O 3.5,2.09,U 3.5,1.66,GG,1.80,NG,1.91
+Australia - Tasmania Premier League,Riverside Olympic,Kingborough Lions,Sat 05:30,1,12.25,X,7.00,2,1.14,O 3.5,1.71,U 3.5,2.02,Markets are not available,No_market,No_market,No_market
+Australia - Tasmania Premier League,Glenorchy Knights,Launceston City,Sat 07:30,1,1.44,X,4.60,2,5.25,O 3.5,2.04,U 3.5,1.70,GG,1.56,NG,2.25
+Australia - W-League,Newcastle Jets (W),Wellington Phoenix (W),Sat 06:00,1,2.55,X,3.35,2,2.55,O 2.5,1.62,U 2.5,2.20,GG,1.51,NG,2.45
+Australia - W-League,Sydney FC (W),Adelaide United (W),Sat 06:00,1,1.29,X,5.15,2,8.30,O 3.5,2.25,U 3.5,1.59,GG,1.88,NG,1.86
+Australia - W-League,Western United (W),Canberra United (W),Sat 06:00,1,1.54,X,4.20,2,4.90,O 2.5,1.55,U 2.5,2.35,GG,1.64,NG,2.15
+South Korea - K-League 3,Gangneung City,Ulsan Citizen FC,Sat 07:00,1,2.20,X,3.05,2,3.05,O 2.5,2.20,U 2.5,1.61,GG,1.92,NG,1.79
+South Korea - K-League 3,Daejeon Korail,Hwaseong FC,Sat 08:00,1,2.90,X,2.95,2,2.35,O 2.5,2.30,U 2.5,1.55,GG,1.96,NG,1.75
+South Korea - K-League 3,Gimhae City,Yangju Citizen,Sat 08:00,1,1.70,X,3.40,2,4.40,O 2.5,2.01,U 2.5,1.71,GG,1.94,NG,1.77
+Paraguay - Primera Division,Guarani CA,Guairena,Sat 00:00,1,1.62,X,3.80,2,5.60,O 2.5,2.10,U 2.5,1.71,GG,2.10,NG,1.68
+Switzerland - Promotion League,FC Bavois,Biel-Bienne,Sat 16:00,1,1.73,X,3.75,2,3.80,O 2.5,1.63,U 2.5,2.15,GG,1.62,NG,2.15
+Switzerland - Promotion League,Bruhl SG,Baden,Sat 17:00,1,2.10,X,3.50,2,2.85,O 3.5,2.25,U 3.5,1.57,GG,1.46,NG,2.55
+Switzerland - Promotion League,FC Luzern II,Young Boys II,Sat 17:00,1,1.52,X,4.30,2,4.55,O 3.5,1.94,U 3.5,1.77,GG,1.47,NG,2.50
+Switzerland - Promotion League,FC Stade Nyonnais,Basel II,Sat 17:00,1,1.52,X,4.30,2,4.55,O 3.5,2.07,U 3.5,1.68,GG,1.53,NG,2.35
+Switzerland - Promotion League,FC Zurich II,Kriens,Sat 17:00,1,1.96,X,3.55,2,3.15,O 2.5,1.60,U 2.5,2.20,GG,1.55,NG,2.30
+Switzerland - Promotion League,Juventus Zurich,FC Breitenrain,Sat 17:00,1,4.75,X,4.05,2,1.54,O 2.5,1.58,U 2.5,2.25,GG,1.66,NG,2.09
+England - National League South,Slough,Ebbsfleet,Sat 14:30,1,6.50,X,4.15,2,1.48,O 2.5,1.70,U 2.5,2.15,GG,1.82,NG,1.92
+England - National League South,Braintree,Taunton Town FC,Sat 17:00,1,1.81,X,3.60,2,4.20,O 2.5,2.04,U 2.5,1.75,GG,1.93,NG,1.81
+England - National League South,Cheshunt,Weymouth,Sat 17:00,1,3.20,X,3.55,2,2.10,O 2.5,1.94,U 2.5,1.84,GG,1.78,NG,1.96
+England - National League South,Chippenham,Eastbourne Borough,Sat 17:00,1,2.35,X,3.60,2,2.70,O 2.5,1.79,U 2.5,1.99,GG,1.66,NG,2.15
+England - National League South,Dartford Football Club,Chelmsford,Sat 17:00,1,1.94,X,3.70,2,3.50,O 2.5,1.79,U 2.5,1.99,GG,1.70,NG,2.07
+England - National League South,Dulwich,Oxford City,Sat 17:00,1,3.60,X,3.85,2,1.88,O 2.5,1.76,U 2.5,2.03,GG,1.70,NG,2.07
+England - National League South,Hampton & Richmond Borough FC,Farnborough,Sat 17:00,1,2.80,X,3.30,2,2.40,O 2.5,1.88,U 2.5,1.89,GG,1.68,NG,2.10
+England - National League South,Hemel Hempstead,Concord Rangers,Sat 17:00,1,1.70,X,3.70,2,4.35,O 2.5,1.90,U 2.5,1.84,GG,1.88,NG,1.86
+England - National League South,St. Albans,Dover Athletic FC,Sat 17:00,1,1.81,X,3.70,2,4.05,O 2.5,1.98,U 2.5,1.80,GG,1.89,NG,1.85
+England - National League South,Tonbridge Angels,Hungerford Town,Sat 17:00,1,1.89,X,3.70,2,3.70,O 2.5,1.81,U 2.5,1.97,GG,1.72,NG,2.04
+England - National League South,Welling,Bath City,Sat 17:00,1,3.10,X,3.40,2,2.20,O 2.5,2.09,U 2.5,1.72,GG,1.86,NG,1.88
+England - National League South,Worthing,Havant & Waterlooville,Sat 17:00,1,3.05,X,3.70,2,2.10,O 2.5,1.74,U 2.5,2.06,GG,1.65,NG,2.15
+Mexico - Liga TDP,Deportivo Chetumal FC,Venados FC II,23:00,1,2.20,X,3.50,2,2.75,O 2.5,1.79,U 2.5,1.92,GG,1.68,NG,2.06
+Mexico - Liga TDP,Universidad Autonoma de Zacatecas II,Atletico Leones,23:30,1,2.35,X,3.50,2,2.50,O 2.5,1.75,U 2.5,1.96,GG,1.65,NG,2.10
+Mexico - Liga TDP,Celaya FC II,Canada CTM Futbol Club,Sat 00:00,1,1.49,X,4.10,2,5.15,O 2.5,1.65,U 2.5,2.10,GG,1.77,NG,1.94
+Mexico - Liga TDP,Centro De Formacion Chiapas Futbol,Cruz Azul Lagunas,Sat 00:00,1,3.30,X,3.65,2,1.88,O 2.5,1.72,U 2.5,2.01,GG,1.66,NG,2.09
+Australia - NPL Queensland,Eastern Suburbs AFC,Redlands United FC,Sat 08:15,1,2.15,X,3.55,2,2.80,O 3.5,1.88,U 3.5,1.83,GG,1.33,NG,3.05
+Australia - NPL Queensland,Gold Coast Knights SC,Sunshine Coast Wanderers,Sat 09:00,1,1.63,X,4.00,2,4.20,O 3.5,2.09,U 3.5,1.66,GG,1.49,NG,2.45
+Australia - NPL Queensland,Gold Coast United,Moreton Bay United,Sat 10:15,1,2.07,X,3.60,2,2.95,O 3.5,2.08,U 3.5,1.67,GG,1.41,NG,2.70
+Australia - NPL Queensland,Queensland Lions,Peninsula Power,Sat 11:00,1,1.64,X,4.05,2,4.10,O 3.5,1.91,U 3.5,1.79,GG,1.41,NG,2.70
+Poland - Ekstraklasa (W),Czarni Sosnowiec (W),UKS SMS Lodz (W),Sat 12:00,1,4.25,X,3.85,2,1.63,O 2.5,1.68,U 2.5,2.06,GG,1.71,NG,2.02
+Poland - Ekstraklasa (W),Luks Sportowa Cworka Radom (W),Medyk Konin (W),Sat 13:00,1,9.40,X,5.60,2,1.21,O 3.5,2.07,U 3.5,1.67,GG,1.90,NG,1.81
+Poland - Ekstraklasa (W),Pogon Tczew (W),Slask Wroclaw (W),Sat 13:00,1,5.50,X,5.10,2,1.36,O 3.5,1.84,U 3.5,1.86,GG,1.52,NG,2.35
+Brazil - Campeonato Brasileiro U20,Gremio FB Porto Alegrense U20,Santos U20,Sat 01:00,1,1.87,X,3.60,2,3.50,O 2.5,1.65,U 2.5,2.10,GG,1.60,NG,2.20
+Tunisia - Ligue 2,AS Djerba,Kalaa Sport,Sat 14:30,1,2.95,X,2.65,2,2.55,O 1.5,1.72,U 1.5,2.01,GG,2.45,NG,1.49
+Tunisia - Ligue 2,Sfaxien,Hammam-Lif,Sat 14:30,1,4.50,X,3.05,2,1.79,O 1.5,1.55,U 1.5,2.30,GG,2.40,NG,1.52
+Tunisia - Ligue 2,Sporting Ben Arous,EGS Gafsa,Sat 14:30,1,4.05,X,3.00,2,1.89,O 1.5,1.53,U 1.5,2.35,GG,2.25,NG,1.57
+Tunisia - Ligue 2,Stade Gabesien,Croissant Sportif De Msaken,Sat 14:30,1,1.74,X,2.95,2,5.05,O 1.5,1.61,U 1.5,2.20,GG,2.55,NG,1.45
+Central America - CONCACAF Nations League,Anguilla,St. Lucia,in 40',1,8.60,X,5.05,2,1.32,O 2.5,1.58,U 2.5,2.35,GG,1.92,NG,1.82
+Central America - CONCACAF Nations League,Bahamas,Trinidad & Tobago,22:00,1,14.25,X,6.30,2,1.19,O 2.5,1.58,U 2.5,2.35,GG,2.35,NG,1.55
+Central America - CONCACAF Nations League,Grenada,USA,Sat 02:00,1,41.00,X,11.00,2,1.05,O 3.5,1.64,U 3.5,2.20,GG,4.20,NG,1.20
+Central America - CONCACAF Nations League,Nicaragua,Saint Vincent and the Grenadines,Sat 02:00,1,1.11,X,7.10,2,21.00,O 3.5,2.08,U 3.5,1.70,GG,2.60,NG,1.46
+Central America - CONCACAF Nations League,Belize,Guatemala,Sat 04:00,1,10.00,X,5.10,2,1.29,O 2.5,1.75,U 2.5,2.05,GG,2.25,NG,1.60
+Central America - CONCACAF Nations League,Bermuda,Guyana,Sat 20:00,1,2.20,X,3.35,2,3.10,O 2.5,1.97,U 2.5,1.81,GG,1.77,NG,1.99
+Brazil - Copa Rio (W),Vasco da Gama RJ (W),Fluminense RJ (W),Sat 14:30,1,2.55,X,3.55,2,2.30,O 3.5,2.20,U 3.5,1.60,GG,1.44,NG,2.60
