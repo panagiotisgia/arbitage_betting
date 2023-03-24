@@ -1,19 +1,10 @@
 import selenium
-from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
-from selenium.webdriver.common.keys import Keys
 import time, csv
-import pandas as pd
-from selenium.common.exceptions import NoSuchElementException
-from selenium.webdriver.chrome.service import Service
-from webdriver_manager.chrome import ChromeDriverManager
-from selenium.webdriver.support.relative_locator import locate_with
 
-
-
-#################################### Football ######################
+#################################### Football ####################################################
 
 def novibet_football_text(page_url: str, driver: selenium.webdriver.chrome.webdriver.WebDriver)->str:    
     # Go to Novibet
@@ -31,7 +22,6 @@ def novibet_football_text(page_url: str, driver: selenium.webdriver.chrome.webdr
     # Extract footbal text
     football_string = daily_coupon_body.text
     return football_string
-
 
 
 
