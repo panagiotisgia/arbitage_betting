@@ -1,0 +1,150 @@
+date,time,team1,team2,1,X,2,O,O_odds,U,U_odds,Yes,Yes_odds,No,No_odds
+25/03,10:00,Broadbeach United (W),Robina City (W),2.12,3.85,2.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,South West Queensland Thunder,Logan Lightning,2.92,3.55,2.15,O,1.42,U,2.62,Yes,1.39,No,2.67
+25/03,10:00,Wynnum Wolves,Mitchelton,1.83,3.85,3.50,O,1.42,U,2.57,Yes,1.42,No,2.62
+25/03,10:00,North Lakes United,Taringa Rovers SFC,3.00,4.10,1.91,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Maroochydore Swans FC,Grange Thistle SC,1.65,4.10,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Dandenong Thunder,Port Melbourne,2.47,3.35,2.57,O,1.65,U,2.07,Yes,1.52,No,2.32
+25/03,10:00,Marconi Stallions,Manly United,1.70,3.90,4.15,O,1.55,U,2.27,Yes,1.55,No,2.25
+25/03,10:00,Western Sydney Wanderers II,Apia Leichhardt Tigers,3.65,4.00,1.78,O,1.40,U,2.65,Yes,1.42,No,2.57
+25/03,10:00,Bonnyrigg White Eagles,Rydalmere Lions,1.93,3.70,3.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Hills Brumbies,Macarthur Rams,1.88,3.75,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Inter Lions,Northern Tigers,3.25,4.10,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Mounties Wanderers,Blacktown Spartans,3.85,4.40,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,SD Raiders,Hakoah Sydney City East,2.42,3.35,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,St George FC,Canterbury Bankstown,2.15,3.55,2.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Bankstown City FC,Dulwich Hill,2.25,3.40,2.77,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Mount Gravatt Hawks,North Brisbane,1.93,4.20,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Palm Beach Sharks U23,Runaway Bay U23,1.42,4.65,5.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Hapoel Ironi Hod Hasharon U19,Bnei Yehuda Tel Aviv U19,3.80,4.10,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Hapoel Marmorek U19,Ashdod Rafi Elbaz U19,2.77,3.70,2.12,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Hapoel Kfar Saba U19,Hapoel Afula U19,1.17,6.50,11.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Ironi Nesher U19,Hapoel Herzliya U19,1.95,3.60,3.25,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Maccabi Kiryat Ata U19,Beitar Nes Tubruk U19,4.85,4.20,1.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Mamelodi Sundowns II,SuperSport United II,3.20,3.35,2.05,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,Moroka Swallows II,Royal AM FC II,2.65,3.15,2.47,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+25/03,10:00,CSJ Stiinta U Craiova U19,Unirea Bascov U19,7.20,5.10,1.31,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:15,Gold Coast United,Moreton Bay United,2.35,3.65,2.57,O,1.57,U,2.20,Yes,1.52,No,2.32
+25/03,10:30,Eastern Suburbs U23,Redlands United U23,2.62,3.30,2.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:30,Olympic Kingsway U20,Floreat Athena U20,5.00,4.25,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,10:30,FC Korat,Vongchavalitkul University,2.55,3.20,2.55,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+25/03,10:45,Oakleigh Cannons,Hume City,1.31,5.00,7.80,O,1.45,U,2.50,Yes,1.75,No,1.93
+25/03,11:00,Potenza U19,Gubbio U19,1.34,4.85,6.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Antalyaspor U19,Ümraniyespor U19,1.60,4.00,4.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Balikesirspor U19,Samsunspor U19,5.60,4.40,1.44,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Bodrumspor U19,Eskisehirspor U19,1.95,3.25,3.55,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Boluspor U19,Bursaspor U19,2.07,3.45,3.05,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Denizlispor U19,Genclerbirligi U19,2.25,3.40,2.75,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Eyupspor U19,Erzurumspor BB U19,1.62,3.90,4.45,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Kocaelispor U19,Erokspor U19,1.83,3.55,3.65,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Konyaspor U19,Kasimpasa U19,1.62,3.80,4.50,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Sakaryaspor U19,Pendikspor U19,2.25,3.45,2.72,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Tuzlasport U19,Rizespor U19,2.18,3.50,2.82,O,1.70,U,2.02,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Bandirmaspor U19,Adanaspor U19,1.82,3.90,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Gaziantepspor U19,Kayserispor U19,2.42,3.60,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Giresunspor U19,Trabzonspor U19,3.35,3.85,1.85,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Sivasspor U19,Besiktas JK U19,2.45,3.75,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Alanyaspor U19,Istanbulspor U19,2.60,3.60,2.27,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,ACS Sepsi,FC Brasov,1.50,4.20,5.60,O,1.65,U,2.12,Yes,1.75,No,1.95
+25/03,11:00,Queensland Lions SC,Peninsula Power,1.60,4.30,4.30,O,1.44,U,2.55,Yes,1.52,No,2.32
+25/03,11:00,Peninsula Power (W),Sunshine Coast Wanderers (W),1.13,7.00,14.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,Brisbane Strikers,Albany Creek,2.10,4.00,2.75,O,1.34,U,2.90,Yes,1.34,No,2.90
+25/03,11:00,Souths United,North Star,3.05,3.75,1.98,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:00,North Eastern MetroStars,West Adelaide FC,1.31,5.20,7.40,O,1.44,U,2.55,Yes,1.75,No,1.93
+25/03,11:00,Brisbane Knights,Moggill FC,1.82,4.00,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Bohemians 1905 II,FK Kraluv Dvur,1.36,4.50,7.00,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,FC Hradec Kralove II,FK Pardubice II,1.95,3.55,3.25,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,FK Jablonec II,Sokol Zapy,1.87,3.70,3.35,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Loko Vltavin,Admira Praha,3.50,3.35,1.95,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Motorlet Praha,FC Viktoria Plzen II,2.22,3.50,2.75,O,1.72,U,2.02,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,SK Benesov,FK Usti Nad Labem,1.87,3.70,3.40,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Tatran Bohunice,AFC Humpolec,1.17,6.20,12.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,FC Slovan Havlickuv Brod,FSC Stara Rise,1.93,3.85,3.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Marianske Lazne,SK Aritma Praha,2.70,3.85,2.12,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,SK Kladno,Vilemov,1.12,7.20,15.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:15,Vratimov,Hermanice,1.19,6.30,9.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:30,FK Nove Zamky,Tj Jednota Banova,3.35,3.60,1.91,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+25/03,11:30,Prepere,TJ Sokol Zivanice,1.55,4.10,4.75,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+25/03,11:30,SK Dynamo Ceske Budejovice II,Dukla Prague II,1.80,4.00,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,11:45,Bangladesh,Seychelles,1.91,3.15,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,MKE Ankaragucu U19,Fatih Karagumrukspor U19,1.39,4.65,6.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,Serbia U19,Israel U19,2.05,3.55,3.10,O,1.70,U,2.00,Yes,1.62,No,2.12
+25/03,12:00,Diosgyori Vtk,Mezokövesd SE,2.72,3.45,2.35,O,1.75,U,1.98,Yes,1.62,No,2.15
+25/03,12:00,Universitatea Cluj,CS Minaur Baia Mare,1.40,4.45,6.50,O,1.60,U,2.15,Yes,1.82,No,1.85
+25/03,12:00,TS Galaxy II,Richards Bay FC II,2.18,3.20,3.05,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,Lech Poznan U19,Rakow Czestochowa U19,2.15,3.85,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,Czarni Sosnowiec (W),UKS Lodz (W),4.35,3.60,1.70,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,CS Giroc Chisoda U19,CSC Dumbravita U19,2.12,3.80,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:00,FC Slovan Liberec (W),FC Viktoria Plzen (W),1.44,4.35,5.80,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+25/03,12:15,Inter Turku U20,FC Ilves U20,4.20,4.55,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:30,RCD Espanyol (W),UDG Tenerife Sur (W) II,1.65,3.45,5.00,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+25/03,12:30,CD Tenerife (W),Malaga CF (W),1.93,3.40,3.50,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+25/03,12:30,US Latina Calcio U19,Virtus Francavilla U19,2.10,3.85,2.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,12:30,Keciorengucu,Genclerbirligi,1.90,3.60,3.65,O,1.88,U,1.82,Yes,1.80,No,1.91
+25/03,12:30,Tuzlaspor,Goztepe SK,2.82,3.25,2.37,O,2.00,U,1.72,Yes,1.78,No,1.93
+25/03,13:00,Torrellano,Villarreal CF C,2.92,2.77,2.57,O,2.57,U,1.42,Yes,2.07,No,1.65
+25/03,13:00,CF Algeciras U19,San Roque Balompie U19,2.50,3.85,2.32,O,1.50,U,2.37,Yes,1.47,No,2.47
+25/03,13:00,UDG Tenerife Sur (W),Sporting de Huelva (W),1.35,4.50,7.30,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,TSG 1899 Hoffenheim U19,VfB Stuttgart U19,2.37,3.55,2.60,O,1.50,U,2.35,Yes,1.44,No,2.52
+25/03,13:00,Usak Spor,AS Sariyer,2.47,3.20,2.65,O,2.07,U,1.65,Yes,1.85,No,1.83
+25/03,13:00,Ankaraspor,Afjet Afyonspor,1.98,3.30,3.55,O,2.07,U,1.65,Yes,1.88,No,1.78
+25/03,13:00,Kasimpasa Erokspor,Batman Petrolspor,1.53,3.85,5.60,O,1.95,U,1.72,Yes,2.07,No,1.65
+25/03,13:00,Menemenspor,Isparta Davraz Spor,2.55,3.05,2.70,O,2.27,U,1.53,Yes,1.98,No,1.72
+25/03,13:00,Kirklarelispor,Buca FK,3.15,3.05,2.25,O,2.42,U,1.47,Yes,2.07,No,1.65
+25/03,13:00,Inegölspor,Somaspor,2.45,3.20,2.70,O,2.10,U,1.62,Yes,1.87,No,1.80
+25/03,13:00,Duzcespor,Arnavutköy Belediye Spor,1.91,3.30,3.85,O,2.27,U,1.53,Yes,2.07,No,1.65
+25/03,13:00,Balikesirspor,Serik Belediyespor,2.92,3.10,2.35,O,2.12,U,1.62,Yes,1.87,No,1.80
+25/03,13:00,Hekimoglu Trabzon,Ankara Demirspor,1.39,4.20,7.40,O,1.95,U,1.72,Yes,2.27,No,1.53
+25/03,13:00,Belediye Vanspor,Karacabey Belediyespor,2.87,2.80,2.60,O,2.45,U,1.47,Yes,2.00,No,1.70
+25/03,13:00,Zonguldak Komurspor,Etimesgut Bld Spor,1.90,3.25,3.90,O,2.20,U,1.57,Yes,2.00,No,1.70
+25/03,13:00,Fethiyespor,Kocaelispor,4.30,3.45,1.75,O,2.15,U,1.60,Yes,2.05,No,1.65
+25/03,13:00,Bayrampasaspor,Ayvalikgucu,2.60,3.10,2.52,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Derince Belediyespor,Yeni Orduspor,2.05,3.25,3.30,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Akhisarspor,Siirt Il Ozel Idaresi Spor,2.30,3.00,3.00,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Hacettepe Spor,Amasyaspor 1968 FK,1.98,3.30,3.45,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Manisa BBSK U19,Afjet Afyonspor U19,1.38,4.60,6.30,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Ankaraspor U19,Istanbul Basaksehir U19,2.57,3.55,2.32,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Unye Gucu (W),Nuhspor (W),1.87,3.75,3.35,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,NK Maribor,NK Lokomotiva Zagreb,2.30,3.40,2.70,O,1.70,U,2.02,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Podbeskidzie Bielsko-Biala,Piast Gliwice,5.20,4.20,1.52,O,1.70,U,2.00,Yes,1.80,No,1.87
+25/03,13:00,Strommen IF,Kvik Halden,2.27,3.75,2.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,FC Arges Pitesti,CSA Steaua Bucuresti,2.52,3.60,2.47,O,1.75,U,1.95,Yes,1.65,No,2.10
+25/03,13:00,FC Inter Turku,IF Gnistan,1.33,5.30,6.50,O,1.30,U,3.10,Yes,1.53,No,2.30
+25/03,13:00,Olympic Kingsway,Floreat Athena,2.27,3.60,2.70,O,1.42,U,2.62,Yes,1.36,No,2.80
+25/03,13:00,FFC Vorderland (W),Sturm Graz Damen Stattegg (W),3.85,4.30,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Carrick Rangers U20,Coleraine U20,2.50,4.15,2.18,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,GVI,Goerslev IF,2.22,3.55,2.72,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,World Girls FC (W),Ambassador FC (W),5.50,3.90,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Legia Warszawa II,Sokol Ostroda,1.60,4.05,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Miedz Legnica II,Gwarek Tarnowskie Gory,2.75,3.40,2.25,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Wieczysta Krakow,Orleta Radzyn Podlaski,1.28,5.30,7.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Stilon Gorzow Wielkopolski,Rakow Czestochowa II,4.90,3.90,1.57,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,LKS Lodz II,Legionovia Legionowo,1.65,3.80,4.25,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Polonia Ilowo,Tecza Biskupiec,2.85,4.25,1.93,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,MKS Pogon Szczecin U19,Polonia Warszawa U19,2.10,4.05,2.67,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Czworka Radom (W),Medyk Konin (W),9.50,5.50,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Pogon Tczew (W),Slask Wroclaw (W),4.60,4.55,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:00,Banat Girls (W),Politehnica Timisoara (W),19.00,9.25,1.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:15,Korona Kielce U19,Jagiellonia Bialystok U19,2.42,4.20,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:30,Cordoba CF SAD (W),Deportivo La Coruna (W),4.75,3.80,1.60,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+25/03,13:30,Sampdoria (W),ACF Como (W),3.10,3.40,2.07,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+25/03,13:30,1. FC Magdeburg U19,RB Leipzig U19,2.95,4.15,1.95,O,1.34,U,2.92,Yes,1.36,No,2.82
+25/03,13:30,JJK Jyvaskyla,FC Vaajakoski,1.17,6.30,11.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:30,Ymir Kopavogur,IH Hafnarfjordur,1.37,5.60,5.60,Yes,1.32,No,3.00,No_bet,No_bet,No_bet,No_bet
+25/03,13:30,Vineta Wolin,Polonia Sroda Wielkopolska,3.25,3.85,1.88,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,13:45,AEK Athens II,Apollon Smyrnis,8.50,3.50,1.45,O,2.15,U,1.60,Yes,2.27,No,1.53
+25/03,13:45,HIK Hellerup,Brabrand IF,2.00,3.45,3.35,O,1.70,U,1.98,Yes,1.62,No,2.12
+25/03,14:00,CF Panaderia Pulido,CD Marino,1.65,3.65,4.85,O,2.05,U,1.65,Yes,2.05,No,1.65
+25/03,14:00,Sevilla FC U19,Polillas U19,1.05,10.75,22.00,Yes,1.95,No,1.72,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,Rusadir U19,Recreativo Huelva U19,2.50,3.90,2.30,O,1.47,U,2.45,Yes,1.44,No,2.52
+25/03,14:00,Atletico Madrid (W) II,Athletic Bilbao (W) C,1.36,4.70,6.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,Real Union Tenerife (W) II,Pena La Amistad (W),5.30,4.90,1.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,SV Lichtenberg 47,SV Babelsberg 03,3.30,3.70,1.98,O,1.75,U,1.95,Yes,1.70,No,2.05
+25/03,14:00,Werder Bremen C,ESC Geestemunde,5.80,5.30,1.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,FSV Budissa Bautzen,SV Westerhausen,1.47,4.35,5.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,BFC Dynamo,VSG Altglienicke,2.52,3.55,2.37,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,Adana Demirspor U19,Fenerbahce SK U19,4.00,3.75,1.72,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,Egersunds,Brodd,1.31,5.30,6.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,HNK Sibenik,Zrinjski Mostar,2.62,3.60,2.27,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+25/03,14:00,SK Gjøvik-Lyn,Fram Larvik,1.88,4.30,3.05,O,1.29,U,3.20,Yes,1.32,No,3.00
+25/03,14:00,SalPa,PK-35 Vantaa,1.95,4.00,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet

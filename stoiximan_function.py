@@ -3,6 +3,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 import time, csv
+import re
 
 ######################################### Football ####################################################
 
@@ -54,8 +55,8 @@ def stoiximan_football_export(football_string: str):
     # Remove elements that start with "1st leg"
     football_list = [x for x in list_1 if not x.startswith('1st leg:')]
     # Create sublists based on date (matches)
-    match = [x for x in football_list if '/' in x]
-    index_match = [i for i,x in enumerate(football_list) if '/' in x]
+    match = [x for x in football_list if re.match(r'\d{2}/\d{2}', x)]
+    index_match = [i for i,x in enumerate(football_list) if re.match(r'\d{2}/\d{2}', x)]
     sublists_matches = [football_list[i:j] for i, j in zip([0]+index_match, index_match + [len(football_list)])]
     # Exclude the initial empty list from sublist_championships
     sublists_matches = sublists_matches[1:]
@@ -70,7 +71,7 @@ def stoiximan_football_export(football_string: str):
             sublist.extend([extra_element] * (15 - len(sublist)))
 
     # Set the filename for the output CSV file
-    output_file = "stoiximan_football.csv"
+    output_file = "data\stoiximan_football.csv"
     with open(output_file, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['date', 'time', 'team1', 'team2', '1', 'X', '2', 'O', 'O_odds', 
@@ -80,7 +81,7 @@ def stoiximan_football_export(football_string: str):
 
 ######################################## Basketball ####################################################
 
-def stoiximan_baskeball_text(basketball_url: str, driver: selenium.webdriver.chrome.webdriver.WebDriver)->str: 
+def stoiximan_basketball_text(basketball_url: str, driver: selenium.webdriver.chrome.webdriver.WebDriver)->str: 
     # Maximize window
     driver.maximize_window()
     # Go to basketball coupon
@@ -126,8 +127,8 @@ def stoiximan_basketball_export(basketball_string: str):
     # Remove elements that start with "1st leg"
     basketball_list = [x for x in list_1 if not x.startswith('1st leg:')]
     # Create sublists based on date (matches)
-    match = [x for x in basketball_list if '/' in x]
-    index_match = [i for i,x in enumerate(basketball_list) if '/' in x]
+    match = [x for x in basketball_list if re.match(r'\d{2}/\d{2}', x)]
+    index_match = [i for i,x in enumerate(basketball_list) if re.match(r'\d{2}/\d{2}', x)]
     sublists_matches = [basketball_list[i:j] for i, j in zip([0]+index_match, index_match + [len(basketball_list)])]
     # Exclude the initial empty list from sublist_championships
     sublists_matches = sublists_matches[1:]
@@ -142,7 +143,7 @@ def stoiximan_basketball_export(basketball_string: str):
             sublist.extend([extra_element] * (14 - len(sublist)))
 
     # Set the filename for the output CSV file
-    output_file = "stoiximan_basketball.csv"
+    output_file = "data\stoiximan_basketball.csv"
     with open(output_file, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['date', 'time', 'team1', 'team2', 'WIN_1', 'WIN_2', 'Handicap_1', 'Hand_1_odds', 
@@ -198,8 +199,8 @@ def stoiximan_tennis_export(tennis_string: str):
     # Remove elements that start with "1st leg"
     tennis_list = [x for x in list_1 if not x.startswith('1st leg:')]
     # Create sublists based on date (matches)
-    match = [x for x in tennis_list if '/' in x]
-    index_match = [i for i,x in enumerate(tennis_list) if '/' in x]
+    match = [x for x in tennis_list if re.match(r'\d{2}/\d{2}', x)]
+    index_match = [i for i,x in enumerate(tennis_list) if re.match(r'\d{2}/\d{2}', x)]
     sublists_matches = [tennis_list[i:j] for i, j in zip([0]+index_match, index_match + [len(tennis_list)])]
     # Exclude the initial empty list from sublist_championships
     sublists_matches = sublists_matches[1:]
@@ -214,7 +215,7 @@ def stoiximan_tennis_export(tennis_string: str):
             sublist.extend([extra_element] * (14 - len(sublist)))
 
     # Set the filename for the output CSV file
-    output_file = "stoiximan_tennis.csv"
+    output_file = "data\stoiximan_tennis.csv"
     with open(output_file, 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['date', 'time', 'player1', 'player2', 'WIN_1', 'WIN_2', 'O','O_odds','U','U_odds',
