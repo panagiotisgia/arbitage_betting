@@ -1,51 +1,102 @@
 date,time,player1,player2,WIN_1,WIN_2,O,O_odds,U,U_odds,Handicap_1,Hand_1_odds,Handicap_2,Hand_2_odds
-25/03,10:00,Peter Heller,Calin Manda,Winner,4,Peter Heller,1.23,Calin Manda,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:00,Gerard Campana Lee,Gilles Arnaud Bailly,Winner,4,Gerard Campana Lee,3.55,Gilles Arnaud Bailly,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Lucas Catarina,Elmer Moller,Winner,4,Lucas Catarina,1.34,Elmer Moller,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Maxence Beauge,Lorenzo Rottoli,Winner,4,Maxence Beauge,2.40,Lorenzo Rottoli,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Alexandre Aubriot,Ray Ho,Winner,4,Alexandre Aubriot,2.05,Ray Ho,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Tuncay Duran,Amr Elsayed,Winner,4,Tuncay Duran,3.55,Amr Elsayed,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Jiri Barnat,Marat Sharipov,Winner,4,Jiri Barnat,2.32,Marat Sharipov,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Ilinca Dalina Amariei,Nina Vargova,Winner,39,Ilinca Dalina Amariei,1.16,Nina Vargova,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Katarina Kuzmova,Anna Ulyashchenko,Winner,4,Katarina Kuzmova,1.08,Anna Ulyashchenko,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Polina Iatcenko,Sara Milanese,Winner,39,Polina Iatcenko,1.16,Sara Milanese,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Dejana Radanovic,Fangzhou Liu,Winner,39,Dejana Radanovic,1.42,Fangzhou Liu,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Martina Spigarelli,Nina Radovanovic,Winner,39,Martina Spigarelli,4.05,Nina Radovanovic,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,10:30,Lavinia Tanasie / Anastasia Safta,Eleni Christofi / Dimitra Pavlou,Winner,3,Anastasia Safta / Lavinia Tanasie,2.87,Eleni Christofi / Dimitra Pavlou,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:00,Sofya Lansere / Anastasia Tikhonova,Cristina-Andreea Mitu / Irina Bara,Winner,3,Anastasia Tikhonova / Sofya Lansere,1.87,Cristina-Andreea Mitu / Irina Bara,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Hernan Casanova,Stefano Travaglia,Winner,4,Hernan Casanova,2.42,Stefano Travaglia,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Max Houkes,Gianmarco Ferrari,Winner,4,Max Houkes,2.05,Gianmarco Ferrari,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Shuichi Sekiguchi / Blake Ellis,Manish Sureshkumar / Parikshit Somani,Winner,3,Blake Ellis / Shuichi Sekiguchi,1.90,Manish Sureshkumar / Parikshit Somani,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Ilay Yoruk,Daria Lodikova,Winner,39,Ilay Yoruk,4.60,Daria Lodikova,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Hanne Vandewinkel,Julie Struplova,Winner,39,Hanne Vandewinkel,2.00,Julie Struplova,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Jaqueline Adina Cristian,Andreea Prisacariu,Winner,39,Jaqueline Adina Cristian,1.18,Andreea Prisacariu,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,11:30,Leyre Romero Gormaz,Iryna Shymanovich,Winner,39,Leyre Romero Gormaz,2.72,Iryna Shymanovich,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Flavio Cobolli,Sebastian Ofner,Winner,87,Flavio Cobolli,2.10,Sebastian Ofner,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Max Purcell,Billy Harris,Winner,78,Max Purcell,1.15,Billy Harris,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Sebastian Gima,Nikolay Nedelchev,Winner,4,Sebastian Gima,1.65,Nikolay Nedelchev,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Timo Stodder,Sergi Perez Contri,Winner,4,Timo Stodder,1.47,Sergi Perez Contri,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Luka Mikrut,Viacheslav Bielinskyi,Winner,4,Luka Mikrut,2.10,Viacheslav Bielinskyi,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Matej Vocel / Jiri Barnat,Matthew Howse / Joel Pierleoni,Winner,3,Jiri Barnat / Matej Vocel,1.26,Joel Pierleoni / Matthew Howse,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Fabienne Gettwart,Margarita Ignatjeva,Winner,39,Fabienne Gettwart,1.20,Margarita Ignatjeva,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Veronika Erjavec,Clara Tauson,Winner,4,Veronika Erjavec,6.50,Clara Tauson,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:00,Anna Ulyashchenko / Louise Kwong,Ho Ching Wu / Mami Hasegawa,Winner,3,Anna Ulyashchenko / Louise Kwong,2.47,Mami Hasegawa / Ho Ching Wu,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,12:30,Mai Hontama,Katarina Zavatska,Winner,39,Mai Hontama,2.27,Katarina Zavatska,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:00,Kai Wehnelt / Mircea-Alexandru Jecan,Jesper De Jong / Max Houkes,Winner,3,Kai Wehnelt / Mircea-Alexandru Jecan,1.91,Jesper De Jong / Max Houkes,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:00,Adam Moundir / Louroi Martinez,Elio Jose Ribeiro Lago / Igor Gimenez,Winner,3,Louroi Martinez / Adam Moundir,1.70,Elio Jose Ribeiro Lago / Igor Gimenez,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:00,Denisa Hindova / Nika Radisic,Basak Eraydin / Yukina Saigo,Winner,3,Nika Radisic / Denisa Hindova,1.60,Yukina Saigo / Basak Eraydin,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:00,Ekaterine Gorgodze / Iryna Shymanovich,Francisca Jorge / Matilde Jorge,Winner,3,Iryna Shymanovich / Ekaterine Gorgodze,1.87,Francisca Jorge / Matilde Jorge,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:20,Alessandro Giannessi,Arthur Cazaux,Winner,87,Alessandro Giannessi,3.00,Arthur Cazaux,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:20,Bu Yunchaokete,Hugo Grenier,Winner,87,Bu Yunchaokete,2.47,Hugo Grenier,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:30,Xin Gao / Bohua Dong,Wissam Abderrahman / Tiago Pereira,Winner,3,Xin Gao / Bohua Dong,1.60,Wissam Abderrahman / Tiago Pereira,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,13:30,Isabella Shinikova / Naima Karamoko,Elena Milovanovic / Fernanda Labrana,Winner,3,Isabella Shinikova / Naima Karamoko,1.72,Elena Milovanovic / Fernanda Labrana,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,14:00,Ricardas Berankis,Evan Furness,Winner,87,Ricardas Berankis,1.52,Evan Furness,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,14:00,Benjamin Hassan,Jurij Rodionov,Winner,87,Benjamin Hassan,3.50,Jurij Rodionov,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,14:00,Andres Andrade / Andrea Picchione,Elmer Moller / Matthew William Donald,Winner,3,Andrea Picchione / Andres Andrade,1.47,Matthew William Donald / Elmer Moller,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,14:00,Christian Sigsgaard / August Holmgren,Adan Freire Da Silva / Loann Massard,Winner,3,August Holmgren / Christian Sigsgaard,1.35,Adan Freire Da Silva / Loann Massard,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,14:40,Manuel Guinard / Nino Serdarusic,Ivan Sabanov / Matej Sabanov,Winner,4,Manuel Guinard / Nino Serdarusic,2.07,Ivan Sabanov / Matej Sabanov,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:00,Marta Ortega / Beatriz Gonzalez,Alejandra Salazar / Gemma Triay,Winner,2,Marta Ortega / Beatriz Gonzalez,3.50,Alejandra Salazar / Gemma Triay,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:00,Ariana Sanchez / Paula Josemaria,Delfi Brea / Sofia Araujo,Winner,2,Ariana Sanchez / Paula Josemaria,1.36,Delfi Brea / Sofia Araujo,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:00,Oleksandr Ovcharenko / Viacheslav Bielinskyi,Stefan Popovic / Luka Mikrut,Winner,3,Viacheslav Bielinskyi / Oleksandr Ovcharenko,2.27,Luka Mikrut / Stefan Popovic,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:00,Diana Martynov,Arina Gabriela Vasilescu,Winner,39,Diana Martynov,2.37,Arina Gabriela Vasilescu,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:20,Pierre Hughes Herbert,Dan Added,Winner,87,Pierre Hughes Herbert,1.45,Dan Added,No_bet,No_bet,No_bet,No_bet,No_bet
-25/03,15:30,Marius Copil,Liam Broady,Winner,85,Marius Copil,3.35,Liam Broady,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,21:25,Rohan Bopanna / Matthew Ebden,Kevin Krawietz / Fabrice Martin,1.60,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,21:25,Emiliana Arango,Suzan Lamens,1.60,2.20,O 20.5,1.80,U 20.5,1.87,-2.5,1.78,+2.5,1.91
+25/03,21:30,Jessica Pegula,Danielle Collins,1.36,3.20,O 21.5,1.87,U 21.5,1.83,-4.5,2.02,+4.5,1.70
+25/03,21:30,Guido Ivan Justo,Franco Emanuel Egea,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,21:35,Hubert Hurkacz,Thanasi Kokkinakis,1.31,3.45,O 23.5,2.00,U 23.5,1.72,-3.5,2.00,+3.5,1.72
+25/03,21:35,Andreas Mies / Maxime Cressy,Harri Heliovaara / Lloyd Glasspool,2.20,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:00,Alex Michelsen,Luke Saville,1.26,3.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:00,Toby Alex Kodat,Nathan Ponwith,1.42,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:05,Claire Liu,Martina Trevisan,1.65,2.25,O 21.5,1.78,U 21.5,1.93,-2.5,1.88,+2.5,1.83
+25/03,22:20,Madison Keys / Caroline Dolehide,Veronika Kudermetova / Liudmila Samsonova,2.65,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:20,Darya Kasatkina / Marie Bouzkova,Beatriz Haddad Maia / Giuliana Olmos,2.45,1.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:40,Karen Khachanov,Tomas Martin Etcheverry,1.30,3.55,O 21.5,1.75,U 21.5,1.95,-3.5,1.70,+3.5,2.05
+25/03,22:45,Marcelo Demoliner / Christopher Eubanks,Mackenzie Mcdonald / Botic Van De Zandschulp,2.50,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,22:55,Yosuke Watanuki,Frances Tiafoe,5.50,1.15,O 21.5,1.78,U 21.5,1.93,+4.5,1.65,-4.5,2.12
+25/03,22:55,Marcelo Arevalo / Jean-Julien Rojer,Jamie Murray / Michael Venus,1.80,1.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,23:00,Ariana Sanchez / Paula Josemaria,Delfi Brea / Sofia Araujo,1.36,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,23:20,Gregoire Barrere,Cameron Norrie,6.30,1.12,O 20.5,1.91,U 20.5,1.80,+4.5,2.00,-4.5,1.72
+25/03,23:30,Edward Winter / Cooper Williams,Brian Battistone / Tennyson Whiting,1.28,3.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,23:30,Luke Saville / Michail Pervolarakis,Rohan Murali / Elijah Strode,1.12,5.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,23:35,Anna Kalinskaya / Catherine Mcnally,Kimberley Zimmermann / Anna Bondar,1.30,3.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+25/03,23:35,Gabriela Dabrowski / Luisa Stefani,Magda Linette / Bernarda Pera,1.32,3.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,00:00,Lucas Miedler / Alexander Erler,Juan Sebastian Cabal / Robert Farah,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,00:05,Hugo Nys / Jan Zielinski,Maximo Gonzalez / Andres Molteni,1.62,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,00:15,Marcos Giron / Jeffrey John Wolf,Marcelo Melo / John Peers,2.95,1.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,00:30,Federico Chingotto / Javier Garrido,Franco Stupaczuk / Martin Di Nenno,3.20,1.32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,00:40,Adrian Mannarino,Ben Shelton,2.40,1.57,O 23.5,1.93,U 23.5,1.78,+2.5,1.80,-2.5,1.91
+26/03,01:00,Roberto Carballes Baena,Daniil Medvedev,13.50,1.02,O 17.5,1.88,U 17.5,1.82,+6.5,2.15,-6.5,1.62
+26/03,01:00,Petra Martic,Elise Mertens,2.57,1.52,O 21.5,1.80,U 21.5,1.90,+3.5,1.80,-3.5,1.90
+26/03,02:00,Taisei Ichikawa / Daisuke Sumizawa,Brandon Walkin / Matthew Christopher Romios,2.22,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,02:00,Olivia Gadecki,Yafan Wang,1.57,2.27,O 20.5,1.82,U 20.5,1.85,-3.5,1.88,+3.5,1.78
+26/03,02:30,Elena Rybakina,Paula Badosa Gibert,1.34,3.30,O 21.5,1.87,U 21.5,1.83,-4.5,1.98,+4.5,1.75
+26/03,02:30,Aoi Ito,Chia Yi Tsao,1.87,1.83,O 20.5,1.78,U 20.5,1.90,+0.5,1.82,-0.5,1.85
+26/03,02:30,Natsumi Kawaguchi,Ayumi Koshiishi,2.77,1.39,O 20.5,1.91,U 20.5,1.78,+4.5,1.80,-4.5,1.88
+26/03,04:30,Dane Sweeny,Marc Polmans,2.52,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,04:30,Erina Hayashi / Yuki Naito,Destanee Aiava / Olivia Gadecki,3.55,1.27,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,05:00,Daria Domova,Farren Allysia Sandy,1.08,6.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,05:00,Margot Phanthala,Daniella Clara Suryapranata,1.06,7.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,05:00,Mio Mushika,Kayla Ruth Santosa,1.01,10.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,05:00,Rinon Okuwaki / Yu-Yun Li,Akari Inoue / Chia Yi Tsao,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,06:00,Zhuoxuan Bai,Anastasia Zakharova,2.05,1.70,O 20.5,1.80,U 20.5,1.88,+2.5,1.80,-2.5,1.87
+26/03,06:30,Chihiro Takayama,Yujin Ahn,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,06:30,Hanna Vinahradava,Hritika Sharma,1.04,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,06:30,Mischka Sinclaire Goenadi,Xinyu Jiang,9.25,1.03,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,07:00,Jain Maanav,Ranjeet Virali Murugesan,4.65,1.16,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,07:00,Dheeraj Kodancha Srinivasan,Sandesh Dattatray Kurale,3.15,1.31,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,07:30,Eric Vanshelboim,Evgeny Donskoy,3.65,1.24,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,08:00,I-Hsuan Cho,Min Liu,1.14,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,08:00,Nao Phang Ziyi,Cylova Hukmasabiyya Zuleyka,1.53,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,08:00,Yi Tsen Cho,Himadri Kashyap,1.04,8.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,08:30,Faisal Qamar,Guhan Rajan,1.23,3.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,08:30,Romain Faucon,Arjun Mahadevan,1.02,9.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,09:30,Kholisa Siti Maisaroh,Hanyu Guo,8.50,1.04,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,09:30,Prathyusha Rachapudi,Qianhui Tang,5.00,1.14,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,09:30,Justmin Da Costa,Jiale Zhang,9.00,1.03,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,09:30,Xintong Zhou,Kundali Majgaine,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,10:00,Siddharth Vishwakarma,Lohithaksha Bathrinath,1.13,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,10:00,Mitsuki Wei Kang Leong,Sai Karteek Reddy Ganta,1.13,5.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,10:00,Nikshep Ballekere Ravikumar,Kumaran Bharath Nishok,3.70,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:00,Billy Harris,Hugo Grenier,3.00,1.38,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:00,Lucas Catarina,Sebastian Gima,1.36,2.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:00,Gilles Arnaud Bailly,Peter Heller,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:00,Amr Elsayed,Marat Sharipov,2.57,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:00,Fabienne Gettwart,Ilinca Dalina Amariei,2.90,1.36,O 20.5,1.93,U 20.5,1.75,+4.5,1.85,-4.5,1.82
+26/03,11:30,Maxence Beauge,Alexandre Aubriot,1.65,2.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:30,Ishaque Eqbal,Chandril Sood,1.06,7.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:30,Yash Chaurasia,Raghav Jaisinghani,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:30,Oleksandr Ovcharenko / Viacheslav Bielinskyi,Stefan Popovic / Luka Mikrut,2.27,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,11:30,Polina Iatcenko,Katarina Kuzmova,2.10,1.65,O 20.5,1.80,U 20.5,1.88,+2.5,1.82,-2.5,1.85
+26/03,11:30,Martina Spigarelli,Fangzhou Liu,3.90,1.22,O 19.5,1.91,U 19.5,1.78,+5.5,1.85,-5.5,1.82
+26/03,12:00,Stefano Travaglia,Max Houkes,1.32,3.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,12:00,Iryna Shymanovich,Jaqueline Adina Cristian,2.15,1.62,O 20.5,1.80,U 20.5,1.87,+2.5,1.87,-2.5,1.80
+26/03,12:30,Julie Struplova,Daria Lodikova,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,13:00,Sebastian Ofner,Alessandro Giannessi,Final,1.45,2.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,13:00,Vishnu Vardhan,Tushar Madan,1.06,7.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,13:00,Gourav Gulia,Abhinav Sanjeev Shanmugam,7.40,1.06,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,13:00,Pruchya Isaro,Jagmeet Singh,1.11,5.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,13:00,Mai Hontama,Clara Tauson,3.55,1.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,14:30,Shivank Bhatnagar,Fardeen Qamar,1.85,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,15:00,Liam Broady,Jurij Rodionov,1.44,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,16:30,Ricardas Berankis,Dan Added,1.44,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,18:00,Tommy Paul / Ben Shelton,Rajeev Ram / Joe Salisbury,3.85,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,18:00,David Vega Hernandez / Rafael Matos,Austin Krajicek / Nicolas Mahut,2.30,1.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,18:00,Karolina Pliskova,Marketa Vondrousova,2.18,1.70,O 22.5,1.93,U 22.5,1.78,+1.5,1.91,-1.5,1.80
+26/03,18:00,Barbora Krejcikova,Madison Keys,1.42,2.87,O 21.5,1.82,U 21.5,1.90,-3.5,1.80,+3.5,1.91
+26/03,18:00,Bianca Vanessa Andreescu,Sofia Kenin,1.50,2.60,O 21.5,1.82,U 21.5,1.90,-3.5,1.88,+3.5,1.82
+26/03,18:00,Sorana Cirstea,Karolina Muchova,3.40,1.33,O 20.5,1.78,U 20.5,1.93,+4.5,1.78,-4.5,1.93
+26/03,18:00,Petra Kvitova,Donna Vekic,1.55,2.47,O 21.5,1.75,U 21.5,1.95,-2.5,1.75,+2.5,1.95
+26/03,18:00,Ekaterina Alexandrova,Belinda Bencic,3.60,1.29,O 20.5,1.78,U 20.5,1.93,+4.5,1.83,-4.5,1.87
+26/03,18:00,Marie Bouzkova,Aryna Sabalenka,5.70,1.14,O 19.5,1.90,U 19.5,1.80,+5.5,1.90,-5.5,1.80
+26/03,18:00,Magdalena Frech,Varvara Gracheva,3.25,1.34,O 20.5,1.78,U 20.5,1.93,+4.5,1.80,-4.5,1.91
+26/03,18:00,Elise Mertens / Storm Hunter,Monica Niculescu / Alicja Rosolska,1.22,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,18:00,Anna Danilina / Asia Muhammad,Jessica Pegula / Coco Gauff,3.70,1.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+26/03,19:00,Taylor Harry Fritz,Denis Shapovalov,1.35,3.20,O 23.5,1.95,U 23.5,1.75,-3.5,2.10,+3.5,1.65
+26/03,19:00,Miomir Kecmanovic,Andrey Rublev,3.85,1.26,O 22.5,1.93,U 22.5,1.78,+3.5,2.00,-3.5,1.72
+26/03,19:00,A.Davidovich Fokina,Tommy Paul,2.35,1.60,O 22.5,1.80,U 22.5,1.90,+2.5,1.82,-2.5,1.88
+26/03,19:00,Jannik Sinner,Grigor Dimitrov,1.24,4.05,O 21.5,1.72,U 21.5,2.00,-3.5,1.65,+3.5,2.10
+26/03,19:00,Carlos Alcaraz Garfia,Dusan Lajovic,1.04,11.75,O 18.5,1.93,U 18.5,1.78,-6.5,2.00,+6.5,1.72
+26/03,19:00,Casper Ruud,Botic Van De Zandschulp,1.32,3.40,O 22.5,1.91,U 22.5,1.80,-3.5,1.78,+3.5,1.93
+26/03,19:00,Diego Sebastian Schwartzman,Holger Rune,4.70,1.19,O 20.5,1.85,U 20.5,1.85,+4.5,2.02,-4.5,1.70
+26/03,19:00,Emil Ruusuvuori,Taro Daniel,1.50,2.62,O 22.5,1.85,U 22.5,1.85,-2.5,1.75,+2.5,1.98
+26/03,19:00,Christian Garin,Stefanos Tsitsipas,5.40,1.16,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet

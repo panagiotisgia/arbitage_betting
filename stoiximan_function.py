@@ -19,21 +19,30 @@ def stoiximan_football_text(football_url: str, driver: selenium.webdriver.chrome
     button_24 = driver.find_element(By.CSS_SELECTOR, '[class="events-tabs-container__tab__item__button GTM-24"]').click()
     time.sleep(5)
     
-    ### Scroll down the page and wait all values to load ###
-    # Get browser height
-    browser_window_height = driver.get_window_size(windowHandle='current')['height']
-    current_position = driver.execute_script('return window.pageYOffset')
-    while True:
-        # Get the total height of the web page
-        total_page_height = driver.execute_script("return document.body.scrollHeight")
-        # Exit the loop if we've reached the bottom of the page
-        if total_page_height <= current_position + browser_window_height:
+    ##### Scroll down the page and wait all values to load #####
+    # Get the height of the footer element
+    footer = driver.find_element(By.CSS_SELECTOR, '[class="sb-footer GTM-footer"]')
+    footer_height = footer.size['height']
+    # Get the height of the window
+    window_height = driver.execute_script("return window.innerHeight;")
+    # Initialize the last height variable with a value
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    # Define how many times you want to scroll the webpage
+    num_scrolls = 100
+
+    # Loop through the number of times you want to scroll
+    for i in range(num_scrolls):
+        # Scroll down the webpage by the height of the window minus the height of the footer
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight - window.innerHeight - %s);" % footer_height)
+        # Wait for the webpage to load
+        time.sleep(3)
+        # Get the new height of the webpage after scrolling
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        # If the new height is the same as the old height, we have reached the end of the webpage
+        if new_height == last_height:
             break
-        # Scroll down the page
-        driver.execute_script(f"window.scrollTo({current_position}, {browser_window_height + current_position});")
-        # Update the current position
-        current_position = driver.execute_script('return window.pageYOffset')
-        time.sleep(5)
+        # Otherwise, update the last height and continue scrolling
+        last_height = new_height
 
     # Wait for the dailyCoupon_body element to be present on the page
     wait = WebDriverWait(driver, 10)
@@ -90,21 +99,30 @@ def stoiximan_basketball_text(basketball_url: str, driver: selenium.webdriver.ch
     button_24 = driver.find_element(By.CSS_SELECTOR, '[class="events-tabs-container__tab__item__button GTM-24"]').click()
     time.sleep(5)
     
-    ### Scroll down the page and wait all values to load ###
-    # Get browser height
-    browser_window_height = driver.get_window_size(windowHandle='current')['height']
-    current_position = driver.execute_script('return window.pageYOffset')
-    while True:
-        # Get the total height of the web page
-        total_page_height = driver.execute_script("return document.body.scrollHeight")
-        # Exit the loop if we've reached the bottom of the page
-        if total_page_height <= current_position + browser_window_height:
+    ##### Scroll down the page and wait all values to load #####
+    # Get the height of the footer element
+    footer = driver.find_element(By.CSS_SELECTOR, '[class="sb-footer GTM-footer"]')
+    footer_height = footer.size['height']
+    # Get the height of the window
+    window_height = driver.execute_script("return window.innerHeight;")
+    # Initialize the last height variable with a value
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    # Define how many times you want to scroll the webpage
+    num_scrolls = 100
+
+    # Loop through the number of times you want to scroll
+    for i in range(num_scrolls):
+        # Scroll down the webpage by the height of the window minus the height of the footer
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight - window.innerHeight - %s);" % footer_height)
+        # Wait for the webpage to load
+        time.sleep(3)
+        # Get the new height of the webpage after scrolling
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        # If the new height is the same as the old height, we have reached the end of the webpage
+        if new_height == last_height:
             break
-        # Scroll down the page
-        driver.execute_script(f"window.scrollTo({current_position}, {browser_window_height + current_position});")
-        # Update the current position
-        current_position = driver.execute_script('return window.pageYOffset')
-        time.sleep(5)
+        # Otherwise, update the last height and continue scrolling
+        last_height = new_height
 
     # Wait for the dailyCoupon_body element to be present on the page
     wait = WebDriverWait(driver, 10)
@@ -163,21 +181,30 @@ def stoiximan_tennis_text(tennis_url: str, driver: selenium.webdriver.chrome.web
     button_24 = driver.find_element(By.CSS_SELECTOR, '[class="events-tabs-container__tab__item__button GTM-24"]').click()
     time.sleep(5)
 
-    ### Scroll down the page and wait all values to load ###
-    # Get browser height
-    browser_window_height = driver.get_window_size(windowHandle='current')['height']
-    current_position = driver.execute_script('return window.pageYOffset')
-    while True:
-        # Get the total height of the web page
-        total_page_height = driver.execute_script("return document.body.scrollHeight")
-        # Exit the loop if we've reached the bottom of the page
-        if total_page_height <= current_position + browser_window_height:
+    ##### Scroll down the page and wait all values to load #####
+    # Get the height of the footer element
+    footer = driver.find_element(By.CSS_SELECTOR, '[class="sb-footer GTM-footer"]')
+    footer_height = footer.size['height']
+    # Get the height of the window
+    window_height = driver.execute_script("return window.innerHeight;")
+    # Initialize the last height variable with a value
+    last_height = driver.execute_script("return document.body.scrollHeight")
+    # Define how many times you want to scroll the webpage
+    num_scrolls = 100
+
+    # Loop through the number of times you want to scroll
+    for i in range(num_scrolls):
+        # Scroll down the webpage by the height of the window minus the height of the footer
+        driver.execute_script("window.scrollTo(0, document.body.scrollHeight - window.innerHeight - %s);" % footer_height)
+        # Wait for the webpage to load
+        time.sleep(3)
+        # Get the new height of the webpage after scrolling
+        new_height = driver.execute_script("return document.body.scrollHeight")
+        # If the new height is the same as the old height, we have reached the end of the webpage
+        if new_height == last_height:
             break
-        # Scroll down the page
-        driver.execute_script(f"window.scrollTo({current_position}, {browser_window_height + current_position});")
-        # Update the current position
-        current_position = driver.execute_script('return window.pageYOffset')
-        time.sleep(5)
+        # Otherwise, update the last height and continue scrolling
+        last_height = new_height
 
     # Wait for the dailyCoupon_body element to be present on the page
     wait = WebDriverWait(driver, 10)

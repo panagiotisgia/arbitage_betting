@@ -1,2 +1,9 @@
 __pycache__/novibet_functions.cpython-38.pyc
 __pycache__/stoiximan_function.cpython-38.pyc
+data/stoiximan_basketball.csv
+data/stoiximan_football.csv
+data/stoiximan_tennis.csv
+data/novibet_football.csv
+data/novibet_basketball.csv
+data/novibet_tennis.csv
+

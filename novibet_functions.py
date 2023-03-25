@@ -53,7 +53,7 @@ def novibet_football_export(football_string: str):
     sublists_championships = sublists_championships[1:]
     
     # Set the filename for the output CSV file
-    output_file = "data\novibet_football.csv"
+    output_file = 'novibet_football.csv'
     # Open the CSV file for writing
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
@@ -145,7 +145,7 @@ def novibet_basketball_export(basketball_string: str):
     sublists_championships = sublists_championships[1:]
 
     # Set the filename for the output CSV file
-    output_file = "data\novibet_basketball.csv"
+    output_file = "novibet_basketball.csv"
     # Open the CSV file for writing
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
@@ -234,7 +234,7 @@ def novibet_tennis_export(tennis_string: str):
 
     
     # Set the filename for the output CSV file
-    output_file = "data\novibet_tennis.csv"
+    output_file = "data/novibet_tennis.csv"
     # Open the CSV file for writing
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
