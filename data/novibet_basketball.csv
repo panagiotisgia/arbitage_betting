@@ -1,194 +1,184 @@
 championship,team1,team2,time,win_1,odds_win_1,win_2,odds_win_2,Over,odds_over,Under,odds_under,1,odds_1,2,odds_2
-USA - NBA,BOS Celtics,IND Pacers,Sat 01:00,-11.5,1.88,+11.5,1.93,O 235.5,1.89,U 235.5,1.92,1,1.13,2,5.50
-USA - NBA,WAS Wizards,SA Spurs,Sat 01:00,-7.5,1.88,+7.5,1.94,O 227.5,1.89,U 227.5,1.92,1,1.34,2,3.45
-USA - NBA,TOR Raptors,DET Pistons,Sat 01:30,-14.5,1.91,+14.5,1.90,O 224.5,1.94,U 224.5,1.87,1,1.06,2,8.50
-USA - NBA,MEM Grizzlies,HOU Rockets,Sat 02:00,-12.5,1.88,+12.5,1.94,O 234.5,1.90,U 234.5,1.91,1,1.15,2,5.90
-USA - NBA,UTA Jazz,MIL Bucks,Sat 03:00,+9.5,1.84,-9.5,1.98,O 236.5,1.91,U 236.5,1.90,1,4.10,2,1.26
-USA - NBA,GS Warriors,PHI 76ers,Sat 04:00,-5.5,1.92,+5.5,1.89,O 234.5,1.91,U 234.5,1.90,1,1.48,2,2.75
-USA - NBA,SAC Kings,PHX Suns,Sat 04:00,-3.5,1.89,+3.5,1.92,O 239.5,1.92,U 239.5,1.89,1,1.59,2,2.45
-USA - NBA,LA Lakers,OKC Thunder,Sat 04:30,-5.5,1.91,+5.5,1.90,O 233.5,1.91,U 233.5,1.90,1,1.51,2,2.95
-Europe - Euroleague,Partizan,Olympiacos,in 38',-1.5,1.73,+1.5,2.15,O 163.5,1.89,U 163.5,1.92,1,1.72,2,2.38
-Europe - Euroleague,Armani Milan,FC Bayern Munich,21:45,-8.5,1.94,+8.5,1.87,O 152.5,1.88,U 152.5,1.93,1,1.28,2,3.85
-Greece - Basket League,Apollon Patras,Promitheas,Sat 16:00,+6.5,1.90,-6.5,1.80,O 152.5,1.86,U 152.5,1.85,1,3.10,2,1.34
-Greece - Basket League,Aris Thessalonikis,Ionikos Nikaias,Sat 17:00,-20.5,1.92,+20.5,1.89,O 158.5,1.94,U 158.5,1.87,1,1.02,2,14.50
-Greece - Basket League,AEK Athens,Panathinaikos,Sat 19:15,+10.5,1.88,-10.5,1.93,O 154.5,1.88,U 154.5,1.93,1,4.85,2,1.19
-Spain - ACB,Girona,Manresa,Sat 19:00,-4.5,1.87,+4.5,1.87,O 166.5,1.91,U 166.5,1.86,1,1.51,2,2.60
-Spain - ACB,Obradoiro,Breogan,Sat 19:00,-4.5,1.91,+4.5,1.90,O 159.5,1.87,U 159.5,1.94,1,1.52,2,2.60
-Turkey - TBSL,Manisa,Merkezefendi,Sat 12:00,-4.5,1.88,+4.5,1.86,O 164.5,1.92,U 164.5,1.85,1,1.52,2,2.55
-Turkey - TBSL,Konyaspor,Anadolu Efes,Sat 14:30,+10.5,1.91,-10.5,1.83,O 160.5,1.84,U 160.5,1.93,1,5.30,2,1.16
-Turkey - TBSL,Besiktas,Gaziantep,Sat 17:00,-6.5,1.89,+6.5,1.85,O 157.5,1.88,U 157.5,1.89,1,1.38,2,3.10
-Turkey - TBSL,Galatasaray,Bursaspor,Sat 19:30,-3.5,1.91,+3.5,1.83,O 165.5,1.92,U 165.5,1.86,1,1.62,2,2.30
-France - Pro A,Le Portel,Metropolitans 92,in 38',+2.5,1.91,-2.5,1.89,O 165.5,1.88,U 165.5,1.93,1,2.20,2,1.71
-France - Pro A,Roanne,Le Mans,in 38',+1.5,1.89,-1.5,1.92,O 176.5,1.88,U 176.5,1.93,1,2.00,2,1.85
-Germany - BBL,Mitteldeutscher,Gottingen,Sat 19:00,-1.5,1.88,+1.5,1.93,O 167.5,1.88,U 167.5,1.93,1,1.81,2,2.06
-Germany - BBL,Ratiopharm Ulm,Ludwigsburg,Sat 19:00,-3.5,1.94,+3.5,1.87,O 173.5,1.94,U 173.5,1.87,1,1.62,2,2.35
-USA - NCAA,Alabama Crimson Tide,San Diego State Aztecs,Sat 00:30,-7.5,1.93,+7.5,1.88,O 137.5,1.90,U 137.5,1.90,1,1.31,2,3.60
-USA - NCAA,Houston Cougars,Miami-Florida Hurricanes,Sat 01:15,-7.5,1.90,+7.5,1.90,O 139.5,1.90,U 139.5,1.90,1,1.30,2,3.70
-USA - NCAA,Creighton Bluejays,Princeton Tigers,Sat 03:00,-10.5,1.95,+10.5,1.85,O 140.5,1.90,U 140.5,1.90,1,1.19,2,5.00
-USA - NCAA,Texas Longhorns,Xavier Musketeers,Sat 03:45,-4.5,1.95,+4.5,1.85,O 148.5,1.90,U 148.5,1.90,1,1.54,2,2.55
-Greece - Elite League,A.O Triton,APS Aias Euosmou,Sat 17:00,-10.5,1.85,+10.5,1.85,O 142.5,1.84,U 142.5,1.86,1,1.16,2,4.80
-Greece - Elite League,AO Agriniou,Eleutheroupoli,Sat 17:00,+8.5,1.84,-8.5,1.87,O 156.5,1.89,U 156.5,1.81,1,3.60,2,1.26
-Greece - Elite League,AO Amintas,GS Amarousiou,Sat 17:00,+3.5,1.85,-3.5,1.85,O 149.5,1.83,U 149.5,1.88,1,2.30,2,1.57
-Greece - Elite League,EK Kavalas,Fea Nf Nx,Sat 17:00,+3.5,1.86,-3.5,1.85,O 158.5,1.87,U 158.5,1.83,1,2.30,2,1.57
-Greece - Elite League,Koroivos Amaliadas,AS Papagou,Sat 17:00,-5.5,1.85,+5.5,1.86,O 160.5,1.84,U 160.5,1.87,1,1.42,2,2.70
-Greece - Elite League,Panerythraikos,NΕ Megaridos,Sat 17:00,-9.5,1.86,+9.5,1.84,O 151.5,1.85,U 151.5,1.86,1,1.22,2,4.00
-Greece - Elite League,Iraklis,GS Harilaos Trikoupis,Sat 18:00,-11.5,1.86,+11.5,1.84,O 155.5,1.81,U 155.5,1.89,1,1.14,2,5.15
-USA - NCAA (W),Villanova Wildcats (W),Miami Florida Hurricanes (W),in 8',-4.5,1.85,+4.5,1.95,O 130.5,1.90,U 130.5,1.90,1,1.48,2,2.75
-USA - NCAA (W),Utah Utes (W),LSU Tigers (W),23:00,+5.5,1.90,-5.5,1.90,O 149.5,1.90,U 149.5,1.90,1,2.90,2,1.44
-USA - NCAA (W),Iowa Hawkeyes (W),Colorado Buffaloes (W),Sat 01:30,-5.5,1.85,+5.5,1.95,O 145.5,1.90,U 145.5,1.90,1,1.40,2,3.05
-USA - NCAA (W),Lousiville Cardinals (W),Ole Mississippi Rebels (W),Sat 04:00,-2.5,1.90,+2.5,1.90,O 126.5,1.90,U 126.5,1.90,1,1.72,2,2.18
-USA - NCAA (W),Maryland Terrapins (W),Notre Dame Irish (W),Sat 17:30,-4.5,1.90,+4.5,1.90,O 137.5,1.90,U 137.5,1.90,1,1.48,2,2.75
-USA - NCAA (W),South Carolina Gamecocks (W),Ucla Bruins (W),Sat 20:00,-17.5,1.90,+17.5,1.90,O 127.5,1.90,U 127.5,1.90,1,1.04,2,12.00
-Europe - ABA League,KK Borac Cacak,MZT Skopje,Sat 20:00,-3.5,1.89,+3.5,1.88,O 170.5,1.90,U 170.5,1.88,1,1.58,2,2.30
-Lithuania - LKL,BC Nevezis,Prienai,Sat 16:00,-7.5,1.87,+7.5,1.87,O 170.5,1.86,U 170.5,1.88,1,1.28,2,3.45
-Lithuania - LKL,Rytas Vilnius,Lietkabelis,Sat 17:00,-4.5,1.91,+4.5,1.83,O 165.5,1.84,U 165.5,1.90,1,1.53,2,2.40
-Bosnia - Division 1,HKK Zrinjski Mostar,KK Siroki Brijeg,Sat 17:00,+24.5,1.93,-24.5,1.81,O 161.5,1.87,U 161.5,1.87,1,13.50,2,1.006
-Bosnia - Division 1,KK Leotar,KK Promo Donji Vakuf,Sat 20:00,-12.5,1.86,+12.5,1.88,O 165.5,1.88,U 165.5,1.86,1,1.10,2,6.20
-Bosnia - Division 1,Buducnost Bijeljina,KK Posusje,Sat 20:00,-17.5,1.85,+17.5,1.89,O 160.5,1.85,U 160.5,1.89,1,1.03,2,10.00
-Croatia - A1 League,KK Dinamo Zagreb,KK Zabok,Sat 19:00,-4.5,1.84,+4.5,1.90,O 163.5,1.87,U 163.5,1.87,1,1.48,2,2.55
-Croatia - A1 League,KK Gorica,KK Alkar,Sat 19:00,-7.5,1.90,+7.5,1.84,O 164.5,1.85,U 164.5,1.89,1,1.29,2,3.40
-Croatia - A1 League,KK Skrljevo,KK Bosco Zagreb,Sat 20:00,-9.5,1.86,+9.5,1.88,O 165.5,1.87,U 165.5,1.87,1,1.19,2,4.35
-England - BBL,Sheffield Sharks,Leicester Riders,21:30,+5.5,1.83,-5.5,1.87,O 158.5,1.87,U 158.5,1.83,1,2.70,2,1.43
-Finland - Korisliiga,Kauhajoen Karhu,Pyrinto Tampere,Sat 17:00,-17.5,1.85,+17.5,1.85,O 166.5,1.84,U 166.5,1.86,1,1.03,2,10.00
-Finland - Korisliiga,Salon Vilpas Vikings,Kouvot Kouvola,Sat 17:00,-4.5,1.80,+4.5,1.91,O 186.5,1.88,U 186.5,1.82,1,1.46,2,2.60
-Hungary - NB I,Alba Fehervar,Szolnoki Olaj Kk,Sat 16:45,-4.5,1.91,+4.5,1.80,O 166.5,1.85,U 166.5,1.85,1,1.53,2,2.40
-Hungary - NB I,Atomeromu SE,Szte-Szedeak,Sat 19:00,-8.5,1.85,+8.5,1.85,O 166.5,1.83,U 166.5,1.87,1,1.23,2,3.90
-Hungary - NB I,Falco Szombathely,Kormend,Sat 19:00,-14.5,1.82,+14.5,1.88,O 168.5,1.83,U 168.5,1.87,1,1.07,2,7.50
-Hungary - NB I,KK Kaposvari,Hubner Nyiregyhaza BS,Sat 19:00,-11.5,1.86,+11.5,1.84,O 170.5,1.83,U 170.5,1.87,1,1.13,2,5.50
-Hungary - NB I,OSE Lions,ZTE Zalakeramia,Sat 19:00,+3.5,1.84,-3.5,1.86,O 163.5,1.84,U 163.5,1.86,1,2.25,2,1.60
-Finland - Division 1,HBA-Maersky,Jyvaskyla Basketball Academy,Sat 17:00,+3.5,1.81,-3.5,1.93,O 168.5,1.91,U 168.5,1.83,1,2.20,2,1.62
-Finland - Division 1,Raiders Basket,Bisons Loimaa,Sat 18:00,+1.5,1.80,-1.5,1.94,O 163.5,1.90,U 163.5,1.84,1,1.90,2,1.84
-Finland - Division 1,Helsingin NMKY,Kipina Basket,Sat 18:30,+14.5,1.88,-14.5,1.86,O 183.5,1.85,U 183.5,1.89,1,7.50,2,1.07
-Hungary - NB I (W),Beac-Ujbuda (W),VBW Cekk Cegled (W),Sat 19:00,-13.5,1.89,+13.5,1.85,O 153.5,1.86,U 153.5,1.88,1,1.09,2,6.50
-Hungary - NB I (W),KSC Szekszard (W),UNI Gyor (W),Sat 19:00,+2.5,1.91,-2.5,1.83,O 148.5,1.91,U 148.5,1.83,1,2.15,2,1.65
-Hungary - NB I (W),MTK Budapest (W),Pinkk Pecsi 424 (W),Sat 19:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Hungary - NB I (W),NKE Csata (W),DVTK Miskolc (W),Sat 19:00,+15.5,1.86,-15.5,1.88,O 137.5,1.86,U 137.5,1.88,1,8.00,2,1.06
-Hungary - NB I (W),Peac-Pecs (W),Sopron Basket (W),Sat 19:00,+14.5,1.85,-14.5,1.89,O 130.5,1.88,U 130.5,1.86,1,7.50,2,1.07
-Hungary - NB I (W),Vasas Akademia (W),Bkg-Prima (W),Sat 19:00,-14.5,1.87,+14.5,1.87,O 138.5,1.85,U 138.5,1.89,1,1.07,2,7.50
-Romania - LNB,CS Rapid Bucuresti,CSM Oradea,Sat 16:30,+8.5,1.84,-8.5,1.90,O 159.5,1.89,U 159.5,1.85,1,3.80,2,1.24
-Romania - LNB,CS Phoenix Galati,CSM Miercurea Ciuc,Sat 18:30,-14.5,1.87,+14.5,1.87,O 163.5,1.87,U 163.5,1.87,1,1.07,2,7.50
-Romania - LNB,CSM Targu Jiu,Steaua Turabo,Sat 18:30,+1.5,1.89,-1.5,1.85,O 161.5,1.86,U 161.5,1.88,1,2.00,2,1.75
-Romania - LNB,CSO Voluntari,CSU Atlassib Sibiu,Sat 18:30,-5.5,1.81,+5.5,1.93,O 158.5,1.88,U 158.5,1.86,1,1.38,2,2.90
-Romania - LNB,BCMU Pitesti,ABC Athletic Constanta,Sat 19:45,-6.5,1.80,+6.5,1.94,O 157.5,1.85,U 157.5,1.89,1,1.31,2,3.25
-Switzerland - SB League,SAM Basket Massagno,Lions De Geneve,Sat 18:30,-15.5,1.90,+15.5,1.84,O 160.5,1.89,U 160.5,1.85,1,1.06,2,8.00
-Switzerland - SB League,Swiss Central Basket,BBC Nyon,Sat 18:30,+12.5,1.88,-12.5,1.86,O 151.5,1.88,U 151.5,1.86,1,6.20,2,1.10
-Europe - Estonian - Latvian Basketball League,BC Prometey,Kk Viimsi,Sat 17:00,-27.5,1.86,+27.5,1.84,O 171.5,1.85,U 171.5,1.85,1,1.001,2,14.50
-Canada - NBL,Newfoundland Rogues,Windsor Express,23:30,+4.5,1.81,-4.5,1.93,O 220.5,1.87,U 220.5,1.87,1,2.40,2,1.53
-Poland - PLK,Slask Wroclaw,Astoria Bydgoszcz,Sat 18:30,-12.5,1.87,+12.5,1.83,O 172.5,1.88,U 172.5,1.82,1,1.11,2,6.00
-Poland - I Liga,SKS Starogard Gdanski,AZS Agh Krakow,Sat 19:00,-9.5,1.91,+9.5,1.83,O 161.5,1.88,U 161.5,1.86,1,1.20,2,4.25
-Slovenia - 1. A SKL,KK Krka,Kk Rogaska,in 38',-15.5,1.92,+15.5,1.82,O 165.5,1.87,U 165.5,1.87,1,1.06,2,8.00
-Portugal - LPB,Oliveirense,FC Porto,Sat 17:00,+6.5,1.86,-6.5,1.84,O 152.5,1.83,U 152.5,1.87,1,3.10,2,1.34
-Portugal - LPB,Ovarense Basquetebol,Sporting CP,Sat 18:00,+11.5,1.84,-11.5,1.86,O 164.5,1.85,U 164.5,1.85,1,5.50,2,1.13
-Slovakia - Extraliga (W),BK Cassovia Kosice (W),BAM Poprad (W),Sat 16:00,-2.5,1.84,+2.5,1.90,O 125.5,1.87,U 125.5,1.87,1,1.65,2,2.15
-Slovakia - Extraliga (W),SCP Ruzomberok (W),SKP 08 Banska Bystrica (W),Sat 18:00,+8.5,1.86,-8.5,1.88,O 126.5,1.88,U 126.5,1.86,1,3.90,2,1.23
-Europe - BNXT League,Liege Basket,Yoast United,21:30,-10.5,1.90,+10.5,1.81,O 167.5,1.83,U 167.5,1.87,1,1.17,2,4.65
-Europe - BNXT League,Limburg United,Zorg en Zekerheid Leiden,21:30,-1.5,1.84,+1.5,1.86,O 155.5,1.83,U 155.5,1.87,1,1.77,2,1.98
-Europe - BNXT League,Spirou Charleroi,Donar Groningen,21:30,-6.5,1.82,+6.5,1.88,O 150.5,1.86,U 150.5,1.84,1,1.33,2,3.15
-South Korea - KBL,KT Sonicboom,LG Sakers,Sat 10:00,+6.5,1.80,-6.5,1.91,O 156.5,1.86,U 156.5,1.84,1,2.90,2,1.38
-South Korea - KBL,Seoul Samsung Thunders,Goyang Orions,Sat 10:00,-1.5,1.81,+1.5,1.90,O 155.5,1.87,U 155.5,1.83,1,1.74,2,2.02
-South Korea - KBL,Wonju Dongbu Promy,Incheon ET Land Elephants,Sat 12:00,-7.5,1.86,+7.5,1.84,O 160.5,1.85,U 160.5,1.85,1,1.27,2,3.55
-Chinese Taipei - SBL,Taiwan Beer,Bank of Taiwan,Sat 11:00,+4.5,1.84,-4.5,1.90,O 156.5,1.87,U 156.5,1.87,1,2.45,2,1.50
-Chinese Taipei - SBL,Changhua Bll,Yulon Luxgen Dinos,Sat 13:00,+6.5,1.84,-6.5,1.90,O 156.5,1.87,U 156.5,1.87,1,3.00,2,1.36
-Japan - B. League,Shimane Susanoo Magic,Kyoto Hannarizu,Sat 06:35,-12.5,1.85,+12.5,1.85,O 158.5,1.82,U 158.5,1.88,1,1.10,2,6.20
-Japan - B. League,Shiga Lake Stars,Sun Rockers Shibuya,Sat 07:05,+7.5,1.82,-7.5,1.88,O 169.5,1.86,U 169.5,1.84,1,3.40,2,1.29
-Japan - B. League,Toyama Grouses,Hiroshima Dragonflies,Sat 07:05,+12.5,1.91,-12.5,1.80,O 168.5,1.85,U 168.5,1.85,1,6.50,2,1.09
-Japan - B. League,Aisin Seahorses,Osaka evessa,Sat 08:05,+2.5,1.80,-2.5,1.91,O 155.5,1.84,U 155.5,1.86,1,2.05,2,1.72
-Japan - B. League,Alvark Tokyo,Levanga Hokkaido,Sat 08:05,-14.5,1.88,+14.5,1.82,O 160.5,1.86,U 160.5,1.84,1,1.07,2,7.50
-Japan - B. League,Gunma Crane Thunders,Akita Northern Happinets,Sat 08:05,-3.5,1.85,+3.5,1.85,O 159.5,1.85,U 159.5,1.85,1,1.57,2,2.30
-Japan - B. League,Utsunomiya Brex,San-En Neophoenix,Sat 08:05,-8.5,1.91,+8.5,1.80,O 150.5,1.85,U 150.5,1.85,1,1.25,2,3.70
-Japan - B. League,Yokohama B-Corsairs,Shinshu Brave Warriors,Sat 08:05,-5.5,1.85,+5.5,1.85,O 153.5,1.85,U 153.5,1.85,1,1.41,2,2.75
-Japan - B. League,Nagoya Diamond Dolphins,Fighting Eagles Nagoya,Sat 09:05,-6.5,1.81,+6.5,1.90,O 161.5,1.88,U 161.5,1.82,1,1.32,2,3.20
-Japan - B. League,Niigata albirex BB,Chiba Jets,Sat 10:35,+18.5,1.81,-18.5,1.90,O 165.5,1.84,U 165.5,1.86,1,10.00,2,1.03
-Japan - B. League,Brave Thunders,Ibaraki Robots,Sat 11:05,-11.5,1.90,+11.5,1.81,O 165.5,1.85,U 165.5,1.85,1,1.13,2,5.50
-Japan - B. League,Ryukyu Golden Kings Okinawa,Sendai 89ers,Sat 11:05,-12.5,1.85,+12.5,1.85,O 147.5,1.81,U 147.5,1.90,1,1.10,2,6.20
-Japan - B2. League,Koshigaya Alphas,Nishinomiya Storks,Sat 07:00,-6.5,1.93,+6.5,1.81,O 153.5,1.83,U 153.5,1.91,1,1.37,2,2.95
-Japan - B2. League,Ehime Orange Vikings,Kumamoto Vorters,Sat 08:00,+1.5,1.82,-1.5,1.92,O 160.5,1.85,U 160.5,1.89,1,1.91,2,1.83
-Japan - B2. League,Saga Ballooners,Yamagata Wyverns,Sat 09:00,-9.5,1.88,+9.5,1.86,O 153.5,1.84,U 153.5,1.90,1,1.19,2,4.35
-Japan - B2. League,Bambitious Nara,Rizing Fukuoka,Sat 10:00,+3.5,1.86,-3.5,1.88,O 156.5,1.83,U 156.5,1.91,1,2.25,2,1.60
-Japan - B2. League,Aomori,Altiri Chiba,Sat 11:00,+8.5,1.84,-8.5,1.90,O 161.5,1.89,U 161.5,1.85,1,3.80,2,1.24
-Japan - B2. League,Fukushima Fire Bonds,Earthfriends Tokyo Z,Sat 11:00,-13.5,1.88,+13.5,1.86,O 155.5,1.87,U 155.5,1.87,1,1.09,2,6.50
-Japan - B2. League,Nagasaki Velca,Kagawa Five Arrows,Sat 12:00,-16.5,1.83,+16.5,1.91,O 169.5,1.83,U 169.5,1.91,1,1.04,2,9.00
-Chinese Taipei - P League,Kaohsiung Steelers,Taipei Fubon Braves,Sat 13:00,+8.5,1.87,-8.5,1.87,O 192.5,1.91,U 192.5,1.83,1,3.90,2,1.23
-Brazil - LBF (W),LSB RJ / Sodie Doces (W),Vera Cruz Campinas (W),Sat 00:30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Puerto Rico - BSN,Caciques de Humacao,Quebradillas,Sat 01:30,-3.5,1.81,+3.5,1.90,O 166.5,1.84,U 166.5,1.86,1,1.60,2,2.25
-Puerto Rico - BSN,Guaynabo,Bayamon,Sat 02:00,+1.5,1.80,-1.5,1.91,O 163.5,1.87,U 163.5,1.83,1,1.91,2,1.83
-Puerto Rico - BSN,San German,Indias De Mayaguez,Sat 02:00,-5.5,1.91,+5.5,1.80,O 164.5,1.88,U 164.5,1.82,1,1.44,2,2.65
-Brazil - NBB,Unifacisa,Bauru Basket,Sat 00:30,+2.5,1.90,-2.5,1.87,O 147.5,1.85,U 147.5,1.93,1,2.20,2,1.68
-Brazil - NBB,Basquete Cearense,Pinheiros SP,Sat 01:00,+7.5,1.87,-7.5,1.90,O 160.5,1.91,U 160.5,1.86,1,3.55,2,1.30
-Brazil - NBB,SC Corinthians Paulista,EC Uniao Corinthians,Sat 01:00,-8.5,1.84,+8.5,1.94,O 159.5,1.85,U 159.5,1.93,1,1.23,2,4.20
-El Salvador - Liga Mayor,A.D Isidro Metapan,Brujos Izalco,Sat 03:30,-12.5,1.87,+12.5,1.87,O 171.5,1.84,U 171.5,1.90,1,1.10,2,6.20
-Argentina - LNB,Obras Sanitarias,Club Atletico Riachuelo de La Rioja,Sat 01:00,-8.5,1.85,+8.5,1.85,O 165.5,1.81,U 165.5,1.90,1,1.23,2,3.90
-Argentina - LNB,Atenas Cordoba,San Martin Corrientes,Sat 02:10,+7.5,1.90,-7.5,1.81,O 153.5,1.84,U 153.5,1.86,1,3.60,2,1.26
-Uruguay - LUB,Urupan De Pando,Club Trouville,Sat 01:15,-4.5,1.80,+4.5,1.94,O 171.5,1.84,U 171.5,1.90,1,1.46,2,2.60
-Venezuela - Superliga,Bucaneros de La Guaira,Cancrejeros De Monagas,Sat 00:45,-9.5,1.90,+9.5,1.81,O 164.5,1.84,U 164.5,1.86,1,1.20,2,4.25
-Venezuela - Superliga,Broncos De Caracas,Taurinos de Aragua,Sat 01:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Venezuela - Superliga,Centauros de Portuguesa,Llaneros de Guarico,Sat 01:00,-7.5,1.92,+7.5,1.79,O 155.5,1.90,U 155.5,1.81,1,1.31,2,3.25
-Venezuela - Superliga,Gaiteros del Zulia,Trotamundos de Carabobo,Sat 01:00,+8.5,1.91,-8.5,1.80,O 159.5,1.86,U 159.5,1.84,1,4.10,2,1.21
-Chile - Liga Nacional,CD Universidad Catolica De Santiago,CD Puente Alto,Sat 01:30,+2.5,1.92,-2.5,1.82,O 157.5,1.89,U 157.5,1.85,1,2.20,2,1.62
-Peru - Liga de Lima,Regatas Lima,Lima Norte,Sat 04:15,-18.5,1.85,+18.5,1.86,O 144.5,1.83,U 144.5,1.88,1,1.03,2,10.50
-Australia - NBL1 (W),Manly Warringah Sea Eagles (W),Central Coast Crusaders (W),Sat 07:00,-10.5,1.82,+10.5,1.92,O 138.5,1.88,U 138.5,1.86,1,1.15,2,5.00
-Australia - NBL1 (W),Albury Wodonga Bandits (W),Hills Hornets (W),Sat 08:00,-25.5,1.91,+25.5,1.83,O 141.5,1.86,U 141.5,1.88,1,1.006,2,13.50
-Australia - NBL1 (W),Newcastle Falcons (W),Canberra Nationals (W),Sat 08:00,-9.5,1.81,+9.5,1.93,O 132.5,1.91,U 132.5,1.83,1,1.17,2,4.65
-Australia - NBL1 (W),Sutherland Sharks (W),Inner West Bulls (W),Sat 08:00,-27.5,1.90,+27.5,1.84,O 141.5,1.85,U 141.5,1.89,1,1.001,2,14.50
-Australia - NBL1 (W),Brisbane Capitals (W),Northside Wizards (W),Sat 09:00,+6.5,1.93,-6.5,1.81,O 149.5,1.85,U 149.5,1.89,1,3.25,2,1.31
-Australia - NBL1 (W),North Gold Coast Seahawks (W),Gold Coast Rollers (W),Sat 09:00,-10.5,1.82,+10.5,1.92,O 150.5,1.84,U 150.5,1.90,1,1.15,2,5.00
-Australia - NBL1 (W),USC Rip City (W),Sunshine Coast Phoenix (W),Sat 09:30,-8.5,1.84,+8.5,1.90,O 142.5,1.83,U 142.5,1.91,1,1.22,2,4.00
-Australia - NBL1 (W),Central District Lions (W),North Adelaide Rockets (W),Sat 10:00,+2.5,1.86,-2.5,1.88,O 142.5,1.83,U 142.5,1.91,1,2.12,2,1.67
-Australia - NBL1 (W),South Adelaide Panthers (W),Eastern Mavericks (W),Sat 10:00,-19.5,1.83,+19.5,1.91,O 147.5,1.88,U 147.5,1.86,1,1.02,2,11.00
-Australia - NBL1 (W),Southern Tigers (W),Forestville Eagles (W),Sat 10:00,+2.5,1.87,-2.5,1.87,O 143.5,1.84,U 143.5,1.90,1,2.15,2,1.65
-Australia - NBL1 (W),West Adelaide Bearcats (W),Woodville Warriors (W),Sat 10:00,-25.5,1.82,+25.5,1.92,O 145.5,1.88,U 145.5,1.86,1,1.001,2,14.50
-Australia - NBL1 (W),Darwin Salties (W),Southern District Spartans (W),Sat 10:30,-2.5,1.88,+2.5,1.86,O 151.5,1.87,U 151.5,1.87,1,1.67,2,2.12
-Australia - NBL1,Manly Warringah Sea Eagles,Central Coast Crusaders,Sat 09:00,+3.5,1.87,-3.5,1.87,O 149.5,1.85,U 149.5,1.89,1,2.30,2,1.57
-Australia - NBL1,Albury Wodonga Bandits,Hills Hornets,Sat 10:00,-3.5,1.83,+3.5,1.91,O 165.5,1.91,U 165.5,1.83,1,1.55,2,2.35
-Australia - NBL1,Sutherland Sharks,Inner West Bulls,Sat 10:00,-9.5,1.87,+9.5,1.87,O 154.5,1.86,U 154.5,1.88,1,1.19,2,4.35
-Australia - NBL1,Newcastle Falcons,Canberra Gunners,Sat 10:15,-4.5,1.86,+4.5,1.88,O 151.5,1.84,U 151.5,1.90,1,1.49,2,2.50
-Australia - NBL1,Brisbane Capitals,Northside Wizards,Sat 11:00,+4.5,1.87,-4.5,1.87,O 178.5,1.89,U 178.5,1.85,1,2.50,2,1.49
-Australia - NBL1,North Gold Coast Seahawks,Gold Coast Rollers,Sat 11:00,+9.5,1.92,-9.5,1.82,O 184.5,1.85,U 184.5,1.89,1,4.50,2,1.18
-Australia - NBL1,USC Rip City,Suncoast Clippers,Sat 11:30,-5.5,1.88,+5.5,1.86,O 172.5,1.84,U 172.5,1.90,1,1.41,2,2.75
-Australia - NBL1,Noarlunga City Southern Tigers,Forestville Eagles,Sat 11:45,+11.5,1.90,-11.5,1.84,O 170.5,1.86,U 170.5,1.88,1,5.65,2,1.12
-Australia - NBL1,South Adelaide Panthers,Eastern Mavericks,Sat 11:45,-17.5,1.88,+17.5,1.86,O 170.5,1.90,U 170.5,1.84,1,1.04,2,9.00
-Australia - NBL1,West Adelaide Bearcats,Woodville Warriors,Sat 11:45,Markets are not available,No_market,No_market,No_market,O 169.5,1.90,U 169.5,1.84,1,1.43,2,2.70
-Israel - Super League,Hapoel Tel Aviv,Bnei Herzelia,Sat 19:45,-8.5,1.95,+8.5,1.82,O 170.5,1.89,U 170.5,1.89,1,1.26,2,3.90
-Spain - LEB Oro,Basquet Coruna,Oviedo BC,21:30,-14.5,1.81,+14.5,1.90,O 154.5,1.84,U 154.5,1.86,1,1.06,2,8.00
-Spain - LEB Oro,Caceres Ciudad del Baloncesto,Albacete Basket,21:45,-8.5,1.88,+8.5,1.82,O 147.5,1.83,U 147.5,1.87,1,1.24,2,3.80
-Spain - LEB Oro,Chocolates Trapa Palencia,CD Estela,22:00,-14.5,1.91,+14.5,1.80,O 154.5,1.86,U 154.5,1.84,1,1.08,2,7.00
-Spain - LEB Oro,Caprabo Lleida,Andorra,22:15,+7.5,1.79,-7.5,1.92,O 156.5,1.84,U 156.5,1.86,1,3.25,2,1.31
-Spain - LEB Oro,Ourense Baloncesto Sad,Cbc Valladolid,Sat 20:00,+3.5,1.91,-3.5,1.80,O 147.5,1.86,U 147.5,1.84,1,2.40,2,1.53
-France - Pro B,ALM Evreux Basket,Lille Metropole,in 38',-1.5,1.89,+1.5,1.85,O 158.5,1.86,U 158.5,1.88,1,1.79,2,1.96
-France - Pro B,Anjou BC Angers,BC Gries-Souffel,in 38',+1.5,1.89,-1.5,1.85,O 174.5,1.91,U 174.5,1.83,1,2.00,2,1.75
-France - Pro B,Denain Voltaire,Antibes Sharks,in 38',-1.5,1.81,+1.5,1.93,O 167.5,1.88,U 167.5,1.86,1,1.72,2,2.05
-France - Pro B,Nantes Atlantique,Aix Maurienne Savoie,in 38',-8.5,1.91,+8.5,1.83,O 156.5,1.85,U 156.5,1.89,1,1.24,2,3.80
-France - Pro B,Saint Vallier,JA Vichy-Clermont,21:30,+2.5,1.92,-2.5,1.82,O 174.5,1.87,U 174.5,1.87,1,2.20,2,1.62
-Germany - Pro A,Dresden Titans,Eisbaren Bremerhaven,Sat 19:00,-1.5,1.82,+1.5,1.92,O 163.5,1.87,U 163.5,1.87,1,1.73,2,2.03
-Germany - Pro A,Giessen 46ers,Nuremberg Falcons BC,Sat 20:00,-6.5,1.92,+6.5,1.82,O 164.5,1.90,U 164.5,1.84,1,1.37,2,2.95
-Germany - Pro A,Panthers Schwenningen,SC Rasta Vechta,Sat 20:00,+20.5,1.90,-20.5,1.84,O 156.5,1.89,U 156.5,1.85,1,10.00,2,1.03
-Germany - Pro A,Phoenix Hagen,TBB Trier,Sat 20:00,-4.5,1.83,+4.5,1.91,O 175.5,1.86,U 175.5,1.88,1,1.48,2,2.55
-Germany - DBBL,Herner TC (W),Alba Berlin (W),Sat 17:00,-4.5,1.91,+4.5,1.83,O 132.5,1.89,U 132.5,1.85,1,1.50,2,2.45
-Germany - DBBL,TK Hannover (W),Eisvogel Freiburg (W),Sat 19:00,-18.5,1.87,+18.5,1.87,O 145.5,1.87,U 145.5,1.87,1,1.03,2,10.00
-Iceland - Urvalsdeild,Umfn Njardvik,Valur Reykjavik,22:15,-4.5,1.81,+4.5,1.93,O 175.5,1.84,U 175.5,1.90,1,1.46,2,2.60
-Czech Republic - 1. Liga,Sokol Prazsky,BC Vysocina,in 8',-29.5,1.83,+29.5,1.91,O 153.5,1.84,U 153.5,1.90,1,1.001,2,14.50
-Czech Republic - NBL,Nymburk,BK Decin,Sat 16:00,-11.5,1.94,+11.5,1.77,O 166.5,1.87,U 166.5,1.83,1,1.14,2,5.25
-Czech Republic - NBL,BK NH Ostrava,Brno,Sat 18:30,+6.5,1.80,-6.5,1.91,O 171.5,1.87,U 171.5,1.83,1,2.95,2,1.37
-Czech Republic - NBL,USK Praha,SK Slavia Prague,Sat 18:30,-11.5,1.86,+11.5,1.84,O 162.5,1.88,U 162.5,1.82,1,1.13,2,5.50
-France - LFB (W),Lattes Montpellier (W),Landerneau Bretagne (W),in 38',-19.5,1.85,+19.5,1.89,O 144.5,1.83,U 144.5,1.91,1,1.02,2,11.00
-Spain - Liga Femenina (W),Valencia (W),Cb Islas Canarias (W),Sat 19:00,-18.5,1.86,+18.5,1.88,O 143.5,1.91,U 143.5,1.83,1,1.03,2,10.00
-Spain - Liga Femenina (W),Bembibre (W),Baloncesto Leganes (W),Sat 19:15,-9.5,1.91,+9.5,1.83,O 136.5,1.84,U 136.5,1.90,1,1.20,2,4.25
-Spain - Liga Femenina (W),Gernika Bizkaia (W),AE Sedis Basquet (W),Sat 19:30,-2.5,1.93,+2.5,1.81,O 126.5,1.88,U 126.5,1.86,1,1.72,2,2.05
-Serbia - KLS,KK Zdravlje Leskovac,KK Vrsac,Sat 17:30,-1.5,1.88,+1.5,1.82,O 161.5,1.88,U 161.5,1.82,1,1.80,2,1.94
-Serbia - KLS,KK Sloboda Uzice,KK Spartak Subotica,Sat 19:00,+6.5,1.82,-6.5,1.88,O 163.5,1.85,U 163.5,1.85,1,3.00,2,1.36
-Serbia - KLS,KK Metalac,OKK Novi Pazar,Sat 20:00,-11.5,1.81,+11.5,1.90,O 166.5,1.82,U 166.5,1.88,1,1.11,2,6.00
-Argentina - Torneo Federal,Apv,Gimnasia de Ituzaingo,Sat 01:00,+1.5,1.85,-1.5,1.85,O 151.5,1.89,U 151.5,1.82,1,1.97,2,1.78
-Argentina - Torneo Federal,Caza Y Pesca,Club Sportivo Pilar,Sat 01:00,-5.5,1.85,+5.5,1.86,O 154.5,1.84,U 154.5,1.86,1,1.42,2,2.70
-Argentina - Torneo Federal,Claridad,Club Presidente Derqui,Sat 01:00,+15.5,1.86,-15.5,1.84,O 156.5,1.88,U 156.5,1.82,1,8.00,2,1.06
-Argentina - Torneo Federal,Tu Club Villa Mitre Basquet,CA River Plate,Sat 01:00,+13.5,1.85,-13.5,1.86,O 137.5,1.87,U 137.5,1.83,1,6.90,2,1.08
-Argentina - Torneo Federal,Bochas Sport Club de Colonia Caroya,El Ceibo,Sat 02:00,+5.5,1.89,-5.5,1.82,O 160.5,1.84,U 160.5,1.87,1,2.75,2,1.42
-Argentina - Torneo Federal,Alberdi de Tucuman,Club Avellaneda Central de Tucuman,Sat 03:00,-3.5,1.86,+3.5,1.85,O 160.5,1.85,U 160.5,1.86,1,1.56,2,2.35
-Argentina - Torneo Federal,El Tala de Rosario,Santa Paula de Galvez,Sat 03:00,+5.5,1.85,-5.5,1.85,O 159.5,1.85,U 159.5,1.85,1,2.65,2,1.44
-Italy - Serie B,BasketBall Gallarate,Herons Basket,Sat 19:30,+3.5,1.93,-3.5,1.81,O 142.5,1.85,U 142.5,1.89,1,2.40,2,1.53
-Italy - Serie B,Novipiu JB Monferrato,Basket Golfo Piombino,Sat 20:00,+4.5,1.89,-4.5,1.85,O 152.5,1.87,U 152.5,1.87,1,2.50,2,1.49
-Austria - Zweite Liga,Basket Flames,Future Team Steiermark,in 38',+1.5,1.91,-1.5,1.83,O 146.5,1.85,U 146.5,1.89,1,2.02,2,1.74
-Austria - Zweite Liga,UKJ Hypo Mistelbach,Kelag Worthersee Piraten,Sat 18:00,-6.5,1.84,+6.5,1.90,O 161.5,1.91,U 161.5,1.83,1,1.33,2,3.15
-Austria - Zweite Liga,Jennersdorf Blackbirds,Kos Posojilnica Bank Celovec/Klagenfurt,Sat 19:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Austria - Zweite Liga,BBU Salzburg,Mattersburg Rocks,Sat 19:30,+1.5,1.84,-1.5,1.90,O 150.5,1.88,U 150.5,1.86,1,1.94,2,1.80
-Austria - Zweite Liga,Dornbirn Lions,Vienna United PSV,Sat 19:30,+3.5,1.91,-3.5,1.83,O 168.5,1.91,U 168.5,1.83,1,2.35,2,1.55
-Brazil - Campeonato Brasileiro de Clubes,Memorial / Fupes / Santos,Cruzeiro,Sat 00:00,+0.5,1.84,-0.5,1.86,O 139.5,1.85,U 139.5,1.85,1,1.86,2,1.88
+USA - NBA,MIA Heat,BKN Nets,Sun 02:00,-6.5,1.92,+6.5,1.89,O 221.5,1.90,U 221.5,1.91,1,1.42,2,3.00
+USA - NBA,DEN Nuggets,MIL Bucks,Sun 04:00,-3.5,1.91,+3.5,1.90,O 237.5,1.92,U 237.5,1.89,1,1.61,2,2.40
+USA - NBA,PHX Suns,PHI 76ers,Sun 05:00,-2.5,1.86,+2.5,1.95,O 225.5,1.92,U 225.5,1.89,1,1.76,2,2.32
+USA - NBA,SAC Kings,UTA Jazz,Sun 05:00,-9.5,1.92,+9.5,1.89,O 234.5,1.88,U 234.5,1.93,1,1.26,2,4.05
+USA - NBA,LA Clippers,NO Pelicans,Sun 05:30,-4.5,1.86,+4.5,1.95,O 223.5,1.88,U 223.5,1.93,1,1.56,2,2.78
+Greece - Basket League,Peristeri,Kolossos Rhodes,Sun 15:45,-7.5,1.96,+7.5,1.85,O 159.5,1.90,U 159.5,1.91,1,1.33,2,3.35
+Greece - Basket League,AS Karditsas,Lavrio,Sun 17:00,-5.5,1.96,+5.5,1.85,O 155.5,1.95,U 155.5,1.86,1,1.48,2,2.70
+Greece - Basket League,Olympiacos,PAOK,Sun 19:15,-20.5,1.94,+20.5,1.87,O 161.5,1.89,U 161.5,1.92,1,1.001,2,21.00
+Spain - ACB,Real Betis,Unicaja,Sun 13:30,+7.5,1.92,-7.5,1.89,O 164.5,1.89,U 164.5,1.92,1,3.50,2,1.32
+Spain - ACB,Tenerife,Gran Canaria,Sun 14:00,-6.5,1.86,+6.5,1.95,O 155.5,1.86,U 155.5,1.95,1,1.37,2,3.25
+Spain - ACB,Baskonia Vitoria,Bilbao,Sun 18:00,-13.5,1.89,+13.5,1.92,O 166.5,1.87,U 166.5,1.94,1,1.11,2,7.30
+Spain - ACB,Fuenlabrada,Real Madrid,Sun 19:30,+14.5,1.94,-14.5,1.87,O 167.5,1.93,U 167.5,1.88,1,8.40,2,1.09
+Spain - ACB,Zaragoza,Valencia,Sun 21:00,+4.5,1.91,-4.5,1.90,O 163.5,1.90,U 163.5,1.91,1,2.60,2,1.52
+Italy - Serie A,Trento,Napoli,Sun 18:30,-7.5,1.89,+7.5,1.92,O 155.5,1.89,U 155.5,1.92,1,1.32,2,3.55
+Italy - Serie A,Venezia,Reggiana,Sun 19:00,-7.5,1.97,+7.5,1.85,O 153.5,1.88,U 153.5,1.94,1,1.35,2,3.30
+Italy - Serie A,Brindisi,Treviso,Sun 19:30,-6.5,1.87,+6.5,1.94,O 168.5,1.92,U 168.5,1.89,1,1.36,2,3.25
+Italy - Serie A,Brescia,Armani Milan,Sun 20:00,+7.5,1.84,-7.5,1.97,O 155.5,1.87,U 155.5,1.94,1,3.25,2,1.36
+Italy - Serie A,Virtus Bologna,VL Pesaro,Sun 20:00,-11.5,1.90,+11.5,1.91,O 166.5,1.90,U 166.5,1.91,1,1.16,2,5.70
+Italy - Serie A,Dinamo Sassari,Derthona,Sun 20:30,-4.5,1.89,+4.5,1.92,O 166.5,1.88,U 166.5,1.93,1,1.53,2,2.60
+Italy - Serie A,Varese,Verona,Sun 21:00,-7.5,1.84,+7.5,1.90,O 177.5,1.92,U 177.5,1.85,1,1.31,2,3.50
+Turkey - TBSL,Buyukcekmece,Petkim Spor,Sun 13:00,-4.5,1.86,+4.5,1.88,O 161.5,1.89,U 161.5,1.89,1,1.50,2,2.60
+Turkey - TBSL,Pinar Karsiyaka,Turk Telekom,Sun 15:30,-1.5,1.89,+1.5,1.85,O 169.5,1.86,U 169.5,1.91,1,1.84,2,1.98
+Turkey - TBSL,Tofas,Fenerbahce,Sun 18:00,+9.5,1.87,-9.5,1.87,O 165.5,1.87,U 165.5,1.90,1,4.40,2,1.21
+France - Pro A,JL Bourg,JDA Dijon,Sun 16:15,-3.5,1.86,+3.5,1.95,O 171.5,1.91,U 171.5,1.90,1,1.57,2,2.50
+France - Pro A,Limoges CSP,AS Monaco,Sun 20:00,+6.5,1.97,-6.5,1.85,O 162.5,1.95,U 162.5,1.87,1,3.25,2,1.36
+Germany - BBL,Braunschweig,FC Bayern Munich,Sun 16:00,+9.5,1.88,-9.5,1.93,O 160.5,1.93,U 160.5,1.88,1,4.40,2,1.23
+Germany - BBL,Niners Chemnitz,Bonn,Sun 16:00,+11.5,1.92,-11.5,1.89,O 165.5,1.91,U 165.5,1.90,1,5.80,2,1.15
+Germany - BBL,USC Heidelberg,Crailsheim Merlins,Sun 16:00,-3.5,1.94,+3.5,1.87,O 176.5,1.89,U 176.5,1.92,1,1.62,2,2.40
+Germany - BBL,Alba Berlin,Bamberg,Sun 19:00,-11.5,1.94,+11.5,1.87,O 173.5,1.89,U 173.5,1.92,1,1.17,2,5.45
+USA - NCAA,Kansas State Wildcats,Florida Atlantic Owls,Sun 00:09,-1.5,1.88,+1.5,1.93,O 144.5,1.95,U 144.5,1.85,1,1.79,2,2.07
+USA - NCAA,Gonzaga Bulldogs,Connecticut Huskies,Sun 02:49,+2.5,1.95,-2.5,1.85,O 153.5,1.90,U 153.5,1.90,1,2.27,2,1.67
+USA - NCAA,San Diego State Aztecs,Creighton Bluejays,Sun 21:20,+1.5,1.95,-1.5,1.85,O 133.5,1.85,U 133.5,1.95,1,2.10,2,1.78
+Greece - Elite League,AE Psychikou,Ermis Sximatariou,Sun 15:00,-7.5,1.85,+7.5,1.85,O 153.5,1.82,U 153.5,1.89,1,1.32,2,3.20
+USA - NCAA (W),Virginia Tech Hokies (W),Tennessee Volunteers (W),Sun 00:30,-1.5,1.95,+1.5,1.85,O 137.5,1.90,U 137.5,1.90,1,1.93,2,1.91
+Europe - ABA League,BC Mega Bemax,KK Split CO,Sun 13:00,-5.5,1.90,+5.5,1.88,O 170.5,1.89,U 170.5,1.88,1,1.44,2,2.65
+Europe - ABA League,Partizan,Cedevita Olimpija,Sun 20:00,-13.5,1.89,+13.5,1.88,O 172.5,1.88,U 172.5,1.89,1,1.10,2,6.20
+Lithuania - LKL,Zalgiris Kaunas,Gargzdai SC,Sun 17:20,-19.5,1.85,+19.5,1.89,O 159.5,1.85,U 159.5,1.89,1,1.02,2,11.00
+Lithuania - LKL,Neptunas Klaipeda,Jonavos BC Jonava,Sun 19:30,-1.5,1.87,+1.5,1.87,O 158.5,1.84,U 158.5,1.90,1,1.77,2,1.98
+Austria - ABL,BSC Furstenfeld Panthers,BBC Nord Dragonz,Sun 16:30,-13.5,1.91,+13.5,1.80,O 162.5,1.88,U 162.5,1.82,1,1.09,2,6.50
+Austria - ABL,Ubsc Graz,ECE Bulls Kapfenberg,Sun 16:30,-5.5,1.85,+5.5,1.85,O 151.5,1.86,U 151.5,1.84,1,1.41,2,2.75
+Austria - ABL,Klosterneuburg Dukes,Swans Gmunden,Sun 18:30,+8.5,1.91,-8.5,1.80,O 157.5,1.81,U 157.5,1.90,1,4.10,2,1.21
+Austria - ABL,Oberwart Gunners,Flyers Wels,Sun 18:30,-6.5,1.91,+6.5,1.80,O 161.5,1.85,U 161.5,1.85,1,1.37,2,2.95
+Austria - ABL,Vienna D.c. Timberwolves,Traiskirchen Lions,Sun 20:30,+4.5,1.87,-4.5,1.83,O 153.5,1.86,U 153.5,1.84,1,2.55,2,1.48
+Croatia - A1 League,KK Zadar,GKK Sibenik,Sun 19:00,-13.5,1.87,+13.5,1.87,O 151.5,1.91,U 151.5,1.83,1,1.08,2,7.00
+Croatia - A1 League,KK Cedevita Junior,Cibona,Sun 21:00,+3.5,1.86,-3.5,1.88,O 161.5,1.84,U 161.5,1.90,1,2.25,2,1.60
+England - BBL Trophy,Cheshire Phoenix,Glasgow Rocks,Sun 17:30,+1.5,1.86,-1.5,1.84,O 165.5,1.86,U 165.5,1.84,1,1.98,2,1.77
+Finland - Korisliiga,Helsinki Seagulls IF,BC Nokia,Sun 17:00,-15.5,1.85,+15.5,1.85,O 164.5,1.85,U 164.5,1.85,1,1.06,2,8.00
+Finland - Korisliiga,Kataja,KTP Kotka Basket,Sun 18:00,-9.5,1.92,+9.5,1.79,O 174.5,1.82,U 174.5,1.88,1,1.21,2,4.10
+Austria - AWBL,UBI Graz Women,BK Duchess (W),Sun 18:00,+10.5,1.91,-10.5,1.83,O 129.5,1.86,U 129.5,1.88,1,5.00,2,1.15
+Belgium - 2nd Division,BC Guco Lier,Kortrijk Spurs,Sun 15:30,+7.5,1.84,-7.5,1.90,O 158.5,1.91,U 158.5,1.83,1,3.40,2,1.29
+Finland - Division 1,Torpan Pojat,Aanekosken Huima,Sun 13:00,-2.5,1.86,+2.5,1.88,O 176.5,1.83,U 176.5,1.91,1,1.65,2,2.15
+Romania - LNB,U-ΒΤ Cluj-Napoca,CS Dinamo Bucuresti,Sun 17:00,-18.5,1.86,+18.5,1.88,O 160.5,1.88,U 160.5,1.86,1,1.03,2,10.00
+Romania - LNB,CSM Targu Mures,ABC Laguna Bucuresti,Sun 19:00,-25.5,1.87,+25.5,1.87,O 153.5,1.86,U 153.5,1.88,1,1.006,2,13.50
+Switzerland - SB League,Basket-Club Boncourt,Fribourg Olympic,Sun 17:00,+27.5,1.84,-27.5,1.90,O 156.5,1.89,U 156.5,1.85,1,14.50,2,1.001
+Switzerland - SB League,Lugano Tigers,Union Neuchatel,Sun 17:00,-2.5,1.87,+2.5,1.87,O 163.5,1.89,U 163.5,1.85,1,1.67,2,2.12
+Switzerland - SB League,Starwings Basket Regio Basel,BBC Monthey,Sun 17:00,+13.5,1.88,-13.5,1.86,O 155.5,1.83,U 155.5,1.91,1,7.00,2,1.08
+Canada - NBL,Newfoundland Rogues,Windsor Express,in 31',+3.5,1.87,-3.5,1.87,O 227.5,1.84,U 227.5,1.90,1,2.30,2,1.57
+Poland - PLK,Szczecin,Siden Torun,Sun 16:30,-12.5,1.86,+12.5,1.84,O 169.5,1.87,U 169.5,1.83,1,1.10,2,6.20
+Poland - PLK,Trefl Sopot,Zielona Gora,Sun 18:30,-5.5,1.92,+5.5,1.79,O 171.5,1.83,U 171.5,1.87,1,1.44,2,2.65
+Slovenia - 1. A SKL,Hopsi Polzela,Kk Sentjur,Sun 21:00,+5.5,1.89,-5.5,1.85,O 159.5,1.83,U 159.5,1.91,1,2.80,2,1.40
+Portugal - LPB,Lusitania,SL Benfica,Sun 18:00,+13.5,1.81,-13.5,1.90,O 162.5,1.84,U 162.5,1.86,1,6.50,2,1.09
+Portugal - LPB,CAB Madeira,Imortal BC,Sun 19:00,+1.5,1.86,-1.5,1.84,O 164.5,1.82,U 164.5,1.88,1,1.98,2,1.77
+Europe - BNXT League,Oostende,Den Bosch Basketball,Sun 16:00,-5.5,1.91,+5.5,1.80,O 157.5,1.85,U 157.5,1.85,1,1.44,2,2.65
+South Korea - KBL,KCC Egis,KT Sonicboom,Sun 11:00,-5.5,1.91,+5.5,1.80,O 156.5,1.87,U 156.5,1.83,1,1.46,2,2.60
+South Korea - KBL,LG Sakers,Seoul SK Knights,Sun 11:00,-1.5,1.88,+1.5,1.82,O 160.5,1.85,U 160.5,1.85,1,1.81,2,1.93
+South Korea - KBL,Anyang KGC,Wonju Dongbu Promy,Sun 13:00,-9.5,1.91,+9.5,1.80,O 158.5,1.90,U 158.5,1.81,1,1.15,2,5.00
+Japan - B. League,Niigata albirex BB,Chiba Jets,Sun 07:05,+18.5,1.86,-18.5,1.84,O 166.5,1.85,U 166.5,1.85,1,10.00,2,1.03
+Japan - B. League,Shimane Susanoo Magic,Kyoto Hannarizu,Sun 07:35,-13.5,1.88,+13.5,1.82,O 159.5,1.85,U 159.5,1.85,1,1.09,2,6.50
+Japan - B. League,Shiga Lake Stars,Sun Rockers Shibuya,Sun 08:05,+2.5,1.87,-2.5,1.83,O 171.5,1.85,U 171.5,1.85,1,2.15,2,1.65
+Japan - B. League,Toyama Grouses,Hiroshima Dragonflies,Sun 08:05,+13.5,1.85,-13.5,1.85,O 169.5,1.85,U 169.5,1.85,1,7.00,2,1.08
+Japan - B. League,Yokohama B-Corsairs,Shinshu Brave Warriors,Sun 08:05,-5.5,1.80,+5.5,1.91,O 152.5,1.86,U 152.5,1.84,1,1.38,2,2.90
+Japan - B. League,Aisin Seahorses,Osaka evessa,Sun 09:05,+3.5,1.82,-3.5,1.88,O 156.5,1.85,U 156.5,1.85,1,2.25,2,1.60
+Japan - B. League,Alvark Tokyo,Levanga Hokkaido,Sun 09:05,-14.5,1.83,+14.5,1.87,O 158.5,1.88,U 158.5,1.82,1,1.07,2,7.50
+Japan - B. League,Gunma Crane Thunders,Akita Northern Happinets,Sun 09:05,-2.5,1.83,+2.5,1.87,O 161.5,1.83,U 161.5,1.87,1,1.65,2,2.15
+Japan - B. League,Nagoya Diamond Dolphins,Fighting Eagles Nagoya,Sun 09:05,-4.5,1.88,+4.5,1.82,O 159.5,1.85,U 159.5,1.85,1,1.50,2,2.45
+Japan - B. League,Utsunomiya Brex,San-En Neophoenix,Sun 09:05,-9.5,1.92,+9.5,1.79,O 150.5,1.85,U 150.5,1.85,1,1.21,2,4.10
+Japan - B. League,Brave Thunders,Ibaraki Robots,Sun 11:05,-10.5,1.81,+10.5,1.90,O 166.5,1.85,U 166.5,1.85,1,1.15,2,5.00
+Japan - B. League,Ryukyu Golden Kings Okinawa,Sendai 89ers,Sun 12:05,-8.5,1.91,+8.5,1.80,O 146.5,1.85,U 146.5,1.85,1,1.25,2,3.70
+Japan - B2. League,Fukushima Fire Bonds,Earthfriends Tokyo Z,Sun 07:30,-11.5,1.83,+11.5,1.91,O 155.5,1.86,U 155.5,1.88,1,1.12,2,5.65
+Japan - B2. League,Aomori,Altiri Chiba,Sun 08:00,+8.5,1.89,-8.5,1.85,O 164.5,1.89,U 164.5,1.85,1,4.00,2,1.22
+Japan - B2. League,Koshigaya Alphas,Nishinomiya Storks,Sun 08:00,-5.5,1.86,+5.5,1.88,O 153.5,1.86,U 153.5,1.88,1,1.40,2,2.80
+Japan - B2. League,Saga Ballooners,Yamagata Wyverns,Sun 08:00,-8.5,1.81,+8.5,1.93,O 153.5,1.87,U 153.5,1.87,1,1.21,2,4.10
+Japan - B2. League,Bambitious Nara,Rizing Fukuoka,Sun 09:30,-1.5,1.83,+1.5,1.91,O 156.5,1.87,U 156.5,1.87,1,1.74,2,2.02
+Japan - B2. League,Nagasaki Velca,Kagawa Five Arrows,Sun 10:00,-17.5,1.88,+17.5,1.86,O 166.5,1.88,U 166.5,1.86,1,1.04,2,9.00
+Philippines - Governors Cup,TNT KaTropa,Meralco Bolts,Sun 11:30,-5.5,1.81,+5.5,1.93,O 212.5,1.90,U 212.5,1.84,1,1.39,2,2.85
+Philippines - Governors Cup,Barangay Ginebra San Miguel,San Miguel Beermen,Sun 13:45,+2.5,1.86,-2.5,1.88,O 214.5,1.84,U 214.5,1.90,1,2.10,2,1.68
+Mexico - Cibacopa,Venados De Mazatlan,Rayos de Hermosillo,Sun 04:15,+2.5,1.86,-2.5,1.84,O 173.5,1.89,U 173.5,1.81,1,2.15,2,1.66
+Mexico - Cibacopa,Zonkeys de Tijuana,Halcones de Obregon,Sun 05:30,-2.5,1.84,+2.5,1.86,O 172.5,1.82,U 172.5,1.89,1,1.66,2,2.15
+Mexico - Cibacopa,Pioneros de Los Mochis,Astros Jalisco,Sun 06:00,+4.5,1.88,-4.5,1.82,O 178.5,1.84,U 178.5,1.86,1,2.55,2,1.48
+Mexico - Cibacopa,Ostioneros de Guaymas,Caballeros de Culiacán,Sun 06:15,-4.5,1.83,+4.5,1.87,O 171.5,1.83,U 171.5,1.87,1,1.48,2,2.55
+Puerto Rico - BSN,Capitanes de Arecibo,Osos de Manati,Sun 02:00,-12.5,1.88,+12.5,1.82,O 178.5,1.82,U 178.5,1.88,1,1.11,2,6.00
+Puerto Rico - BSN,Gigantes de Carolina,Cangrejeros de Santurce,Sun 02:00,-4.5,1.91,+4.5,1.80,O 170.5,1.86,U 170.5,1.84,1,1.53,2,2.40
+Puerto Rico - BSN,Quebradillas,Cariduros Fajardo,Sun 02:00,-4.5,1.82,+4.5,1.88,O 176.5,1.85,U 176.5,1.85,1,1.48,2,2.55
+El Salvador - Liga Mayor,Chalchuapa United,Santa Tecla BC,Sun 04:30,+28.5,1.87,-28.5,1.87,O 169.5,1.84,U 169.5,1.90,1,8.50,2,1.05
+El Salvador - Liga Mayor,San Vicente,Cojute,Sun 04:30,+1.5,1.92,-1.5,1.82,O 161.5,1.88,U 161.5,1.86,1,2.03,2,1.73
+Argentina - LNB,Club Atletico San Lorenzo De Almagro,La Union Formosa,Sun 01:00,+4.5,1.90,-4.5,1.81,O 161.5,1.85,U 161.5,1.85,1,2.55,2,1.48
+Argentina - LNB,Obera Tenis Club,Ciclista Olimpico De La Banda,Sun 02:00,-2.5,1.82,+2.5,1.88,O 157.5,1.87,U 157.5,1.83,1,1.65,2,2.15
+Argentina - LNB,Ferro Carril Oeste,Instituto Atletico Central Cordoba,Sun 04:00,+5.5,1.84,-5.5,1.86,O 160.5,1.85,U 160.5,1.85,1,2.75,2,1.41
+Venezuela - Superliga,Brillantes De Maracaibo,Trotamundos de Carabobo,Sun 00:00,+3.5,1.90,-3.5,1.81,O 156.5,1.85,U 156.5,1.85,1,2.35,2,1.55
+Venezuela - Superliga,Cocodrilos de Caracas,Cancrejeros De Monagas,Sun 00:00,-11.5,1.85,+11.5,1.85,O 156.5,1.85,U 156.5,1.85,1,1.13,2,5.50
+Venezuela - Superliga,Diablos De Miranda,Panteras de Miranda,Sun 00:00,+5.5,1.91,-5.5,1.80,O 146.5,1.84,U 146.5,1.86,1,2.90,2,1.38
+Venezuela - Superliga,Gigantes de Guayana,Marinos de Anzoategui,Sun 00:00,-7.5,1.92,+7.5,1.79,O 160.5,1.82,U 160.5,1.88,1,1.31,2,3.25
+Venezuela - Superliga,Gladiadores de Anzoategui,Guaiqueries de Margarita,Sun 00:00,-5.5,1.92,+5.5,1.79,O 153.5,1.82,U 153.5,1.88,1,1.44,2,2.65
+Venezuela - Superliga,Guaros de Lara,Llaneros de Guarico,Sun 01:00,-7.5,1.81,+7.5,1.90,O 156.5,1.85,U 156.5,1.85,1,1.26,2,3.60
+Chile - Liga Nacional,ABA Ancud,CD Espanol Osorno,in 31',-13.5,1.92,+13.5,1.82,O 170.5,1.86,U 170.5,1.88,1,1.09,2,6.50
+Chile - Liga Nacional,Deportivo Valdivia,CD Atletico Puerto Varas,Sun 01:00,-3.5,1.90,+3.5,1.84,O 165.5,1.88,U 165.5,1.86,1,1.60,2,2.25
+Chile - Liga Nacional,Leones de Quilpue,CD Puente Alto,Sun 01:30,-13.5,1.90,+13.5,1.84,O 156.5,1.83,U 156.5,1.91,1,1.09,2,6.50
+Australia - NBL1 (W),Norwood Flames (W),Sturt Sabres (W),Sun 02:30,+3.5,1.93,-3.5,1.81,O 143.5,1.87,U 143.5,1.87,1,2.40,2,1.53
+Australia - NBL1 (W),Maitland Mustangs (W),Norths Bears (W),Sun 05:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Australia - NBL1 (W),Ipswich Force (W),Red City Roar (W),Sun 06:00,-11.5,1.82,+11.5,1.92,O 147.5,1.84,U 147.5,1.90,1,1.11,2,6.00
+Australia - NBL1 (W),Central Coast Crusaders (W),Canberra Nationals (W),Sun 07:00,+3.5,1.87,-3.5,1.87,O 144.5,1.87,U 144.5,1.87,1,2.30,2,1.57
+Australia - Big V,Blackburn Vikings,Melbourne United,Sun 05:00,+5.5,1.80,-5.5,1.94,O 183.5,1.89,U 183.5,1.85,1,2.60,2,1.46
+Australia - Big V,Camberwell Dragons,Wyndham Basketball,Sun 06:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Australia - Big V,Sunbury Jets,Hume City Broncos,Sun 06:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Australia - Big V,Western Port Steelers,Keysborough,Sun 06:00,-3.5,1.84,+3.5,1.90,O 182.5,1.87,U 182.5,1.87,1,1.55,2,2.35
+Australia - Big V (W),Camberwell Dragons (W),Wyndham Basketball (W),Sun 04:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Australia - Big V (W),Sunbury Jets (W),Hume City Broncos (W),Sun 04:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Australia - Big V (W),Sherbrooke (W),Mckinnon Cougars (W),Sun 07:00,+15.5,1.91,-15.5,1.83,O 131.5,1.91,U 131.5,1.83,1,8.50,2,1.05
+Australia - NBL1,Central Coast Crusaders,Canberra Gunners,Sun 05:00,+12.5,1.83,-12.5,1.91,O 164.5,1.85,U 164.5,1.89,1,6.00,2,1.11
+Australia - NBL1,Norwood Flames,Sturt Sabres,Sun 05:15,+3.5,1.84,-3.5,1.90,O 162.5,1.84,U 162.5,1.90,1,2.25,2,1.60
+Australia - NBL1,Townsville Heat,Cairns Marlins,Sun 06:00,+6.5,1.90,-6.5,1.84,O 174.5,1.83,U 174.5,1.91,1,3.15,2,1.33
+Australia - NBL1,Maitland Mustangs,Norths Bears,Sun 07:00,-4.5,1.83,+4.5,1.91,O 161.5,1.87,U 161.5,1.87,1,1.48,2,2.55
+Australia - NBL1,Ipswich Force,Red City Roar,Sun 08:00,-15.5,1.88,+15.5,1.86,O 173.5,1.86,U 173.5,1.88,1,1.06,2,8.00
+Sweden - SBL,Norrkoping Dolphins,KFUM Nassjo,Sun 17:04,-13.5,1.87,+13.5,1.87,O 166.5,1.85,U 166.5,1.89,1,1.08,2,7.00
+Sweden - SBL,Kfum Umea,Lulea BK,Sun 19:04,-6.5,1.89,+6.5,1.85,O 171.5,1.88,U 171.5,1.86,1,1.35,2,3.05
+Italy - Lega A1 (W),Akronos Moncalieri Women,Virtus Eirene Ragusa (W),Sun 19:00,+9.5,1.82,-9.5,1.92,O 137.5,1.86,U 137.5,1.88,1,4.25,2,1.20
+Italy - Lega A1 (W),Basket Team Crema (W),Polisportiva A. Galli Basket (W),Sun 19:00,-11.5,1.89,+11.5,1.85,O 137.5,1.84,U 137.5,1.90,1,1.13,2,5.50
+Italy - Lega A1 (W),Geas San Sesto Giovanni (W),Umana Venezia (W),Sun 19:00,+5.5,1.86,-5.5,1.88,O 136.5,1.88,U 136.5,1.86,1,2.75,2,1.41
+Italy - Lega A1 (W),Le Mura Lucca (W),Faenza Basket Project (W),Sun 19:00,-5.5,1.82,+5.5,1.92,O 140.5,1.87,U 140.5,1.87,1,1.39,2,2.85
+Italy - Lega A1 (W),PF Schio (W),Dinamo Sassari (W),Sun 19:00,-19.5,1.84,+19.5,1.90,O 150.5,1.86,U 150.5,1.88,1,1.02,2,11.00
+Italy - Lega A1 (W),San Martino Di Lupari (W),Magnolia Basket (W),Sun 19:00,-2.5,1.89,+2.5,1.85,O 131.5,1.87,U 131.5,1.87,1,1.69,2,2.10
+Italy - Lega A1 (W),Virtus Pallacanestro Bologna (W),Brixia Basket (W),Sun 19:00,-36.5,1.82,+36.5,1.92,O 145.5,1.90,U 145.5,1.84,1,1.001,2,14.50
+Israel - Super League,Hapoel Holon,Maccabi Tel-Aviv,Sun 18:30,+5.5,1.91,-5.5,1.86,O 170.5,1.90,U 170.5,1.87,1,2.90,2,1.42
+Israel - Super League,Hapoel Jerusalem,Hapoel Haifa BC,Sun 21:00,-12.5,1.89,+12.5,1.89,O 156.5,1.85,U 156.5,1.93,1,1.11,2,6.75
+Turkey - TBSL (W),Uludag Basket NBSD (W),Galatasaray Istanbul (W),Sun 19:30,+20.5,1.83,-20.5,1.91,O 150.5,1.88,U 150.5,1.86,1,11.00,2,1.02
+Spain - LEB Oro,Melilla Baloncesto,CB Almansa,Sun 13:00,-3.5,1.81,+3.5,1.90,O 151.5,1.87,U 151.5,1.83,1,1.55,2,2.35
+Spain - LEB Oro,Estudiantes,Lucentum Alicante,Sun 19:00,-8.5,1.92,+8.5,1.79,O 149.5,1.90,U 149.5,1.81,1,1.25,2,3.70
+Spain - LEB Oro,Iraurgi Saski Baloia,San Sebastian Gipuzkoa BC,Sun 19:30,+6.5,1.83,-6.5,1.87,O 155.5,1.83,U 155.5,1.87,1,3.05,2,1.35
+Germany - Pro A,Artland Dragons,Finke Baskets Paderborn,Sun 18:00,-5.5,1.93,+5.5,1.81,O 159.5,1.85,U 159.5,1.89,1,1.44,2,2.65
+Germany - DBBL,Eigner Angels Nordlingen,Panthers Osnabruck (W),Sun 17:00,-1.5,1.91,+1.5,1.83,O 134.5,1.87,U 134.5,1.87,1,1.83,2,1.91
+Germany - DBBL,Stars Keltern (W),Saarlouis Royals (W),Sun 17:00,-13.5,1.87,+13.5,1.87,O 134.5,1.83,U 134.5,1.91,1,1.08,2,7.00
+Czech Republic - 1. Liga,BC Novy Jicin,SA Brno,Sun 17:00,-5.5,1.93,+5.5,1.81,O 160.5,1.89,U 160.5,1.85,1,1.44,2,2.65
+Czech Republic - 1. Liga,BC Lokomotiva Plzen,Sokol Pisek,Sun 18:00,+25.5,1.84,-25.5,1.90,O 168.5,1.90,U 168.5,1.84,1,13.50,2,1.006
+Czech Republic - 1. Liga,Baketball Polabi,Turi Svitavy,Sun 18:30,+24.5,1.82,-24.5,1.92,O 165.5,1.85,U 165.5,1.89,1,8.00,2,1.06
+Czech Republic - 1. Liga,BK Snakes Ostrava,GBA Sojky Pelhrimov,Sun 19:00,-19.5,1.87,+19.5,1.87,O 150.5,1.86,U 150.5,1.88,1,1.02,2,11.00
+Czech Republic - 1. Liga,Levhartice Chomutov,BK Synthesia Pardubice,Sun 19:00,-9.5,1.90,+9.5,1.84,O 155.5,1.83,U 155.5,1.91,1,1.20,2,4.25
+Czech Republic - 1. Liga,Slavoj BK Litomerice,BK Jindrichuv Hradec,Sun 20:00,+5.5,1.83,-5.5,1.91,O 150.5,1.88,U 150.5,1.86,1,2.70,2,1.43
+Italy - A2,APU Udine,Frata Nardo,Sun 19:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Italy - A2,Blu Basket 1971,NPC Rieti,Sun 19:00,-16.5,1.88,+16.5,1.86,O 153.5,1.88,U 153.5,1.86,1,1.05,2,8.50
+Italy - A2,Casale Monferrato,Fortitudo Agrigento,Sun 19:00,+3.5,1.89,-3.5,1.85,O 159.5,1.88,U 159.5,1.86,1,2.30,2,1.57
+Italy - A2,Cestistica Citta DI San Severo,Ravenna,Sun 19:00,-1.5,1.88,+1.5,1.86,O 149.5,1.83,U 149.5,1.91,1,1.78,2,1.97
+Italy - A2,Chieti Basket 1974,Benedetto Xiv Cento,Sun 19:00,+4.5,1.88,-4.5,1.86,O 143.5,1.88,U 143.5,1.86,1,2.50,2,1.49
+Italy - A2,Gmac Bologna,Pallacanestro 2.015 Forli,Sun 19:00,+1.5,1.91,-1.5,1.83,O 150.5,1.87,U 150.5,1.87,1,2.02,2,1.74
+Italy - A2,Juvi Cremona 1952 Ferraroni,Cantu,Sun 19:00,+11.5,1.84,-11.5,1.90,O 152.5,1.86,U 152.5,1.88,1,5.50,2,1.13
+Italy - A2,Rinascita Basket Rimini,Pistoia Basket,Sun 19:00,+3.5,1.83,-3.5,1.91,O 149.5,1.89,U 149.5,1.85,1,2.25,2,1.60
+Italy - A2,San Giobbe Chiusi,UEB Gesteco Cividale,Sun 19:00,-2.5,1.83,+2.5,1.91,O 140.5,1.84,U 140.5,1.90,1,1.65,2,2.15
+Italy - A2,Stella Azzurra Roma,Latina Basket,Sun 19:00,-1.5,1.86,+1.5,1.88,O 152.5,1.83,U 152.5,1.91,1,1.77,2,1.98
+Italy - A2,Torino,Urania Milano,Sun 19:00,-8.5,1.87,+8.5,1.87,O 163.5,1.89,U 163.5,1.85,1,1.23,2,3.90
+Italy - A2,Trapani,UCC Piacenza,Sun 19:00,+1.5,1.80,-1.5,1.94,O 154.5,1.89,U 154.5,1.85,1,1.90,2,1.84
+Czech Republic - NBL,BK Usti Nad Labem,BK Jip Pardubice,Sun 19:00,-4.5,1.79,+4.5,1.92,O 162.5,1.85,U 162.5,1.85,1,1.46,2,2.60
+France - LFB (W),Tango Bourges Basket (W),Basket Landes (W),Sun 16:15,-10.5,1.83,+10.5,1.91,O 140.5,1.89,U 140.5,1.85,1,1.15,2,5.00
+France - LFB (W),Flammes Carolo Basket (W),ESB Villeneuve d´Ascq (W),Sun 18:30,+6.5,1.93,-6.5,1.81,O 144.5,1.87,U 144.5,1.87,1,3.20,2,1.32
+Turkey - TBL,Ormanspor,Kocaeli BSB,Sun 14:00,-5.5,1.82,+5.5,1.92,O 153.5,1.88,U 153.5,1.86,1,1.39,2,2.85
+Turkey - TBL,Final Genclik,Harem Spor,Sun 15:45,-9.5,1.85,+9.5,1.89,O 157.5,1.90,U 157.5,1.84,1,1.18,2,4.50
+Turkey - TBL,ITU BK,Fenerbahce Koleji,Sun 17:30,-4.5,1.85,+4.5,1.89,O 152.5,1.86,U 152.5,1.88,1,1.48,2,2.55
+Spain - Liga Femenina (W),Hozono Global Jairis (W),Porta XI Ensino (W),Sun 13:00,-3.5,1.91,+3.5,1.83,O 137.5,1.90,U 137.5,1.84,1,1.60,2,2.25
+Spain - Liga Femenina (W),Zaragoza (W),Barca Cbs (W),Sun 13:15,-9.5,1.87,+9.5,1.87,O 130.5,1.85,U 130.5,1.89,1,1.19,2,4.35
+Spain - Liga Femenina (W),CB Estudiantes (W),Avenida (W),Sun 13:30,+10.5,1.98,-10.5,1.77,O 133.5,1.85,U 133.5,1.89,1,5.25,2,1.14
+Spain - Liga Femenina (W),Girona (W),Gipuzkoa IDK (W),Sun 19:00,-12.5,1.86,+12.5,1.88,O 140.5,1.91,U 140.5,1.83,1,1.10,2,6.20
+Turkey - TBL 2,Lima Spor,Etimesgut Belediyesi,Sun 13:00,+7.5,1.87,-7.5,1.87,O 151.5,1.87,U 151.5,1.87,1,3.45,2,1.28
+El Salvador - Liga Mayor (W),L M Monsenor Romero (W),San Salvador BC (W),Sun 02:00,+7.5,1.86,-7.5,1.85,O 128.5,1.88,U 128.5,1.83,1,3.45,2,1.28
+Argentina - Torneo Federal,CA Bell,Sportivo Suardi,Sun 01:00,+1.5,1.86,-1.5,1.85,O 159.5,1.90,U 159.5,1.81,1,1.97,2,1.78
+Argentina - Torneo Federal,Atletico Trebolense,Sport Club Canadense,Sun 02:00,+4.5,1.85,-4.5,1.85,O 145.5,1.87,U 145.5,1.84,1,2.55,2,1.47
+Mexico - Liga ABE,TEC MTY Leon,TEC MTY Toluca,Sun 00:00,+8.5,1.85,-8.5,1.85,O 153.5,1.81,U 153.5,1.89,1,3.60,2,1.26
+Italy - Serie B,AP Monopoli,Basket Corato,Sun 19:00,-5.5,1.86,+5.5,1.88,O 148.5,1.87,U 148.5,1.87,1,1.41,2,2.75
+Italy - Serie B,Basket Jesi Academy,Andrea Costa Imola,Sun 19:00,-5.5,1.85,+5.5,1.89,O 145.5,1.84,U 145.5,1.90,1,1.38,2,2.90
+Italy - Serie B,CUS Jonico Basket Taranto,Lions Basket Bisceglie,Sun 19:00,-2.5,1.85,+2.5,1.89,O 148.5,1.91,U 148.5,1.83,1,1.65,2,2.15
+Italy - Serie B,Juvecaserta Academy,Pallacanestro Sala Consilina,Sun 19:00,-10.5,1.83,+10.5,1.91,O 148.5,1.86,U 148.5,1.88,1,1.15,2,5.00
+Italy - Serie B,Roseto Sharks,FS Avellino,Sun 19:00,-12.5,1.88,+12.5,1.86,O 142.5,1.91,U 142.5,1.83,1,1.10,2,6.20
+Italy - Serie B,Talos Ruvo DI Puglia,Pescara BK,Sun 19:00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,1,1.01,2,12.50
+Italy - Serie B,Teramo a Spicchi,PSA Sant Antimo,Sun 19:00,+4.5,1.81,-4.5,1.93,O 150.5,1.88,U 150.5,1.86,1,2.40,2,1.53
+Italy - Serie B,Virtus Arechi Salerno,Bava Virtus Pozzuoli,Sun 19:00,-17.5,1.91,+17.5,1.83,O 150.5,1.87,U 150.5,1.87,1,1.04,2,9.00
+Brazil - Campeonato Brasileiro de Clubes,Memorial /Fupes /Santos,Praia Clube,Sun 16:00,-11.5,1.85,+11.5,1.85,O 142.5,1.84,U 142.5,1.87,1,1.13,2,5.30

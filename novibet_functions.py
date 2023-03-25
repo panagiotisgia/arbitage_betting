@@ -36,14 +36,22 @@ def novibet_football_export(football_string: str):
     ### I want to find a way to increace the size of i if i insert elements
     # Use padding for 'Markets are not available'
     index = 0
+    # Keep track of consecutive occurrences (if I have 3 Marktes No avaiblabe add 4 instead of three)
+    consecutive_count = 0
     while index < len(football_list):
         if football_list[index] == 'Markets are not available':
             football_list.insert(index+1, 'No_market')
             football_list.insert(index+2, 'No_market')
             football_list.insert(index+3, 'No_market')
             index += 4
+            consecutive_count += 1 
+            # Check if we have 3 consecutive occurrences
+            if consecutive_count == 3:
+                 football_list.insert(index, 'No_market')
+                 consecutive_count = 0  # Reset count
         else:
             index += 1
+            consecutive_count = 0  # Reset count
     
     # Create sublists based on Championship
     championship = [x for x in football_list if ' - ' in x]
@@ -53,7 +61,7 @@ def novibet_football_export(football_string: str):
     sublists_championships = sublists_championships[1:]
     
     # Set the filename for the output CSV file
-    output_file = 'novibet_football.csv'
+    output_file = 'data/novibet_football.csv'
     # Open the CSV file for writing
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
@@ -71,7 +79,7 @@ def novibet_football_export(football_string: str):
             gg_lst, gg_odds_lst, ng_lst, ng_odds_lst = [],[],[],[]
             # Create list with only teams and odds / exclude the championship at the beginning
             teams_only_lst = sublists_championships[j][1:]
-            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 17)]
+            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 18)]
     
             i = 0
             while i < len(teams_only_lst):
@@ -92,7 +100,7 @@ def novibet_football_export(football_string: str):
                 gg_odds_lst.append(teams_only_lst[i+14])
                 ng_lst.append(teams_only_lst[i+15])
                 ng_odds_lst.append(teams_only_lst[i+16])
-                i = i + 17
+                i = i + 18
 
             # Write each row to the CSV file
             for i in range(len(team1_lst)):
@@ -128,14 +136,22 @@ def novibet_basketball_export(basketball_string: str):
 
     # Use padding for 'Markets are not available'
     index = 0
+    # Keep track of consecutive occurrences (if I have 3 Marktes No avaiblabe add 4 instead of three)
+    consecutive_count = 0
     while index < len(basketball_list):
         if basketball_list[index] == 'Markets are not available':
             basketball_list.insert(index+1, 'No_market')
             basketball_list.insert(index+2, 'No_market')
             basketball_list.insert(index+3, 'No_market')
             index += 4
+            consecutive_count += 1 
+            # Check if we have 3 consecutive occurrences
+            if consecutive_count == 3:
+                 basketball_list.insert(index, 'No_market')
+                 consecutive_count = 0  # Reset count
         else:
             index += 1
+            consecutive_count = 0  # Reset count
 
     # Create sublists based on Championship
     championship = [x for x in basketball_list if ' - ' in x]
@@ -145,7 +161,7 @@ def novibet_basketball_export(basketball_string: str):
     sublists_championships = sublists_championships[1:]
 
     # Set the filename for the output CSV file
-    output_file = "novibet_basketball.csv"
+    output_file = "data/novibet_basketball.csv"
     # Open the CSV file for writing
     with open(output_file, 'w', newline='') as f:
         writer = csv.writer(f)
@@ -163,7 +179,7 @@ def novibet_basketball_export(basketball_string: str):
             one_lst, one_odds_lst, two_lst, two_odds_lst = [],[],[],[]
             # Create list with only teams and odds / exclude the championship at the beginning
             teams_only_lst = sublists_championships[j][1:]
-            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 15)]
+            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 16)]
     
             i = 0
             while i < len(teams_only_lst):
@@ -182,7 +198,7 @@ def novibet_basketball_export(basketball_string: str):
                 one_odds_lst.append(teams_only_lst[i+12])
                 two_lst.append(teams_only_lst[i+13])
                 two_odds_lst.append(teams_only_lst[i+14])
-                i = i + 15
+                i = i + 16
 
             # Write each row to the CSV file
             for i in range(len(team1_lst)):
@@ -216,14 +232,22 @@ def novibet_tennis_export(tennis_string: str):
 
     # Use padding for 'Markets are not available'
     index = 0
+    # Keep track of consecutive occurrences (if I have 3 Marktes No avaiblabe add 4 instead of three)
+    consecutive_count = 0
     while index < len(tennis_list):
         if tennis_list[index] == 'Markets are not available':
             tennis_list.insert(index+1, 'No_market')
             tennis_list.insert(index+2, 'No_market')
             tennis_list.insert(index+3, 'No_market')
             index += 4
+            consecutive_count += 1 
+            # Check if we have 3 consecutive occurrences
+            if consecutive_count == 3:
+                 tennis_list.insert(index, 'No_market')
+                 consecutive_count = 0  # Reset count
         else:
             index += 1
+            consecutive_count = 0  # Reset count
 
     # Create sublists based on Championship
     championship = [x for x in tennis_list if ' - ' in x]
@@ -252,7 +276,7 @@ def novibet_tennis_export(tennis_string: str):
             win_1_lst, win_1_odds_lst, win_2_lst, win_2_odds_lst = [],[],[],[]
             # Create list with only teams and odds / exclude the championship at the beginning
             teams_only_lst = sublists_championships[j][1:]
-            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 15)]
+            championship_lst = [sublists_championships[j][0] for _ in range(len(teams_only_lst) // 16)]
     
             i = 0
             while i < len(teams_only_lst):
@@ -271,7 +295,7 @@ def novibet_tennis_export(tennis_string: str):
                 win_1_odds_lst.append(teams_only_lst[i+12])
                 win_2_lst.append(teams_only_lst[i+13])
                 win_2_odds_lst.append(teams_only_lst[i+14])
-                i = i + 15
+                i = i + 16
 
             # Write each row to the CSV file
             for i in range(len(player1_lst)):
