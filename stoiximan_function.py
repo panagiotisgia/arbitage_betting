@@ -58,8 +58,9 @@ def stoiximan_football_export(football_string: str):
     initial_list = football_string.split('\n')
     # Remove first elements of the list not needed
     remove_elements = ['Home Soccer Next 24 Hours Full Coupon', 'Soccer - Complete Coupon',
-    'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
-    'Soccer - Matches in the next 24 hours','Matches','1','X','2','O/U 2.5','GG/NG','0%','Semifinals','In neutral venue']
+                        'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
+                        'Soccer - Matches in the next 24 hours','Matches','1','X','2','O/U 2.5','GG/NG','0%',
+                        'Semifinals','In neutral venue','Behind Closed Doors']
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     football_list = [x for x in list_1 if not x.startswith('1st leg:')]
@@ -81,10 +82,10 @@ def stoiximan_football_export(football_string: str):
 
     # Set the filename for the output CSV file
     output_file = "data\stoiximan_football.csv"
-    with open(output_file, 'w', newline='') as csvfile:
+    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['date', 'time', 'team1', 'team2', '1', 'X', '2', 'O', 'O_odds', 
-                         'U', 'U_odds', 'Yes', 'Yes_odds', 'No', 'No_odds'])
+        writer.writerow(['Date', 'Time', 'Team1', 'Team2', '1_odd', 'X_odd', '2_odd', 'O', 'O_odd', 
+                         'U', 'U_odd', 'GG', 'GG_odd', 'NG', 'NG_odd'])
         for row in sublists_matches:
             writer.writerow(row)
 
@@ -133,14 +134,14 @@ def stoiximan_basketball_text(basketball_url: str, driver: selenium.webdriver.ch
     return basketball_string 
 
 
-
 def stoiximan_basketball_export(basketball_string: str):
     # Create list from the initial string
     initial_list = basketball_string.split('\n')
     # Remove first elements of the list not needed
     remove_elements = ['Home Basketball Next 24 Hours Full Coupon', 'Basketball - Complete Coupon',
-    'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
-    'Basketball - Matches in the next 24 hours','Matches','WIN','HANDICAP','OVER/UNDER','0%','Semifinals','In neutral venue']
+                        'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
+                        'Basketball - Matches in the next 24 hours','Matches','WIN','HANDICAP','OVER/UNDER','0%',
+                        'Semifinals','In neutral venue','Behind Closed Doors']
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     basketball_list = [x for x in list_1 if not x.startswith('1st leg:')]
@@ -162,7 +163,7 @@ def stoiximan_basketball_export(basketball_string: str):
 
     # Set the filename for the output CSV file
     output_file = "data\stoiximan_basketball.csv"
-    with open(output_file, 'w', newline='') as csvfile:
+    with open(output_file, 'w', newline='',  encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['date', 'time', 'team1', 'team2', 'WIN_1', 'WIN_2', 'Handicap_1', 'Hand_1_odds', 
                          'Handicap_2', 'Hand_2_odds','O','O_odds','U','U_odds'])
@@ -170,7 +171,6 @@ def stoiximan_basketball_export(basketball_string: str):
             writer.writerow(row)
 
 ########################################## Tennis ######################################################
-
 
 def stoiximan_tennis_text(tennis_url: str, driver: selenium.webdriver.chrome.webdriver.WebDriver)->str: 
     # Maximize window
@@ -220,8 +220,9 @@ def stoiximan_tennis_export(tennis_string: str):
     initial_list = tennis_string.split('\n')
     # Remove first elements of the list not needed
     remove_elements = ['Home Tennis Next 24 Hours Full Coupon', 'Tennis - Complete Coupon',
-    'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
-    'Tennis - Matches in the next 24 hours','Matches','WIN','HANDICAP','OVER/UNDER','GAMES O/U','0%','Semifinals','In neutral venue']
+                        'All', '3 hours', '12 hours','24 hours','By start time','By Competition',
+                        'Tennis - Matches in the next 24 hours','Matches','WIN','HANDICAP','OVER/UNDER','GAMES O/U','0%',
+                        'Semifinals','In neutral venue','Behind Closed Doors']
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     tennis_list = [x for x in list_1 if not x.startswith('1st leg:')]
@@ -243,7 +244,7 @@ def stoiximan_tennis_export(tennis_string: str):
 
     # Set the filename for the output CSV file
     output_file = "data\stoiximan_tennis.csv"
-    with open(output_file, 'w', newline='') as csvfile:
+    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['date', 'time', 'player1', 'player2', 'WIN_1', 'WIN_2', 'O','O_odds','U','U_odds',
                           'Handicap_1', 'Hand_1_odds', 'Handicap_2', 'Hand_2_odds'])

@@ -24,7 +24,6 @@ def novibet_football_text(page_url: str, driver: selenium.webdriver.chrome.webdr
     return football_string
 
 
-
 def novibet_football_export(football_string: str): 
     # Create list from the initial string
     initial_list = football_string.split('\n')
@@ -36,7 +35,7 @@ def novibet_football_export(football_string: str):
     ### I want to find a way to increace the size of i if i insert elements
     # Use padding for 'Markets are not available'
     index = 0
-    # Keep track of consecutive occurrences (if I have 3 Marktes No avaiblabe add 4 instead of three)
+    # Keep track of consecutive occurrences (if I have 3 Markets No avaiblabe add 4 instead of three)
     consecutive_count = 0
     while index < len(football_list):
         if football_list[index] == 'Markets are not available':
@@ -63,11 +62,11 @@ def novibet_football_export(football_string: str):
     # Set the filename for the output CSV file
     output_file = 'data/novibet_football.csv'
     # Open the CSV file for writing
-    with open(output_file, 'w', newline='') as f:
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['championship','team1','team2','time','1','odds_1','X','odds_X','2','odds_2',
-                'Over','odds_over','Under','odds_under','GG','odds_gg','NG','odds_ng']
+        header = ['Championship','Team1','Team2','Time','1','1_odd','X','X_odd','2','2_odd',
+                'Over','O_odd','Under','U_odd','GG','GG_odd','NG','NG_odd']
         writer.writerow(header)
 
         # Loop through all championships
@@ -109,8 +108,6 @@ def novibet_football_export(football_string: str):
                         under_lst[i], under_odds_lst[i], gg_lst[i], gg_odds_lst[i], ng_lst[i], ng_odds_lst[i]]
                 writer.writerow(row)
 
-
-
 #################################### Basketball #########################################################     
 
 def novibet_basketball_text(driver: selenium.webdriver.chrome.webdriver.WebDriver)->str:  
@@ -123,7 +120,6 @@ def novibet_basketball_text(driver: selenium.webdriver.chrome.webdriver.WebDrive
     # Extract basketball text
     basketball_string = daily_coupon_body.text
     return basketball_string
-
 
 
 def novibet_basketball_export(basketball_string: str):
@@ -163,10 +159,10 @@ def novibet_basketball_export(basketball_string: str):
     # Set the filename for the output CSV file
     output_file = "data/novibet_basketball.csv"
     # Open the CSV file for writing
-    with open(output_file, 'w', newline='') as f:
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['championship','team1','team2','time','win_1','odds_win_1','win_2','odds_win_2',
+        header = ['Championship','Team1','Team2','Time','win_1','odds_win_1','win_2','odds_win_2',
                     'Over','odds_over','Under','odds_under','1','odds_1','2','odds_2']
         writer.writerow(header)
 
@@ -206,7 +202,6 @@ def novibet_basketball_export(basketball_string: str):
                         win_2_lst[i], win_2_odds_lst[i], over_lst[i], over_odds_lst[i], under_lst[i], under_odds_lst[i],
                          one_lst[i], one_odds_lst[i], two_lst[i], two_odds_lst[i]]
                 writer.writerow(row)
-
 
 #################################### Tennis ######################################################### 
 
@@ -260,7 +255,7 @@ def novibet_tennis_export(tennis_string: str):
     # Set the filename for the output CSV file
     output_file = "data/novibet_tennis.csv"
     # Open the CSV file for writing
-    with open(output_file, 'w', newline='') as f:
+    with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
         header = ['championship','player1','player2','time','1','odds_1','2','odds_2',
