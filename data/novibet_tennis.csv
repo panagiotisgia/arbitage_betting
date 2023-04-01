@@ -1,46 +1,52 @@
 championship,player1,player2,time,1,odds_1,2,odds_2,Over,odds_over,Under,odds_under,win_1,odds_win_1,win_2,odds_win_2
-World - ATP Miami,Karen Khachanov,Tomas Martin Etcheverry,in 15',1,1.31,2,3.50,O 22.5,1.98,U 22.5,1.74,-3.5,1.74,+3.5,1.98
-World - ATP Miami,Hubert Hurkacz,Thanasis Kokkinakis,in 25',1,1.31,2,3.50,O 22.5,1.79,U 22.5,1.92,-3.5,1.94,+3.5,1.77
-World - ATP Miami,Yosuke Watanuki,Francis Tiafoe,Sun 00:25,1,5.10,2,1.17,O 21.5,1.82,U 21.5,1.88,+4.5,1.74,-4.5,1.98
-World - ATP Miami,Roberto Baena,Daniil Medvedev,Sun 01:00,1,14.00,2,1.02,O 17.5,1.90,U 17.5,1.81,+7.5,1.65,-7.5,2.10
-World - ATP Miami,Gregoire Barrere,Cameron Norrie,Sun 01:30,1,6.00,2,1.13,O 20.5,1.88,U 20.5,1.82,+4.5,2.05,-4.5,1.68
-World - ATP Miami,Adrian Mannarino,Ben Shelton,Sun 04:00,1,2.22,2,1.67,O 23.5,1.94,U 23.5,1.77,+1.5,1.92,-1.5,1.79
-World - ATP Miami,Alejandro Davidovich Fokina,Tommy Paul,Sun 19:00,1,2.30,2,1.63,O 22.5,1.84,U 22.5,1.86,+2.5,1.82,-2.5,1.88
-World - ATP Miami,Carlos Alcaraz,Dusan Lajovic,Sun 19:00,1,1.03,2,12.50,O 18.5,1.98,U 18.5,1.74,-6.5,1.83,+6.5,1.87
-World - ATP Miami,Casper Ruud,Botic Van de Zandschulp,Sun 19:00,1,1.33,2,3.35,O 22.5,1.97,U 22.5,1.75,-3.5,1.80,+3.5,1.91
-World - ATP Miami,Diego Sebastian Schwartzman,Holger Vitus Rune,Sun 19:00,1,4.65,2,1.20,O 20.5,1.86,U 20.5,1.84,+4.5,1.98,-4.5,1.74
-World - ATP Miami,Emil Ruusuvuori,Taro Daniel,Sun 19:00,1,1.50,2,2.60,O 22.5,1.91,U 22.5,1.80,-2.5,1.72,+2.5,2.00
-World - ATP Miami,Jannik Sinner,Grigor Dimitrov,Sun 19:00,1,1.25,2,4.00,O 21.5,1.74,U 21.5,1.98,-3.5,1.65,+3.5,2.10
-World - ATP Miami,Miomir Kecmanovic,Andrey Rublev,Sun 19:00,1,4.00,2,1.25,O 21.5,1.74,U 21.5,1.98,+3.5,2.00,-3.5,1.72
-World - ATP Miami,Taylor Harry Fritz,Denis Shapovalov,Sun 19:00,1,1.35,2,3.20,O 22.5,1.81,U 22.5,1.90,-3.5,1.98,+3.5,1.74
-World - WTA Miami,Petra Martic,Elise Mertens,Sun 01:00,1,2.60,2,1.50,O 21.5,1.87,U 21.5,1.83,+3.5,1.86,-3.5,1.84
-World - WTA Miami,Elena Rybakina,Paula Badosa Gibert,Sun 02:30,1,1.34,2,3.30,O 21.5,1.88,U 21.5,1.82,-4.5,1.98,+4.5,1.74
-World - WTA Miami,Barbora Krejcikova,Madison Keys,Sun 18:00,1,1.44,2,2.80,O 21.5,1.81,U 21.5,1.90,-3.5,1.79,+3.5,1.92
-World - WTA Miami,Bianca Vanessa Andreescu,Sofia Kenin,Sun 18:00,1,1.50,2,2.60,O 21.5,1.81,U 21.5,1.90,-3.5,1.88,+3.5,1.82
-World - WTA Miami,Ekaterina Alexandrova,Belinda Bencic,Sun 18:00,1,3.70,2,1.28,O 20.5,1.82,U 20.5,1.88,+4.5,1.92,-4.5,1.79
-World - WTA Miami,Karolina Pliskova,Marketa Vondrousova,Sun 18:00,1,2.15,2,1.72,O 21.5,1.79,U 21.5,1.92,+1.5,1.90,-1.5,1.81
-World - WTA Miami,Magdalena Frech,Varvara Gracheva,Sun 18:00,1,3.30,2,1.34,O 20.5,1.86,U 20.5,1.84,+4.5,1.81,-4.5,1.90
-World - WTA Miami,Marie Bouzkova,Aryna Sabalenka,Sun 18:00,1,5.30,2,1.16,O 19.5,1.90,U 19.5,1.81,+5.5,1.86,-5.5,1.84
-World - WTA Miami,Petra Kvitova,Donna Vekic,Sun 18:00,1,1.54,2,2.50,O 21.5,1.83,U 21.5,1.87,-3.5,1.93,+3.5,1.78
-World - WTA Miami,Sorana Cirstea,Karolina Muchova,Sun 18:00,1,3.45,2,1.32,O 20.5,1.82,U 20.5,1.88,+4.5,1.74,-4.5,1.98
-World - Challenger St. Brieuc,Ricardas Berankis,Dan Added,Sun 16:30,1,1.37,2,2.95,O 21.5,1.78,U 21.5,1.93,-3.5,1.81,+3.5,1.90
-World - Challenger Biel,Liam Broady,Jurij Rodionov,Sun 15:00,1,1.48,2,2.55,O 22.5,1.94,U 22.5,1.77,-2.5,1.74,+2.5,1.98
-World - Challenger Zadar,Sebastian Ofner,Alessandro Giannessi,Sun 13:00,1,1.46,2,2.60,O 21.5,1.81,U 21.5,1.90,-3.5,1.91,+3.5,1.80
-World - Challenger Les Franqueses Del Valles,Billy Harris,Hugo Grenier,Sun 11:00,1,2.55,2,1.48,O 21.5,1.78,U 21.5,1.93,+3.5,1.77,-3.5,1.94
-World - ATP Miami Doubles,Bopanna R / Ebden M,Krawietz K / Martin F,in 5',1,1.60,2,2.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Arevalo M / Rojer J,Murray J / Venus M,in 30',1,1.79,2,1.96,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Demoliner M / Eubanks C,McDonald M / Van de Zandschulp B,Sun 00:35,1,2.55,2,1.48,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Erler A / Miedler L,Cabal J S / Farah R,Sun 00:35,1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Giron M / Wolf J J,Melo M / Peers J,Sun 00:50,1,2.95,2,1.37,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Nys H / Zielinski J,Gonzalez M/ Molteni A,Sun 02:05,1,1.60,2,2.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Miami Doubles,Matos R / Vega Hernandez D,Krajicek A / Mahut N,Sun 18:00,1,2.30,2,1.57,O 20.5,1.81,U 20.5,1.93,+1.5,1.81,-1.5,1.93
-World - ATP Miami Doubles,Paul T / Shelton B,Ram R / Salisbury J,Sun 18:00,1,4.00,2,1.22,O 20.5,2.02,U 20.5,1.74,+3.5,1.94,-3.5,1.80
-World - WTA Miami Doubles,Dabrowski G/ Stefani L,Linette M/ Pera B,Sun 00:10,1,1.31,2,3.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - WTA Miami Doubles,Kalinskaya A/ Mcnally C,Bondar A / Zimmermann K,Sun 00:15,1,1.29,2,3.40,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - WTA Miami Doubles,Danilina A / Muhammad A,Gauff C / Pegula J,Sun 18:00,1,3.70,2,1.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - WTA Miami Doubles,Hunter S / Mertens E,Niculescu M / Rosolska A,Sun 18:00,1,1.21,2,4.10,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Oceania - ITF Australia,Dane Sweeny,Marc Polmans,Sun 04:30,1,2.50,2,1.49,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Oceania - ITF Australia (W),Olivia Gadecki,Yafan Wang,Sun 02:00,1,1.65,2,2.15,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Oceania - ITF Australia Doubles,Ichikawa T / Sumizawa D,Romios M / Walkin B,Sun 02:00,1,2.25,2,1.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt,Amr Asrawy,Marat Sharipov,Sun 11:00,1,2.60,2,1.46,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Spain,Stefano Travaglia,Max Houkes,Sun 12:00,1,1.30,2,3.30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - WTA Miami,Elena Rybakina,Petra Kvitova,22:00,1,1.35,2,3.20,O 21.5,1.79,U 21.5,1.92,-3.5,1.76,+3.5,1.95
+World - Challenger Lille,Max Purcell,Michael Geerts,15:05,1,1.33,2,3.15,O 21.5,1.82,U 21.5,1.88,-3.5,1.72,+3.5,2.00
+World - Challenger Lille,Otto Virtanen,Jurij Rodionov,16:20,1,1.70,2,2.08,O 22.5,1.86,U 22.5,1.84,-1.5,1.85,+1.5,1.85
+World - Challenger Sanremo,Luca Van Assche,Vit Kopriva,14:30,1,1.57,2,2.30,O 21.5,1.84,U 21.5,1.86,-2.5,1.79,+2.5,1.92
+World - Challenger Sanremo,Juan Pablo Varillas,Kimmer Coppejans,15:50,1,1.41,2,2.75,O 21.5,1.87,U 21.5,1.83,-3.5,1.79,+3.5,1.92
+World - Challenger Girona,Jesper De Jong,Ivan Gakhov,11:35,1,1.30,2,3.30,O 21.5,1.91,U 21.5,1.80,-4.5,1.87,+4.5,1.83
+World - Challenger Girona,Pedro Martinez Portero,Gastao Elias,13:05,1,1.72,2,2.05,O 21.5,1.79,U 21.5,1.92,-1.5,1.84,+1.5,1.86
+World - ATP Miami Doubles,Gonzalez S / Roger-Vasselin E,Krajicek A / Mahut N,19:30,1,1.81,2,1.93,O 20.5,1.75,U 20.5,2.00,-0.5,1.97,+0.5,1.78
+World - WTA San Luis Potosi Doubles,Gamarra Martins I / Wu F-H,Bolsova Zadoinov A / Gamiz A,Sun 01:00,1,2.12,2,1.67,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - Challenger Lille Doubles,Purcell M / Taylor J,Brown D / Qureshi A-U-H,17:40,1,2.25,2,1.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - Challenger Girona Doubles,Bhambri Y / Myneni S,Η. Cervantes / R. Batalla,14:20,1,1.62,2,2.20,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - Challenge Sanremo Doubles,Cornea V V / Skugor F,Cacic N / Demoliner M,12:00,1,2.12,2,1.67,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt,Mohamed Safwat,Alexander Zgirovsky,in 51',1,1.28,2,3.45,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt,Zura Tkemaladze,Ilia Simakin,in 51',1,3.30,2,1.30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Lucas Poullain,Khumoun Sultanov,15:00,1,1.36,2,3.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Yannik Steinegger,Clement Chidekh,17:00,1,6.00,2,1.11,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Alastair Gray,Anton Matusevich,16:30,1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Enrico Dalla Valle,Jerome Kym,18:00,1,2.40,2,1.53,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy Doubles,Hussey G / Jones B,Little D / Whitehouse M,15:00,1,1.74,2,2.02,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt Doubles,Aksu C / Duran T,Howse M / Pierleoni J,12:30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovenia (W),Rebecca Sramkova,Magali Kempen,12:00,1,2.00,2,1.75,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovenia (W),Antonia Ruzic,Maria Timofeeva,13:30,1,1.53,2,2.40,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia (W),Amelie Van Impe,Noelia Bouzo Zanotti,11:30,1,1.46,2,2.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia (W),Isabella Shinikova,Elena Milovanovic,11:30,1,1.25,2,3.70,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt (W),Emilie Lindh Gallagher,Jessica Failla,11:30,1,2.50,2,1.49,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt (W),Lara Schmidt,Polina Iatcenko,11:30,1,4.00,2,1.22,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia Doubles,Ho R / Negritu C,Wang X / Zheng Z,13:00,1,1.36,2,3.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovenia Doubles (W),Kempen M / Knoll X,Dart H / Mitu C-A,15:00,1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia Doubles (W),Genovese E / Ly-Nguyen S,van Impe A / Vlasselaer C,14:00,1,3.00,2,1.36,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France (W),Lucia Bronzetti,Jodie Anna Burrage,15:00,1,2.02,2,1.74,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France Doubles (W),Minnen G / Wickmayer Y,Burrage J A / Cengiz B,16:30,1,1.28,2,3.45,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey (W),Zhibek Kulambayeva,Basak Eraydin,in 51',1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey (W),Anne Schaefer,Denisa Hindova,12:30,1,1.60,2,2.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey,Peter Heller,Cezar Cretu,12:30,1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey Doubles,Gimenez I / Ribeiro Lago E J,DEN Heijer G / Pontjodikromo S,14:00,1,1.87,2,1.87,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey Doubles (W),Kulambayeva Z / Lodikova D,Cabaj Awad J / Matoula M,14:00,1,1.87,2,1.87,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Asia - ITF India Doubles,Mukund S / Vardhan V,Ellis B / Orlov V,in 6',1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia,Buvaysar Gadamauri,Nicolas Tepmahc,11:30,1,2.25,2,1.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovakia,Tibo Colson,Karl Friberg,12:00,1,2.08,2,1.70,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovakia,Yanki Erel,Jakub Mensik,13:30,1,3.40,2,1.29,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovakia Doubles,Kielan S / Pichler D,Barnat J / Duda F,15:00,1,2.02,2,1.74,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - ATP Estoril,Fabian Marozsan,Manuel Guinard,14:00,1,1.24,2,3.80,O 20.5,1.79,U 20.5,1.96,-4.5,1.90,+4.5,1.84
+World - ATP Estoril,Ryan Peniston,Henrique Rocha,14:00,1,1.36,2,3.00,O 21.5,1.84,U 21.5,1.90,-3.5,1.77,+3.5,1.98
+World - ATP Estoril,Sebastian Ofner,Robin Haase,14:00,1,1.21,2,4.10,O 21.5,1.85,U 21.5,1.89,-4.5,2.02,+4.5,1.74
+World - ATP Estoril,Alessandro Giannessi,Oleksii Krutykh,15:20,1,1.96,2,1.79,O 22.5,1.87,U 22.5,1.87,+0.5,1.89,-0.5,1.85
+World - ATP Estoril,Frederico Ferreira Silva,Damir Dzumhur,15:20,1,2.40,2,1.53,O 21.5,1.82,U 21.5,1.92,+2.5,1.96,-2.5,1.79
+World - ATP Estoril,Mate Valkusz,Dalibor Svrcina,15:20,1,1.62,2,2.20,O 21.5,1.88,U 21.5,1.86,-2.5,1.90,+2.5,1.84
+World - ATP Estoril,Adrian Andreev,Timofey Skatov,16:40,1,2.20,2,1.62,O 22.5,1.89,U 22.5,1.85,+1.5,1.96,-1.5,1.79
+World - ATP Estoril,Jozef Kovalik,Pedro Sousa,16:40,1,1.40,2,2.80,O 21.5,1.75,U 21.5,2.00,-3.5,1.89,+3.5,1.85
+ЅRL (W) - SRL Spring Invitational Qarshi (W),Jessica Pegula (Srl),Ekaterina Alexandrova (Srl),14:00,1,1.33,2,3.05,O 20.5,1.88,U 20.5,1.82,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Qarshi,Stefanos Tsitsipas (Srl),Alex de Minaur (Srl),14:00,1,1.45,2,2.55,O 22.5,1.85,U 22.5,1.85,Markets are not available,No_market,No_market,No_market
