@@ -84,7 +84,7 @@ def stoiximan_football_export(football_string: str):
     output_file = "data\stoiximan_football.csv"
     with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['Date', 'Time', 'Team1', 'Team2', '1_odd', 'X_odd', '2_odd', 'O', 'O_odd', 
+        writer.writerow(['Date', 'Time', 'Team1', 'Team2', 'One_odd', 'X_odd', 'Two_odd', 'O', 'O_odd', 
                          'U', 'U_odd', 'GG', 'GG_odd', 'NG', 'NG_odd'])
         for row in sublists_matches:
             writer.writerow(row)
@@ -165,7 +165,7 @@ def stoiximan_basketball_export(basketball_string: str):
     output_file = "data\stoiximan_basketball.csv"
     with open(output_file, 'w', newline='',  encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
-        writer.writerow(['date', 'time', 'team1', 'team2', 'WIN_1', 'WIN_2', 'Handicap_1', 'Hand_1_odds', 
+        writer.writerow(['date', 'time', 'Team1', 'Team2', 'WIN_1', 'WIN_2', 'Handicap_1', 'Hand_1_odds', 
                          'Handicap_2', 'Hand_2_odds','O','O_odds','U','U_odds'])
         for row in sublists_matches:
             writer.writerow(row)
