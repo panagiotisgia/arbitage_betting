@@ -65,7 +65,7 @@ def novibet_football_export(football_string: str):
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['Championship','Team1','Team2','Time','1','1_odd','X','X_odd','2','2_odd',
+        header = ['Championship','Team1','Team2','Time','One','One_odd','X','X_odd','Two','Two_odd',
                 'Over','O_odd','Under','U_odd','GG','GG_odd','NG','NG_odd']
         writer.writerow(header)
 

@@ -142,3 +142,86 @@ query_gg_ng = """
         and a9.NG_stoiximan = stx.NG_odd
         order by arb
 """
+
+
+
+
+query_1X2 = """
+with a1 as (
+    select nv.Team1, nv.Team2, 
+    nv.One_odd as one_novibet, nv.X_odd as x_novibet, nv.Two_odd as two_novibet, 
+    stx.One_odd as one_stoiximan, stx.X_odd as x_stoiximan, stx.Two_odd as two_stoiximan 
+    from football_novibet nv
+    left join football_stoiximan stx on nv.Team1 = stx.Team1
+    where nv.X <> 'Markets are not available'
+),
+a2 as (
+    select nv.Team1, nv.Team2, 
+    nv.One_odd as one_novibet, nv.X_odd as x_novibet, nv.Two_odd as two_novibet, 
+    stx.One_odd as one_stoiximan, stx.X_odd as x_stoiximan, stx.Two_odd as two_stoiximan 
+    from football_novibet nv
+    left join football_stoiximan stx on nv.Team2 = stx.Team2
+    where nv.X <> 'Markets are not available'
+),
+a3 as (
+    select * from a1 
+    --where a1.one_stoiximan <> 'No_bet' and a1.two_stoiximan <> 'No_bet'
+    union all
+    select * from a2
+    --where a2.one_stoiximan <> 'No_bet' and a2.two_stoiximan <> 'No_bet'
+),
+a4 as (
+    select a3.Team1, a3.Team2, 
+    one_novibet, x_novibet, two_novibet, one_stoiximan, x_stoiximan, two_stoiximan,
+    cast(case when one_novibet > one_stoiximan then one_novibet else one_stoiximan end as float) as one_max,
+    cast(case when x_novibet > x_stoiximan then x_novibet else x_stoiximan end as float) as x_max,
+    cast(case when two_novibet > two_stoiximan then two_novibet else two_stoiximan end as float) as two_max
+    from a3
+),
+a5 as (
+    select *, 1/one_max + 1/x_max + 1/two_max as arb
+    from a4 
+),
+a6 as (
+    select * from a5 
+    where arb < 1
+),
+a7 as (
+    select a6.*, nv.Team1 as Team1_novibet 
+    from a6 
+    left join football_novibet nv 
+    on a6.Team1 = nv.Team1 
+    and a6.one_novibet = nv.One_odd
+    and a6.x_novibet = nv.X_odd
+),
+a8 as (
+    select a7.*, nv.Team2 as Team2_novibet 
+    from a7 
+    left join football_novibet nv 
+    on a7.Team1 = nv.Team1 
+    and a7.one_novibet = nv.One_odd
+    and a7.x_novibet = nv.X_odd
+),
+a9 as (
+    select a8.*, stx.Team1 as Team1_stoiximan
+    from a8 
+    left join football_stoiximan as stx
+    on a8.Team1 = stx.Team1 
+    and a8.one_stoiximan = stx.One_odd
+    and a8.x_stoiximan = stx.X_odd
+),
+a10 as (
+    select a9.*, stx.Team2 as Team2_stoiximan
+    from a9
+    left join football_stoiximan as stx
+    on a9.Team2 = stx.Team2
+    and a9.one_stoiximan = stx.One_odd
+    and a9.x_stoiximan = stx.X_odd
+)
+    select * from a10
+    where Team1_novibet is not NULL 
+    and  Team1_stoiximan is not NULL
+    and Team2_novibet is not NULL
+    and Team2_stoiximan is not NULL
+    order by arb
+"""

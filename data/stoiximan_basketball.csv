@@ -1,25 +1,25 @@
-date,time,team1,team2,WIN_1,WIN_2,Handicap_1,Hand_1_odds,Handicap_2,Hand_2_odds,O,O_odds,U,U_odds
-01/04,10:30,Southern Districts Spartans (W),Sunshine Coast Phoenix (W),1.13,5.40,-12.5,1.88,+12.5,1.85,O 142.5,1.90,U 142.5,1.85
-01/04,10:30,South West Metro Pirates (W),Red City Roar (W),1.03,10.00,-23.5,1.87,+23.5,1.87,O 149.5,1.90,U 149.5,1.85
-01/04,10:30,Rockhampton Cyclones (W),Townsville Flames (W),1.05,8.25,-14.5,1.88,+14.5,1.85,O 153.5,1.85,U 153.5,1.90
-01/04,11:00,Sandringham Sabres,Mount Gambier Pioneers,1.78,1.95,-1.5,1.93,+1.5,1.82,O 170.5,1.88,U 170.5,1.85
-01/04,11:00,Maitland Mustangs,Hornsby Spiders,1.02,11.00,-22.5,1.93,+22.5,1.82,O 164.5,1.88,U 164.5,1.87
-01/04,11:00,Eastern Mavericks (W),Southern Tigers (W),6.40,1.09,+13.5,1.88,-13.5,1.85,O 143.5,1.90,U 143.5,1.83
-01/04,11:00,Sturt Sabres (W),South Adelaide Panthers (W),1.23,3.95,-9.5,1.88,+9.5,1.87,O 146.5,1.87,U 146.5,1.87
-01/04,11:00,Woodville Warriors (W),Central Districts Lions (W),2.62,1.45,+5.5,1.90,-5.5,1.83,O 141.5,1.85,U 141.5,1.90
-01/04,11:00,Bambitious Nara,Ehime Orange Vikings,2.30,1.57,+3.5,1.87,-3.5,1.87,O 160.5,1.85,U 160.5,1.88
-01/04,11:00,Tachikawa Dice,Shonan United BC,1.30,3.35,-7.5,1.87,+7.5,1.87,O 148.5,1.91,U 148.5,1.83
-01/04,11:00,Yokohama Excellence,Toyoda Gosei Scorpions,1.07,7.60,-13.5,1.87,+13.5,1.87,O 169.5,1.87,U 169.5,1.88
-01/04,11:00,Pasig Pirates,Paranaque Patriots,1.32,3.20,-7.5,1.87,+7.5,1.87,O 147.5,1.87,U 147.5,1.87
-01/04,11:05,Osaka Evessa,Kawasaki Brave Thunders,2.82,1.40,+5.5,1.91,-5.5,1.83,O 160.5,1.90,U 160.5,1.85
-01/04,11:30,Bellarine Storm,Western Port Steelers,2.27,1.60,+3.5,1.87,-3.5,1.87,O 170.5,1.85,U 170.5,1.88
-01/04,11:30,Hills Hornets,Newcastle Falcons,2.47,1.50,+3.5,1.93,-3.5,1.80,O 146.5,1.90,U 146.5,1.85
-01/04,11:30,NW Tasmania Thunder,Hobart Chargers,1.22,4.00,-9.5,1.87,+9.5,1.87,O 160.5,1.88,U 160.5,1.85
-01/04,11:30,Kilsyth Cobras,Geelong Supercats,1.47,2.55,-4.5,1.82,+4.5,1.93,O 164.5,1.85,U 164.5,1.88
-01/04,11:30,Ballarat Miners,Melbourne Tigers,1.24,3.80,-9.5,1.93,+9.5,1.82,O 161.5,1.83,U 161.5,1.91
-01/04,11:30,Bendigo Braves,Frankston Blues,1.87,1.87,+1.5,1.78,-1.5,1.98,O 168.5,1.83,U 168.5,1.90
-01/04,11:30,Darwin Salties (W),Cairns Dolphins (W),1.44,2.67,-5.5,1.87,+5.5,1.87,O 152.5,1.83,U 152.5,1.91
-01/04,11:30,Sydney City Comets (W),Bankstown Bruins (W),-35.5,1.88,+35.5,1.85,O 140.5,1.85,U 140.5,1.88,No_bet,No_bet
-01/04,11:30,Earthfriends Tokyo Z,Koshigaya Alphas,7.40,1.07,+15.5,1.80,-15.5,1.93,O 154.5,1.83,U 154.5,1.90
-01/04,11:35,Niigata Albirex,Levanga Hokkaido,2.82,1.39,+4.5,1.95,-4.5,1.80,O 168.5,1.87,U 168.5,1.87
-01/04,12:00,Blackburn Vikings,Camberwell Dragons,1.80,1.95,-1.5,1.88,+1.5,1.85,O 178.5,1.85,U 178.5,1.88
+date,time,Team1,Team2,WIN_1,WIN_2,Handicap_1,Hand_1_odds,Handicap_2,Hand_2_odds,O,O_odds,U,U_odds
+01-Apr,10:30,Southern Districts Spartans (W),Sunshine Coast Phoenix (W),1.13,5.4,-12.5,1.88,12.5,1.85,O 142.5,1.9,U 142.5,1.85
+01-Apr,10:30,South West Metro Pirates (W),Red City Roar (W),1.03,10,-23.5,1.87,23.5,1.87,O 149.5,1.9,U 149.5,1.85
+01-Apr,10:30,Rockhampton Cyclones (W),Townsville Flames (W),1.05,8.25,-14.5,1.88,14.5,1.85,O 153.5,1.85,U 153.5,1.9
+01-Apr,11:00,Sandringham Sabres,Mount Gambier Pioneers,1.78,1.95,-1.5,1.93,1.5,1.82,O 170.5,1.88,U 170.5,1.85
+01-Apr,11:00,Maitland Mustangs,Hornsby Spiders,1.02,11,-22.5,1.93,22.5,1.82,O 164.5,1.88,U 164.5,1.87
+01-Apr,11:00,Eastern Mavericks (W),Southern Tigers (W),6.4,1.09,13.5,1.88,-13.5,1.85,O 143.5,1.9,U 143.5,1.83
+01-Apr,11:00,Sturt Sabres (W),South Adelaide Panthers (W),1.23,3.95,-9.5,1.88,9.5,1.87,O 146.5,1.87,U 146.5,1.87
+01-Apr,11:00,Woodville Warriors (W),Central Districts Lions (W),2.62,1.45,5.5,1.9,-5.5,1.83,O 141.5,1.85,U 141.5,1.9
+01-Apr,11:00,Bambitious Nara,Ehime Orange Vikings,2.3,1.57,3.5,1.87,-3.5,1.87,O 160.5,1.85,U 160.5,1.88
+01-Apr,11:00,Tachikawa Dice,Shonan United BC,1.3,3.35,-7.5,1.87,7.5,1.87,O 148.5,1.91,U 148.5,1.83
+01-Apr,11:00,Yokohama Excellence,Toyoda Gosei Scorpions,1.07,7.6,-13.5,1.87,13.5,1.87,O 169.5,1.87,U 169.5,1.88
+01-Apr,11:00,Pasig Pirates,Paranaque Patriots,1.32,3.2,-7.5,1.87,7.5,1.87,O 147.5,1.87,U 147.5,1.87
+01-Apr,11:05,Osaka Evessa,Kawasaki Brave Thunders,2.82,1.4,5.5,1.91,-5.5,1.83,O 160.5,1.9,U 160.5,1.85
+01-Apr,11:30,Bellarine Storm,Western Port Steelers,2.27,1.6,3.5,1.87,-3.5,1.87,O 170.5,1.85,U 170.5,1.88
+01-Apr,11:30,Hills Hornets,Newcastle Falcons,2.47,1.5,3.5,1.93,-3.5,1.8,O 146.5,1.9,U 146.5,1.85
+01-Apr,11:30,NW Tasmania Thunder,Hobart Chargers,1.22,4,-9.5,1.87,9.5,1.87,O 160.5,1.88,U 160.5,1.85
+01-Apr,11:30,Kilsyth Cobras,Geelong Supercats,1.47,2.55,-4.5,1.82,4.5,1.93,O 164.5,1.85,U 164.5,1.88
+01-Apr,11:30,Ballarat Miners,Melbourne Tigers,1.24,3.8,-9.5,1.93,9.5,1.82,O 161.5,1.83,U 161.5,1.91
+01-Apr,11:30,Bendigo Braves,Frankston Blues,1.87,1.87,1.5,1.78,-1.5,1.98,O 168.5,1.83,U 168.5,1.9
+01-Apr,11:30,Darwin Salties (W),Cairns Dolphins (W),1.44,2.67,-5.5,1.87,5.5,1.87,O 152.5,1.83,U 152.5,1.91
+01-Apr,11:30,Sydney City Comets (W),Bankstown Bruins (W),-35.5,1.88,35.5,1.85,O 140.5,1.85,U 140.5,1.88,No_bet,No_bet
+01-Apr,11:30,Earthfriends Tokyo Z,Koshigaya Alphas,7.4,1.07,15.5,1.8,-15.5,1.93,O 154.5,1.83,U 154.5,1.9
+01-Apr,11:35,Niigata Albirex,Levanga Hokkaido,2.82,1.39,4.5,1.95,-4.5,1.8,O 168.5,1.87,U 168.5,1.87
+01-Apr,12:00,Blackburn Vikings,Camberwell Dragons,1.8,1.95,-1.5,1.88,1.5,1.85,O 178.5,1.85,U 178.5,1.88
