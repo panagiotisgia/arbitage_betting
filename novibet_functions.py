@@ -258,7 +258,7 @@ def novibet_tennis_export(tennis_string: str):
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['Championship','Player1','Player2','Time','One','One_odd','Two','Two_odd'
+        header = ['Championship','Player1','Player2','Time','One','One_odd','Two','Two_odd',
                     'Over','O_odd','Under','U_odd','Win1','Win1_odd','Win2','Win2_odd']
         writer.writerow(header)
 

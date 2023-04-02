@@ -1,52 +1,102 @@
-championship,player1,player2,time,1,odds_1,2,odds_2,Over,odds_over,Under,odds_under,win_1,odds_win_1,win_2,odds_win_2
-World - WTA Miami,Elena Rybakina,Petra Kvitova,22:00,1,1.35,2,3.20,O 21.5,1.79,U 21.5,1.92,-3.5,1.76,+3.5,1.95
-World - Challenger Lille,Max Purcell,Michael Geerts,15:05,1,1.33,2,3.15,O 21.5,1.82,U 21.5,1.88,-3.5,1.72,+3.5,2.00
-World - Challenger Lille,Otto Virtanen,Jurij Rodionov,16:20,1,1.70,2,2.08,O 22.5,1.86,U 22.5,1.84,-1.5,1.85,+1.5,1.85
-World - Challenger Sanremo,Luca Van Assche,Vit Kopriva,14:30,1,1.57,2,2.30,O 21.5,1.84,U 21.5,1.86,-2.5,1.79,+2.5,1.92
-World - Challenger Sanremo,Juan Pablo Varillas,Kimmer Coppejans,15:50,1,1.41,2,2.75,O 21.5,1.87,U 21.5,1.83,-3.5,1.79,+3.5,1.92
-World - Challenger Girona,Jesper De Jong,Ivan Gakhov,11:35,1,1.30,2,3.30,O 21.5,1.91,U 21.5,1.80,-4.5,1.87,+4.5,1.83
-World - Challenger Girona,Pedro Martinez Portero,Gastao Elias,13:05,1,1.72,2,2.05,O 21.5,1.79,U 21.5,1.92,-1.5,1.84,+1.5,1.86
-World - ATP Miami Doubles,Gonzalez S / Roger-Vasselin E,Krajicek A / Mahut N,19:30,1,1.81,2,1.93,O 20.5,1.75,U 20.5,2.00,-0.5,1.97,+0.5,1.78
-World - WTA San Luis Potosi Doubles,Gamarra Martins I / Wu F-H,Bolsova Zadoinov A / Gamiz A,Sun 01:00,1,2.12,2,1.67,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - Challenger Lille Doubles,Purcell M / Taylor J,Brown D / Qureshi A-U-H,17:40,1,2.25,2,1.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - Challenger Girona Doubles,Bhambri Y / Myneni S,Η. Cervantes / R. Batalla,14:20,1,1.62,2,2.20,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - Challenge Sanremo Doubles,Cornea V V / Skugor F,Cacic N / Demoliner M,12:00,1,2.12,2,1.67,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt,Mohamed Safwat,Alexander Zgirovsky,in 51',1,1.28,2,3.45,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt,Zura Tkemaladze,Ilia Simakin,in 51',1,3.30,2,1.30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF France,Lucas Poullain,Khumoun Sultanov,15:00,1,1.36,2,3.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF France,Yannik Steinegger,Clement Chidekh,17:00,1,6.00,2,1.11,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Italy,Alastair Gray,Anton Matusevich,16:30,1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Italy,Enrico Dalla Valle,Jerome Kym,18:00,1,2.40,2,1.53,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Italy Doubles,Hussey G / Jones B,Little D / Whitehouse M,15:00,1,1.74,2,2.02,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt Doubles,Aksu C / Duran T,Howse M / Pierleoni J,12:30,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovenia (W),Rebecca Sramkova,Magali Kempen,12:00,1,2.00,2,1.75,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovenia (W),Antonia Ruzic,Maria Timofeeva,13:30,1,1.53,2,2.40,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Tunisia (W),Amelie Van Impe,Noelia Bouzo Zanotti,11:30,1,1.46,2,2.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Tunisia (W),Isabella Shinikova,Elena Milovanovic,11:30,1,1.25,2,3.70,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt (W),Emilie Lindh Gallagher,Jessica Failla,11:30,1,2.50,2,1.49,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Egypt (W),Lara Schmidt,Polina Iatcenko,11:30,1,4.00,2,1.22,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Tunisia Doubles,Ho R / Negritu C,Wang X / Zheng Z,13:00,1,1.36,2,3.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovenia Doubles (W),Kempen M / Knoll X,Dart H / Mitu C-A,15:00,1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Tunisia Doubles (W),Genovese E / Ly-Nguyen S,van Impe A / Vlasselaer C,14:00,1,3.00,2,1.36,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF France (W),Lucia Bronzetti,Jodie Anna Burrage,15:00,1,2.02,2,1.74,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF France Doubles (W),Minnen G / Wickmayer Y,Burrage J A / Cengiz B,16:30,1,1.28,2,3.45,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Turkey (W),Zhibek Kulambayeva,Basak Eraydin,in 51',1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Turkey (W),Anne Schaefer,Denisa Hindova,12:30,1,1.60,2,2.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Turkey,Peter Heller,Cezar Cretu,12:30,1,1.55,2,2.35,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Turkey Doubles,Gimenez I / Ribeiro Lago E J,DEN Heijer G / Pontjodikromo S,14:00,1,1.87,2,1.87,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Turkey Doubles (W),Kulambayeva Z / Lodikova D,Cabaj Awad J / Matoula M,14:00,1,1.87,2,1.87,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Asia - ITF India Doubles,Mukund S / Vardhan V,Ellis B / Orlov V,in 6',1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Africa - ITF Tunisia,Buvaysar Gadamauri,Nicolas Tepmahc,11:30,1,2.25,2,1.60,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovakia,Tibo Colson,Karl Friberg,12:00,1,2.08,2,1.70,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovakia,Yanki Erel,Jakub Mensik,13:30,1,3.40,2,1.29,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-Europe - ITF Slovakia Doubles,Kielan S / Pichler D,Barnat J / Duda F,15:00,1,2.02,2,1.74,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
-World - ATP Estoril,Fabian Marozsan,Manuel Guinard,14:00,1,1.24,2,3.80,O 20.5,1.79,U 20.5,1.96,-4.5,1.90,+4.5,1.84
-World - ATP Estoril,Ryan Peniston,Henrique Rocha,14:00,1,1.36,2,3.00,O 21.5,1.84,U 21.5,1.90,-3.5,1.77,+3.5,1.98
-World - ATP Estoril,Sebastian Ofner,Robin Haase,14:00,1,1.21,2,4.10,O 21.5,1.85,U 21.5,1.89,-4.5,2.02,+4.5,1.74
-World - ATP Estoril,Alessandro Giannessi,Oleksii Krutykh,15:20,1,1.96,2,1.79,O 22.5,1.87,U 22.5,1.87,+0.5,1.89,-0.5,1.85
-World - ATP Estoril,Frederico Ferreira Silva,Damir Dzumhur,15:20,1,2.40,2,1.53,O 21.5,1.82,U 21.5,1.92,+2.5,1.96,-2.5,1.79
-World - ATP Estoril,Mate Valkusz,Dalibor Svrcina,15:20,1,1.62,2,2.20,O 21.5,1.88,U 21.5,1.86,-2.5,1.90,+2.5,1.84
-World - ATP Estoril,Adrian Andreev,Timofey Skatov,16:40,1,2.20,2,1.62,O 22.5,1.89,U 22.5,1.85,+1.5,1.96,-1.5,1.79
-World - ATP Estoril,Jozef Kovalik,Pedro Sousa,16:40,1,1.40,2,2.80,O 21.5,1.75,U 21.5,2.00,-3.5,1.89,+3.5,1.85
-ЅRL (W) - SRL Spring Invitational Qarshi (W),Jessica Pegula (Srl),Ekaterina Alexandrova (Srl),14:00,1,1.33,2,3.05,O 20.5,1.88,U 20.5,1.82,Markets are not available,No_market,No_market,No_market
-ЅRL - SRL Spring Invitational Qarshi,Stefanos Tsitsipas (Srl),Alex de Minaur (Srl),14:00,1,1.45,2,2.55,O 22.5,1.85,U 22.5,1.85,Markets are not available,No_market,No_market,No_market
+Championship,Player1,Player2,Time,One,One_odd,Two,Two_oddOver,O_odd,Under,U_odd,Win1,Win1_odd,Win2,Win2_odd
+World - ATP Miami,Jannik Sinner,Daniil Medvedev,20:05,1,2.00,2,2.00,O 22.5,1.81,U 22.5,1.90,+0.5,1.79,-0.5,1.92
+World - ATP Estoril,Fabian Marozsan,Alessandro Giannessi,14:05,1,1.43,2,2.70,O 21.5,1.87,U 21.5,1.87,-3.5,1.85,+3.5,1.89
+World - ATP Estoril,Henrique Rocha,Mate Valkusz,14:05,1,3.55,2,1.27,O 20.5,1.89,U 20.5,1.85,+4.5,1.90,-4.5,1.84
+World - ATP Estoril,Sebastian Ofner,Frederico Ferreira Silva,15:20,1,1.28,2,3.45,O 21.5,1.82,U 21.5,1.92,-3.5,1.69,+3.5,2.10
+World - ATP Estoril,Pedro Sousa,Timofey Skatov,17:00,1,2.80,2,1.40,O 21.5,1.97,U 21.5,1.78,+3.5,1.98,-3.5,1.77
+World - WTA San Luis Potosi,Elisabetta Cocciaretto,Sara Errani,Mon 03:00,1,1.40,2,2.80,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - WTA Charleston,Elvina Kalieva,Louisa Chirico,17:00,1,1.97,2,1.78,O 21.5,1.93,U 21.5,1.81,+0.5,1.92,-0.5,1.82
+World - WTA Charleston,Magdalena Frech,Paola Ormaechea,17:00,1,1.25,2,3.70,O 19.5,1.83,U 19.5,1.91,-5.5,2.05,+5.5,1.72
+World - WTA Charleston,Francesca DI Lorenzo,Katherine Sebov,18:00,1,3.30,2,1.30,O 20.5,1.94,U 20.5,1.80,+4.5,1.89,-4.5,1.85
+World - WTA Charleston,Ann LI,Kayla Day,18:15,1,1.40,2,2.80,O 20.5,1.87,U 20.5,1.87,-3.5,1.74,+3.5,2.02
+World - WTA Charleston,Sachia Vickery,Ashlyn Krueger,18:15,1,2.05,2,1.72,O 21.5,1.94,U 21.5,1.80,+1.5,1.88,-1.5,1.86
+World - WTA Charleston,Katarzyna Kawa,Sabine Lisicki,19:30,1,2.75,2,1.41,O 20.5,1.87,U 20.5,1.87,+3.5,1.98,-3.5,1.77
+World - WTA Bogota,Rosa Vicens Mas,Iryna Shymanovich,18:00,1,2.95,2,1.37,O 20.5,1.90,U 20.5,1.84,+4.5,1.79,-4.5,1.96
+World - WTA Bogota,Fernanda Contreras Gomez,Nuria Brancaccio,19:00,1,1.78,2,1.97,O 21.5,1.94,U 21.5,1.80,-1.5,1.92,+1.5,1.82
+World - WTA Bogota,Carole Monnet,Harmony Tan,19:15,1,2.40,2,1.53,O 20.5,1.82,U 20.5,1.92,+3.5,1.84,-3.5,1.90
+World - WTA Bogota,Joanne Zuger,Carolina Alves,20:15,1,1.50,2,2.45,O 20.5,1.82,U 20.5,1.92,-3.5,1.91,+3.5,1.83
+World - Challenger Sanremo,Juan Pablo Varillas,Luca Van Assche,16:05,1,1.72,2,2.05,O 22.5,1.93,U 22.5,1.78,-1.5,1.84,+1.5,1.86
+World - Challenger Girona,Ivan Gakhov,Gastao Elias,12:05,1,2.25,2,1.60,O 22.5,1.98,U 22.5,1.74,+2.5,1.88,-2.5,1.82
+World - WTA Miami Doubles,Fernandez L A / Townsend T,Gauff C / Pegula J,22:30,1,2.35,2,1.55,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - WTA San Luis Potosi Doubles,Bolsova Zadoinov A / Gamiz A,Kalashnikova O / Piter K,Mon 00:30,1,1.86,2,1.88,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt,Ilia Simakin,Mohamed Safwat,in 39',1,2.35,2,1.55,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Dorian Lizon Tati,Pierre Antoine Tailleu,in 39',1,13.50,2,1.006,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Luca Castelnuovo,Maxence Rivet,in 39',1,1.28,2,3.45,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Sean Hodkin,Artiom Dorofeev,in 39',1,1.06,2,8.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Antoine Vincent,Rudy Ceccon,12:30,1,1.82,2,1.92,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Arno Guillet,Simon Reveniau,12:30,1,10.00,2,1.03,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Nicky Blondeau,Victor Paganetti,12:30,1,5.65,2,1.12,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Maksim Shin,Yanis Ghazouani Durand,14:00,1,2.45,2,1.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Nico Hornitschek,Alexandre Ruscica,14:00,1,2.35,2,1.55,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Raphael Calzi,Max Cunat,14:00,1,1.49,2,2.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Julien Evrard,Stijn Pel,15:30,1,1.62,2,2.20,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Khumoun Sultanov,Clement Chidekh,16:00,1,3.00,2,1.36,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Francois Musitelli,Flury Treboz,17:00,1,1.006,2,13.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Hugo Pontico,Felix Einig,17:00,1,1.40,2,2.80,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Tiran Sanghera,Leo Doukhan,17:00,1,1.14,2,5.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF France,Clement Kubiak,Yannik Steinegger,18:30,1,8.50,2,1.05,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Alastair Gray,Jerome Kym,11:30,1,1.81,2,1.93,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Federico Marchetti,Dimitris Sakellaridis,11:30,1,1.09,2,6.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Niccolo Baroni,Andrea Licitra,11:30,1,1.20,2,4.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Italy,Andrea Militi Ribaldi,Pietro Marino,13:00,1,4.00,2,1.22,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovenia (W),Magali Kempen,Maria Timofeeva,12:00,1,1.70,2,2.08,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Egypt (W),Polina Iatcenko,Emilie Lindh Gallagher,11:30,1,1.41,2,2.75,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Amarissa Kiara Toth,Anastasiya Konstantinovna Soboleva,in 39',1,2.50,2,1.49,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Ekaterina Yashina,Victoria Borodulina,in 39',1,1.10,2,6.20,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Iva Sivric,Lucia Cortez Llorca,in 39',1,12.50,2,1.01,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Lara Seric,Sara Cakarevic,in 39',1,11.00,2,1.02,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Alice Rame,Maileen Nuudi,12:30,1,1.43,2,2.70,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Sofia Milatova,Oana Gavrila,12:30,1,4.35,2,1.19,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Stella Knez,Julie Struplova,12:30,1,13.50,2,1.006,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Amina Anshba,Ena Baltic,14:00,1,1.02,2,11.00,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Anna Turati,Dimitra Pavlou,14:00,1,1.18,2,4.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Leticia Tarocco,Adrienn Nagy,14:00,1,8.50,2,1.05,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Maria Ivankovic,Nika Radisic,14:00,1,8.50,2,1.05,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Croatia (W),Tina Nadine Smith,Ksenia Zaytseva,15:30,1,2.55,2,1.48,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+South America - ITF Colombia (W),Selena Janicijevic,Suzan Lamens,18:30,1,2.50,2,1.49,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey (W),Zhibek Kulambayeva,Denisa Hindova,in 39',1,1.88,2,1.86,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Turkey,Dragos Nicolae Madaras,Cezar Cretu,in 39',1,1.41,2,2.75,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Tunisia,Buvaysar Gadamauri,Luca Wiedenmann,11:30,1,2.40,2,1.53,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Europe - ITF Slovakia,Jakub Mensik,Karl Friberg,12:00,1,1.69,2,2.10,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - ATP Houston,Yosuke Watanuki,Felipe Alves,19:00,1,1.50,2,2.45,O 22.5,1.92,U 22.5,1.82,-2.5,1.80,+2.5,1.94
+World - ATP Houston,Zizou Bergs,Aleksandar Vukic,19:00,1,2.12,2,1.67,O 22.5,1.91,U 22.5,1.83,+1.5,1.91,-1.5,1.83
+World - ATP Marrakech,Hugo Grenier,Nerman Fatic,13:35,1,1.70,2,2.08,O 21.5,1.81,U 21.5,1.93,-1.5,1.85,+1.5,1.89
+World - ATP Marrakech,Marek Gengel,Arthur Cazaux,13:35,1,7.00,2,1.08,O 19.5,1.94,U 19.5,1.80,+5.5,1.96,-5.5,1.79
+World - ATP Marrakech,Riccardo Bonadio,Pablo Andujar,13:35,1,1.67,2,2.12,O 21.5,1.77,U 21.5,1.98,-1.5,1.81,+1.5,1.93
+World - ATP Marrakech,Alexandar Lazarov,Andrea Vavassori,14:50,1,3.90,2,1.23,O 20.5,1.80,U 20.5,1.94,+4.5,1.88,-4.5,1.86
+World - ATP Marrakech,Alexey Vatutin,Nicolas Moreno De Alboran,14:50,1,3.55,2,1.27,O 20.5,1.80,U 20.5,1.94,+4.5,1.83,-4.5,1.91
+World - ATP Marrakech,Walid Ahouda,Dimitar Kuzmanov,14:50,1,11.00,2,1.02,O 16.5,1.79,U 16.5,1.96,+7.5,1.87,-7.5,1.87
+World - ATP Marrakech,Elias Ymer,Matteo Martineau,17:00,1,1.33,2,3.15,O 21.5,1.83,U 21.5,1.91,-3.5,1.74,+3.5,2.02
+World - ATP Marrakech,Vit Kopriva,Reda Bennani,17:00,1,1.01,2,12.50,O 16.5,1.79,U 16.5,1.96,-7.5,1.88,+7.5,1.86
+World - Challenger Murcia,Alejandro Moro Canas,Bogdan Bobrov,12:00,1,1.25,2,3.70,O 20.5,1.84,U 20.5,1.86,-4.5,1.82,+4.5,1.88
+World - Challenger Murcia,Daniel Rincon,Ji-Sung Nam,12:00,1,1.18,2,4.50,O 19.5,1.80,U 19.5,1.91,-5.5,2.00,+5.5,1.72
+World - Challenger Murcia,Edas Butvilas,Evgeny Karlovskiy,12:00,1,1.83,2,1.91,O 21.5,1.76,U 21.5,1.95,-0.5,1.86,+0.5,1.84
+World - Challenger Murcia,Akira Santillan,Billy Harris,13:20,1,2.12,2,1.67,O 21.5,1.92,U 21.5,1.79,+2.5,1.80,-2.5,1.91
+World - Challenger Murcia,Alvaro Lopez San Martin,Chak Lam Coleman Wong,13:20,1,1.14,2,5.25,O 19.5,1.95,U 19.5,1.76,-5.5,1.80,+5.5,1.91
+World - Challenger Murcia,David Jorda Sanchis,Carlos Sanchez Jover,13:20,1,2.65,2,1.44,O 21.5,1.93,U 21.5,1.78,+3.5,1.86,-3.5,1.84
+World - Challenger Murcia,Daniel Merida Aguilar,Mathias Bourgue,14:40,1,2.60,2,1.46,O 21.5,1.90,U 21.5,1.81,+3.5,1.83,-3.5,1.87
+World - Challenger Murcia,Lucas Gerch,Orlando Luz,14:40,1,1.87,2,1.87,O 21.5,1.80,U 21.5,1.91,-0.5,1.91,+0.5,1.80
+World - Challenger Murcia,Pablo Martinez Gomez,Andrey Chepelev,14:40,1,10.00,2,1.03,O 17.5,1.82,U 17.5,1.88,+6.5,1.98,-6.5,1.74
+World - Challenger Murcia,Alberto Barroso Campos,Viktor Durasovic,16:00,1,2.45,2,1.50,O 21.5,1.88,U 21.5,1.82,+3.5,1.78,-3.5,1.93
+World - Challenger Murcia,Jesper De Jong,Jorge Martinez Martinez,16:00,1,1.11,2,6.00,O 18.5,1.86,U 18.5,1.84,-6.5,2.02,+6.5,1.70
+World - Challenger Murcia,Pablo Llamas Ruiz,Clement Tabur,16:00,1,1.26,2,3.60,O 20.5,1.98,U 20.5,1.74,-4.5,1.75,+4.5,1.97
+World - Challenger Barletta,Edoardo Lavagno,Benito Massacri,in 44',1,1.01,2,12.50,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+World - Challenger Barletta,Jakub Paul,Gabriel Decamps,in 44',1,2.00,2,1.75,O 21.5,1.86,U 21.5,1.84,+1.5,1.82,-1.5,1.88
+World - Challenger Barletta,Giovanni Fonio,Julian Ocleppo,12:20,1,1.53,2,2.40,O 21.5,1.70,U 21.5,2.02,-2.5,1.79,+2.5,1.92
+World - Challenger Barletta,Oleksandr Ovcharenko,Maks Kasnikowski,12:20,1,2.45,2,1.50,O 21.5,1.94,U 21.5,1.77,+3.5,1.79,-3.5,1.92
+World - Challenger Barletta,Stefano Travaglia,Giuseppe Tresca,12:20,1,1.06,2,8.00,O 18.5,1.97,U 18.5,1.75,-6.5,1.94,+6.5,1.77
+World - Challenger Barletta,Gabriele Piraino,Sumit Nagal,13:40,1,3.60,2,1.26,O 19.5,1.81,U 19.5,1.90,+4.5,2.02,-4.5,1.70
+World - Challenger Barletta,Jacopo Berrettini,Filip Peliwo,13:40,1,1.53,2,2.40,O 21.5,1.98,U 21.5,1.74,-3.5,1.94,+3.5,1.77
+World - Challenger Barletta,Moez Echargui,Arthur Gea,15:00,1,1.36,2,3.00,O 20.5,1.88,U 20.5,1.82,-4.5,1.97,+4.5,1.75
+World - Challenger Barletta,Stefano Napolitano,Alexander Weis,15:00,1,1.87,2,1.87,O 21.5,1.88,U 21.5,1.82,+0.5,1.81,-0.5,1.90
+World - Challenger Barletta,Valentin Vacherot,Jeremy Jahn,15:00,1,1.57,2,2.30,O 21.5,1.83,U 21.5,1.87,-2.5,1.82,+2.5,1.88
+Africa - ITF Burundi (W),Abhilasha Bista,Sanya Yadav,in 39',1,1.10,2,6.20,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Burundi (W),Sarah Pang,Ananya Yadav,12:30,1,1.14,2,5.25,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+Africa - ITF Burundi (W),Radhika Yadav,Tiffany William,14:00,1,11.00,2,1.02,Markets are not available,No_market,No_market,No_market,Markets are not available,No_market,No_market,No_market
+ЅRL (W) - SRL Spring Invitational Hanoi (W),Aryna Sabalenka (Srl),Yulia Putintseva (Srl),Mon 07:00,1,1.20,2,4.00,O 19.5,1.81,U 19.5,1.90,Markets are not available,No_market,No_market,No_market
+ЅRL (W) - SRL Spring Invitational Hanoi (W),Bernarda Pera (Srl),Shuai Zhang (Srl),Mon 08:00,1,1.74,2,1.98,O 21.5,1.91,U 21.5,1.80,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Kumamoto,Novak Djokovic (Srl),Tallon Griekspoor (Srl),Mon 04:00,1,1.03,2,9.00,O 18.5,1.94,U 18.5,1.77,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Kumamoto,Sebastian Korda (Srl),Laslo Djere (Srl),Mon 05:00,1,1.42,2,2.65,O 22.5,1.94,U 22.5,1.77,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Kumamoto,Jaume Munar (Srl),Diego Schwartzmann (Srl),Mon 06:00,1,2.00,2,1.72,O 22.5,1.97,U 22.5,1.75,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Kumamoto,Matteo Berrettini (Srl),Quentin Halys (Srl),Mon 07:00,1,1.18,2,4.30,O 20.5,1.79,U 20.5,1.92,Markets are not available,No_market,No_market,No_market
+ЅRL - SRL Spring Invitational Kumamoto,Jannik Sinner (Srl),Marco Cecchinato (Srl),Mon 08:00,1,1.08,2,6.50,O 19.5,1.84,U 19.5,1.86,Markets are not available,No_market,No_market,No_market

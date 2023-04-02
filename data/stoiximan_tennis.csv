@@ -1,121 +1,50 @@
-date,time,player1,player2,WIN_1,WIN_2,O,O_odds,U,U_odds,Handicap_1,Hand_1_odds,Handicap_2,Hand_2_odds
-01/04,10:35,Dusan Obradovic,Maik Steiner,1.50,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,10:35,Paul Woerner,Egor Matvievici,1.16,4.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,10:35,Victoria Lackova,Helene Sommer,1.55,2.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,10:35,Mia Chudejova,Noa Krznaric,2.37,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,10:35,Alexia Iulia Marginean,Marija Semenistaja,1.60,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,10:45,Fang Ying Xun / Yexin Ma,Hanyu Guo / Hong Yi Cody Wong,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,11:00,Mohamed Safwat,Alexander Zgirovsky,1.28,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,11:00,Zura Tkemaladze,Ilia Simakin,3.25,1.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,11:00,Zhibek Kulambayeva,Basak Eraydin,1.55,2.30,O 20.5,1.82,U 20.5,1.85,-3.5,1.87,+3.5,1.80
-01/04,11:30,Jesper De Jong,Ivan Gakhov,1.30,3.45,O 21.5,1.72,U 21.5,2.00,-3.5,1.70,+3.5,2.02
-01/04,11:30,Buvaysar Gadamauri,Nicolas Tepmahc,2.18,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,11:30,Luca Wiedenmann,Adria Soriano Barrera,3.00,1.34,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,11:30,Emilie Lindh Gallagher,Jessica Failla,2.42,1.50,O 20.5,1.85,U 20.5,1.82,+3.5,1.88,-3.5,1.78
-01/04,11:30,Lara Schmidt,Polina Iatcenko,3.75,1.23,O 19.5,1.88,U 19.5,1.78,+5.5,1.82,-5.5,1.85
-01/04,11:30,Amelie van Impe,Noelia Bouzo Zanotti,1.45,2.57,O 20.5,1.87,U 20.5,1.80,-3.5,1.72,+3.5,1.95
-01/04,11:30,Isabella Shinikova,Elena Milovanovic,1.28,3.35,O 19.5,1.82,U 19.5,1.85,-5.5,1.98,+5.5,1.72
-01/04,12:00,Vlad Victor Cornea / Franko Skugor,Marcelo Demoliner / Nikola Cacic,2.12,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Tibo Colson,Karl Friberg,2.05,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Rebecca Sramkova,Magali Kempen,2.02,1.70,O 20.5,1.78,U 20.5,1.88,+1.5,1.87,-1.5,1.80
-01/04,12:00,Kristijan Juhas,Noa Vukadin,1.50,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Oleg Prihodko,Sebastian Prechtel,1.37,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Duje Kekez,Nikola Basic,1.19,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Laura Svatikova,Adrijana Lekaj,1.60,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Cristiana Ferrando,Federica Arcidiacono,1.29,3.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:00,Manca Pislak,Zinovia Vaneva,1.60,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:30,Peter Heller,Cezar Cretu,1.57,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:30,Cengiz Aksu / Tuncay Duran,Matthew Howse / Joel Pierleoni,1.50,2.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,12:30,Anne Schaefer,Denisa Hindova,1.57,2.25,O 20.5,1.82,U 20.5,1.85,-3.5,1.91,+3.5,1.75
-01/04,13:00,Pedro Martinez Portero,Gastao Elias,1.72,2.07,O 22.5,1.93,U 22.5,1.78,-1.5,1.85,+1.5,1.85
-01/04,13:00,Christoph Negritu / Ray Ho,Xiaofei Wang / Zhan Zheng,1.37,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Yanki Erel,Jakub Mensik,3.20,1.31,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Antonia Ruzic,Maria Timofeeva,1.53,2.32,O 20.5,1.83,U 20.5,1.85,-3.5,1.85,+3.5,1.82
-01/04,13:30,Duje Ajdukovic,Benedikt Henning,1.21,4.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Josip Simundza,Tim Heger,2.20,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Sara Suchankova,Luisa Meyer Auf Der Heide,6.80,1.08,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Darja Semenistaja,Andjela Lazarevic,1.06,7.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,13:30,Rebeka Stolmar,Elitsa Kostova,4.15,1.21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,14:00,Fabian Marozsan,Manuel Guinard,1.26,3.60,O 21.5,1.95,U 21.5,1.80,-4.5,1.91,+4.5,1.83
-01/04,14:00,Sebastian Ofner,Robin Haase,1.23,3.95,O 21.5,1.88,U 21.5,1.85,-4.5,1.95,+4.5,1.80
-01/04,14:00,Ryan Peniston,Henrique Rocha,1.37,2.95,O 21.5,1.82,U 21.5,1.93,-3.5,1.75,+3.5,2.00
-01/04,14:00,Elio Jose Ribeiro Lago / Igor Gimenez,Guy Den Heijer / Sidane Pontjodikromo,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,14:00,Daria Lodikova / Zhibek Kulambayeva,Jacqueline Cabaj Awad / Martha Matoula,1.85,1.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,14:00,Elaine Genovese / Savanna Ly-Nguyen,Clara Vlasselaer / Amelie van Impe,2.92,1.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,14:20,Yuki Bhambri / Saketh Myneni,Oriol Roca Batalla / Inigo Cervantes,1.50,2.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,14:30,Luca Van Assche,Vit Kopriva,1.57,2.35,O 22.5,1.95,U 22.5,1.75,-2.5,1.80,+2.5,1.90
-01/04,15:00,Max Purcell,Michael Geerts,1.33,3.25,O 21.5,1.82,U 21.5,1.90,-3.5,1.70,+3.5,2.05
-01/04,15:00,Lucas Poullain,Khumoun Sultonov,1.34,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:00,Ben Jones / Giles Hussey,Mark Whitehouse / Daniel Little,1.75,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:00,David Pichler / Szymon Kielan,Filip Duda / Jiri Barnat,2.02,1.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:00,Lucia Bronzetti,Jodie Anna Burrage,1.95,1.75,O 20.5,1.78,U 20.5,1.88,+1.5,1.80,-1.5,1.87
-01/04,15:00,Xenia Knoll / Magali Kempen,Harriet Dart / Cristina-Andreea Mitu,1.88,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:05,Romeo Arcuschin,Leonardo Aboian,4.15,1.21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:05,Esteban Bruna,Ramiro Amarilla,3.15,1.33,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:20,Alessandro Giannessi,Oleksii Krutykh,2.00,1.75,O 22.5,1.83,U 22.5,1.90,+1.5,1.82,-1.5,1.93
-01/04,15:20,Mate Valkusz,Dalibor Svrcina,1.62,2.20,O 22.5,1.91,U 22.5,1.83,-2.5,1.91,+2.5,1.82
-01/04,15:20,Frederico Ferreira Silva,Damir Dzumhur,2.37,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,15:50,Juan Pablo Varillas,Kimmer Coppejans,1.42,2.80,O 21.5,1.75,U 21.5,1.95,-3.5,1.85,+3.5,1.87
-01/04,16:20,Otto Virtanen,Jurij Rodionov,1.75,2.05,O 22.5,1.88,U 22.5,1.83,-1.5,1.87,+1.5,1.83
-01/04,16:30,Alastair Gray,Anton Matusevich,1.55,2.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,16:30,Yanina Wickmayer / Greet Minnen,Berfu Cengiz / Jodie Anna Burrage,1.29,3.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,16:30,Lautaro Agustin Falabella,Federico Aguilar Cardozo,1.50,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,16:40,Jozef Kovalik,Pedro Sousa,1.42,2.77,O 21.5,1.78,U 21.5,1.98,-3.5,1.85,+3.5,1.90
-01/04,16:40,Adrian Andreev,Timofey Skatov,2.20,1.62,O 22.5,1.88,U 22.5,1.85,+2.5,1.80,-2.5,1.95
-01/04,17:00,Jamie Loeb,Paula Ormaechea,2.72,1.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Gabriela Ce,Katherine Sebov,3.85,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Magdalena Frech,Lina Glushko,1.21,4.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Coco Vandeweghe,Elvina Kalieva,1.50,2.50,O 21.5,1.83,U 21.5,1.91,-3.5,1.91,+3.5,1.83
-01/04,17:00,Yannik Steinegger,Clement Chidekh,5.70,1.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Kevin Humpfner,Roberto Cid Subervi,3.85,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Alfredo Perez,Sean Daryabeigi,1.30,3.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Eleonore Tchakarova,Victoria Flores,2.60,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:00,Verginie Tchakarova,Emily Gelber,2.20,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,17:40,Jason Taylor / Max Purcell,Dustin Brown / Aisam-Ul-Haq Qureshi,2.27,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:00,Rosa Vicens Mas,Nefisa Berberovic,1.47,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:00,Iryna Shymanovich,Jaqueline Adina Cristian,2.15,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:00,Enrico Dalla Valle,Jerome Kym,2.37,1.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:00,Julia Riera,Suzan Lamens,2.02,1.72,O 20.5,1.78,U 20.5,1.88,+1.5,1.85,-1.5,1.82
-01/04,18:00,Gabriel Alejandro Hidalgo,Franco Emanuel Egea,2.37,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:00,Juan Ignacio Galarza,Jeremias Rocco,1.26,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:15,Sophie Chang,Louisa Chirico,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:15,Kristina Mladenovic,Francesca Di Lorenzo,1.75,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:15,Robin Montgomery,Ashlyn Krueger,1.91,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:15,Laura Siegemund,Sachia Vickery,1.33,3.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:30,Joao Vitor Goncalves Ceolin,Evan Wen,1.45,2.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:30,Marsel Ilhan,Yannik Rahman,2.37,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:30,Maelie Monfils,Oana Georgeta Simion,3.65,1.26,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,18:30,Gabriella Broadfoot,Mia Slama,1.55,2.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Santiago Gonzalez / Edouard Roger-Vasselin,Austin Krajicek / Nicolas Mahut,Final,1.82,1.93,O 21.5,1.98,U 21.5,1.78,-0.5,1.98,+0.5,1.78
-01/04,19:30,Viktorija Golubic,Katarzyna Kawa,1.19,4.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Gabriela Lee,Kayla Day,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Tamara Korpatsch,Ann Li,1.91,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Sabine Lisicki,Yuriko Lily Miyazaki,1.70,2.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Daniela Vismane,Selena Janicijevic,2.57,1.45,O 20.5,1.87,U 20.5,1.80,+3.5,1.95,-3.5,1.72
-01/04,19:30,Pedro Boscardin Dias,Joaquin Aguilar Cardozo,1.45,2.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,19:30,Mariano Kestelboim,Mateo Labuckas,1.16,4.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:30,Sinja Kraus,Lena Papadakis,1.45,2.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:30,Carolina Meligeni Rodrigues Alves,Irina Maria Bara,2.95,1.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:45,Maria Mateas,Heather Watson,4.15,1.21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:45,Taylor Townsend,Marcela Zacarias,1.10,6.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:45,Asia Muhammad,Elizabeth Mandlik,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,20:45,Anna-Lena Friedsam,Liv Hovde,1.26,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:00,Bautista Vilicich,Lorenzo Gagliardo,2.60,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:00,Mwendwa Mbithi,Rafael Tosetto,1.91,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:00,Nicholas Heng,Jean Christian Morandais,1.23,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:00,Rasheeda Mcadoo,Akasha Urhobo,1.91,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:00,Mia Horvit,Alina Tsyurpalevych,1.45,2.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,21:45,Kathinka Von Deichmann,Dalila Jakupovic,2.25,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,22:00,Elena Rybakina,Petra Kvitova,Final,1.35,3.20,O 21.5,1.80,U 21.5,1.91,-3.5,1.72,+3.5,2.00
-01/04,22:00,Federico Zeballos / Boris Arias,Evan King / Reese Stalder,2.30,1.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,22:30,Jackson Caldwell,Felipe Pinzon Moreno,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,22:30,Jose Garcia,Juan Pablo Cenoz,1.82,1.91,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01/04,22:30,Sankavi Gownder,Brianna Baldi,1.75,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-02/04,00:00,Dominik Koepfer,Thiago Agustin Tirante,1.62,2.25,O 22.5,1.85,U 22.5,1.87,-2.5,1.91,+2.5,1.80
-02/04,00:00,Azariah Rusher,Jakub Ostajewski,1.23,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-02/04,00:00,Marianna Zakarlyuk,Anushka Ashar,1.45,2.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-02/04,01:00,Ingrid Gamarra Martins / Fang-Hsien Wu,Andrea Gamiz / Aliona Bolsova Zadoinov,2.15,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-02/04,03:00,Kaja Juvan,Sara Errani,1.65,2.25,O 21.5,1.78,U 21.5,1.93,-2.5,1.90,+2.5,1.82
-02/04,04:15,Elisabetta Cocciaretto,Elina Avanesyan,1.26,3.95,O 20.5,1.90,U 20.5,1.80,-4.5,1.72,+4.5,2.02
-02/04,05:00,Yu Hsiou Hsu,Sho Shimabukuro,2.10,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-02/04,05:00,Su Jeong Jang,Na-Lae Han,1.53,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+Date,Time,Player1,Player2,One_odd,Two_odd,O,O_odd,U,U_odd,Win1,Win1_odd,Win2,Win2_odd
+02/04,10:55,Duje Ajdukovic,Noa Vukadin,1.37,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Edoardo Lavagno,Benito Massacri,1.04,9.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Jakub Paul,Gabriel Decamps,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Alejandra Salazar / Gemma Triay,Ariana Sanchez / Paula Josemaria,1.53,2.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Ilia Simakin,Mohamed Safwat,2.32,1.53,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Sean Hodkin,Artiom Dorofeev,1.07,6.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Luca Castelnuovo,Maxence Rivet,1.29,3.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Dorian Lizon Tati,Pierre Antoine Tailleu,11.25,1.009,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Zhibek Kulambayeva,Denisa Hindova,1.85,1.85,O 20.5,1.78,U 20.5,1.90,+0.5,1.80,-0.5,1.87
+02/04,11:00,Iva Sivric,Lucia Cortez Llorca,10.25,1.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Amarissa Kiara Toth,Anastasiya Konstantinovna Soboleva,2.42,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Ekaterina Yashina,Victoria Borodulina,1.11,5.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Lara Seric,Sara Cakarevic,9.25,1.03,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Abhilasha Bista,Sanya Yadav,1.12,5.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,Manca Pislak,Laura Svatikova,1.87,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Alastair Gray,Jerome Kym,1.82,1.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Buvaysar Gadamauri,Luca Wiedenmann,2.27,1.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Niccolo Baroni,Andrea Licitra,1.20,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Federico Marchetti,Dimitris Sakellaridis,1.08,6.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Polina Iatcenko,Emilie Lindh Gallagher,1.42,2.67,O 20.5,1.90,U 20.5,1.78,-4.5,1.91,+4.5,1.75
+02/04,11:30,Elena Milovanovic,Noelia Bouzo Zanotti,1.57,2.27,O 20.5,1.82,U 20.5,1.85,-3.5,1.90,+3.5,1.78
+02/04,11:35,Sahej Maker,Matthew Doe,1.70,2.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:50,Yujiro Onuma,Aziz Kijametovic,4.15,1.21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:50,Lucy Bell Hogan,Francesca Franchi,1.50,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:55,Kamilla Bartone,Jadesola Cole,1.07,7.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Ivan Gakhov,Gastao Elias,Final,2.27,1.62,O 22.5,1.87,U 22.5,1.83,+2.5,1.82,-2.5,1.88
+02/04,12:00,Daniel Rincon,Ji Sung Nam,1.16,4.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Jakub Mensik,Karl Friberg,1.65,2.12,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Magali Kempen,Maria Timofeeva,1.75,1.98,O 20.5,1.78,U 20.5,1.88,-1.5,1.83,+1.5,1.83
+02/04,12:20,Stefano Travaglia,Giuseppe Tresca,1.07,7.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:20,Giovanni Fonio,Julian Ocleppo,1.52,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:20,Oleksandr Ovcharenko,Maks Kasnikowski,2.50,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Miguel Yanguas Diez / Jeronimo Gonzalez Luque,Antonio Fernandez Cano / Jose Antonio Garcia Diestro,1.53,2.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Nicky Blondeau,Victor Paganetti,5.50,1.11,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Antoine Vincent,Rudy Ceccon,1.78,1.93,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Arno Guillet,Simon Reveniau,8.50,1.04,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Noelia Zeballos,Tea Nikcevic,1.05,8.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Stella Knez,Julie Struplova,10.75,1.01,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Alice Rame,Maileen Nuudi,1.40,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Sofia Milatova,Oana Gavrila,4.00,1.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Sarah Pang,Ananya Yadav,1.14,4.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Andrea Militi Ribaldi,Pietro Marino,3.75,1.23,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Yan Sabanin,Stephanos Schinas,1.16,4.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:20,Alvaro Lopez San Martin,Chak Lam Coleman Wong,1.14,5.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:20,David Jorda Sanchis,Carlos Sanchez Jover,2.60,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:20,Akira Santillan,Billy Harris,2.07,1.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:20,Kyle Rae,Axel Bergdahl,1.60,2.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:30,Marek Gengel,Arthur Cazaux,6.60,1.09,O 19.5,1.98,U 19.5,1.78,+5.5,1.98,-5.5,1.78
+02/04,13:30,Riccardo Bonadio,Pablo Andujar,1.62,2.20,O 22.5,1.91,U 22.5,1.83,-2.5,1.93,+2.5,1.82

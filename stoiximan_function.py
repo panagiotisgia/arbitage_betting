@@ -64,6 +64,8 @@ def stoiximan_football_export(football_string: str):
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     football_list = [x for x in list_1 if not x.startswith('1st leg:')]
+    # Remove elements that start with "Final"
+    football_list = [x for x in list_1 if not x.startswith('Final')]
     # Create sublists based on date (matches)
     match = [x for x in football_list if re.match(r'\d{2}/\d{2}', x)]
     index_match = [i for i,x in enumerate(football_list) if re.match(r'\d{2}/\d{2}', x)]
@@ -145,6 +147,8 @@ def stoiximan_basketball_export(basketball_string: str):
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     basketball_list = [x for x in list_1 if not x.startswith('1st leg:')]
+    # Remove elements that start with "Final"
+    basketball_list = [x for x in list_1 if not x.startswith('Final')]
     # Create sublists based on date (matches)
     match = [x for x in basketball_list if re.match(r'\d{2}/\d{2}', x)]
     index_match = [i for i,x in enumerate(basketball_list) if re.match(r'\d{2}/\d{2}', x)]
@@ -226,6 +230,8 @@ def stoiximan_tennis_export(tennis_string: str):
     list_1 = [x for x in initial_list if x not in remove_elements]
     # Remove elements that start with "1st leg"
     tennis_list = [x for x in list_1 if not x.startswith('1st leg:')]
+    # Remove elements that start with "Final"
+    tennis_list = [x for x in list_1 if not x.startswith('Final')]
     # Create sublists based on date (matches)
     match = [x for x in tennis_list if re.match(r'\d{2}/\d{2}', x)]
     index_match = [i for i,x in enumerate(tennis_list) if re.match(r'\d{2}/\d{2}', x)]

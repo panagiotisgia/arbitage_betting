@@ -1,895 +1,875 @@
 Date,Time,Team1,Team2,One_odd,X_odd,Two_odd,O,O_odd,U,U_odd,GG,GG_odd,NG,NG_odd
-01-Apr,10:15,FC Melbourne Serbia,Casey Comets,2.15,3.35,3.05,O,1.65,U,2.05,Yes,1.55,No,2.27
-01-Apr,10:30,Sydney Olympic,Bulls FC Academy,1.6,4.25,4.35,O,1.45,U,2.5,Yes,1.52,No,2.32
-01-Apr,10:30,Sorrento,Perth Redstar FC,2.95,3.6,2.12,O,1.47,U,2.42,Yes,1.44,No,2.55
-01-Apr,10:30,Incheon United,Daegu FC,2.22,3.35,3.15,O,2,U,1.75,Yes,1.78,No,1.93
-01-Apr,10:30,Gwangju FC,Suwon City FC,1.87,3.35,4.2,O,2.07,U,1.7,Yes,1.91,No,1.8
-01-Apr,11:00,Levadiakos U19,Aris Thessaloniki U19,3.5,3.2,2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Pepo Lappeenranta,Mikkelin Palloilijat,3.15,4.1,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Gold Coast United (W),Mitchelton FC (W),1.33,5,6.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Western Sydney Wanderers II,Marconi Stallions,4.45,4.3,1.57,O,1.39,U,2.7,Yes,1.47,No,2.45
-01-Apr,11:00,Blacktown Spartans,Bonnyrigg White Eagles,2.18,3.4,2.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Dulwich Hill,Inter Lions,2.7,3.7,2.18,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Macarthur Rams,Bankstown City FC,2.1,3.4,3.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Northern Tigers,St George FC,2.6,3.5,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Rydalmere Lions,Dunbar Rovers FC,1.65,4.15,3.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Broadbeach United (W),SW Queensland Thunder (W),7,5.6,1.29,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Brisbane City (W),Logan Lightning (W),1.11,7.9,14.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Logan Lightning,Surfers Paradise,2.4,3.7,2.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Kaspyi Aktau,FC Kaisar Kyzylorda,2.07,3.25,3.35,O,1.95,U,1.72,Yes,1.78,No,1.9
-01-Apr,11:00,Golden Arrows II,Richards Bay FC II,2.07,3.3,3.2,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,TS Galaxy II,Marumo Gallants II,2,3.25,3.45,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,FC Metaloglobus Bucuresti,CS Minaur Baia Mare,2.07,3.15,3.4,O,2.05,U,1.65,Yes,1.83,No,1.85
-01-Apr,11:00,CSM Slatina,FC Unirea 2004 Slobozia,2.85,3.05,2.42,O,2.15,U,1.6,Yes,1.87,No,1.8
-01-Apr,11:00,CSC Dumbravita,FC Ripensia Timisoara,1.9,3.3,3.85,O,2.05,U,1.65,Yes,1.88,No,1.8
-01-Apr,11:00,Progresul Spartac,FC Brasov,3.65,3.2,1.98,O,2.05,U,1.65,Yes,1.85,No,1.82
-01-Apr,11:00,ACS Viitorul Pandurii Targu Jiu,Unirea Constanta,1.2,5.8,11,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Crvena Zvezda U19,FK Brodarac U19,1.4,4.5,6,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Dukla Prague U19,FC Hradec Kralove U19,1.8,3.9,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,SK Slavia Praha U19,Vysocina Jihlava U19,1.38,4.6,6.3,O,1.55,U,2.32,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,FC Viktoria Plzen U19,FC Banik Ostrava U19,2.02,3.65,3,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:00,Mendiola,Dynamic Herb Cebu FC,13,7.1,1.13,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,North Star,St George Willawong,5,3.9,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,MFk Chrudim,1.SK Prostejov,2.02,3.25,3.6,O,1.98,U,1.75,Yes,1.78,No,1.93
-01-Apr,11:15,MFK Vyskov,FK Dukla Prague,2.2,3.35,3.05,O,1.82,U,1.88,Yes,1.65,No,2.1
-01-Apr,11:15,Loko Vltavin,FC Viktoria Plzen II,3.2,3.55,1.98,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,Banik Sokolov,SK Dynamo Ceske Budejovice II,1.82,3.5,3.8,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,1 HFK Olomouc,Skastice,3.15,3.25,2.1,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,SK Aritma Praha,Jiskra Domazlice II,1.65,3.8,4.35,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:15,FC Kurim,Boskovice,2.32,3.65,2.52,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:30,Croydon Kings,Campbelltown City,3.9,3.75,1.75,O,1.55,U,2.25,Yes,1.55,No,2.27
-01-Apr,11:30,Oakleigh Cannons,South Melbourne FC,1.7,3.85,4.1,O,1.65,U,2.07,Yes,1.65,No,2.05
-01-Apr,11:30,NWS Spirit U20,Wollongong Wolves U20,2.62,3.75,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:30,Port Adelaide Pirates,Adelaide Croatia Raiders,5,4.55,1.5,O,1.42,U,2.62,Yes,1.55,No,2.27
-01-Apr,11:30,Maitland FC,Weston Bears,1.98,3.95,3.05,O,1.42,U,2.6,Yes,1.42,No,2.62
-01-Apr,11:30,FK Kraluv Dvur,Motorlet Praha,2.4,3.45,2.52,O,1.8,U,1.91,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:30,FK Usti Nad Labem,FK Teplice II,3.05,3.8,1.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:30,FC Kolin,FK Jablonec II,2.3,3.6,2.6,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:30,Sokol Hostoun,1.Fc Karlovy Vary,2.12,3.6,2.85,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,11:45,Sydney FC,Western United FC,1.75,4.05,4.4,O,1.65,U,2.25,Yes,1.65,No,2.15
-01-Apr,11:45,Central Coast Mariners II,Apia Leichhardt Tigers,6,4.85,1.39,O,1.4,U,2.65,Yes,1.6,No,2.15
-01-Apr,12:00,Asteras Tripolis U19,Volos NFC U19,1.38,4.2,7.8,O,1.65,U,2.07,Yes,1.85,No,1.82
-01-Apr,12:00,Ionikos U19,Panathinaikos U19,7.1,3.8,1.45,O,1.57,U,2.22,Yes,1.65,No,2.07
-01-Apr,12:00,PAS Giannina U19,Olympiacos Piraeus U19,6.4,3.45,1.55,O,1.65,U,2.07,Yes,1.62,No,2.1
-01-Apr,12:00,Valencia CF U19,Villarreal CF U19,1.6,4.1,4.5,O,1.6,U,2.15,Yes,1.65,No,2.05
-01-Apr,12:00,Athletic Bilbao (W) C,CE Europa (W),4.65,4.1,1.57,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,CD Pozoalbense (W),CD Femarguin (W),7.2,4.8,1.33,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Hellas Verona U19,AS Roma U19,5.8,4.05,1.47,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Viterbese Castrense U19,Cosenza Calcio U19,3.15,3.7,1.95,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Imolese U19,SS Monopoli U19,2.4,3.55,2.5,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Rot-Weiss Oberhausen U19,Fortuna Dusseldorf U19,4.45,4.1,1.6,O,1.55,U,2.25,Yes,1.62,No,2.12
-01-Apr,12:00,Bayer 04 Leverkusen U19,Bonner SC U19,1.44,4.9,5.2,O,1.3,U,3.1,Yes,1.45,No,2.5
-01-Apr,12:00,FC Ingolstadt 04 U19,TSV 1860 Munich U19,2.35,3.8,2.5,O,1.45,U,2.47,Yes,1.42,No,2.57
-01-Apr,12:00,Adana Demirspor U19,Fatih Karagumrukspor U19,1.5,4.45,4.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Ankaraspor U19,Istanbulspor U19,3.15,3.75,1.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Bursaspor U19,Sivasspor U19,4.25,3.85,1.65,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Gaziantepspor U19,Fenerbahce SK U19,5.3,4,1.52,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Hatayspor U19,Istanbul Basaksehir U19,2.75,3.7,2.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,MKE Ankaragucu U19,Goztepe U19,1.3,5.4,7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Ümraniyespor U19,Konyaspor U19,3.2,3.55,1.98,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Holland Park Hawks,Ipswich Knights,1.3,5.5,6.7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Floreat Athena,Stirling Macedonia,2.6,3.55,2.37,O,1.57,U,2.2,Yes,1.5,No,2.37
-01-Apr,12:00,Rockingham City,UWA Nedlands,1.83,3.8,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,West Adelaide (W) II,Metro United (W) II,3.6,3.8,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Bong da Hue,Binh Duong,5.5,4,1.5,O,1.72,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,HNK Hajduk Split U19,NK Dugopolje U19,1.17,6.1,12.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Inter Zapresic U19,NK Slaven Belupo U19,3.6,3.5,1.87,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,FC Minaj,Ingulets Petrove,2.65,3.1,2.62,O,2.25,U,1.57,Yes,1.95,No,1.75
-01-Apr,12:00,Chrobry Glogow II,Miedz Legnica II,2.37,3.6,2.5,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Piast Gliwice II,MKS Slask Swietochlowice,1.33,5.1,6.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,UTA Arad,Universitatea Cluj,2.37,3.1,3.25,O,2.47,U,1.55,Yes,2.05,No,1.72
-01-Apr,12:00,CS Caransebes U19,Lugoj U19,1.65,4.15,3.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,CS Academia de Fotbal Gica Popescu U19,CSJ Stiinta U Craiova U19,1.42,4.65,5.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,FK Vojvodina Novi Sad U19,FK Cukaricki U19,2.45,3.3,2.6,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,MFk Ruzomberok U19,Podbrezova U19,1.62,4.05,4.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,SK Slovan Bratislava U19,FC Spartak Trnava U19,2.15,3.6,2.82,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,Dukla Banska Bystrica U19,Zlate Moravce U19,2.77,3.5,2.22,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,FC DAC 1904 Dunajska Streda U19,MSK Zilina U19,3.25,3.7,1.91,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,FC Petržalka U19,FK Pohronie U19,1.15,6.6,13,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,1. FC Brno U19,FK Pardubice U19,1.98,3.55,3.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,1. FC Slovacko U19,SK Sigma Olomouc U19,2.8,3.55,2.18,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,AC Sparta Praha U19,1 FK Pribram U19,1.01,12,32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,MFK Karvina U19,FC Fastav Zlin U19,2.2,3.7,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:00,FK Mlada Boleslav U19,SK Dynamo Ceske Budejovice U19,1.98,3.45,3.3,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:15,Dianella White Eagles,Gwelup Croatia,2.32,3.55,2.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,OFI Crete U19,Atromitos Athinon U19,2.22,3.25,3,O,1.75,U,1.93,Yes,1.6,No,2.15
-01-Apr,12:30,Club Portugalete,CD Vitoria,2.77,2.95,2.55,O,2.32,U,1.52,Yes,1.98,No,1.72
-01-Apr,12:30,Virtus Entella U19,Reggina 1914 U19,1.52,4.25,4.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,Grange Thistle SC,Souths United,2,3.6,3.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,Aarhus Fremad,Brabrand IF,1.5,4.15,5.6,O,1.72,U,1.95,Yes,1.88,No,1.8
-01-Apr,12:30,Olstykke (W),Damso (W),9,6.1,1.21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,Viimsi JK,Tallinna JK Legion,1.25,5.4,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,Viljandi JK Tulevik,JK Tallinna Kalev II,1.88,4.05,3.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,12:30,Gimpo Citizen,Bucheon FC 1995,2.72,3.15,2.57,O,2.2,U,1.62,Yes,1.9,No,1.8
-01-Apr,13:00,CD Pozoblanco,Atletico Antoniano,2.7,2.95,2.62,O,2.35,U,1.5,Yes,1.98,No,1.7
-01-Apr,13:00,CA Osasuna U19,Real Sociedad U19,1.93,3.75,3.25,O,1.62,U,2.12,Yes,1.57,No,2.2
-01-Apr,13:00,San Felix U19,CF Algeciras U19,1.17,6.6,12.5,O,1.37,U,2.8,Yes,2,No,1.7
-01-Apr,13:00,San Roque Balompie U19,UD Almeria U19,7.9,5.5,1.28,O,1.36,U,2.82,Yes,1.65,No,2.05
-01-Apr,13:00,Recreativo Huelva U19,Calavera U19,3.2,3.8,1.95,O,1.57,U,2.2,Yes,1.55,No,2.25
-01-Apr,13:00,UD San Fernando U19,Arucas U19,2.32,3.6,2.62,O,1.7,U,1.98,Yes,1.62,No,2.12
-01-Apr,13:00,Madrid CFF (W),Levante UD (W),4.05,4,1.65,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Villarreal CF (W),UDG Tenerife Sur (W),4.15,3.45,1.75,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Deportivo La Coruna (W),Granada CF (W),1.8,3.4,4.05,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Torrelodones (W),RCD Espanyol (W) II,5.6,4.3,1.45,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Preussen Munster U19,MSV Duisburg U19,3.2,3.65,2,O,1.72,U,1.95,Yes,1.65,No,2.05
-01-Apr,13:00,1. FC Nurnberg U19,FC Bayern Munchen U19,1.98,4,3,O,1.35,U,2.85,Yes,1.36,No,2.82
-01-Apr,13:00,VfL Wolfsburg U19,SC Paderborn 07 U19,2.57,3.75,2.3,O,1.4,U,2.67,Yes,1.37,No,2.77
-01-Apr,13:00,CD Trofense,SC Farense,3.1,3.3,2.25,O,2.15,U,1.65,Yes,1.9,No,1.8
-01-Apr,13:00,Excelsior Maassluis U21,SC Telstar U21,2.67,4.2,2.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Yomraspor,Eskisehirspor,2.18,3.2,3.05,O,2.2,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Singapore (W),Thailand (W),28,10.5,1.03,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Khroub U21,MC El Eulma U21,2.75,2.85,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Batna U21,JS Bordj Menaiel U21,2.75,3.1,2.42,O,2,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Hamra Annaba U21,USM El Harrach U21,3.4,3.15,2.05,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,IB Khemis El Khechna U21,IRB Ouargla U21,3.55,3.1,2.02,O,2.18,U,1.62,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,US Chaouia U21,JSM Skikda U21,1.85,3.15,4.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Boldklubben 1908,GVI,1.95,3.65,3.2,O,1.6,U,2.2,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Brabrand IF II,B 1909 Odense,2.95,3.55,2.07,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Consadole Sapporo,Kawasaki Frontale,2.85,3.55,2.4,O,1.75,U,2.1,Yes,1.6,No,2.27
-01-Apr,13:00,Gadna Tel Aviv U19,Hapoel Ironi Hod Hasharon U19,2.62,3.55,2.27,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,FC Shakhter Karagandy,FC Kairat,4.1,3.6,1.75,O,1.78,U,1.88,Yes,1.75,No,1.93
-01-Apr,13:00,Sofapaka FC,Darajani Gogo,1.57,3.45,5.7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Mara Sugar,Naivas,2.15,3,3.3,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Cibalia U19,Istra 1961 U19,2.45,3.4,2.52,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,BFC Daugavpils,SK Super Nova,2,3.45,3.2,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,FK Panevezys,FK Siauliai,1.7,3.5,4.35,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Amazulu II,Orlando Pirates II,2.92,3.2,2.25,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Stellenbosch II,Chippa United II,1.4,4.45,6.1,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Daejeon Citizen,FC Seoul,2.75,3.2,2.55,O,2,U,1.75,Yes,1.75,No,1.95
-01-Apr,13:00,Metalist Kharkiv,Kolos Kovalivka,3.05,3.25,2.25,O,2.15,U,1.62,Yes,1.91,No,1.8
-01-Apr,13:00,Cracovia Krakow II,Unia Tarnow,1.24,5.5,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Pogon Grodzisk Mazowiecki,Concordia Elblag,1.2,5.8,10.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Gedania Gdansk,Sokol Kleczew,1.62,4,4.25,O,1.6,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Gornik Zabrze U19,Legia Warszawa U19,1.65,4.1,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Pogon Szczecin (W),Slask Wroclaw (W),1.95,3.9,3,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:00,Sisaket United,Chanthaburi,1.88,3.1,4.1,O,2.3,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:10,IF Gnistan U20,Atlantis U20,11.25,6.9,1.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:15,AEK Athens U19,Lamia U19,1.22,5.3,12,O,1.57,U,2.22,Yes,2.15,No,1.6
-01-Apr,13:15,Marbella FC,CD Huracan Melilla,1.02,13.5,26,Yes,1.88,No,1.78,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:30,Brighton & Hove Albion (W),Manchester United (W),11.75,6.1,1.17,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:30,Atletico Sanluqueno CF,Yeclano Deportivo,1.9,3,4.4,O,2.7,U,1.39,Yes,2.37,No,1.5
-01-Apr,13:30,Real Valladolid U19,Real Madrid U19,17.5,7.1,1.12,O,1.31,U,3.1,Yes,2.05,No,1.65
-01-Apr,13:30,ACF Como (W),Parma Calcio 1913 (W),2.07,3.15,3.35,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:30,Denizlispor,Goztepe SK,3.55,3.4,2,O,1.98,U,1.75,Yes,1.83,No,1.88
-01-Apr,13:30,Mils,FC Wacker Innsbruck,1.78,4.25,3.3,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:30,Sønderjyske U19,Brondby IF U19,4.45,4.75,1.53,O,1.27,U,3.3,Yes,1.37,No,2.75
-01-Apr,13:30,Chiangmai United,Customs United FC,2.3,2.85,3.2,O,2.4,U,1.5,No_bet,No_bet,No_bet,No_bet
-01-Apr,13:45,Panserraikos,Almopos Aridea,1.24,4.8,13.5,O,2.07,U,1.65,Yes,3.25,No,1.28
-01-Apr,13:45,Danok Bat CF U19,Gazte Berriak U19,2.3,3.65,2.62,O,1.65,U,2.07,Yes,1.57,No,2.2
-01-Apr,13:45,Reipas U20,HIFK U20,1.32,5.5,6.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Juventud Maritima U19,Maspalomas U19,1.39,4.7,6.4,O,1.53,U,2.27,Yes,1.78,No,1.91
-01-Apr,14:00,Puerto Cruz U19,UD Ibarra U19,2.72,3.65,2.22,O,1.65,U,2.07,Yes,1.57,No,2.2
-01-Apr,14:00,US Sassuolo Calcio U19,Inter Milan U19,2.15,3.45,2.9,O,1.88,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Hannover 96,SV Sandhausen,1.91,3.7,3.9,O,1.8,U,2.02,Yes,1.7,No,2.07
-01-Apr,14:00,Karlsruher SC,Eintracht Braunschweig,1.7,3.95,4.7,O,1.7,U,2.18,Yes,1.65,No,2.15
-01-Apr,14:00,FC St. Pauli,SSV Jahn Regensburg,1.6,4,5.8,O,1.85,U,1.95,Yes,1.87,No,1.87
-01-Apr,14:00,SV Lichtenberg 47,Berliner AK 07,3.15,3.35,2.15,O,1.87,U,1.85,Yes,1.7,No,2.02
-01-Apr,14:00,Energie Cottbus,Hertha BSC Berlin II,1.33,4.85,8.25,O,1.65,U,2.12,Yes,2.02,No,1.72
-01-Apr,14:00,Rot Weiss Erfurt,BFC Viktoria Berlin,1.83,3.55,3.9,O,1.83,U,1.87,Yes,1.75,No,1.95
-01-Apr,14:00,Bts Neustadt,TUS Schwachhausen,2.95,3.95,1.98,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Dassendorf,TSV Sasel,1.83,3.75,3.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,FSV Optik Rathenow,FC Rostocker,2.77,3.9,2.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,FC Eilenburg,SV Westerhausen,1.19,6.3,10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,VfB 03 Hilden U19,Borussia Monchengladbach U19,3.6,4,1.78,O,1.4,U,2.67,Yes,1.42,No,2.6
-01-Apr,14:00,FC St. Pauli U19,Holstein Kiel U19,1.3,5.6,7,O,1.27,U,3.3,Yes,1.52,No,2.32
-01-Apr,14:00,VfL Bochum U19,SV Meppen U19,1.62,4.35,4.15,O,1.37,U,2.77,Yes,1.44,No,2.55
-01-Apr,14:00,Werder Bremen U19,Hamburger SV U19,1.6,4.3,4.35,O,1.44,U,2.52,Yes,1.52,No,2.3
-01-Apr,14:00,SK Gjøvik-Lyn,Eidsvold Turn,1.5,4.75,4.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,SalPa,Tampere United,1.37,5.2,5.9,O,1.28,U,3.25,Yes,1.45,No,2.47
-01-Apr,14:00,Perth Glory,Macarthur FC,1.95,3.75,3.65,O,1.7,U,2.18,Yes,1.6,No,2.27
-01-Apr,14:00,Song Lam Nghe An,QNK Quang Nam FC,1.42,4,6.7,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Hillerød Fodbold,BK Fremad Amager,1.72,3.7,4.4,O,1.75,U,1.95,Yes,1.75,No,1.98
-01-Apr,14:00,IF Lyseng,Holstebro BK,2.47,3.5,2.42,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Ishoej IF,Dalum IF,1.05,9.75,21,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Vanlose IF,Young Boys FD,1.93,3.55,3.35,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Tarup-Paarup,Otterup B & IK,1.14,6.9,12.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,VRI,Viby,3.4,4,1.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Vejgaard BSK,Marienlyst,1.65,4.1,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Allerod,Naestved II,1.65,4.1,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Fortuna Hjørring (W),FC Thy - Thistedq (W),1.36,4.65,6.7,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Prison Leopards,FC MUZA,2.42,2.72,3.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,NK Marsonia 1909,Jadran Porec,3.3,3.9,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Minija Kretinga,Lietava Jonava,1.53,4,5,O,1.72,U,2,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Kolbotn (W),Tromso IL (W),2.1,3.7,2.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Kisvarda FC,Puskas Akademia,2.72,3.15,2.6,O,2.05,U,1.72,Yes,1.78,No,1.93
-01-Apr,14:00,Bright Stars,Uganda Revenue Authority,2.85,2.75,2.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Veres Rivne,Kryvbas Kryvyi Rih,2.52,3.25,2.65,O,2.15,U,1.62,Yes,1.91,No,1.8
-01-Apr,14:00,KS Polkowice,Znicz Pruszkow,2.77,3.2,2.42,O,1.88,U,1.78,Yes,1.7,No,2
-01-Apr,14:00,KP Blekitni Stargart Szczecinski,OKS Swit Skolwin Szczecin,2.77,3.6,2.18,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,LKS Goczalkowice Zdroj,Pniowek P Slaskie,2.45,3.35,2.55,O,1.8,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,FK Graficar Beograd,FK Radnicki Beograd,1.62,3.7,4.8,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,FK Napredak Krusevac U19,FK Graficar U19,3.5,3.3,1.95,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Kosice U19,AS Trencin U19,2.52,3.6,2.35,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Ahlafors IF,Norrby IF,2.95,3.6,2.12,O,1.62,U,2.1,Yes,1.55,No,2.25
-01-Apr,14:00,Eskilsminne IF,Ariana FC,2.02,3.55,3.15,O,1.65,U,2.07,Yes,1.57,No,2.22
-01-Apr,14:00,Motala AIK FK,Sollentuna United FF,1.88,3.8,3.4,O,1.53,U,2.3,Yes,1.5,No,2.35
-01-Apr,14:00,Angelholms FF,BK Olympic,2.37,3.4,2.67,O,1.83,U,1.83,Yes,1.7,No,2
-01-Apr,14:00,FBK Balkan,Osterlen FF,3.5,3.65,1.9,O,1.6,U,2.15,Yes,1.55,No,2.25
-01-Apr,14:00,Torslanda IK,IK Gauthiod,1.85,3.75,3.5,O,1.6,U,2.15,Yes,1.57,No,2.2
-01-Apr,14:00,IFK Trelleborg,IFK Malmö,2.87,3.6,2.15,O,1.5,U,2.37,Yes,1.44,No,2.52
-01-Apr,14:00,Västra Frölunda IF,Nassjo FF,1.37,5,6.2,O,1.37,U,2.77,Yes,1.57,No,2.2
-01-Apr,14:00,AIK Stockholm (W),Trelleborgs FF (W),1.24,5.6,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Raj Pracha Nonthaburi,Nakhon Pathom,3.3,3,2.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Suphanburi FC,Rayong,2.25,2.92,3.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Pattaya Dolphins United,Mahasarakham United,2.05,3.15,3.45,O,2.3,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:00,Regar Tadaz Tursunzade,Khatlon,3.25,3.1,2.15,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:15,Kuopion Palloseura (W),HJK Helsinki (W),1.57,4.1,4.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Manchester City,Liverpool FC,1.64,4.52,5.91,O,1.62,U,2.3,Yes,1.65,No,2.15
-01-Apr,14:30,Preston,Blackpool FC,2.02,3.2,3.8,O,2.4,U,1.57,Yes,2.05,No,1.72
-01-Apr,14:30,Luton Town,Watford FC,2.15,3.2,3.45,O,2.4,U,1.57,Yes,2.05,No,1.72
-01-Apr,14:30,Sevilla FC C,AD Ceuta II,1.82,3.25,4.35,O,2.42,U,1.47,Yes,2.25,No,1.55
-01-Apr,14:30,Union Viera U19,Las Longueras U19,1.57,4.15,4.8,O,1.6,U,2.15,Yes,1.7,No,2
-01-Apr,14:30,ZFC Meuselwitz,SV Babelsberg 03,2.8,3.3,2.37,O,1.85,U,1.85,Yes,1.7,No,2.05
-01-Apr,14:30,SC Tasmania 1900 Berlin,Pampow,1.35,5.1,6.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,SC Weiche Flensburg 08 II,VfB Lübeck II,1.8,4.1,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,TSV Bordesholm,Union Neumunster,5,4.9,1.44,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,FK Kapaz,Sabail FC,2.22,3.05,3.2,O,2.05,U,1.65,Yes,1.8,No,1.87
-01-Apr,14:30,Torpedo Kutaisi,FC Telavi,1.53,3.6,5.8,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Kjellerup,Aalborg BK II,4.65,4.65,1.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Norresundby,ASA Aarhus,1.85,3.8,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Hedensted IF,Varde IF,1.75,3.8,3.75,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,FC Flora Tallinn,JK Tammeka Tartu,1.13,6.6,16.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Railway Union,Swords Celtic,1.39,5.3,5.4,Yes,1.36,No,2.8,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Nafta 1903 U19,NS Mura U19,2.45,3.85,2.32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:30,Chainat FC,Chiangmai FC,1.87,3.3,3.85,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:45,Panathinaikos II,Thesprotos,1.72,3.35,4.45,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:45,Ilioupoli,AEK Athens II,1.35,4.2,8,O,1.8,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:45,Kalamata,Olympiacos Piraeus II,1.85,3.3,4,O,2.12,U,1.62,Yes,1.95,No,1.72
-01-Apr,14:45,Fleury 91 (W),Dijon FCO (W),1.15,6.5,13.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:45,Soyaux (W),Montpellier (W),8.75,4.65,1.3,O,1.8,U,1.91,No_bet,No_bet,No_bet,No_bet
-01-Apr,14:45,CD Mafra,SL Benfica II,1.87,3.6,3.9,O,1.75,U,2.02,Yes,1.65,No,2.1
-01-Apr,15:00,Bradford City,Grimsby Town,1.98,3.4,3.7,O,2.15,U,1.65,Yes,1.93,No,1.78
-01-Apr,15:00,Girona FC,RCD Espanyol,1.87,3.6,4.25,O,1.95,U,1.85,Yes,1.82,No,1.93
-01-Apr,15:00,SPAL,Ternana Calcio,2.62,3.2,2.8,O,2.1,U,1.75,Yes,1.8,No,1.95
-01-Apr,15:00,Venezia FC,Como 1907,2.55,3.15,2.92,O,2.32,U,1.62,Yes,1.95,No,1.8
-01-Apr,15:00,Ascoli Calcio 1898,Brescia Calcio,2.15,3.15,3.75,O,2.55,U,1.52,Yes,2.15,No,1.65
-01-Apr,15:00,Cagliari Calcio,FC Sudtirol,1.88,3.3,4.65,O,2.47,U,1.55,Yes,2.2,No,1.62
-01-Apr,15:00,Cosenza Calcio,AC Pisa 1909,3.7,3.2,2.15,O,2.37,U,1.6,Yes,2,No,1.75
-01-Apr,15:00,Parma Calcio 1913,US Palermo,1.83,3.5,4.6,O,2.1,U,1.75,Yes,1.91,No,1.82
-01-Apr,15:00,US Olbia 1905,US Alessandria Calcio,2.3,2.92,3.3,O,2.42,U,1.5,Yes,2.05,No,1.7
-01-Apr,15:00,Ascoli Calcio 1898 U19,Ternana Calcio U19,1.44,4.45,5.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,SV Wehen Wiesbaden,FSV Zwickau,1.57,4.05,5.3,O,1.65,U,2.15,Yes,1.7,No,2.05
-01-Apr,15:00,FC Erzgebirge Aue,VfB Oldenburg,1.78,3.7,4.2,O,1.7,U,2.07,Yes,1.65,No,2.1
-01-Apr,15:00,FC Viktoria Köln,SC Verl,2.32,3.45,2.87,O,1.7,U,2.07,Yes,1.55,No,2.3
-01-Apr,15:00,Borussia Dortmund II,Hallescher FC,2.3,3.3,3,O,1.82,U,1.93,Yes,1.62,No,2.15
-01-Apr,15:00,Rot Weiss Essen,SC Freiburg II,3.05,3.3,2.27,O,1.95,U,1.8,Yes,1.75,No,1.98
-01-Apr,15:00,Werder Bremen II,Eintracht Norderstedt,2.6,3.3,2.55,O,1.8,U,1.9,Yes,1.65,No,2.12
-01-Apr,15:00,1. FC Düren,Fortuna Koln,3.1,3.3,2.2,O,1.93,U,1.78,Yes,1.75,No,1.98
-01-Apr,15:00,1. FC Köln II,SC Wiedenbruck,1.83,3.6,3.9,O,1.72,U,2,Yes,1.65,No,2.1
-01-Apr,15:00,SV 19 Straelen,FC Bocholt,2.67,3.5,2.37,O,1.7,U,2.02,Yes,1.6,No,2.2
-01-Apr,15:00,SV Lippstadt 08,SG Wattenscheid 09,1.62,4,4.65,O,1.57,U,2.25,Yes,1.62,No,2.15
-01-Apr,15:00,FSV Frankfurt,TSV Steinbach,3.5,3.6,1.93,O,1.65,U,2.12,Yes,1.57,No,2.25
-01-Apr,15:00,TSG 1899 Hoffenheim II,Bahlinger SC,1.7,3.7,4.6,O,1.78,U,1.93,Yes,1.78,No,1.93
-01-Apr,15:00,SG Barockstadt Fulda-Lehnerz,KSV Hessen Kassel,2.18,3.45,3,O,1.75,U,1.95,Yes,1.65,No,2.12
-01-Apr,15:00,FC Homburg,Offenbacher Kickers,2.7,3.4,2.4,O,1.75,U,1.95,Yes,1.62,No,2.15
-01-Apr,15:00,TSG Balingen,FC Astoria Walldorf,2.1,3.4,3.25,O,1.82,U,1.88,Yes,1.7,No,2.05
-01-Apr,15:00,FC Rot-Weiss Koblenz,FSV Mainz 05 II,3.35,3.5,2.02,O,1.8,U,1.91,Yes,1.7,No,2.05
-01-Apr,15:00,SpVgg Unterhaching,1. FC Nurnberg II,1.62,4.05,4.7,O,1.65,U,2.12,Yes,1.7,No,2.02
-01-Apr,15:00,SV Turkgucu Munich,SPVGG Ansbach,1.5,4.2,5.8,O,1.75,U,1.98,Yes,1.9,No,1.8
-01-Apr,15:00,FC Augsburg II,SpVgg Greuther Furth II,1.72,3.9,4.1,O,1.55,U,2.3,Yes,1.57,No,2.27
-01-Apr,15:00,FV Illertissen,TSV Aubstadt,1.93,3.35,3.8,O,1.78,U,1.93,Yes,1.65,No,2.12
-01-Apr,15:00,DJK Vilzing,VfB Eichstatt,2.47,3.35,2.65,O,1.72,U,2,Yes,1.6,No,2.22
-01-Apr,15:00,Wacker Burghausen,TSV Rain/Lech,1.53,4,5.7,O,1.78,U,1.93,Yes,1.88,No,1.82
-01-Apr,15:00,FV Ravensburg,Freiburger,1.72,4.05,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC 08 Villingen,FC Rielasingen-Arlen,1.62,4.2,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSG Backnang,FSV 08 Bissingen,2.87,4.05,1.98,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Neckarsulm Sport Union,SSV Reutlingen,1.91,3.8,3.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Ismaning,SV Erlbach,2.4,3.4,2.57,O,1.87,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Ingolstadt 04 II,SV Kirchanschoring,2.02,3.8,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSV 1874 Kottern,SV Schalding-Heining,2.72,3.45,2.27,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSV Landsberg,TSV 1860 Munchen II,2.12,3.8,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Memmingen,FC Deisenhofen,2,3.65,3.1,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Brinkumer SV,TuSpo Surheide,1.7,4.2,3.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Leher TS,SV Hemelingen,4.85,5.1,1.44,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSV Eintracht Stadtallendorf,SV Adler Weidenhausen,1.3,5.4,6.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Giessen,SV Steinbach 1920,1.31,5.2,7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Dynamo Schwerin,FC Hertha 03 Zehlendorf,3.1,3.8,1.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,An der Fahner Hohe,Blau-Weiss Zorbau,2.12,3.55,2.87,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Grimma,Ludwigsfelder FC,2.12,3.5,2.92,O,1.82,U,1.88,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,VfB 1921 Krieschow,SC Freital,1.88,3.85,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Oberlausitz Neugersdorf,Union Sandersdorf,2.67,3.35,2.32,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Einheit Rudolstadt,VFC Plauen,3.3,3.95,1.83,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,VfL Halle 96,Bischofswerdaer FV,2.25,3.55,2.7,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FV Diefflen,SV Gonsenheim,2.85,3.95,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSV Schott Mainz,SV Auersmacher,1.44,4.7,5.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,TSB Flensburg,Inter Turkspor Kiel,1.55,4.55,4.3,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Heider SV,TSV Pansdorf,1.22,6.2,8.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Husumer SV,SV Frisia 03,1.83,4.15,3.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Cankaya FK,Buyuk. Tepecikspor,1.6,3.55,5.2,O,1.88,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Fatsa Belediyespor,Artvin Hopaspor,2.3,3,3.05,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Bergama,Akhisarspor,2.18,2.92,3.3,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Beyoglu Yeni Carsi FK,Bursa Yildirimspor,1.83,3.45,3.8,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Ayvalikgucu,Karaman Belediyespor,2.45,2.87,2.9,O,2.32,U,1.53,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Catalca Spor,Sile Yildizspor,2,2.95,3.85,O,2.22,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Icel Idmanyurdu Spor,Derince Belediyespor,1.88,2.9,4.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Stromsgodset II,Notodden FK,2.27,4.05,2.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Defence Force FC,Adama City FC,2.5,2.92,2.77,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Pyunik Yerevan,BKMA Yerevan,1.2,5.4,11.75,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Wolfsberger AC II,SAK Celovec/Klagenfurt,1.42,4.4,5.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Favoritner AC,Post SV,1.32,5,7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,St Michael/Lavanttal,DSG Sele Zell,1.57,4.35,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Zrinjski Mostar,NK Siroki Brijeg,1.34,4.45,8.5,O,1.85,U,1.82,Yes,2.27,No,1.53
-01-Apr,15:00,AD Bahia de Feira U20,SD Juazeirense U20,1.53,3.95,5.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Jacuipense U20,Atlantico BA U20,1.7,3.65,4.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Thisted FC,Esbjerg FB,4.55,3.8,1.65,O,1.7,U,1.98,Yes,1.72,No,1.98
-01-Apr,15:00,BK Frem,Skive IK,2.55,3.4,2.5,O,1.62,U,2.1,Yes,1.52,No,2.32
-01-Apr,15:00,VSK Aarhus,FA 2000,2.37,3.4,2.6,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Naesby BK,Middelfart BK,3.75,3.65,1.78,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Oure FA,AB Tarnby,2.1,3.5,2.95,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,BK Skjold,Slagelse B&I,2.2,3.7,2.65,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Herlev,Ledoje Smorum Fodbold,2.57,3.55,2.32,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,B 93 Kopenhagen (W),Naestved HG (W),1.47,4.15,5.6,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Odense BK (W),Aalborg BK (W),3.65,3.95,1.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Aksu,Maktaaral,2.1,3.2,3.35,O,2.05,U,1.65,Yes,1.83,No,1.85
-01-Apr,15:00,Kisumu All Stars,Gusii FC,2.22,2.77,3.45,O,2.3,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Varazdin U19,NK Osijek U19,1.8,3.9,3.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Mladost Zdralovi U19,HNK Gorica U19,2.45,3.5,2.45,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FK Liepaja,Riga FC,6.2,3.85,1.47,O,2.02,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Dziugas Telsiai,Riteriai,3.4,3.4,1.95,O,2,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Garliava,FK Nevezis,3.3,3.3,2.02,O,1.82,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Gzira United FC,Mosta FC,1.35,4.5,7.8,O,1.8,U,1.87,Yes,2.15,No,1.6
-01-Apr,15:00,Marsa FC,San Gwann,2.07,3.5,3,O,1.8,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Szekszardi Ufc (W),Puskas Akademia FC (W),15.5,7.5,1.11,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FC Oleksandriya,Vorskla Poltava,2.22,3.25,3.1,O,1.82,U,1.88,Yes,1.65,No,2.12
-01-Apr,15:00,Gawin/Sleza Wroclaw,Stilon Gorzow Wielkopolski,1.65,4,4.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Cartusia Kartuzy,Pogon Nowe Skalmierzyce,2.47,3.35,2.52,O,1.8,U,1.91,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Zawisza Bydgoszcz,Baltyk Gdynia,1.47,4.35,5.4,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Unia Skierniewice,Legionovia Legionowo,2.5,3.5,2.4,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Carmen Bucuresti (W),FK Csikszereda Miercurea Ciuc (W),1.04,9.75,32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,FK Radnicki 1923 Kragujevac,KK Spartak Subotica,2,3.15,3.85,O,2.25,U,1.57,Yes,2,No,1.72
-01-Apr,15:00,St John Bosco,LMS United,2.02,3.6,3.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Skelleftea FF,Sandviks IK,1.23,5.9,9.5,O,1.38,U,2.75,Yes,1.82,No,1.85
-01-Apr,15:00,Algarna-Harnosand IF,Ytterhogdals IK,1.42,5,5.5,O,1.3,U,3.15,Yes,1.45,No,2.5
-01-Apr,15:00,Hassleholms IF,Nosaby IF,1.65,4.05,4.3,O,1.6,U,2.15,Yes,1.65,No,2.07
-01-Apr,15:00,Froso,IFK Ostersund,4.15,3.7,1.72,O,1.6,U,2.15,Yes,1.57,No,2.2
-01-Apr,15:00,Rappe Goif,IFK Berga,2.8,3.5,2.22,O,1.72,U,1.95,Yes,1.62,No,2.12
-01-Apr,15:00,Saffle SK,Nordvarmland FF,1.95,3.55,3.35,O,1.5,U,2.35,Yes,1.45,No,2.47
-01-Apr,15:00,Friska Viljor FC,Storfors AIK,1.31,5.3,7.1,O,1.37,U,2.77,Yes,1.65,No,2.07
-01-Apr,15:00,Ayutthaya United,Phrae United,2.55,3.4,2.42,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,Vaasa PS U20,Inter Turku U20,1.08,9.25,15.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:00,HJK Helsinki,AC Oulu,1.44,4.45,6.3,O,1.7,U,2.05,Yes,1.9,No,1.82
-01-Apr,15:10,HJK Helsinki U20,PPJ U20,1.93,4.15,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:15,Viettel,Binh Thuan,1.09,7.7,18,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:15,Kenya Police,Ulinzi Stars,2.32,2.82,3.15,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Fiorenzuola,Asd Torres Calcio,2.57,2.87,2.92,O,2.4,U,1.5,Yes,1.98,No,1.75
-01-Apr,15:30,US Ancona 1905,Carrarese Calcio,2.4,2.75,3.35,O,2.3,U,1.55,Yes,1.88,No,1.82
-01-Apr,15:30,Atletico Uri,US Casertana 1908,4.3,3.6,1.7,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Ostia Mare Lidocalcio,ASD Tau Altopascio,2,3.15,3.5,O,2.1,U,1.65,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Como 1907 U19,Genoa U19,5.3,4.25,1.47,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,AS Roma (W),AC Milan (W),1.29,5.2,7.7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,SV Oberachern,Holzhausen,2.07,3.85,2.77,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Turk Gucu Friedberg,KSV Baunatal,1.6,4.3,4.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,FC Lisse,Amsterdamsche FC,3.8,3.7,1.8,O,1.65,U,2.07,Yes,1.62,No,2.12
-01-Apr,15:30,Noordwijk,Scheveningen,2.07,3.45,3.15,O,1.9,U,1.78,Yes,1.78,No,1.9
-01-Apr,15:30,HHC Hardenberg,Excelsior Maassluis,1.36,4.85,6.7,O,1.5,U,2.37,Yes,1.75,No,1.93
-01-Apr,15:30,IK Start,Mjondalen,1.83,4,3.4,O,1.47,U,2.42,Yes,1.5,No,2.37
-01-Apr,15:30,First Vienna FC 1894,FC Dornbirn 1913,1.8,3.65,4,O,1.75,U,1.98,Yes,1.7,No,2.05
-01-Apr,15:30,FC Liefering,Kapfenberger SV,1.45,4.7,5.5,O,1.4,U,2.7,Yes,1.55,No,2.3
-01-Apr,15:30,Al Nejmeh,Safa Beirut,1.42,3.9,7.1,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,FK Mladost Lucani U19,FK IMT Beograd U19,1.42,4.45,5.8,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Geylang International FC,Albirex Niigata Singapore,4.65,4.35,1.55,O,1.3,U,3.1,Yes,1.37,No,2.77
-01-Apr,15:30,Tanjong Pagar United,Young Lions,1.45,4.75,5.2,O,1.26,U,3.4,Yes,1.36,No,2.8
-01-Apr,15:30,AS Soliman,Club A Bizertin,2.4,2.82,3.25,O,2.87,U,1.36,Yes,2.35,No,1.53
-01-Apr,15:30,Club S Hammam-Lif,Sporting Ben Arous,1.15,5.6,20,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,CS Msaken,EM Mahdia,2.12,2.8,3.7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Kalaa Sport,Stade Gabesien,2.07,2.85,3.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,JS Omrane,Stade Sportif Sfaxien,1.8,3.1,4.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,SC Moknine,AS Djerba,2.02,2.9,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:30,Gawafel Gafsah,Esperance Sportive Zarzis,1.95,3,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,15:45,NAC Breda U21,ADO Den Haag U21,2.05,3.85,2.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,West Ham United U21,Blackburn Rovers U21,2.22,3.7,2.72,O,1.38,U,2.75,Yes,1.35,No,2.87
-01-Apr,16:00,US Cremonese,Atalanta,5.1,4,1.65,O,1.75,U,2.07,Yes,1.75,No,2
-01-Apr,16:00,Martina Franca 1947,ASD Gladiator,1.98,3.3,3.45,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Legnago Salus,Calcio Caldiero Terme,1.65,3.55,4.75,O,2.1,U,1.65,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,US Levico Terme,AC Dolomiti Bellunesi,2.82,3,2.42,O,2.18,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Sanremese,Fossano Calcio SSD,1.22,5.5,10.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Caronnese,GS Arconatese 1926,4.25,3.4,1.75,O,1.87,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,US Adriese,ASD Torviscosa,1.75,3.5,4.15,O,1.8,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Cjarlins Muzane,Este,2.25,2.9,3.2,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,ASD Valgobbiazanano,Desenzano Calvina,1.62,3.6,4.9,O,1.88,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,San Luca Calcio,Aversa Normanna,3,2.82,2.42,O,2.42,U,1.5,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Union Clodiense Chioggia,Campodarsego Calcio,1.95,3.1,3.85,O,2.3,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,US Grosseto,AC Arezzo,3.95,3.35,1.82,O,2,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Legnano,Chieri 1955,2,3.1,3.6,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Montespaccato,US Poggibonsi,3.35,3.25,2.02,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,ASD Terranuova Traiana,ASD Flaminia Civita Castellana,2.2,3.1,3.1,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Lavello,Barletta 1922,4.55,3.35,1.72,O,2,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Bagnolese,Corticella,3.2,3.2,2.12,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Mezzolara,Ravenna Calcio,3,3.05,2.3,O,1.91,U,1.8,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,US Mariglianese,Asd Canicatti,2.85,2.9,2.47,O,2.32,U,1.53,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Luparense FC,AC Mestre,2,3.2,3.5,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SSD Casarano Calcio,Molfetta,1.72,3.35,4.45,O,2.02,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Folgore Caratese,Breno,2.47,3,2.77,O,2.22,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Ghivizzano Borgoamozzano,Sangiovannese,2.27,3,3.1,O,2,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,UC Sampdoria U19,Cagliari U19,1.95,3.5,3.3,O,1.72,U,2,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AC Fiorentina U19,Atalanta U19,1.7,3.75,4.05,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,US Albinoleffe U19,US Alessandria Calcio U19,1.72,3.8,3.85,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AC Monza U19,Brescia Calcio U19,1.37,4.85,6.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Pescara U19,Benevento Calcio U19,2.35,3.25,2.72,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Spezia Calcio U19,AC Pisa 1909 U19,1.85,3.7,3.45,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FC Crotone U19,SS Lazio U19,3.6,3.6,1.83,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AC Reggiana 1919 U19,US Cremonese U19,5.2,3.9,1.53,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Padova U19,AS Cittadella U19,1.87,3.6,3.45,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Pordenone Calcio U19,LR Vicenza U19,4.35,4.1,1.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Modena U19,Vis Pesaro U19,1.4,4.55,5.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Virtus Francavilla U19,Foggia U19,3.05,3.7,2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Avellino U19,Bari U19,3.45,3.4,1.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Juve Stabia U19,US Latina Calcio U19,1.65,3.7,4.4,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SS Turris Calcio U19,Potenza U19,3.3,3.75,1.88,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Gubbio U19,Palermo U19,3.85,4,1.7,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Atlas Delmenhorst,VfB Lübeck,6.4,4.4,1.44,O,1.6,U,2.22,Yes,1.75,No,1.95
-01-Apr,16:00,Offenburger FV,Göppinger SV,2.8,3.6,2.15,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Schwaben Augsburg,Turkspor Augsburg,1.47,4.35,5.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FC 1920 Gundelfingen,1865 Dachau,1.87,3.55,3.55,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FSV Fernwald,Viktoria Griesheim,1.55,4.5,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Rot-Weiss Hadamar,FC Hanau 93,3.45,3.95,1.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SC Waldgirmes,SV Neuhof,1.85,3.85,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AS Saint Etienne,Chamois Niortais FC,1.44,4.45,7.6,O,1.78,U,2.05,Yes,1.95,No,1.8
-01-Apr,16:00,AC Ajaccio U19,AS Monaco U19,2.9,3.75,2.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Paris Saint-Germain U19,RC Lens U19,1.88,3.9,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Moreirense FC,CD Feirense,1.75,3.5,4.6,O,1.98,U,1.78,Yes,1.87,No,1.83
-01-Apr,16:00,PO Achyronas Onisilos,AE Zakaki,9.75,4.75,1.29,O,1.75,U,1.93,Yes,2.25,No,1.55
-01-Apr,16:00,Omonia 29th May,MEAP Pera Chorio-Nisou,1.22,4.9,13,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Ethnikos Achna,Othellos Athienou,1.82,3.55,3.9,O,1.85,U,1.82,Yes,1.78,No,1.9
-01-Apr,16:00,Peyia 2014,Omonia Aradippou,2.32,3.15,2.82,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Digenis Ypsonas,Ermis Aradippou,2.27,3,3.05,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Kozakken Boys,De Treffers,2.35,3.55,2.6,O,1.62,U,2.12,Yes,1.53,No,2.27
-01-Apr,16:00,Spakenburg,OFC Oostzaan,1.36,4.9,6.6,O,1.45,U,2.47,Yes,1.7,No,2
-01-Apr,16:00,FC Volendam II,Quick Boys,3.55,3.85,1.82,O,1.45,U,2.5,Yes,1.44,No,2.52
-01-Apr,16:00,Feyenoord U21,Twente/Heracles U21,1.47,4.7,4.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Istanbul Basaksehir FK,MKE Ankaragucu,1.78,3.6,4.3,O,2.07,U,1.75,Yes,1.95,No,1.78
-01-Apr,16:00,Trabzonspor,Kayserispor,1.5,4.2,6.1,O,1.72,U,2.12,Yes,1.83,No,1.9
-01-Apr,16:00,Lithuania (W) U19,Moldova (W) U19,2.6,3.35,2.4,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Odds BK,Lillestrom SK,2.92,3.7,2.15,O,1.65,U,2.12,Yes,1.57,No,2.25
-01-Apr,16:00,Fredrikstad FK,KFUM,2.47,4,2.32,O,1.4,U,2.67,Yes,1.39,No,2.7
-01-Apr,16:00,KF Lushnja,FK Besa,1.65,3.5,4.7,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Hamra Annaba,Usm El Harrach,3.3,2.8,2.32,O,2.9,U,1.34,Yes,2.37,No,1.5
-01-Apr,16:00,FK Arsimi 1973,FK Karaorman,1.85,3.4,3.75,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FK Belasica Strumica,FK Gostivar,5.4,3.55,1.57,O,1.9,U,1.8,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FK Teteks,KF Besa Doberdoll 1976,2.35,3.45,2.6,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Vardar Skopje,FK Sasa Makedonska Kamenica,1.24,5.2,10,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Leotar Trebinje,FK Zeljeznicar,3.25,3.15,2.15,O,2.32,U,1.52,Yes,2.05,No,1.65
-01-Apr,16:00,Igman Konjic,NK Posusje,2.2,3.25,3.05,O,2.2,U,1.57,Yes,1.95,No,1.72
-01-Apr,16:00,Bangu U20,Flamengo RJ U20,5.8,3.9,1.5,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Madureira RJ U20,Botafogo RJ U20,5.1,3.7,1.57,O,1.72,U,2,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,FC Djursland,Aarhus Fremad II,6.4,5.2,1.33,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Sundby BK (W),Aarhus GF (W),6.9,4.7,1.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Kabwe Warriors,Kansanshi Dynamos,2.22,2.7,3.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Chambishi FC,Green Eagles,3.85,2.95,2,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Buildcon,Zesco United FC,17.5,5.8,1.15,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Nkana FC,Nkwazi,1.93,2.9,4.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Forest Rangers,Red Arrows,2.57,2.8,2.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Bulawayo Chiefs FC,Black Rhinos FC,1.87,2.75,5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Simba Bhora,Dynamos Harare,5.7,3.15,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Ymir Kopavogur,KFS Vestmannaeyjar,1.47,5.2,4.4,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Hapoel Tel Aviv FC,Sektzia Nes Tziona FC,1.75,3.6,4.4,O,1.88,U,1.82,Yes,1.82,No,1.88
-01-Apr,16:00,KF Ballkani,Gjilani,1.37,4.15,7.6,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,NK Dugopolje,HNK Orijent 1919,2.1,3.2,3.3,O,2.12,U,1.62,Yes,1.9,No,1.78
-01-Apr,16:00,FK Rudar Pljevlja,Jedinstvo Bijelo Polje,2.2,3.15,3.1,O,2.05,U,1.65,Yes,1.82,No,1.85
-01-Apr,16:00,FK Buducnost Podgorica,FK Mornar Bar,1.57,3.65,5.6,O,2.12,U,1.62,Yes,2.15,No,1.6
-01-Apr,16:00,FC Zimbru Chisinau,FC Sheriff Tiraspol,7.6,4.15,1.37,O,2.02,U,1.72,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Roa IL (W),Valerenga IF (W),14,6.8,1.14,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Avaldsnes IL (W),Lyn (W),3.9,3.8,1.72,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Arna Bjornar (W),Rosenborg BK Kvinner (W),35,7.7,1.06,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Richards Bay FC,Orlando Pirates,4.15,3,1.98,O,2.42,U,1.5,Yes,2.1,No,1.65
-01-Apr,16:00,Pretoria Callies,Venda Football Academy,2,2.95,3.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Casric Stars FC,Mm Platinum FC,1.7,3.3,4.75,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Hungry Lions,Uthongathi,1.98,2.92,3.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Polokwane City,University of Pretoria,1.98,3.05,3.8,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,JDR Stars,Ajax Cape Town Spurs,2.35,2.87,3.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,University of Johannesburg (W),First Touch Academy (W),1.15,6.6,13,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Prestatyn Town FC,Holywell Town,5,4.5,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Ynyshir Albions,Cwmbran Celtic,3.1,3.7,1.98,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Ujpest FC,Zalaegerszeg TE,2.18,3.4,3.2,O,1.8,U,1.93,Yes,1.65,No,2.12
-01-Apr,16:00,Kampala City Council,Maroons FC,1.4,4.1,7.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Pfk Navbahor Namangan,Sogdiana,1.6,3.55,5.6,O,2.2,U,1.57,Yes,2.22,No,1.57
-01-Apr,16:00,Juventud de Las Piedras,Potencia,1.87,3.25,4.05,O,2.3,U,1.52,Yes,2.12,No,1.62
-01-Apr,16:00,Korona Kielce,Miedz Legnica,2.1,3.3,3.45,O,2.05,U,1.72,Yes,1.83,No,1.87
-01-Apr,16:00,Odra Opole,Gornik Leczna,2.45,3.2,2.8,O,2.05,U,1.7,Yes,1.8,No,1.9
-01-Apr,16:00,RKS Garbarnia Krakow,Wisla Pulawy,3,3.55,2.1,O,1.7,U,2,Yes,1.6,No,2.15
-01-Apr,16:00,Zaglebie Lubin II,Siarka Tarnobrzeg,2.2,3.3,3,O,1.65,U,2.07,Yes,1.52,No,2.32
-01-Apr,16:00,Pogon Siedlce,GKS Jastrzebie,2.12,3.35,3.15,O,1.78,U,1.88,Yes,1.65,No,2.07
-01-Apr,16:00,Kotwica Kolobrzeg,Radunia Stezyca,1.82,3.5,3.9,O,1.75,U,1.91,Yes,1.7,No,2
-01-Apr,16:00,Jagiellonia Bialystok II,LKS Lodz II,2.15,3.45,2.9,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Warta Gorzow Wielkopolski,Carina Gubin,2.55,3.4,2.42,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Stolem Gniewino,Unia Solec Kujawski,1.95,3.6,3.2,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,KSZO Ostrowiec,Czarni Polaniec,1.62,3.85,4.4,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,MKS Cracovia U19,FCB Escola Varsovia U19,2.65,3.55,2.27,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Rayon Sports,Police,1.82,3.15,4.3,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,Marines,Musanze,2.18,2.9,3.4,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AS Kigali,Mukura,1.88,3,4.25,O,2.35,U,1.53,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,AC Libertas,FC Domagnano,1.75,3.4,4.3,O,1.87,U,1.83,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SS San Giovanni,SP Tre Penne,10.75,5.8,1.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SS Pennarossa,AC Juvenes/Dogana,2.42,3.1,2.75,O,1.82,U,1.88,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,SS Cosmos,SS Virtus,2.47,3.1,2.7,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:00,MFk Zemplin Michalovce,MFk Ruzomberok,2.9,3.2,2.42,O,2.15,U,1.65,Yes,1.88,No,1.82
-01-Apr,16:00,NK Celje,Kalcer Radomlje,1.47,4.15,6.2,O,1.78,U,1.93,Yes,1.93,No,1.78
-01-Apr,16:00,Malmo FF,Kalmar FF,1.6,3.9,5.4,O,1.75,U,2,Yes,1.78,No,1.93
-01-Apr,16:00,IK Brage,Västeras SK,2.45,3.35,2.67,O,1.65,U,2.1,Yes,1.55,No,2.32
-01-Apr,16:00,GIF Sundsvall,Landskrona BOIS,2.42,3.3,2.77,O,1.75,U,1.95,Yes,1.6,No,2.2
-01-Apr,16:00,Bergnasets Aik,Gottne IF,4.7,4.4,1.53,O,1.42,U,2.6,Yes,1.52,No,2.32
-01-Apr,16:00,Skiljebo SK,FC Gute,1.45,4.65,5.3,O,1.34,U,2.92,Yes,1.47,No,2.45
-01-Apr,16:00,IK Uppsala (W),Hammarby IF (W),27,9,1.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:15,Kuching FA,PDRM,2.2,3.25,3,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:15,Qizilqum Zarafshon,Nasaf,4.6,3.35,1.75,O,2.07,U,1.65,Yes,1.98,No,1.72
-01-Apr,16:30,Franciacorta,Real Calepina,2.18,2.9,3.4,O,2.32,U,1.53,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FC Schalke 04,Bayer 04 Leverkusen,4.1,3.7,1.87,O,1.87,U,1.93,Yes,1.75,No,2
-01-Apr,16:30,SC Freiburg,Hertha BSC Berlin,1.75,3.75,4.7,O,1.93,U,1.88,Yes,1.85,No,1.9
-01-Apr,16:30,VfL Wolfsburg,FC Augsburg,1.62,4.15,5.3,O,1.72,U,2.12,Yes,1.75,No,2
-01-Apr,16:30,1. FC Union Berlin,VfB Stuttgart,2.1,3.2,3.9,O,2.47,U,1.55,Yes,2.07,No,1.7
-01-Apr,16:30,RB Leipzig,FSV Mainz 05,1.5,4.5,6.1,O,1.65,U,2.27,Yes,1.75,No,2
-01-Apr,16:30,FSV Hollenbach,SG Sonnenhof Grossaspach,3.5,4,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,ATSV Mutschelbach,Stuttgarter Kickers,8.25,5.6,1.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,TSV 1861 Nördlingen,TSV 1860 Rosenheim,1.5,4.35,4.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FC Karbach,FK Pirmasens,3.25,3.6,1.93,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,TSG Pfeddersheim,Hertha Wiesbach,1.78,3.9,3.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,SV Alemannia Waldalgesheim,FSV Jaegersburg,2.42,3.55,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FV Engers,1. FC Kaiserslautern II,2.07,3.6,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Karmiotissa Pano Polemidia,Olympiakos Nicosia,2.4,3.3,2.7,O,2.05,U,1.65,Yes,1.85,No,1.82
-01-Apr,16:30,Koninklijke HFC,TEC,1.55,4.15,5,O,1.57,U,2.22,Yes,1.65,No,2.07
-01-Apr,16:30,Katwijk,Rijnsburgse Boys,1.62,4.15,4.25,O,1.53,U,2.27,Yes,1.6,No,2.15
-01-Apr,16:30,St. Jakob/Ros,St. Andra Lav,1.35,5.1,6.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,VCD Eendracht Aalst (W),SV Zulte Waregem (W),6.1,4.4,1.42,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Standard Liege (W),Ladies Genk (W),2.05,3.5,3.05,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FK Modrica,FK Kozara Gradiska,1.75,3.65,4,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FK Drina Zvornik,FK Ljubic Prnjavor,1.53,4.05,5,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Podrinje Janja,Laktasi,4.2,3.7,1.7,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FK Zeljeznicar Banjaluka,Radnik Bijeljina,2.12,3.5,2.9,O,1.8,U,1.91,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Vejle Boldklub,Sønderjyske,1.7,3.7,4.55,O,1.82,U,1.88,Yes,1.8,No,1.91
-01-Apr,16:30,Persita Tangerang,Arema FC,2.62,3.05,2.65,O,2.07,U,1.65,Yes,1.8,No,1.87
-01-Apr,16:30,Prisons XI Gaborone,Police XI,4.25,3.5,1.72,O,2.02,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Newtown AFC,The New Saints FC,11.25,6.1,1.21,O,1.47,U,2.5,Yes,2.1,No,1.65
-01-Apr,16:30,Flint Town United,Haverfordwest County,2.67,3.4,2.42,O,1.72,U,2,Yes,1.6,No,2.2
-01-Apr,16:30,Colwyn Bay,Penrhyncoch,1.04,10.5,22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Guilsfield FC,Holyhead Hotspur,1.3,5.1,7.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Pontardawe Town FC,Taffs Well,3.1,3.85,1.93,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Llantwit Major,Briton Ferry,3.1,3.75,1.95,O,1.6,U,2.2,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Szent Mihaly SE (W),Diosgyori Vtk (W),2.5,4,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FK Humenne,FC STK 1914 Samorin,2.1,3.3,3.2,O,1.85,U,1.82,Yes,1.7,No,1.98
-01-Apr,16:30,FK Povazska Bystrica,MSK Puchov,2.1,3.8,2.87,O,1.55,U,2.27,Yes,1.5,No,2.35
-01-Apr,16:30,FC Kosice,FC Petrzalka 1898,1.3,4.7,9.25,O,1.57,U,2.2,Yes,1.91,No,1.75
-01-Apr,16:30,1. FC Tatran Presov,MFK Dubnica nad Vahom,1.25,5.2,10,O,1.55,U,2.25,Yes,2,No,1.7
-01-Apr,16:30,KFC Komarno,MSK Zilina II,1.8,3.55,3.9,O,1.75,U,1.93,Yes,1.7,No,2
-01-Apr,16:30,BK Inter Bratislava,TJ Kovo Belusa,3.6,3.55,1.85,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,OFK Malzenice,FK Nove Zamky,1.26,4.9,9.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Ok Castkovce,Slovan Galanta,2.4,3.5,2.52,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,RSC Hamsik Academy Banska Bystrica,AFC Nove Mesto Nad Vahom,1.75,3.6,4.05,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Vrakuna,Fomat Martin,5.7,4.05,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Spisska Nova Ves,MSK Namestovo,1.27,5.1,8.5,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FC Slovan Rosice,FC Vitkovice,1.14,6.8,14,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Hanacka Slavia Kromeriz,1 SC Znojmo,1.27,5.5,7.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,Bzenec,Nove Sady,3.4,4.05,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,FK Slavia Orlova,TJ Petrvald Na Morave,2.7,3.9,2.12,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:30,GrIFK U20,NoPS U20,1.83,4.15,3.2,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,16:45,CD Egüés,CD Alesves,1.26,5.1,9.5,O,1.65,U,2.07,Yes,2.2,No,1.57
-01-Apr,16:45,Ebro U19,Europa U19,2.47,3.6,2.47,O,1.7,U,2,Yes,1.6,No,2.15
-01-Apr,17:00,Levadiakos,Atromitos Athinon,2.3,3.15,3.35,O,2.62,U,1.5,Yes,2.15,No,1.65
-01-Apr,17:00,AFC Bournemouth,Fulham FC,2.55,3.3,2.8,O,2.12,U,1.72,Yes,1.83,No,1.9
-01-Apr,17:00,Brighton & Hove Albion,Brentford FC,1.62,4,5.5,O,1.78,U,2.05,Yes,1.78,No,1.95
-01-Apr,17:00,Crystal Palace FC,Leicester,2.57,3.15,2.9,O,2.25,U,1.65,Yes,1.87,No,1.87
-01-Apr,17:00,Nottingham Forest,Wolverhampton Wanderers,3.35,3.26,2.53,O,2.47,U,1.55,Yes,2.05,No,1.72
-01-Apr,17:00,Arsenal FC,Leeds United,1.28,6.3,9.25,O,1.52,U,2.55,Yes,1.93,No,1.82
-01-Apr,17:00,Norwich City,Sheffield United,2.55,3.35,2.65,O,1.95,U,1.87,Yes,1.72,No,2.05
-01-Apr,17:00,Huddersfield Town,Middlesbrough FC,4.9,3.65,1.7,O,2,U,1.82,Yes,1.93,No,1.8
-01-Apr,17:00,Bristol City,Reading FC,1.75,3.45,4.7,O,2.27,U,1.65,Yes,2.07,No,1.7
-01-Apr,17:00,Cardiff City,Swansea City,2.42,3.15,2.95,O,2.3,U,1.62,Yes,1.93,No,1.82
-01-Apr,17:00,Wigan,Queens Park Rangers,2.4,3.1,3,O,2.3,U,1.62,Yes,1.93,No,1.82
-01-Apr,17:00,Coventry City,Stoke City,2.32,3.25,3.05,O,2.07,U,1.75,Yes,1.8,No,1.93
-01-Apr,17:00,Hull City,Rotherham,1.9,3.35,4.1,O,2.25,U,1.65,Yes,2,No,1.75
-01-Apr,17:00,West Bromwich Albion,Millwall FC,1.98,3.25,3.9,O,2.3,U,1.62,Yes,2.02,No,1.75
-01-Apr,17:00,Birmingham,Blackburn Rovers,2.52,3.05,2.9,O,2.32,U,1.62,Yes,1.93,No,1.8
-01-Apr,17:00,Derby County,Ipswich Town,3.3,3.25,2.18,O,2.05,U,1.72,Yes,1.8,No,1.9
-01-Apr,17:00,Portsmouth FC,Forest Green Rovers,1.55,3.8,6.2,O,1.91,U,1.83,Yes,1.95,No,1.75
-01-Apr,17:00,Fleetwood Town,Exeter City,2.72,3.15,2.6,O,2.05,U,1.72,Yes,1.78,No,1.93
-01-Apr,17:00,Wycombe,MK Dons,1.95,3.4,3.75,O,2.02,U,1.75,Yes,1.85,No,1.85
-01-Apr,17:00,Peterborough,Oxford Utd,1.75,3.7,4.3,O,1.83,U,1.91,Yes,1.78,No,1.93
-01-Apr,17:00,Charlton,Shrewsbury,2.22,3.15,3.3,O,2.15,U,1.65,Yes,1.85,No,1.87
-01-Apr,17:00,Sheffield Wednesday,Lincoln City,1.38,4.5,8.25,O,1.95,U,1.8,Yes,2.32,No,1.55
-01-Apr,17:00,Cheltenham,Burton Albion,2.35,3.2,3.05,O,1.98,U,1.78,Yes,1.72,No,2
-01-Apr,17:00,Port Vale,Cambridge United,1.83,3.4,4.35,O,2.15,U,1.65,Yes,1.98,No,1.75
-01-Apr,17:00,Barnsley FC,Morecambe FC,1.35,4.45,9.75,O,1.82,U,1.93,Yes,2.15,No,1.62
-01-Apr,17:00,Barrow FC,Gillingham FC,2.22,3.05,3.4,O,2.55,U,1.47,Yes,2.12,No,1.65
-01-Apr,17:00,Colchester United,Newport County,2.72,3.1,2.65,O,2.4,U,1.53,Yes,2,No,1.72
-01-Apr,17:00,AFC Wimbledon,Rochdale AFC,2.12,3.35,3.35,O,2.07,U,1.7,Yes,1.85,No,1.85
-01-Apr,17:00,Walsall FC,Sutton United,2.75,3,2.7,O,2.55,U,1.47,Yes,2.1,No,1.65
-01-Apr,17:00,Northampton Town,Stevenage Borough,2.45,3.15,2.9,O,2.42,U,1.52,Yes,2.05,No,1.7
-01-Apr,17:00,Doncaster,Crewe Alexandra,2.05,3.45,3.45,O,2.15,U,1.65,Yes,1.93,No,1.78
-01-Apr,17:00,Leyton Orient,Carlisle United,2.22,3.1,3.35,O,2.5,U,1.5,Yes,2.12,No,1.65
-01-Apr,17:00,Hartlepool United,Swindon,2.62,3.35,2.55,O,1.91,U,1.83,Yes,1.7,No,2.02
-01-Apr,17:00,Mansfield Town,Crawley Town,1.65,3.85,4.9,O,1.93,U,1.8,Yes,1.93,No,1.78
-01-Apr,17:00,Wrexham FC,Oldham,1.27,5.4,10,O,1.6,U,2.27,Yes,2.05,No,1.7
-01-Apr,17:00,Wealdstone FC,Aldershot Town,2.45,3.45,2.67,O,1.75,U,2,Yes,1.6,No,2.2
-01-Apr,17:00,Maidstone United,Boreham Wood,4.9,3.9,1.65,O,1.82,U,1.93,Yes,1.82,No,1.88
-01-Apr,17:00,Dagenham & Redbridge,Dorking Wanderers,2.25,3.55,2.92,O,1.65,U,2.15,Yes,1.53,No,2.35
-01-Apr,17:00,Maidenhead United,Chesterfield FC,4.15,3.6,1.82,O,1.85,U,1.9,Yes,1.75,No,1.95
-01-Apr,17:00,Bromley FC,Solihull Moors,2.5,3.5,2.6,O,1.75,U,2,Yes,1.62,No,2.18
-01-Apr,17:00,Scunthorpe,Torquay United,2.02,3.55,3.4,O,1.72,U,2.05,Yes,1.62,No,2.15
-01-Apr,17:00,Farsley Celtic,Kidderminster Harriers,3.3,3.2,2.15,O,2.18,U,1.6,Yes,1.93,No,1.78
-01-Apr,17:00,Darlington FC,Chester FC,2.77,3.25,2.42,O,2,U,1.72,Yes,1.78,No,1.93
-01-Apr,17:00,Chorley,Kings Lynn Town,2.87,3.35,2.32,O,1.93,U,1.78,Yes,1.75,No,1.98
-01-Apr,17:00,Hereford United,Boston United,2.5,3.35,2.62,O,2.02,U,1.72,Yes,1.82,No,1.88
-01-Apr,17:00,Buxton FC,Spennymoor Town,2.02,3.55,3.3,O,1.87,U,1.83,Yes,1.75,No,1.95
-01-Apr,17:00,Curzon Ashton FC,Bradford Park Avenue,1.6,3.95,5,O,1.83,U,1.87,Yes,1.9,No,1.8
-01-Apr,17:00,Southport FC,Gloucester City,2.2,3.4,3,O,1.93,U,1.78,Yes,1.78,No,1.93
-01-Apr,17:00,AFC Telford United,Peterborough Sports,2.35,3.3,2.85,O,2,U,1.72,Yes,1.8,No,1.91
-01-Apr,17:00,AFC Fylde,Brackley Town,1.93,3.45,3.65,O,1.98,U,1.75,Yes,1.85,No,1.85
-01-Apr,17:00,Alfreton Town,Leamington,1.7,3.6,4.75,O,2.02,U,1.7,Yes,2,No,1.72
-01-Apr,17:00,Banbury United,Blyth Spartans,1.87,3.65,3.7,O,1.8,U,1.9,Yes,1.75,No,1.98
-01-Apr,17:00,Kettering Town,Scarborough Athletic,2.55,3.25,2.65,O,2,U,1.72,Yes,1.78,No,1.93
-01-Apr,17:00,Braintree Town,Dover Athletic,1.85,3.4,4.05,O,2.12,U,1.65,Yes,1.98,No,1.75
-01-Apr,17:00,Concord Rangers,Havant & Waterlooville,5.6,4.3,1.5,O,1.7,U,2.02,Yes,1.87,No,1.83
-01-Apr,17:00,Hungerford Town FC,Bath City,2.5,3.3,2.65,O,1.91,U,1.8,Yes,1.72,No,2
-01-Apr,17:00,Hemel Hempstead Town,Slough Town,2.07,3.5,3.25,O,1.95,U,1.75,Yes,1.82,No,1.9
-01-Apr,17:00,Welling United FC,Hampton & Richmond Borough FC,2.77,3.35,2.4,O,1.91,U,1.8,Yes,1.75,No,1.98
-01-Apr,17:00,Oxford City,Tonbridge Angels,1.75,3.75,4.15,O,1.78,U,1.93,Yes,1.75,No,1.98
-01-Apr,17:00,Cheshunt FC,Chelmsford City,3.4,3.4,2.02,O,1.93,U,1.78,Yes,1.78,No,1.93
-01-Apr,17:00,Chippenham Town,St Albans City,2.5,3.4,2.6,O,1.93,U,1.78,Yes,1.75,No,1.95
-01-Apr,17:00,Farnborough,Worthing FC,1.75,3.85,4,O,1.7,U,2.02,Yes,1.7,No,2.02
-01-Apr,17:00,Dartford FC,Dulwich Hamlet,1.8,3.75,3.9,O,1.75,U,1.95,Yes,1.72,No,2
-01-Apr,17:00,Taunton Town,Ebbsfleet United,6.1,4.2,1.47,O,1.75,U,1.98,Yes,1.91,No,1.8
-01-Apr,17:00,Weymouth,Eastbourne Borough,2.07,3.55,3.15,O,1.78,U,1.93,Yes,1.65,No,2.1
-01-Apr,17:00,Radcliffe FC,Stafford Rangers,1.72,3.85,4,O,1.7,U,2,Yes,1.7,No,2
-01-Apr,17:00,Hyde United FC,Whitby Town,1.6,3.95,4.75,O,1.65,U,2.05,Yes,1.72,No,1.98
-01-Apr,17:00,Marske United FC,Stalybridge Celtic,2.52,3.65,2.4,O,1.6,U,2.15,Yes,1.53,No,2.3
-01-Apr,17:00,Marine FC,Nantwich Town,1.7,3.6,4.55,O,2,U,1.7,Yes,2,No,1.7
-01-Apr,17:00,Morpeth Town,FC Utd of Manchester,2.57,3.35,2.5,O,1.8,U,1.87,Yes,1.65,No,2.07
-01-Apr,17:00,Liversedge,Matlock Town,2.52,3.45,2.47,O,1.65,U,2.05,Yes,1.57,No,2.22
-01-Apr,17:00,Bamber Bridge,South Shields,3.35,3.45,2,O,1.95,U,1.72,Yes,1.83,No,1.85
-01-Apr,17:00,Warrington Rylands 1906 FC,Lancaster City,2.27,3.4,2.85,O,1.85,U,1.83,Yes,1.7,No,2
-01-Apr,17:00,Gainsborough Trinity,Warrington Town,2.42,3.3,2.7,O,1.98,U,1.7,Yes,1.78,No,1.88
-01-Apr,17:00,Belper Town,Atherton Collieries,2.87,3.5,2.2,O,1.78,U,1.88,Yes,1.65,No,2.05
-01-Apr,17:00,Ashton Utd,Guiseley AFC,2.3,3.45,2.75,O,1.82,U,1.85,Yes,1.7,No,2
-01-Apr,17:00,Carshalton Athletic,Bishop's Stortford,3,3.5,2.12,O,1.8,U,1.88,Yes,1.7,No,2
-01-Apr,17:00,Brightlingsea Regent,Bowers Pitsea,2.65,3.6,2.3,O,1.62,U,2.12,Yes,1.55,No,2.25
-01-Apr,17:00,Wingate & Finchley,Canvey Island,3.45,3.7,1.9,O,1.65,U,2.07,Yes,1.6,No,2.15
-01-Apr,17:00,Enfield Town,Cray Wanderers,2.02,3.5,3.2,O,1.85,U,1.82,Yes,1.75,No,1.93
-01-Apr,17:00,Potters Bar Town FC,Corinthian Casuals,1.88,3.6,3.55,O,1.65,U,2.07,Yes,1.57,No,2.2
-01-Apr,17:00,Folkestone Invicta,Kingstonian,1.4,4.55,6.3,O,1.6,U,2.15,Yes,1.82,No,1.85
-01-Apr,17:00,Bognor Regis Town,Billericay Town,2.3,3.5,2.7,O,1.7,U,2,Yes,1.57,No,2.2
-01-Apr,17:00,Horsham,Hornchurch FC,2.62,3.65,2.3,O,1.52,U,2.3,Yes,1.47,No,2.45
-01-Apr,17:00,Hastings United,Herne Bay,1.52,4.15,5.2,O,1.7,U,2,Yes,1.8,No,1.87
-01-Apr,17:00,Margate FC,Lewes FC,3.1,3.45,2.1,O,1.72,U,1.98,Yes,1.6,No,2.15
-01-Apr,17:00,Haringey Borough,Aveley FC,4,3.85,1.72,O,1.57,U,2.2,Yes,1.57,No,2.2
-01-Apr,17:00,Chesham Utd,Yate Town,1.24,5.8,9,O,1.38,U,2.72,Yes,1.8,No,1.87
-01-Apr,17:00,Swindon Supermarine,Poole Town,2.35,3.45,2.67,O,1.5,U,2.37,Yes,1.42,No,2.6
-01-Apr,17:00,Hartley Wintney,Harrow Borough FC,2.35,3.6,2.6,O,1.62,U,2.12,Yes,1.55,No,2.27
-01-Apr,17:00,Beaconsfield Town FC,Truro City FC,3.7,3.85,1.8,O,1.52,U,2.32,Yes,1.52,No,2.32
-01-Apr,17:00,Merthyr Town,Hanwell Town,2.15,3.7,2.85,O,1.55,U,2.25,Yes,1.5,No,2.35
-01-Apr,17:00,Weston-Super-Mare,Winchester City FC,1.31,5.2,7.5,O,1.44,U,2.55,Yes,1.75,No,1.93
-01-Apr,17:00,Gosport Borough,Hendon FC,2.22,3.55,2.77,O,1.57,U,2.2,Yes,1.5,No,2.35
-01-Apr,17:00,Salisbury FC,Dorchester Town,2.02,3.75,3.05,O,1.57,U,2.2,Yes,1.53,No,2.3
-01-Apr,17:00,Bracknell Town,Metropolitan Police,1.38,4.7,6.7,O,1.57,U,2.22,Yes,1.82,No,1.85
-01-Apr,17:00,Redditch United,Hitchin Town,1.78,3.75,3.85,O,1.72,U,1.95,Yes,1.7,No,2
-01-Apr,17:00,Leiston FC,Rushall Olympic,2.3,3.6,2.65,O,1.62,U,2.1,Yes,1.55,No,2.25
-01-Apr,17:00,St Ives Town,Coalville Town,4.65,3.9,1.62,O,1.57,U,2.2,Yes,1.62,No,2.12
-01-Apr,17:00,Stratford Town FC,Barwell,2.47,3.55,2.47,O,1.7,U,2,Yes,1.57,No,2.2
-01-Apr,17:00,Hednesford Town,Needham Market FC,3.05,3.2,2.2,O,1.95,U,1.72,Yes,1.75,No,1.91
-01-Apr,17:00,Bedford Town,Basford United,2.42,3.65,2.47,O,1.65,U,2.07,Yes,1.57,No,2.2
-01-Apr,17:00,Mickleover Sports,Royston Town,2.02,3.55,3.15,O,1.55,U,2.25,Yes,1.5,No,2.37
-01-Apr,17:00,Tamworth FC,AFC Rushden Diamonds,1.2,5.8,12,O,1.55,U,2.25,Yes,2.27,No,1.53
-01-Apr,17:00,Nuneaton Borough FC,Bromsgrove Sporting,1.65,3.6,4.9,O,1.87,U,1.8,Yes,1.85,No,1.82
-01-Apr,17:00,Kings Langley,Stourbridge FC,3.05,3.6,2.07,O,1.65,U,2.05,Yes,1.57,No,2.2
-01-Apr,17:00,Alvechurch,Ilkeston Town,2.55,3.55,2.42,O,1.55,U,2.25,Yes,1.47,No,2.42
-01-Apr,17:00,Altrincham FC,Halifax Town,2.18,3.25,3.2,O,2.02,U,1.7,Yes,1.83,No,1.88
-01-Apr,17:00,Gateshead FC,Barnet FC,2.18,3.45,3.05,O,1.75,U,1.98,Yes,1.62,No,2.15
-01-Apr,17:00,Cleethorpes Town,Brighouse Town,2.05,3.9,2.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Lincoln United,Ossett United,1.72,3.95,3.8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Stocksbridge PS,Grantham Town,1.45,4.35,5.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Loughborough Dynamo,Cambridge City,2.15,3.95,2.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Granada CF II,Velez CF,1.57,3.45,6.1,O,2.27,U,1.55,Yes,2.27,No,1.53
-01-Apr,17:00,CD Binissalem,PE Sant Jordi,2.37,3.05,2.95,O,1.93,U,1.75,Yes,1.7,No,2
-01-Apr,17:00,Patacona,FC Jove Español San Vicente,2.4,2.77,3.2,O,2.57,U,1.42,Yes,2.1,No,1.62
-01-Apr,17:00,Hercules CF II,Torrellano,2.45,2.8,3.1,O,2.75,U,1.38,Yes,2.25,No,1.55
-01-Apr,17:00,CD Calahorra II,Comillas CF,1.65,3.65,4.7,O,1.98,U,1.72,Yes,1.95,No,1.72
-01-Apr,17:00,UB Conquense,CD Marchamalo,1.87,3.2,4.05,O,2.1,U,1.62,Yes,1.91,No,1.75
-01-Apr,17:00,Elche CF U19,Atletico Madrileno U19,3,3.7,2.05,O,1.65,U,2.07,Yes,1.57,No,2.2
-01-Apr,17:00,Rayo Vallecano U19,AD Alcorcon U19,1.93,3.85,3.2,O,1.55,U,2.25,Yes,1.53,No,2.3
-01-Apr,17:00,Sabadell U19,UE Cornellà U19,2.45,3.65,2.47,O,1.65,U,2.07,Yes,1.57,No,2.22
-01-Apr,17:00,Sevilla FC (W),Deportivo Alaves (W),1.39,4.65,6.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Parquesol (W),CDE Racing (W),5.8,4.35,1.44,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CD Daimiel (W),Olimpico Madrid (W),7.1,5.5,1.29,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CD Salamanca (W),Futbolellas CFF (W),2.65,3.85,2.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,US Salernitana 1919 U19,AC Perugia Calcio U19,2.67,3.35,2.32,O,1.72,U,2,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Audace Cerignola U19,Picerno U19,1.38,4.8,5.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,TSV Abtswind,SpVgg Bayern Hof,1.62,3.95,4.3,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FC 1906 Erlensee,TUS Dietkirchen,1.65,4.2,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Tvd Velbert,Turu Dusseldorf,1.5,4.3,5.1,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Eintracht Celle,SC Spelle-Venhaus,2.95,3.9,1.98,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SF Eisbachtal,Arminia Ludwigshafen,3.3,3.95,1.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Stade Rennais II,Racing Club de France Football,4.2,3.6,1.75,O,1.7,U,2,Yes,1.65,No,2.07
-01-Apr,17:00,RC Lens (W),Metz FC (W),2.37,3.6,2.52,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Sao Joao Ver,Varzim SC,2.45,3,2.95,O,2.42,U,1.5,Yes,2.05,No,1.7
-01-Apr,17:00,Vitoria Guimaraes II,Anadia FC,2.32,3.4,2.8,O,1.91,U,1.8,Yes,1.75,No,1.98
-01-Apr,17:00,CDC Montalegre,Fafe,2.12,3.45,3.15,O,1.85,U,1.85,Yes,1.72,No,2
-01-Apr,17:00,Canelas 2010,Uniao SC Paredes,2.22,3.1,3.3,O,2.25,U,1.57,Yes,1.93,No,1.78
-01-Apr,17:00,CD Nacional Madeira U19,Vitoria Setubal U19,2.37,3.45,2.57,O,1.72,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SL Benfica (W),SC Braga (W),1.12,6.7,17.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Almere City FC U21,PEC Zwolle U21,1.83,3.95,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,AS Ain Mlila,MO Constantine,1.82,3.1,4.65,O,2.6,U,1.42,Yes,2.35,No,1.5
-01-Apr,17:00,IBKEK,IRB Ouargla,1.65,3.3,5.6,O,2.45,U,1.47,Yes,2.37,No,1.5
-01-Apr,17:00,AS Khroub,MC El Eulma,1.39,3.9,8.75,O,2.37,U,1.5,Yes,2.87,No,1.35
-01-Apr,17:00,Entente de Sour El Ghozlane,USM Annaba,1.78,3.15,4.85,O,2.5,U,1.45,Yes,2.3,No,1.53
-01-Apr,17:00,CA Batna,JS Bordj Menaiel,1.91,3.05,4.15,O,2.72,U,1.39,Yes,2.42,No,1.47
-01-Apr,17:00,US Chaouia,JSM Skikda,1.13,6,27,O,1.7,U,2,Yes,3.2,No,1.29
-01-Apr,17:00,US Souf,NRB Teleghma,2,2.8,4.3,O,2.72,U,1.39,Yes,2.27,No,1.53
-01-Apr,17:00,SV Grodig,SV Kuchl,4.1,3.8,1.7,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SC Golling,SV Wals-Grunau,2.4,3.6,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SW Bregenz,FC Gofis,1.17,6.7,10.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Cercle Brugge KSV,KV Kortrijk,1.6,4.3,5.3,O,1.7,U,2.18,Yes,1.72,No,2.05
-01-Apr,17:00,KMSK Deinze,SL16 FC,1.7,3.85,4.35,O,1.72,U,2,Yes,1.72,No,2
-01-Apr,17:00,Glentoran FC,Portadown FC,1.16,6.7,14.5,O,1.45,U,2.57,Yes,2.3,No,1.55
-01-Apr,17:00,Knockbreda,Ballinamallard United,3.5,3.65,1.87,O,1.47,U,2.42,Yes,1.44,No,2.52
-01-Apr,17:00,Limavady United,Moyola Park,2.02,3.35,3.3,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Buducnost Banovici,Jedinstvo Bihac,1.72,3.65,4.05,O,1.7,U,2.05,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FK Radnik Hadzici,Mladost Doboj Kakanj,1.95,3.3,3.55,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Tomislav Tomislavgrad,NK Travnik,1.44,4.3,5.8,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Internacional RS (W),Avai Kindermann SC (W),1.27,5.1,8.75,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Gremio RS (W),Santos SP (W),4.2,3.85,1.65,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FC Saburtalo Tbilisi,FC Gagra,1.75,3.5,4.1,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SC Cham,FC Luzern II,2.7,3.65,2.25,O,1.4,U,2.65,Yes,1.36,No,2.82
-01-Apr,17:00,FC Baden,FC Bavois,1.93,3.65,3.4,O,1.53,U,2.27,Yes,1.5,No,2.37
-01-Apr,17:00,BSC Young Boys II,FC Rapperswil-Jona,2.3,3.45,2.72,O,1.57,U,2.2,Yes,1.47,No,2.42
-01-Apr,17:00,FC Zurich (W),BSC Young Boys (W),1.22,6.3,8.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Paide Linnameeskond,Harju JK Laagri,1.15,6.3,13.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Ida-Virumaa FC Alliance,FC Elva,3.85,4.3,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Polva FC Lootos (W),JK Tabasalu (W),23,9.75,1.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,APEJES Academy,Gazelle FC,2.15,3.2,3.1,O,2.2,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Jelgava,Rigas Futbola Skola,11,5.2,1.22,O,1.6,U,2.18,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Pahang Fa,Kedah,2.32,3.5,2.6,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Negeri Sembilan,Kelantan FA,1.45,4.2,5.8,O,1.72,U,2,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FK Iskra Danilovgrad,OFK Petrovac,2.55,3,2.75,O,2.32,U,1.52,Yes,1.95,No,1.72
-01-Apr,17:00,Security Systems FC,Holy Ghost,1.42,4.2,6.2,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Jwaneng Galaxy FC,Township Rollers,1.78,3.5,4,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Viktoria Szombathely (W),Astra Hungary (W),2.1,3.6,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Olimpia Elblag,Lech Poznan II,2.05,3.2,3.45,O,2,U,1.7,Yes,1.8,No,1.87
-01-Apr,17:00,Ursus Warszawa,Legia Warszawa II,5.4,4.5,1.44,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Sokol Ostroda,KS Warta Sieradz,1.7,3.95,3.85,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Gornik Zabrze II,Polonia Bytom,3.4,3.5,1.93,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Gwarek Tarnowskie Gory,Odra Wodzislaw Slaski,1.75,3.65,3.9,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,GKS Olimpia Grudziadz,Vineta Wolin,1.24,5.6,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Polonia Sroda Wielkopolska,Jarota Jarocin,1.37,4.9,6.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Stal Stalowa Wola,Wieczysta Krakow,4.65,3.9,1.6,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Orleta Radzyn Podlaski,KS Wisloka Debica,2.02,3.55,3.1,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Podlasie Biala Podlaska,Avia Swidnik,3.5,3.55,1.87,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,AFC Hermannstadt,FC Botosani,2.35,3.1,3.3,O,2.7,U,1.47,Yes,2.2,No,1.62
-01-Apr,17:00,ACS Somuz Falticeni,FK Csikszereda Miercurea Ciuc II,1.24,5.2,9.75,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CSO Petrolul Potcoava,Vedita Colonesti,2.12,3.35,3,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CSM Resita,CS Crisul Chisineu Cris,1.44,4.4,5.7,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,ACS Progresul Pecica,CS Gloria Lunca-Teuz Cermei,1.19,5.9,11,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Foresta Suceava,CSM Ceahlaul Piatra Neamt,1.55,3.75,5.3,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CSM Bucovina Radauti,CSM Bacau,1.87,3.45,3.65,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,AFC Metalul Buzau,Unirea Branistea,1.75,3.55,4.1,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CS Tunari,Real Bradu,1.18,5.9,11.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,SC Popesti-Leordeni,Flacara Moreni,1.55,4.15,4.6,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CS Sporting Rosiori,Flacara Horezu,2.22,3.55,2.72,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Soimii Lipova,CSC Ghiroda si Giarmata VII,2.02,3.45,3.2,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CSO Plopeni,SR Municipal Brasov,2.12,3.1,3.3,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CS Blejoi,Olimpic Cetate Rasnov,1.47,4.4,5.1,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CSM Satu Mare,Gloria 2018 Bistrita Nasaud,2.42,3.2,2.67,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FC Bihor Oradea,CS Lotus Baile Felix,1.72,3.65,4.05,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Unirea Ungheni,Metalurgistul Cugir,2.02,3.65,3.05,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CS Universitatea din Alba Iulia,Academia de Fotbal Viitorul Cluj,2.02,3.5,3.15,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Corvinul 1921 Hunedoara,CSM Unirea Alba Iulia,1.15,6.3,13.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,AFC Dunarea 2005 Calarasi,FC Voluntari II,1.6,3.9,4.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Farul Constanta II,ACS Inainte Modelu,1.85,3.55,3.65,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,CS Afumati,Gloria Albesti,1.15,6.8,11.5,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FK Vozdovac,Javor Ivanjica,2.07,3.2,3.5,O,2.12,U,1.65,Yes,1.9,No,1.82
-01-Apr,17:00,FK Sloboda Uzice,Vrsac,1.91,3.1,3.9,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Jedinstvo UB,FK Indija,2.52,2.82,2.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Trajal Krusevac,Metalac Gornji Milanovac,2.42,3,2.82,O,2.05,U,1.7,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Zlatibor Cajetina,FK Macva Sabac,2.82,2.87,2.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Zeleznicar Pancevo,Loznica,1.2,5.4,12,O,1.7,U,2.02,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,IMT Novi Beograd,FK Rad Belgrad,1.36,4.4,7.2,O,1.8,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FK Novi Sad,Radnicki Sremska Mitrovica,2.15,2.9,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Hibernian FC,Motherwell FC,1.8,3.65,4.5,O,1.95,U,1.87,Yes,1.82,No,1.93
-01-Apr,17:00,Kilmarnock FC,Heart of Midlothian FC,2.8,3.4,2.5,O,1.98,U,1.83,Yes,1.75,No,2
-01-Apr,17:00,St Johnstone FC,Aberdeen FC,3.2,3.2,2.37,O,2.25,U,1.65,Yes,1.88,No,1.87
-01-Apr,17:00,Rangers FC,Dundee United FC,1.14,8.5,19,O,1.39,U,3.05,Yes,2.27,No,1.6
-01-Apr,17:00,St Mirren FC,Livingston FC,2.12,3.35,3.55,O,2.35,U,1.6,Yes,2.02,No,1.75
-01-Apr,17:00,Raith Rovers,Queens Park,2.4,3.3,2.85,O,1.82,U,1.93,Yes,1.65,No,2.12
-01-Apr,17:00,Dundee FC,Hamilton Academical,1.36,4.65,8.25,O,1.7,U,2.07,Yes,2,No,1.72
-01-Apr,17:00,Greenock Morton,Inverness CT,2.15,3.35,3.3,O,2,U,1.75,Yes,1.78,No,1.93
-01-Apr,17:00,Cove Rangers,Partick Thistle,4.65,3.6,1.72,O,1.87,U,1.87,Yes,1.8,No,1.91
-01-Apr,17:00,FC Edinburgh,Montrose,2.87,3.55,2.27,O,1.75,U,2,Yes,1.62,No,2.15
-01-Apr,17:00,Dunfermline Athletic,Kelty Hearts,1.4,4.35,7.7,O,1.83,U,1.9,Yes,2.1,No,1.65
-01-Apr,17:00,Queen of the South,Peterhead,1.23,5.8,11.5,O,1.6,U,2.25,Yes,2.25,No,1.57
-01-Apr,17:00,Clyde,Falkirk,6,4.3,1.5,O,1.72,U,2.05,Yes,1.85,No,1.85
-01-Apr,17:00,Alloa Athletic,Airdrieonians,2.75,3.35,2.45,O,1.83,U,1.91,Yes,1.65,No,2.12
-01-Apr,17:00,Elgin City,Stirling Albion,4.35,3.75,1.75,O,1.83,U,1.91,Yes,1.78,No,1.93
-01-Apr,17:00,Bonnyrigg Rose,Stranraer,2.4,3.2,2.95,O,1.88,U,1.85,Yes,1.65,No,2.1
-01-Apr,17:00,Dumbarton,Stenhousemuir,2.4,3.2,2.92,O,1.91,U,1.83,Yes,1.7,No,2.05
-01-Apr,17:00,Forfar Athletic,Albion Rovers,2.32,3.25,3.05,O,2,U,1.75,Yes,1.75,No,1.95
-01-Apr,17:00,East Fife,Annan Athletic,2.67,3.4,2.5,O,1.78,U,1.95,Yes,1.62,No,2.15
-01-Apr,17:00,Broomhill FC,Boness United,2.35,4.05,2.32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Heart of Midlothian FC II,Gala Fairydean,1.88,4,3.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,East Kilbride,Gretna 2008,1.24,5.8,8.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Nairn County FC,Keith FC,1.38,4.85,6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Ilirija Ljubljana,ND Beltinci,1.83,3.7,3.7,O,1.75,U,1.93,Yes,1.7,No,1.98
-01-Apr,17:00,Aluminij,NK Fuzinar Ravne,1.34,4.9,7.2,O,1.53,U,2.27,Yes,1.83,No,1.83
-01-Apr,17:00,Primorje Ajdovscina,Bilje,1.78,3.65,3.9,O,1.75,U,1.93,Yes,1.72,No,1.98
-01-Apr,17:00,NK Rogaska,Aha Emmi Bistrica,1.47,4.2,5.7,O,1.72,U,1.95,Yes,1.9,No,1.78
-01-Apr,17:00,SD NS Drava Pruj,NK Race,2.3,3.75,2.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,Nd Adria Miren,Svoboda Ljubljana,1.72,3.85,3.85,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,ND Slovan,NK Dren Vrhinka,6.9,5,1.32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,IFK Stocksund,IF Karlstad,3.25,3.75,1.95,O,1.52,U,2.32,Yes,1.47,No,2.42
-01-Apr,17:00,FC Stockholm Internazionale,IF Sylvia,1.47,4.3,5.6,O,1.5,U,2.35,Yes,1.62,No,2.1
-01-Apr,17:00,Falkenbergs FF,Torns IF,1.31,5.1,7.6,O,1.47,U,2.42,Yes,1.8,No,1.87
-01-Apr,17:00,Oskarshamns AIK,FC Trollhättan,2.8,3.4,2.3,O,1.78,U,1.9,Yes,1.65,No,2.07
-01-Apr,17:00,Qviding FIF,Savedalens IF,1.53,4.3,4.9,O,1.4,U,2.67,Yes,1.47,No,2.42
-01-Apr,17:00,Tolo IF,Onsala BK,3.95,4.1,1.7,O,1.3,U,3.1,Yes,1.34,No,2.9
-01-Apr,17:00,Team TG FF,Notvikens IK,1.3,5.2,7.7,O,1.35,U,2.87,Yes,1.6,No,2.15
-01-Apr,17:00,FC Jarfalla,Viggbyholms IK FF,1.78,3.75,3.85,O,1.34,U,2.9,Yes,1.33,No,2.95
-01-Apr,17:00,Arlanda,Enskede IK,3.6,3.8,1.83,O,1.35,U,2.87,Yes,1.34,No,2.9
-01-Apr,17:00,Hudiksvalls Förenade FF,IFK Osterokers FK,1.65,4.25,4,O,1.44,U,2.55,Yes,1.5,No,2.37
-01-Apr,17:00,IK Tord,Laholms FK,1.72,4.1,3.75,O,1.42,U,2.57,Yes,1.45,No,2.47
-01-Apr,17:00,Kvarnsvedens IK,IK Franke,1.8,3.6,3.9,O,1.42,U,2.57,Yes,1.4,No,2.67
-01-Apr,17:00,Gamla Upsala SK (W),Alingsas FC United (W),2.02,3.85,2.9,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:00,FK Mlada Boleslav,FC Viktoria Plzen,2.87,3.45,2.45,O,1.85,U,1.95,Yes,1.65,No,2.15
-01-Apr,17:00,FC Banik Ostrava,FC Slovan Liberec,1.95,3.8,3.7,O,1.78,U,2.05,Yes,1.7,No,2.07
-01-Apr,17:00,FC Fastav Zlin,SK Dynamo Ceske Budejovice,2.35,3.45,3,O,1.83,U,1.98,Yes,1.65,No,2.15
-01-Apr,17:00,FC Dosta Bystrc Kninicky,FK Kunstat,2.72,4,2.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:15,Athletic Bilbao,Getafe CF,1.7,3.55,5.7,O,2.5,U,1.55,Yes,2.35,No,1.55
-01-Apr,17:15,Burgos CF,Racing Santander,2.42,2.87,3.45,O,3.05,U,1.38,Yes,2.37,No,1.55
-01-Apr,17:15,FC Cartagena U19,CF Inter San Jose U19,1.7,4.05,4,O,1.55,U,2.25,Yes,1.6,No,2.15
-01-Apr,17:15,AS Bari,Benevento Calcio,2.02,3.2,4.1,O,2.45,U,1.55,Yes,2.07,No,1.7
-01-Apr,17:15,AC Perugia Calcio,Frosinone,3.3,3.1,2.35,O,2.45,U,1.55,Yes,2.05,No,1.72
-01-Apr,17:30,Panaitolikos,Lamia,2.42,3.15,3.15,O,2.62,U,1.5,Yes,2.15,No,1.65
-01-Apr,17:30,CD Aurrera de Vitoria,SD Deusto,6.5,3.7,1.5,O,2,U,1.7,Yes,2.1,No,1.62
-01-Apr,17:30,CD Numancia II,SD Ponferradina II,2.77,2.95,2.55,O,2.27,U,1.53,Yes,1.93,No,1.75
-01-Apr,17:30,CD Santanyi,CD Manacor,2.55,3.1,2.65,O,2.35,U,1.5,Yes,2.05,No,1.65
-01-Apr,17:30,Pasaia KE,CD San Ignacio,2.15,3.15,3.25,O,2,U,1.7,Yes,1.8,No,1.88
-01-Apr,17:30,CD Oberena,CD Beti Onak,2.62,3.1,2.57,O,1.82,U,1.85,Yes,1.62,No,2.1
-01-Apr,17:30,CD Pamplona,UDC Txantrea,2.3,3.05,3.05,O,2.15,U,1.6,Yes,1.87,No,1.8
-01-Apr,17:30,CDEF Logrono (W) II,Oiartzun KE (W),3.85,3.85,1.72,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,TSV Buchbach,Wurzburger Kickers,5.6,4.05,1.53,O,1.65,U,2.12,Yes,1.75,No,1.98
-01-Apr,17:30,FC Vizela,Casa Pia AC,2.15,3.15,3.75,O,2.45,U,1.55,Yes,2.05,No,1.72
-01-Apr,17:30,UD Oliveirense,CD Tondela,2.6,3.25,2.65,O,2.05,U,1.72,Yes,1.8,No,1.91
-01-Apr,17:30,AZ Alkmaar,SC Heerenveen,1.6,4.05,5.7,O,1.75,U,2.1,Yes,1.75,No,2
-01-Apr,17:30,SV Stripfing/Weiden,SR Fach Donaufeld,1.3,4.9,8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,FC Brauerei Egg,VfB Hohenems,6.2,5.5,1.32,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,FC Lauterach,FC Rotenberg,1.8,3.7,3.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,Union Dietach,SV Bad Ischl,1.65,4.55,3.6,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,USVS Rudersdorf,SV Leithaprodersdorf,6.2,4.9,1.36,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,Bijelo Brdo,NK Solin,2.1,3.1,3.4,O,2.12,U,1.62,Yes,1.87,No,1.8
-01-Apr,17:30,NK Bjelovar,NK Hrvace,1.95,3.4,3.45,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,Marsaskala FC,Vittoriosa Stars,1.78,3.85,3.6,O,1.6,U,2.22,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,FC Graffin Vlasim,Fotbal Trinec,1.6,4.1,4.85,O,1.7,U,2.05,Yes,1.75,No,1.95
-01-Apr,17:30,Domazlice,TJ Prestice,1.45,4.35,5.4,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,TJ Sokol Zivanice,FC Hradec Kralove II,2.32,3.8,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:30,Horni Briza,FK Horovicko,4.25,4.05,1.62,O,1.55,U,2.3,No_bet,No_bet,No_bet,No_bet
-01-Apr,17:45,USM Khenchela,Paradou AC,1.93,3.25,3.9,O,2.35,U,1.53,Yes,2.12,No,1.65
-01-Apr,17:45,Stabaek (W),LSK Kvinner (W),3.35,3.65,1.9,O,1.65,U,2.1,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,RC Celta de Vigo II,Real Balompedica Linense,1.95,3.2,3.9,O,2.32,U,1.53,Yes,2.1,No,1.65
-01-Apr,18:00,CD Alcoyano,SD Amorebieta,2.95,2.8,2.6,O,2.42,U,1.5,Yes,2,No,1.72
-01-Apr,18:00,Arenas Getxo,UD Logrones II,1.52,3.65,6.4,O,2.32,U,1.52,Yes,2.47,No,1.47
-01-Apr,18:00,AD San Juan,SD Tarazona,3,2.9,2.42,O,2.52,U,1.45,Yes,2.1,No,1.62
-01-Apr,18:00,UD Mutilvera,CD Izarra,2.18,2.92,3.45,O,2.42,U,1.47,Yes,2.05,No,1.65
-01-Apr,18:00,Racing Rioja CF,SD Beasain,2.5,2.82,3,O,2.42,U,1.47,Yes,2,No,1.7
-01-Apr,18:00,CD Guijuelo,Real Oviedo II,1.95,3.15,3.85,O,2.45,U,1.47,Yes,2.2,No,1.57
-01-Apr,18:00,CD Paracuellos Antamira,CU Collado Villalba,1.6,3.8,4.9,O,1.88,U,1.78,Yes,1.93,No,1.75
-01-Apr,18:00,AJ Auxerre,ES Troyes AC,1.87,3.6,4.2,O,2.07,U,1.75,Yes,1.93,No,1.82
-01-Apr,18:00,Sparta Rotterdam II,Ijsselmeervogels,1.7,4.05,4,O,1.53,U,2.27,Yes,1.57,No,2.2
-01-Apr,18:00,FC Shirak Gyumri,FC Van,2.7,2.92,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Wolfsberger AC,SV Ried,1.82,3.6,4.1,O,1.82,U,1.93,Yes,1.72,No,2
-01-Apr,18:00,SCR Altach,WSG Tirol,2.67,3.3,2.55,O,1.83,U,1.91,Yes,1.65,No,2.12
-01-Apr,18:00,FC Kitzbuhel,Worgl,1.65,4.05,4,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,WSC Hertha Wels,SV Allerheiligen,1.29,5.1,8,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,FC Kufstein,SV Hall,1.16,6.6,11.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Imst,Svg Reichenau,2.32,3.6,2.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Accra Lions,King Faisal,1.62,3.4,5.3,O,2.22,U,1.6,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,HNK Gorica,GNK Dinamo Zagreb,6.1,4.35,1.47,O,1.75,U,2,Yes,1.93,No,1.78
-01-Apr,18:00,FK Ekranas,FK Babrungas,2.8,3.55,2.15,O,1.6,U,2.2,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Baltijos Futbolo Akademija,FK Kauno Zalgiris II,1.72,3.75,3.95,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Club America U20,Club Leon U20,1.55,4,4.8,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Atlas FC U20,Guadalajara Chivas U20,1.85,3.55,3.6,O,1.82,U,1.9,No_bet,No_bet,No_bet,No_bet
-01-Apr,18:00,Motor Lublin,Slask Wroclaw II,1.42,4.4,6.4,O,1.62,U,2.12,Yes,1.83,No,1.85
-01-Apr,18:00,Polonia Warszawa,Hutnik Krakow,1.72,3.65,4.25,O,1.72,U,1.95,Yes,1.7,No,2
-01-Apr,18:00,Huachipato,Colo Colo,3.25,3.35,2.27,O,1.98,U,1.83,Yes,1.75,No,2.02
-01-Apr,18:30,Kaizer Chiefs,Stellenbosch FC,2.1,2.95,3.8,O,2.35,U,1.53,Yes,2,No,1.72
-01-Apr,19:15,KVC Westerlo,Royal Charleroi SC,2.18,3.55,3.25,O,1.72,U,2.12,Yes,1.6,No,2.25
-01-Apr,19:45,Excelsior Rotterdam,FC Twente Enschede,5.9,4.5,1.52,O,1.6,U,2.35,Yes,1.7,No,2.07
-01-Apr,21:00,Olympique Lyonnais II,Louhans-Cuiseaux,2.5,3.25,2.62,O,1.83,U,1.85,Yes,1.65,No,2.07
-01-Apr,21:45,KV Oostende,Standard Liege,3.05,3.65,2.22,O,1.7,U,2.18,Yes,1.55,No,2.35
-01-Apr,22:00,Envigado FC,Once Caldas,2.42,3.1,3.2,O,2.5,U,1.55,Yes,2.05,No,1.72
-02-Apr,00:10,Independiente Medellin,Deportes Tolima,2.37,3.1,3.3,O,2.55,U,1.52,Yes,2.07,No,1.7
-02-Apr,08:00,Fukushima United FC,Grulla Morioka,3.2,3.35,2.15,O,1.93,U,1.78,Yes,1.75,No,1.95
+02/04,10:30,Suwon Bluewings,Gangwon FC,2.30,3.10,3.25,O,2.47,U,1.50,Yes,2.10,No,1.65
+02/04,10:30,Central Western,South China AA,1.47,4.35,5.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:30,North District,Wong Tai Sin,1.31,5.20,6.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:30,Kowloon City,Citizen AA,1.31,4.90,7.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:30,Happy Valley,Wing Yee,5.40,5.30,1.38,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:30,Kwai Tsing,Eastern District,10.25,7.70,1.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:30,Metro Gallery FC,Shatin,7.40,5.30,1.29,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,10:40,Melbourne City (W),Canberra United (W),1.72,4.05,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Cadiz CF (W),Sporting CF Plaza de Argel (W),1.91,3.75,3.20,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Dinamo Guadalajara (W),Pozuelo de Alarcon (W),4.20,4.20,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Sunshine Coast Wanderers (W),Capalaba FC (W),2.18,3.35,2.90,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Taringa Rovers SFC,Maroochydore Swans FC,2.30,3.40,2.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,West Torrens Birkalla (W) II,Fulham United FC (W) II,1.06,9.00,20.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Perth SC (W),Freemantle City (W),1.45,4.70,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Virginia United SC (W),Robina City (W),1.55,4.40,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Cape Town City II,Moroka Swallows II,1.57,4.00,4.75,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Sekhukhune United II,SuperSport United II,3.90,3.55,1.78,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Maritzburg United II,Mamelodi Sundowns II,3.10,2.95,2.30,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,11:00,Politehnica Timisoara,FK Csikszereda Miercurea Ciuc,4.40,3.40,1.75,O,2.00,U,1.70,Yes,1.90,No,1.78
+02/04,11:15,FC Twente Enschede (W),ADO Den Haag (W),1.23,5.70,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,SK Slavia Praha II,SFC Opava,1.62,3.80,5.00,O,1.95,U,1.75,Yes,2.00,No,1.72
+02/04,11:15,SK Sigma Olomouc II,SK Lisen,2.62,3.20,2.60,O,2.02,U,1.70,Yes,1.80,No,1.91
+02/04,11:15,1. FC Slovacko II,MFk Frydek-Mistek,1.55,4.15,4.65,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,FC Velke Mezirici,Hodonin,3.65,3.85,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,Admira Praha,Povltava FA,1.38,4.50,6.60,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,FK Pardubice II,SK Benesov,2.02,3.55,3.10,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,FK Viktoria Zizkov,FK Chlumec N.C,1.33,4.75,7.20,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,11:15,Zbrojovka Brno II,SK Batov 1930,1.62,4.10,4.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,FC Admira Wacker Modling,SV Horn,2.30,3.35,2.90,O,1.80,U,1.91,Yes,1.65,No,2.12
+02/04,11:30,SV Gerasdorf Stammersdorf,SV Wienerberg,2.05,3.40,3.15,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Kon Tum U19,Phu Yen U19,5.80,4.40,1.42,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Quang Ngai U19,Hai Phong U19,3.05,3.50,2.05,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Viettel U19,Cong Anh Nhan Dan U19,1.10,8.00,15.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Raca Bratislava,SK Slovan Bratislava II,2.57,3.40,2.45,O,1.57,U,2.20,Yes,1.47,No,2.42
+02/04,11:30,Tj Jednota Banova,TJ Druzstevnik Velke Ludince,1.98,3.50,3.25,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Videm,Cirkulane,2.18,3.50,2.85,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,FC Fastav Zlin II,FC Banik Ostrava II,3.00,3.50,2.07,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,SK Kvitkovice,Bfk Frýdlant,1.60,4.15,4.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,11:30,Pribram II,FK Slavoj Cesky Krumlov,1.62,4.30,4.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC La Union Atletico,CD Minera,1.45,3.90,6.80,O,2.10,U,1.62,Yes,2.35,No,1.50
+02/04,12:00,CF Fuenlabrada U19,CD Leganes U19,2.75,3.55,2.25,O,1.70,U,2.00,Yes,1.60,No,2.15
+02/04,12:00,Real Oviedo U19,Atletico Perines U19,1.65,4.10,4.20,O,1.55,U,2.25,Yes,1.60,No,2.15
+02/04,12:00,Viaje Interrias (W),Peluqueria Mixta Friol (W),1.50,4.20,5.10,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Napoli U19,Torino FC U19,3.30,3.40,1.98,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,ESC Geestemunde,OSC Bremerhaven,2.18,4.00,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Eintracht Trier U19,Eintracht Frankfurt U19,14.50,6.40,1.16,O,1.29,U,3.20,Yes,1.78,No,1.90
+02/04,12:00,Viktoria Koln U19,Rot Weiss Essen U19,1.80,3.90,3.60,O,1.44,U,2.55,Yes,1.44,No,2.55
+02/04,12:00,1. FC Köln U19,Hertha BSC Berlin U19,2.67,3.55,2.32,O,1.55,U,2.25,Yes,1.47,No,2.42
+02/04,12:00,FC Schalke 04 U19,FSV Mainz 05 U19,2.18,3.65,2.77,O,1.65,U,2.07,Yes,1.57,No,2.20
+02/04,12:00,TSG 1899 Hoffenheim (W) II,RB Leipzig (W),6.70,5.10,1.33,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Bayern Munchen (W) II,Eintracht Frankfurt (W) II,1.82,3.80,3.50,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Ingolstadt 04 (W),SC Freiburg (W) II,2.85,3.70,2.10,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Andernach (W),VfL Wolfsburg (W) II,1.50,4.30,4.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Nurnberg (W),Gutersloh (W),2.30,3.60,2.57,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Le Mans U19,FC Girondins Bordeaux U19,3.45,3.60,1.88,O,1.62,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Merignac SA U19,FC Lorient U19,2.27,3.30,2.80,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,OGC Nice U19,AS Saint-Etienne U19,3.25,3.30,2.05,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Le Puy U19,Metz FC U19,7.50,4.90,1.31,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Dijon FCO (W) U19,Olympique Marseille (W) U19,3.40,3.95,1.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Rizespor U19,Denizlispor U19,2.18,3.60,2.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Samsunspor U19,Bodrumspor U19,1.62,3.90,4.50,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Giresun Sanayispor (W),Bagcilar Evrenspor (W),2.35,3.75,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Ilkadim Belediyesi Yab-Pa Spor (W),Gaziantep Asya Spor (W),23.00,7.40,1.09,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Ordino,Penya Encarnada,2.25,3.45,2.75,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Canterbury Bankstown,SD Raiders,2.72,3.35,2.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Koblach,FC Hard,4.80,4.35,1.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Natters,Union Innsbruck,2.12,3.45,2.95,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,TP Ho Chi Minh U19,Binh Thuan U19,2.12,3.50,2.92,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Zhetysu Taldykorgan,Tobol Kostanay,5.00,3.70,1.62,O,1.83,U,1.83,Yes,1.85,No,1.83
+02/04,12:00,Gaj Mace,Maksimir Zagreb,2.52,3.45,2.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Puskas FC II,Gyirmot II,1.29,5.20,7.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Vasas SC II,FC Hatvan,1.95,3.70,3.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Gyori Eto II,Balatonfuredi FC,2.12,3.65,2.80,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Diosgyori Vtk II,Kisvarda II,1.95,3.75,3.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,ACS Petrosport Ploiesti U19,Grupul Scolar Agricol Nucet U19,1.26,6.00,7.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,ACS ACB Ineu U19,LPS Targu Mures U19,2.45,4.20,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Metaloglobus Bucuresti U19,ACS MX Pro Academy U19,1.09,8.50,14.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,ACP 3 Kids Sport U19,Liceul Tehnologic Sfantul Pantelimon U19,2.30,4.25,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,LPS Bistrita U19,CS Minaur Baia Mare U19,3.55,4.65,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,OFK Vrsac U19,FK Novi Pazar U19,6.90,4.75,1.34,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Slavia Kosice,Banik Kalinovo,1.44,4.45,5.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,MFk Zemplin Michalovce U19,FK Poprad U19,1.65,4.00,4.15,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,NK Bravo U19,ND Ilirija 1911 U19,3.60,4.00,1.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,North Bangkok University,Nakhon Si United,1.62,3.70,4.80,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,Dragon Pathumwan Kanchanaburi,Songkhla United FC,2.10,3.40,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FK Mlada Boleslav II,FK Banik Sous,1.55,4.05,4.75,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
+02/04,12:00,FC Sparta Brno,SK Krumvir,1.95,4.00,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:15,WAF Brigittenau,FC OHV Stadlau,2.15,3.60,2.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Real Betis Balompie II,CD San Roque de Lepe,1.87,3.10,4.35,O,2.45,U,1.47,Yes,2.20,No,1.57
+02/04,12:30,Gimnastica Segoviana CF,CD Atletico Paso,1.87,3.35,3.90,O,2.15,U,1.60,Yes,2.00,No,1.70
+02/04,12:30,Real Zaragoza II,UE Olot,1.90,3.05,4.25,O,2.47,U,1.47,Yes,2.15,No,1.60
+02/04,12:30,Union Molinense CF 2020,UCAM Murcia CF II,1.80,3.50,4.05,O,2.05,U,1.65,Yes,1.93,No,1.75
+02/04,12:30,AD Torrejon,CD Mostoles URJC,2.35,3.10,2.95,O,2.10,U,1.62,Yes,1.85,No,1.83
+02/04,12:30,SD Portmany,CE Mercadal,2.00,3.10,3.75,O,2.15,U,1.60,Yes,1.90,No,1.78
+02/04,12:30,UD Poblense,CE Constancia,1.57,3.75,5.40,O,2.05,U,1.65,Yes,2.10,No,1.62
+02/04,12:30,Real Madrid C,CF Trival Valderas Alcorcon,1.40,4.20,7.10,O,1.80,U,1.87,Yes,2.05,No,1.65
+02/04,12:30,SD Eibar (W),Fundacion Albacete (W),1.42,4.20,6.20,O,1.80,U,1.91,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,SC Condor Hamburg,Bramfelder SV,2.47,3.75,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,FC Flora Tallinn II,JK Tabasalu,1.62,4.25,4.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,JK Nomme Kalju II,Tartu JK Welco,2.05,4.10,2.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Viimsi JK (W),Tallinna Kalev (W),2.47,3.90,2.27,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Marsaxlokk FC,Pieta Hotspurs,1.24,5.40,10.00,O,1.55,U,2.25,Yes,2.10,No,1.62
+02/04,12:30,JVW FC (W),TuT FC (W),1.78,3.75,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Cheonan City FC,Jeonnam Dragons,3.85,3.45,1.93,O,2.05,U,1.72,Yes,1.87,No,1.85
+02/04,12:30,Yuen Long,Hoi King,2.77,3.75,2.12,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Kwong Wah,Tuen Mun Sa,2.42,3.20,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:30,Yau Tsim Mong,Lucky Mile,2.30,3.35,2.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,12:45,Ergotelis (W),Trikala (W),1.88,3.40,3.65,O,1.82,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,AE Mykonos,Panionios,3.15,2.85,2.30,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Panaitolikos U19,PAOK U19,5.80,4.05,1.50,O,1.75,U,1.93,Yes,1.88,No,1.80
+02/04,13:00,FC Barcelona II,CD Atletico Baleares,2.27,2.95,3.30,O,2.50,U,1.47,Yes,2.10,No,1.65
+02/04,13:00,Real Murcia CF,UE Cornellà,1.60,3.30,6.40,O,2.42,U,1.50,Yes,2.37,No,1.52
+02/04,13:00,AD Ceuta FC,Merida UD,2.45,3.05,2.92,O,2.32,U,1.55,Yes,1.98,No,1.75
+02/04,13:00,Real Union de Irun,CD Numancia,3.15,2.87,2.42,O,2.50,U,1.47,Yes,2.05,No,1.70
+02/04,13:00,CF Algeciras,AD Alcorcon,3.50,3.15,2.10,O,2.37,U,1.52,Yes,2.10,No,1.65
+02/04,13:00,Athletic Bilbao II,CA Osasuna II,2.70,3.00,2.65,O,2.30,U,1.55,Yes,1.93,No,1.78
+02/04,13:00,CF Badalona Futur,SCR Peña Deportiva,2.18,2.85,3.60,O,2.47,U,1.47,Yes,2.05,No,1.65
+02/04,13:00,Mar Menor FC,Sevilla Atletico,2.22,2.92,3.35,O,2.50,U,1.45,Yes,2.10,No,1.62
+02/04,13:00,AD Union Adarve,CD Diocesano,1.65,3.35,5.50,O,2.35,U,1.50,Yes,2.27,No,1.53
+02/04,13:00,RCD Mallorca II,SD Formentera,2.85,2.70,2.72,O,2.50,U,1.45,Yes,2.00,No,1.70
+02/04,13:00,Racing Santander II,CD Cristo Atletico,2.32,2.85,3.25,O,2.45,U,1.47,Yes,2.05,No,1.65
+02/04,13:00,CD Don Benito,UD Melilla,3.25,2.72,2.40,O,2.77,U,1.37,Yes,2.22,No,1.57
+02/04,13:00,CD Guadalajara,UD Socuellamos,1.91,2.90,4.55,O,2.77,U,1.37,Yes,2.37,No,1.50
+02/04,13:00,Deportivo Alaves II,Utebo FC,1.98,3.05,3.95,O,2.47,U,1.47,Yes,2.15,No,1.60
+02/04,13:00,UD Ourense,Bergantiños FC,1.72,3.25,5.00,O,2.30,U,1.53,Yes,2.15,No,1.60
+02/04,13:00,UD Montijo,AD Alcorcon II,2.12,3.00,3.45,O,2.37,U,1.50,Yes,2.05,No,1.65
+02/04,13:00,Atletico Madrid II,CP Cacereño,1.70,3.25,5.10,O,2.27,U,1.53,Yes,2.15,No,1.60
+02/04,13:00,FC Cartagena II,Xerez CD,2.22,2.82,3.50,O,2.45,U,1.47,Yes,2.05,No,1.65
+02/04,13:00,CD Ibiza Islas Pitiusas,CE Manresa,2.12,2.90,3.65,O,2.42,U,1.47,Yes,2.05,No,1.65
+02/04,13:00,Zamora CF,Polvorín FC,1.40,4.10,7.50,O,2.00,U,1.70,Yes,2.30,No,1.53
+02/04,13:00,CD Estepona FS,CF Villanovense,2.42,2.72,3.20,O,2.77,U,1.37,Yes,2.22,No,1.57
+02/04,13:00,Recreativo Huelva,CD Utrera,1.30,4.25,11.75,O,2.32,U,1.52,Yes,3.30,No,1.27
+02/04,13:00,CP San Cristobal,FC Vilafranca,1.55,3.65,5.80,O,2.05,U,1.65,Yes,2.07,No,1.65
+02/04,13:00,CD Castellon II,Elche CF II,3.20,2.90,2.30,O,2.52,U,1.45,Yes,2.10,No,1.62
+02/04,13:00,CD Ursaria,CD Canillas,1.27,4.80,10.75,O,1.90,U,1.78,Yes,2.62,No,1.42
+02/04,13:00,Las Rozas CF,Getafe CF II,2.45,3.10,2.77,O,2.15,U,1.60,Yes,1.85,No,1.82
+02/04,13:00,Arroyo CP,Jerez CF,2.80,2.95,2.55,O,2.45,U,1.47,Yes,2.07,No,1.65
+02/04,13:00,Moralo CP,UD Fuente de Cantos,1.35,4.35,8.50,O,1.98,U,1.70,Yes,2.45,No,1.47
+02/04,13:00,CD Llanes,CD Lealtad,3.45,3.15,2.07,O,2.37,U,1.50,Yes,2.12,No,1.62
+02/04,13:00,CD Praviano,Caudal Deportivo,2.62,2.87,2.77,O,2.37,U,1.50,Yes,1.98,No,1.70
+02/04,13:00,Sporting Gijon II,UC Ceares,1.34,4.65,7.90,O,1.75,U,1.93,Yes,2.12,No,1.62
+02/04,13:00,Aviles Stadium CF,CD Tuilla,2.12,3.20,3.25,O,2.07,U,1.65,Yes,1.87,No,1.80
+02/04,13:00,Valdesoto CF,UD Llanera,13.50,5.90,1.18,O,1.60,U,2.15,Yes,2.52,No,1.44
+02/04,13:00,CD Tenerife II,Estrella CF,1.17,6.20,13.50,O,1.52,U,2.32,Yes,2.37,No,1.50
+02/04,13:00,UE Castelldefels,UE Vilassar de Mar,2.32,3.20,2.90,O,2.12,U,1.62,Yes,1.87,No,1.80
+02/04,13:00,Levante UD II,Orihuela CF,2.85,2.85,2.60,O,2.75,U,1.38,Yes,2.25,No,1.55
+02/04,13:00,CD La Virgen del Camino,SD Almazan,2.45,2.95,2.90,O,2.35,U,1.50,Yes,2.00,No,1.70
+02/04,13:00,CD Cuarte,CD Carinena,1.47,3.90,6.40,O,1.93,U,1.75,Yes,2.07,No,1.65
+02/04,13:00,RC Deportivo Fabril,UD Ourense,1.72,3.45,4.65,O,2.15,U,1.60,Yes,2.07,No,1.65
+02/04,13:00,CF Motril,UD Almeria II,2.52,3.20,2.62,O,1.98,U,1.72,Yes,1.75,No,1.91
+02/04,13:00,El Palo FC,Arenas Armilla CD,1.44,3.90,7.20,O,2.15,U,1.60,Yes,2.45,No,1.47
+02/04,13:00,UCD Burlades,CF Ardoi FE,2.65,3.00,2.65,O,2.32,U,1.52,Yes,1.98,No,1.72
+02/04,13:00,CD Varea,CA River Ebro,1.42,4.30,6.40,O,1.75,U,1.93,Yes,1.95,No,1.72
+02/04,13:00,Racing Rioja CF II,CD Berceo,3.15,3.30,2.12,O,1.80,U,1.87,Yes,1.65,No,2.05
+02/04,13:00,UD Maracena,CD Torreperogil,1.93,3.20,3.85,O,2.10,U,1.62,Yes,1.90,No,1.78
+02/04,13:00,Hercules U19,Levante UD U19,5.60,4.55,1.44,O,1.47,U,2.47,Yes,1.62,No,2.12
+02/04,13:00,Inter Amistad U19,Sporting Hortaleza U19,1.95,3.80,3.15,O,1.60,U,2.15,Yes,1.57,No,2.20
+02/04,13:00,Sporting de Huelva (W),Real Betis Balompie (W),2.50,3.25,2.57,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Real Sociedad (W),Athletic Bilbao (W),1.65,3.85,4.25,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,CA Osasuna (W),CD Juan Grande (W),1.19,5.60,12.00,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,SE AEM (W),RCD Espanyol (W),1.95,3.30,3.50,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Malaga CF (W),Real Union Tenerife (W),1.82,3.65,3.65,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Ciudad de Murcia (W),Discobolo la Torre (W),1.75,4.10,3.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Burgos (W),Berriozar (W),1.83,4.10,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FC Viktoria 1889 Berlin U19,1. FC Union Berlin U19,4.80,4.45,1.52,O,1.44,U,2.55,Yes,1.55,No,2.27
+02/04,13:00,FC Astoria Walldorf U19,VfB Stuttgart U19,4.70,4.75,1.50,O,1.31,U,3.05,Yes,1.42,No,2.57
+02/04,13:00,Belenenses SAD,SC Uniao Torreense,2.87,3.10,2.50,O,2.25,U,1.60,Yes,1.90,No,1.82
+02/04,13:00,Leixoes SC,Academico Viseu,3.15,3.30,2.22,O,1.98,U,1.78,Yes,1.78,No,1.93
+02/04,13:00,FC Felgueiras 1932,SC Braga II,2.02,3.40,3.45,O,2.12,U,1.65,Yes,1.93,No,1.78
+02/04,13:00,Academica Coimbra,GD Fontinhas,2.07,3.35,3.35,O,2.10,U,1.65,Yes,1.91,No,1.80
+02/04,13:00,Esperanca de Lagos,Rabo Peixe,2.80,3.05,2.42,O,2.18,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FC Famalicao U19,Sporting CP U19,2.77,3.25,2.32,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FC Porto U19,SL Benfica U19,2.65,3.45,2.32,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Sakarya Kadin (W),Unye Gucu (W),10.75,6.10,1.19,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Sanna Khanh Hoa,Cong Anh Nhan Dan,3.90,2.95,1.98,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FC Shukura,FC Dinamo Tbilisi,7.00,4.45,1.36,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Lucan United FC,Killester Donnycarney,2.15,3.90,2.72,O,1.45,U,2.47,Yes,1.44,No,2.52
+02/04,13:00,University College Dublin II,Kilbarrack United,2.52,3.75,2.35,O,1.39,U,2.70,Yes,1.36,No,2.82
+02/04,13:00,FK Tukums 2000/Tss,FS Metta/LU,2.10,3.35,3.05,O,1.80,U,1.91,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FK Suduva II,Hegelmann Litauen II,1.21,6.10,9.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Royal AM FC II,Kaizer Chiefs II,2.55,3.25,2.50,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,FC Lviv,FC Dynamo Kyiv,9.00,4.75,1.32,O,1.78,U,1.93,Yes,2.22,No,1.60
+02/04,13:00,Rakow Czestochowa II,Lechia Zielona Góra,1.82,3.65,3.65,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Lechia Tomaszow Mazowiecki,Pilica Bialobrzegi,1.65,4.00,4.05,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Pelikan Lowicz,Olimpia Zambrow,1.57,4.05,4.65,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Zaglebie Lubin U19,Jagiellonia Bialystok U19,2.37,4.00,2.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Radnicki 1923 U19,FK Vozdovac U19,1.93,3.45,3.40,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Samut Songkhram FC,Bangkok FC,1.78,3.65,3.75,O,1.70,U,2.02,No_bet,No_bet,No_bet,No_bet
+02/04,13:00,Resources Capital FC,Hong Kong U23,1.31,5.20,7.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:15,CD Lugo U19,RC Celta de Vigo U19,8.00,5.30,1.29,O,1.45,U,2.52,Yes,1.80,No,1.87
+02/04,13:15,Go Ahead Eagles,AFC Ajax,7.80,5.50,1.35,O,1.52,U,2.55,Yes,1.78,No,1.98
+02/04,13:15,FC Den Bosch,Willem II Tilburg,7.50,4.65,1.39,O,1.55,U,2.35,Yes,1.75,No,1.98
+02/04,13:30,CD Don Alvaro,SP Villafranca,2.75,3.05,2.52,O,2.15,U,1.60,Yes,1.88,No,1.80
+02/04,13:30,CE L'Hospitalet,CF Montañesa,2.05,3.20,3.45,O,1.98,U,1.70,Yes,1.80,No,1.87
+02/04,13:30,Cadiz CF U19,Sevilla FC U19,4.60,4.05,1.60,O,1.50,U,2.37,Yes,1.55,No,2.25
+02/04,13:30,Bologna FC,Udinese Calcio,2.30,3.30,3.20,O,2.18,U,1.70,Yes,1.87,No,1.87
+02/04,13:30,Sassuolo (W),Pomigliano (W),1.72,3.50,4.25,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,13:30,Ümraniyespor,Konyaspor,3.00,3.30,2.30,O,1.80,U,2.02,Yes,1.60,No,2.25
+02/04,13:30,Keciorengucu,Tuzlaspor,1.95,3.30,3.80,O,1.93,U,1.78,Yes,1.75,No,1.98
+02/04,13:30,Manisa FK,Genclerbirligi,1.83,3.50,4.05,O,1.93,U,1.78,Yes,1.82,No,1.88
+02/04,13:30,Belediye Vanspor,Kastamonuspor,1.35,4.60,7.50,O,1.72,U,1.95,Yes,2.07,No,1.65
+02/04,13:30,Abdish Ata,FC Talant,1.23,5.20,10.75,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,13:30,Wisla Plock,Radomiak Radom,2.65,3.25,2.60,O,1.93,U,1.80,Yes,1.72,No,2.02
+02/04,13:30,FC Arges Pitesti,FC Voluntari,3.35,3.15,2.32,O,2.62,U,1.50,Yes,2.15,No,1.65
+02/04,13:30,Umea IK (W),IK Rosso Uddevalla (W),1.20,6.20,9.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:30,Kasetsart FC,Nakhon Si United,2.55,3.15,2.57,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,13:40,LKS Lodz,MKS Chojniczanka Chojnice,1.60,3.90,5.10,O,1.80,U,1.90,Yes,1.85,No,1.85
+02/04,13:45,UD Lanzarote,UD Ibarra,1.50,4.15,5.50,O,1.70,U,1.98,Yes,1.85,No,1.82
+02/04,13:45,Le Havre AC (W),Olympique Lyonnais (W),17.00,7.60,1.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:45,Paris Saint-Germain (W),FC Girondins Bordeaux (W),1.11,7.20,16.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,13:45,AB Gladsaxe,Kolding IF,2.92,3.30,2.25,O,1.72,U,1.95,Yes,1.60,No,2.15
+02/04,14:00,Sunderland AFC (W),Crystal Palace (W),2.67,3.40,2.30,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Rayo Vallecano II,Real Aranjuez CF,1.70,3.55,4.55,O,1.80,U,1.88,Yes,1.75,No,1.93
+02/04,14:00,CD Azuaga,Club Polideportivo Montehermoso,1.36,4.50,7.70,O,1.80,U,1.88,Yes,2.15,No,1.60
+02/04,14:00,CD Marino,UD Tamaraceite,2.77,3.05,2.50,O,2.15,U,1.60,Yes,1.87,No,1.80
+02/04,14:00,UD San Fernando,Union Sur Yaiza,1.33,4.70,8.00,O,1.70,U,2.00,Yes,2.07,No,1.65
+02/04,14:00,UD Las Palmas Atletico,UD Gran Tarajal,1.33,4.45,8.50,O,1.80,U,1.88,Yes,2.15,No,1.60
+02/04,14:00,VfL Osnabruck,Dynamo Dresden,2.37,3.50,2.77,O,1.70,U,2.12,Yes,1.55,No,2.30
+02/04,14:00,BW Lohne,TSV Havelse,3.05,3.55,2.12,O,1.72,U,2.00,Yes,1.62,No,2.15
+02/04,14:00,BFC Dynamo,Greifswalder SV 04,1.75,3.75,4.15,O,1.65,U,2.10,Yes,1.65,No,2.12
+02/04,14:00,FSV 63 Luckenwalde,Chemnitzer FC,3.50,3.55,1.95,O,1.80,U,1.90,Yes,1.70,No,2.02
+02/04,14:00,SC Freiburg U19,TSG 1899 Hoffenheim U19,2.25,3.55,2.75,O,1.57,U,2.20,Yes,1.50,No,2.35
+02/04,14:00,SpVgg Unterhaching U19,FC Augsburg U19,2.10,3.60,2.95,O,1.44,U,2.55,Yes,1.39,No,2.72
+02/04,14:00,SC Freiburg (W),1. FFC Turbine Potsdam (W),1.34,4.85,6.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,SV Meppen (W),FC Bayern Munchen (W),21.00,8.25,1.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,VFB Hilden II,SG Unterrath,1.37,4.90,6.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Lille OSC,FC Lorient,1.40,4.85,7.80,O,1.57,U,2.40,Yes,1.80,No,1.95
+02/04,14:00,AS Saint Etienne (W),Toulouse FC (W),1.11,7.30,17.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Erzincanspor,Nazilli Bld Spor,1.70,3.65,4.45,O,1.95,U,1.72,Yes,1.93,No,1.75
+02/04,14:00,68 Aksaray Belediyespor,Mus 1984 Musspor,1.38,4.30,6.80,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,SK Brann,Sogndal IL,1.40,4.75,6.10,O,1.47,U,2.42,Yes,1.70,No,2.00
+02/04,14:00,Tromso IL,Ham-Kam,1.75,4.10,3.65,O,1.47,U,2.42,Yes,1.50,No,2.35
+02/04,14:00,Nam Dinh,Hai Phong,1.80,3.25,4.25,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,HB Koge,Hobro IK,2.18,3.35,3.10,O,1.78,U,1.93,Yes,1.65,No,2.12
+02/04,14:00,Naestved BK,Hvidovre IF,3.65,3.55,1.90,O,1.75,U,1.98,Yes,1.65,No,2.10
+02/04,14:00,BK Avarta,Odder IGF,1.87,3.65,3.45,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,ASA Aarhus (W),BSF (W),2.55,3.70,2.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Zanaco,NAPSA Stars,2.45,2.67,3.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Crumlin United,Ballymun United,1.75,3.75,4.00,O,1.47,U,2.45,Yes,1.47,No,2.45
+02/04,14:00,Dundalk U19,Bohemians FC U19,2.15,3.60,2.87,O,1.39,U,2.70,Yes,1.35,No,2.87
+02/04,14:00,FK Atyrau,FC Okzhetpes Kokshetau,1.75,3.50,4.25,O,1.91,U,1.75,Yes,1.83,No,1.83
+02/04,14:00,FK Aktobe,Kyzylzhar Petropavlosvk,1.44,4.15,6.50,O,1.87,U,1.80,Yes,2.07,No,1.65
+02/04,14:00,Blanco FC (W),City Academy FC (W),4.90,4.65,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Earth Angels FC (W),Hippo FC (W),1.95,4.05,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Marijampole City,FK Zalgiris Vilnius II,1.55,4.20,4.60,O,1.55,U,2.32,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,FK Panevezys II,Be1 NFA,4.45,3.95,1.62,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,FC Sfantul Gheorghe,FC Milsami,2.65,2.95,2.60,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,KIL Hemne (W),Honefoss (W),2.52,3.45,2.42,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Metalist 1925 Kharkiv,SC Dnipro-1,6.80,4.30,1.42,O,1.78,U,1.93,Yes,2.00,No,1.72
+02/04,14:00,Blonianka Blonie,Swit Nowy Dwor Mazowiecki,3.25,3.55,1.95,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Slask Wroclaw U19,Lech Poznan U19,3.40,4.15,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Radnicki Novi Beograd U19,FK Partizan U19,4.65,4.00,1.57,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,FK Rad Belgrad U19,Backa Topola U19,1.82,3.55,3.75,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Ross County FC,Celtic FC,18.50,8.50,1.14,O,1.40,U,3.00,Yes,2.30,No,1.57
+02/04,14:00,Trelleborgs FF,Gefle IF,1.91,3.45,3.70,O,1.82,U,1.88,Yes,1.70,No,2.02
+02/04,14:00,Utsiktens BK,Skovde AIK,1.93,3.45,3.65,O,1.75,U,1.95,Yes,1.65,No,2.12
+02/04,14:00,Varbergs Gif FK,Hittarps IK,2.22,3.85,2.62,O,1.35,U,2.87,Yes,1.33,No,2.95
+02/04,14:00,Kungsangens IF,Sandvikens AIK FK,2.72,3.60,2.25,O,1.47,U,2.42,Yes,1.44,No,2.55
+02/04,14:00,IK Zenith,BK Forward,7.40,5.60,1.29,O,1.30,U,3.15,Yes,1.55,No,2.25
+02/04,14:00,IFK Kalmar (W),IFK Norrkoping (W),2.05,3.55,3.00,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Khonkaen United FC,Prachuap FC,2.65,3.15,2.62,O,1.95,U,1.75,Yes,1.72,No,2.00
+02/04,14:00,Ranong United,Krabi,2.45,3.35,2.57,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,FK Eskhata Khujand,CSKA Pamir Dushanbe,2.42,3.15,2.70,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,Khosilot Parkhar,Faizkand,2.62,3.50,2.30,O,1.70,U,2.02,No_bet,No_bet,No_bet,No_bet
+02/04,14:00,FK Teplice (W),FC Prague (W),2.42,3.65,2.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:10,Celtic FC (W),Partick Thistle (W),1.009,12.50,32.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,Arsenal FC (W),Manchester City (W),2.18,3.35,2.95,O,1.90,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,CD Mensajero,CF Panaderia Pulido,1.98,3.15,3.75,O,2.07,U,1.65,Yes,1.85,No,1.82
+02/04,14:30,Madrid Cff (W) II,Valencia CF (W) II,1.34,4.85,6.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,Orientacion Maritima (W),Real Union Tenerife (W) II,1.47,4.20,5.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,1. FC Magdeburg,Hansa Rostock,2.25,3.40,3.20,O,1.82,U,2.00,Yes,1.62,No,2.20
+02/04,14:30,Holstein Kiel,Arminia Bielefeld,2.15,3.50,3.35,O,1.72,U,2.15,Yes,1.57,No,2.30
+02/04,14:30,SC Paderborn 07,SpVgg Greuther Furth,2.15,3.55,3.30,O,1.83,U,1.98,Yes,1.65,No,2.15
+02/04,14:30,Shamakhi,Qarabağ FK,13.00,6.00,1.18,O,1.55,U,2.25,Yes,2.37,No,1.50
+02/04,14:30,UE Santa Coloma,UE Sant Julia,1.15,6.50,13.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,KRC Genk,Oud-Heverlee Leuven,1.53,4.45,5.80,O,1.53,U,2.52,Yes,1.60,No,2.25
+02/04,14:30,Parnu JK Vaprus,JK Tallinna Kalev,2.30,3.40,2.70,O,1.80,U,1.91,No_bet,No_bet,No_bet,No_bet
+02/04,14:30,Ratchaburi FC,Nakhon Ratchasima,1.70,3.65,4.65,O,1.98,U,1.75,Yes,1.95,No,1.75
+02/04,14:30,Trat FC,Uthai Thani,2.00,3.30,3.35,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,14:45,Apollon Pontou,Iraklis Larissa,1.78,3.10,4.65,O,2.32,U,1.53,No_bet,No_bet,No_bet,No_bet
+02/04,14:45,Veria,Niki Volos,3.20,2.95,2.27,O,2.50,U,1.45,Yes,2.12,No,1.62
+02/04,15:00,Elpides Karditsas (W),Leontikos Kifisias (W),1.53,3.85,5.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,OFI Crete (W),PAOK (W),10.25,5.50,1.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Volos 2004 (W),Olympiada Imitou (W),2.15,3.75,2.72,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Everton FC (W),Tottenham Hotspur (W),2.18,3.30,2.95,O,1.91,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Blackburn Rovers (W),Durham (W),3.20,3.15,2.12,O,1.91,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,RC Celta de Vigo,UD Almeria,1.52,4.25,6.50,O,1.83,U,1.98,Yes,1.93,No,1.82
+02/04,15:00,SD Huesca,Deportivo Alaves,3.75,3.00,2.22,O,2.67,U,1.47,Yes,2.15,No,1.65
+02/04,15:00,Rayo Ciudad Alcobendas U19,CD Badajoz U19,1.17,6.80,11.25,O,1.28,U,3.25,Yes,1.78,No,1.90
+02/04,15:00,Portici 1906,Arzachena Costa Smeralda,2.27,3.10,3.00,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,USD Fezzanese,SCD Ligorna 1922,3.35,3.30,2.00,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,AC Gozzano,Stresa,1.87,3.25,3.90,O,2.18,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Chisola,Borgosesia,2.37,3.10,2.82,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Asti Calcio,Derthona,1.80,3.35,4.05,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,1. FC Saarbrucken,SV Waldhof Mannheim,2.02,3.55,3.40,O,1.75,U,2.02,Yes,1.62,No,2.15
+02/04,15:00,FC Teutonia Ottensen,Etsv Weiche Flensburg,2.07,3.45,3.25,O,1.70,U,2.05,Yes,1.57,No,2.25
+02/04,15:00,Holstein Kiel II,Bremer SV,1.47,4.25,6.10,O,1.78,U,1.93,Yes,1.95,No,1.75
+02/04,15:00,1. FC Phönix Lübeck,Kickers Emden,1.19,6.30,12.50,O,1.47,U,2.52,Yes,2.15,No,1.62
+02/04,15:00,FC St. Pauli II,SSV Jeddeloh,1.95,3.55,3.50,O,1.62,U,2.15,Yes,1.55,No,2.30
+02/04,15:00,Borussia Monchengladbach II,TSV Alemannia Aachen,2.05,3.50,3.30,O,1.70,U,2.05,Yes,1.60,No,2.22
+02/04,15:00,Wormatia Worms,Eintracht Trier,2.20,3.40,3.00,O,1.91,U,1.80,Yes,1.75,No,1.95
+02/04,15:00,TS Woltmershausen,Werder Bremen C,1.30,5.80,6.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,SG Aumund Vegesack,TUS Komet Arsten,1.23,6.00,8.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,SV Rugenbergen,SV Curslack-Neuengamme,1.70,4.10,3.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,TUS Makkabi Berlin,1.FC Frankfurt,1.19,6.30,10.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,MSV Neuruppin,SpVgg Blau-Weiss 1890 Berlin,1.95,3.95,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Charlottenburger FC Hertha 06,Eintracht Mahlsdorf,1.60,4.15,4.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FSV Wacker Nordhausen,FSV Budissa Bautzen,2.85,3.75,2.07,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Einheit Wernigerode,VfB Auerbach,2.32,3.80,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,TUS Koblenz,TUS Mechtersheim,1.60,4.00,4.50,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Preussen Munster II,FC Gütersloh 2000,2.10,3.55,2.92,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,1. FC Köln (W) II,Sand (W),2.87,3.85,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FC Carl Zeiss Jena (W),Turbine Potsdam (W) II,1.26,5.30,8.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FC 93 Bobigny U19,FC Sochaux U19,2.10,3.45,3.00,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,AD Camacha,Lusitania de Lourosa FC,3.85,3.15,1.91,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,OJC Rosmalen,Baronie,1.87,3.80,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,TOGB,VV Gemert,2.05,3.70,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Ado 20,GVV Unitas,1.42,4.55,5.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,HV CV Quick,VV Dongen,1.55,4.10,4.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,USV Hercules,RKVV DEM,1.65,4.05,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Ankaraspor,Corum Belediyespor,3.70,3.30,1.93,O,2.07,U,1.65,Yes,1.91,No,1.75
+02/04,15:00,Kasimpasa Erokspor,Sivas 4 Eylul,1.19,6.00,12.00,O,1.52,U,2.32,Yes,2.25,No,1.55
+02/04,15:00,Menemenspor,Sanliurfaspor,2.77,3.20,2.40,O,2.07,U,1.65,Yes,1.85,No,1.82
+02/04,15:00,Fethiyespor,Serik Belediyespor,2.30,3.25,2.90,O,2.00,U,1.70,Yes,1.82,No,1.85
+02/04,15:00,Zonguldak Komurspor,Ankara Demirspor,2.85,3.25,2.32,O,2.10,U,1.62,Yes,1.88,No,1.78
+02/04,15:00,Pazarspor,AS Sariyer,2.50,3.20,2.65,O,1.98,U,1.72,Yes,1.75,No,1.91
+02/04,15:00,Iskenderun FK,Etimesgut Bld Spor,1.34,4.45,8.25,O,1.85,U,1.82,Yes,2.25,No,1.55
+02/04,15:00,Bayburt Grup,Afjet Afyonspor,4.70,3.50,1.70,O,1.93,U,1.75,Yes,1.91,No,1.78
+02/04,15:00,Duzcespor,Somaspor,1.93,3.35,3.65,O,2.00,U,1.70,Yes,1.87,No,1.80
+02/04,15:00,Inegölspor,Bursaspor,1.95,3.30,3.65,O,1.91,U,1.78,Yes,1.75,No,1.91
+02/04,15:00,Balikesirspor,Buca FK,5.70,4.10,1.50,O,1.80,U,1.87,Yes,1.95,No,1.72
+02/04,15:00,Hekimoglu Trabzon,Kirsehir Belediye Spor,1.60,3.70,5.20,O,2.07,U,1.65,Yes,2.10,No,1.62
+02/04,15:00,Isparta Davraz Spor,Arnavutköy Belediye Spor,2.18,3.20,3.15,O,2.15,U,1.60,Yes,1.93,No,1.75
+02/04,15:00,Kirklarelispor,Usak Spor,1.62,3.70,4.90,O,2.00,U,1.70,Yes,2.00,No,1.70
+02/04,15:00,Turk Metal Kirikkale,Bayrampasaspor,2.05,3.25,3.30,O,2.18,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Yeni Orduspor,1922 Konyaspor,1.47,3.85,6.10,O,2.02,U,1.72,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Bulvarspor,Orduspor,3.00,3.10,2.25,O,2.32,U,1.53,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Elazigspor,Edirnespor,1.95,3.20,3.60,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Amasyaspor 1968 FK,Sanliurfa Karakopru Belediye Spor,2.47,3.00,2.77,O,2.35,U,1.53,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Kusadasispor,Gumushanespor,1.93,3.20,3.70,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Ergene Velimese Spor,Ofspor,1.93,3.20,3.70,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Eynesil Belediyespor,Igdir Belediyespor,5.00,3.80,1.57,O,1.91,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Sapanca Genclikspor,Erbaaspor,2.22,3.05,3.10,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Kutahyaspor,Nevsehir Spor Genclik,1.91,3.25,3.70,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Sakaryaspor U19,Pendikspor U19,2.15,3.40,2.95,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Altay SK U19,Keciorengucu U19,2.30,3.20,2.87,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Fasil Kenema SC,Welayta Dicha,1.95,2.95,4.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FC Ararat-Armenia,FC Noah,1.25,4.85,10.50,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,SCR Altach Juniors,SC Admira Dornbirn,1.53,4.15,4.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,SK Austria Klagenfurt II,Lendorf,1.55,4.00,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,UNIRB U20,Juazeiro BA U20,1.13,6.90,13.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,AC Horsens,Aalborg BK,2.47,3.15,2.87,O,2.07,U,1.70,Yes,1.80,No,1.91
+02/04,15:00,Lyngby BK,Silkeborg IF,2.72,3.40,2.45,O,1.80,U,1.95,Yes,1.62,No,2.15
+02/04,15:00,Ringkøbing IF,Frederikssund IK,2.00,3.65,3.05,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Kakamega Homeboyz,Gor Mahia,3.30,3.00,2.15,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Kajiado FC,Shabana,5.80,3.20,1.62,O,1.75,U,1.95,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FK Auda,Valmiera FC,2.57,3.10,2.57,O,2.18,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FK Transinvest,Riteriai II,1.65,4.15,4.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,FK Siauliai II,Neptunas Klaipeda,4.30,4.10,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Pfk Metallurg Bekabad,Pakhtakor Tashkent,6.20,3.70,1.52,O,2.00,U,1.70,Yes,2.07,No,1.65
+02/04,15:00,FC Bunyodkor Tashkent,FK Turon,1.60,3.70,5.20,O,1.83,U,1.85,Yes,1.83,No,1.83
+02/04,15:00,FC Zorya Luhansk,Rukh Lviv,1.53,4.05,5.50,O,1.70,U,2.02,Yes,1.80,No,1.91
+02/04,15:00,Chornomorets Odessa,FC Shakhtar Donetsk,9.50,5.20,1.28,O,1.57,U,2.25,Yes,2.02,No,1.72
+02/04,15:00,Aberdeen FC (W),Spartans FC (W),2.65,3.55,2.27,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Bodens BK,Hammarby TFF,3.20,3.65,1.98,O,1.55,U,2.27,Yes,1.50,No,2.37
+02/04,15:00,Astrio,Husqvarna FF,2.42,3.50,2.57,O,1.62,U,2.12,Yes,1.53,No,2.30
+02/04,15:00,IFK Simrishamn,FC Rosengard 1917,4.70,4.10,1.57,O,1.55,U,2.25,Yes,1.62,No,2.10
+02/04,15:00,FK Karlskrona,VMA IK,1.70,3.95,4.05,O,1.50,U,2.35,Yes,1.53,No,2.30
+02/04,15:00,Sundsvalls DFF (W),Lidkopings FK (W),5.80,4.75,1.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Al Ittihad Aleppo,Al Karamah,2.15,2.67,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Al Majd,Al Jaish,9.00,4.05,1.35,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Al-Wathbah,Al Taliya,1.37,3.75,10.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Jableh SC,Hutteen SC,1.45,3.85,6.70,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Tishreen,Al Foutoua,2.00,2.67,4.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:00,Nong Bua Pitchaya,Police Tero,2.30,3.25,3.00,O,1.93,U,1.78,Yes,1.72,No,2.00
+02/04,15:00,Admira Praha II,SK Kladno,5.60,4.35,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:15,Pho Hien,Shb Da Nang,2.77,3.10,2.40,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,15:15,Grasshoppers,FC Lugano,2.75,3.30,2.50,O,1.82,U,1.91,Yes,1.62,No,2.15
+02/04,15:15,FC Aarau,FC Vaduz,2.12,3.55,3.05,O,1.57,U,2.25,Yes,1.50,No,2.42
+02/04,15:15,KCB,Bidco,2.60,3.00,2.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:15,Kecskemeti TE,Mezokövesd SE,2.10,3.55,3.20,O,1.95,U,1.80,Yes,1.80,No,1.91
+02/04,15:15,TPS U20,Tove U20,2.50,3.75,2.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Juventus FC U23,Feralpisalo,3.40,3.00,2.22,O,2.42,U,1.50,Yes,2.05,No,1.70
+02/04,15:30,Novara Calcio 1908,US Pergolettese 1932,1.83,3.25,4.50,O,2.37,U,1.52,Yes,2.18,No,1.62
+02/04,15:30,Aurora Pro Patria,Pordenone Calcio,4.70,3.15,1.82,O,2.37,U,1.52,Yes,2.18,No,1.62
+02/04,15:30,Biancoscudati Padova,Sangiuliano City Nova,1.75,3.25,5.00,O,2.37,U,1.52,Yes,2.22,No,1.60
+02/04,15:30,Pro Sesto,Virtus Vecomp Verona,2.57,2.92,2.87,O,2.42,U,1.50,Yes,2.00,No,1.72
+02/04,15:30,Monopoli,US Latina Calcio,2.18,2.77,3.85,O,2.50,U,1.47,Yes,2.12,No,1.65
+02/04,15:30,AS Giugliano Calcio 1928,Catanzaro,6.10,3.90,1.52,O,1.75,U,1.95,Yes,1.83,No,1.87
+02/04,15:30,US Albinoleffe,Mantova FC,2.05,3.10,3.70,O,2.37,U,1.52,Yes,2.10,No,1.65
+02/04,15:30,LR Vicenza,Trento Calcio 1921,1.50,3.90,6.50,O,2.15,U,1.62,Yes,2.35,No,1.53
+02/04,15:30,ACR Messina,US Foggia,3.00,3.05,2.40,O,2.10,U,1.65,Yes,1.80,No,1.90
+02/04,15:30,Nuova Monterosi,Picerno,2.67,2.92,2.75,O,2.37,U,1.52,Yes,1.98,No,1.75
+02/04,15:30,Pro Vercelli,Union Arzignanochiampo,2.30,2.95,3.25,O,2.50,U,1.47,Yes,2.10,No,1.65
+02/04,15:30,Triestina Calcio,Piacenza Calcio,1.85,3.15,4.60,O,2.42,U,1.50,Yes,2.18,No,1.60
+02/04,15:30,Sorrento,Sarrabus Ogliastra,1.62,3.60,5.00,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Fiorentina FC (W),Inter Milan (W),3.60,3.75,1.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Sparta Rotterdam,Feyenoord Rotterdam,6.80,4.40,1.47,O,1.75,U,2.07,Yes,1.88,No,1.85
+02/04,15:30,FC Utrecht,FC Volendam,1.44,4.90,6.70,O,1.47,U,2.67,Yes,1.65,No,2.15
+02/04,15:30,FK Austria Vienna,Linzer ASK,2.60,3.35,2.57,O,1.78,U,1.95,Yes,1.62,No,2.18
+02/04,15:30,SK Austria Klagenfurt,FC Red Bull Salzburg,8.25,4.90,1.35,O,1.53,U,2.40,Yes,1.80,No,1.91
+02/04,15:30,Renaissance de Ngoumou,Djiko FC,2.85,2.95,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Shabab Al-Ghazieh,Al Ahed FC,11.75,5.70,1.19,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Metlaoui,Sidi Bouzid,2.15,2.75,4.00,O,3.15,U,1.31,Yes,2.55,No,1.45
+02/04,15:30,ES Hammam Sousse,Stade Tunisien,3.00,2.75,2.60,O,2.82,U,1.38,Yes,2.25,No,1.57
+02/04,15:30,AS Marsa,CS Korba,1.65,3.30,5.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Jerba Midoun,Oued Ellil,2.07,2.80,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,ES Rogba,ES Rades,1.90,2.80,4.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,Gabes,Js Kairouanaise,3.10,2.55,2.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,15:30,AS Mhamdia,CS Bembla,2.15,2.82,3.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Poseidon Nea Michaniona,Vironas Kavalas,2.67,3.15,2.45,O,2.27,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ethnikos Piraeus,AO Tympakiou,1.10,6.30,35.00,O,1.90,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Marko,Aris Petroupoli,2.25,2.80,3.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Pandramaikos,Orfeas Xanthi,1.85,3.10,4.15,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Agia Paraskevi,AE Moschato,1.70,3.20,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Panthrakikos,Nestos Chrysoupoli,3.45,3.30,1.98,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Aris Avato,Agrotikos Asteras,1.85,3.25,4.00,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Dotieas Agia,Olympiacos Volos,5.20,3.30,1.65,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Kampaniakos,Doxa Drama,1.40,4.00,7.30,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Kozani,Makedonikos Foufas,1.18,5.30,16.00,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Kastoria,AO Chanioti,1.70,3.40,4.60,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ethnikos Neo Keramidi,Pierikos,2.45,3.00,2.77,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,GAS Svoronos,Keravnos Anchelochori,2.52,2.75,2.92,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Edessaikos,PAOK Kristonis,1.57,3.45,5.70,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Elassona,AEP Kozani,2.20,2.80,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Tilikratis,Asteras Petriti,1.45,3.80,6.80,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Panagriniakos,Panelefsiniakos,6.00,3.50,1.55,O,2.30,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Aias Gastouni,Foinikas Nea Epidavros,2.80,2.80,2.57,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Giouchtas,Keratsini,1.40,3.80,8.00,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AO Poros,Thyella Diastavrosi Rafina,2.80,3.00,2.45,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,West Ham United,Southampton FC,1.81,3.81,5.40,O,2.12,U,1.72,Yes,1.98,No,1.78
+02/04,16:00,Birmingham (W),Southampton FC (W),1.88,3.35,3.70,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Lewes FC (W),Coventry United (W),1.45,4.25,5.70,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,London City Lionesses (W),Charlton (W),2.02,3.35,3.25,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Nottingham Forest (W),Burnley FC (W),1.78,3.95,3.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Wolverhampton Wanderers (W),Huddersfield Town (W),1.28,5.30,7.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Derby County (W),Brighouse Town Lfc (W),1.55,4.40,4.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Billericay Town Lfc (W),Portsmouth (W),3.75,3.90,1.72,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Cheltenham (W),Gillingham FC (W),2.40,3.85,2.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,MK Dons (W),Bridgwater United (W),1.55,4.30,4.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Stoke City (W),West Bromwich Albion (W),1.70,4.15,3.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AC Monza,SS Lazio,3.75,3.30,2.07,O,2.35,U,1.60,Yes,2.05,No,1.72
+02/04,16:00,Spezia Calcio,US Salernitana 1919,2.30,3.25,3.20,O,2.18,U,1.70,Yes,1.87,No,1.87
+02/04,16:00,Francavilla 1931,Bitonto,2.47,3.10,2.67,O,1.93,U,1.78,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Calcio Catania,FC Lamezia Terme,1.45,4.00,6.10,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Avezzano,ASD Pineto Calcio,4.05,3.25,1.83,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,S.s.d. Virtus Ciseranobergamo,Varesina Calcio,2.47,3.15,2.65,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Pistoiese,Lentigione Calcio,1.83,3.30,4.00,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ponte San Pietro,Villa Dalme Valle,2.02,3.30,3.30,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Tolentino 1919,Team Nuova Florida,2.85,2.92,2.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,GS Castanese,Pont Donnaz Hone Arnad Evancon,1.82,3.30,4.00,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Alcione Milano,Seregno Calcio,1.70,3.40,4.55,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AC Locri 1909,Cittanova Calcio,1.72,3.40,4.45,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,United Riccione,Sammaurese,2.25,3.15,2.95,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,USD Casatese,Sona,1.65,3.50,4.75,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Montebelluna,Virtus Bolzano,2.87,3.15,2.30,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Porto D'Ascoli,Calcio Chieti,1.98,2.95,3.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,US Vibonese Calcio,Acireale,2.15,3.20,3.10,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SS Nola 1925,ASD Lupa Frascati,3.35,3.10,2.10,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Forli,Correggese,1.93,3.15,3.75,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Pinerolo,USD Castellanzese 1921,2.32,2.90,3.10,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AC Citta di Castello,Follonica Gavorrano,3.10,3.20,2.15,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Alma Juventus Fano 1906,Vigor Senigallia,2.25,3.00,3.10,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Sant Angelo 1907,Aglianese,2.70,3.20,2.40,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,USD Palmese,Pomezia Calcio 1957,1.98,3.15,3.65,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ragusa Calcio,Santa Maria Cilento,2.60,2.90,2.70,O,2.22,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Montecchio Maggiore,Asd Villafranca Veronese,2.60,3.10,2.57,O,2.00,U,1.72,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Citta di Varese,ASD Calcio Brusaporto,2.90,3.10,2.30,O,2.35,U,1.53,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,US Angri 1927,ASD Vis Artena,2.10,2.95,3.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Athletic Carpi,Cavenago Fanfulla,1.78,3.45,4.05,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Licata,Sancataldese Calcio,2.47,3.00,2.75,O,2.40,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,US Livorno 1915,Pianese,2.50,3.05,2.70,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Vastese Calcio 1902,ASD Montegiorgio Calcio,2.22,2.92,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Seravezza Pozzi Calcio,Orvietana,2.07,3.15,3.35,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Trastevere,Notaresco Calcio,1.72,3.50,4.35,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Trapani Calcio,Castrovillari,1.72,3.45,4.30,O,2.00,U,1.72,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Termoli Calcio 1920,Sambenedettese,2.65,2.90,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,FBC Gravina,SS Cavese,4.35,3.25,1.78,O,2.15,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Aprilia,Tivoli 1919,2.25,3.15,2.95,O,2.18,U,1.62,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Paterno,Citta Di Sant Agata,3.75,3.40,1.85,O,2.02,U,1.72,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,ASD Salsomaggiore,Crema 1908,5.90,3.60,1.53,O,1.90,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Paganese,SS Cassino,2.12,2.95,3.50,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AC Prato,Real Forte Querceta,1.98,3.25,3.50,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Asg Nocerina,ACD Nardo Calcio,4.50,3.30,1.75,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,ASD Portogruaro,ASD Cartigliano,2.22,3.15,3.00,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Matese,Vastogirardi,2.45,2.95,2.82,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,US Lecce U19,Empoli U19,1.57,4.05,4.65,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Frosinone U19,Cesena U19,1.27,5.20,8.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Lazio (W),Apulia Trani (W),1.06,8.75,26.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Genoa CFC (W),Lady Granata Cittadella (W),6.00,4.45,1.42,O,1.57,U,2.25,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SS Arezzo (W),AC Chievo Verona (W),4.85,4.10,1.55,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Brescia Calcio (W),Napoli (W),3.50,4.00,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ravenna FC (W),Upc Tavagnacco (W),1.45,4.50,5.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Ternana (W),Cesena (W),1.72,3.85,3.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,San Marino Academy Calcio (W),ASD Torres Calsio (W),1.65,4.05,4.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Hellas Verona (W),Trento (W),1.29,5.00,8.00,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,VfV Borussia 06 Hildesheim,Hannover 96 II,3.15,3.50,2.10,O,1.65,U,2.12,Yes,1.55,No,2.30
+02/04,16:00,Astoria Walldorf II,Muhlhausen,2.25,4.20,2.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,FC Union 60 Bremen,Blumenthaler SV,2.07,3.90,2.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,TSV Buchholz 08,Usc Paloma,4.10,4.20,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Union Tornesch,Hamburg Eimsbutteler BC,4.05,4.05,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Rot Weis Walldorf,Eintracht Frankfurt II,4.15,4.25,1.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,TSV Steinbach II,FC Eddersheim,4.00,4.05,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,BCV Glesch-Paffendorf,TuS BW Konigsdorf,2.25,3.65,2.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SV Bergisch Gladbach 09,SV Eintracht Hohkeppel,1.70,3.95,3.90,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Viktoria 08 Arnoldsweiler,FC Hennef 05,5.60,4.75,1.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Cronenberger SC,SF Hamborn 07,3.80,4.25,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Sportfreunde Baumberg,VfB 03 Hilden,2.52,3.55,2.35,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Schonnebeck,FC Monheim,1.98,3.85,3.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SV Sonsbeck,Kray,1.82,3.80,3.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Arminia Hannover,FT Braunschweig,1.62,4.30,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,1 FC Germ Egestorf/Langreder,SV Ramlingen-Ehlershausen,1.57,4.30,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,VfL Oldenburg,Hannoverscher SC,1.47,4.50,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,USI Lupo-Martini,Heeslinger SC,2.25,3.50,2.72,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SC Blau-Weiss Papenburg,Rotenburger SV,2.95,3.75,2.02,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Bersenbruck,TSV Pattensen,1.36,4.90,6.20,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,MTV Gifhorn,FSV Schoningen 2011,3.40,3.90,1.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SC Staaken,TSG Neustrelitz,2.18,3.70,2.67,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Eckernforder SV,FC Kilia Kiel,8.50,6.20,1.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SV GW Siebenbaumen,SV Eichede,15.00,7.40,1.11,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SpVgg Vreden 1921,Sportfreunde Lotte,2.92,3.65,2.07,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Delbrucker SC,TSG Sprockhovel,2.82,3.75,2.07,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,ASC 09 Dortmund,Westfalia Rhynern,2.05,3.65,2.95,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,TSV Victoria Clarholz,SC Paderborn 07 II,3.60,3.70,1.82,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Sportfreunde Siegen,FC Eintracht Rheine,1.98,3.70,3.05,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,TUS Bovinghausen 04,Finnentrop / Bamenohl,1.47,4.55,4.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Westfalia Kinderhaus,TuS Hiltrup,2.05,3.70,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SpVgg 03 Neu-Isenburg,FV Bad Vilbel,2.05,4.00,2.77,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Clermont Foot,AC Ajaccio,2.12,3.00,4.05,O,2.72,U,1.47,Yes,2.25,No,1.60
+02/04,16:00,Angers SCO,OGC Nice,5.80,3.70,1.65,O,2.25,U,1.65,Yes,2.15,No,1.65
+02/04,16:00,Stade Brestois 29,Toulouse FC,2.77,3.35,2.57,O,1.88,U,1.93,Yes,1.65,No,2.15
+02/04,16:00,FC Nantes,Stade Reims,3.15,3.30,2.32,O,2.10,U,1.75,Yes,1.83,No,1.91
+02/04,16:00,SC Bastia U19,Olympique Marseille U19,3.50,3.15,2.00,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,FC Nantes U19,Chamois Niortais FC U19,1.57,4.15,4.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SC Air Bel U19,Toulouse FC U19,3.35,3.20,2.05,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,USM Saran U19,ESM de Gonfreville U19,1.75,4.00,3.60,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Colomiers U19,Blagnac U19,1.47,4.30,5.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,AJ Auxerre U19,Asptt Dijon U19,1.31,5.10,7.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Beziers U19,Montpellier U19,2.57,3.05,2.60,O,1.90,U,1.80,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,US Orleans U19,Stade Reims U19,2.00,3.50,3.20,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,USL Dunkerque U19,Lille OSC U19,3.20,3.15,2.12,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Valenciennes FC U19,SM Caen U19,2.07,3.50,3.00,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,RC Strasbourg U19,Torcy U19,1.53,4.05,4.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,RC Strasbourg (W),US Orleans (W),1.85,3.60,3.55,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SC Covilha,CF Estrela,3.45,3.35,2.07,O,2.07,U,1.70,Yes,1.87,No,1.83
+02/04,16:00,PO Xylotymbou 2006,PAEEK,2.15,3.20,3.10,O,1.82,U,1.88,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Giresunspor,Alanyaspor,2.47,3.35,2.72,O,1.70,U,2.15,Yes,1.55,No,2.37
+02/04,16:00,Sarpsborg 08,Stabaek IF,1.60,3.90,4.70,O,1.53,U,2.30,Yes,1.57,No,2.22
+02/04,16:00,RFC Liege,Oud-Heverlee Leuven II,1.33,4.35,8.50,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Kvk Tienen,K Rupel Boom FC,1.82,3.65,3.65,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Pepingen Halle,K.Berchem Sport 2004,2.55,3.45,2.45,O,1.83,U,1.83,Yes,1.70,No,2.00
+02/04,16:00,Bregalnica Stip,GFK Tikves Kavadarci,1.62,3.55,5.30,O,1.85,U,1.82,Yes,1.83,No,1.85
+02/04,16:00,FC Struga Trim-Lum,Academy Pandev,1.78,3.20,4.70,O,2.32,U,1.52,Yes,2.15,No,1.60
+02/04,16:00,KF Shkendija Tetovo,FK Pobeda,1.16,6.30,14.00,O,1.52,U,2.30,Yes,2.42,No,1.47
+02/04,16:00,KF Shkupi,FK Skopje,1.25,5.00,11.50,O,1.72,U,1.98,Yes,2.32,No,1.52
+02/04,16:00,FK Sloga Doboj,FK Velez Mostar,3.35,3.30,2.05,O,2.12,U,1.62,Yes,1.93,No,1.75
+02/04,16:00,Matonense,EC Sao Bernardo,2.25,3.15,3.05,O,2.07,U,1.65,Yes,1.85,No,1.83
+02/04,16:00,FC Biel/Bienne,Etoile Carouge,3.75,3.80,1.78,O,1.55,U,2.25,Yes,1.55,No,2.25
+02/04,16:00,Green Buffaloes,Power Dynamos,3.00,2.70,2.52,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Highlanders FC,Platinum,3.30,2.90,2.22,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Hwange Colliery,Greenfuel FC,2.25,2.72,3.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Treaty United U19,Waterford U19,2.92,3.95,2.02,O,1.35,U,2.87,Yes,1.35,No,2.87
+02/04,16:00,Finn Harps U19,St Patricks Athletic U19,4.10,4.20,1.65,O,1.47,U,2.45,Yes,1.52,No,2.30
+02/04,16:00,Kerry U19,Galway United U19,6.10,4.60,1.42,O,1.30,U,3.10,Yes,1.42,No,2.57
+02/04,16:00,FC Astana,FC Ordabasy,1.75,3.70,4.00,O,1.72,U,1.95,Yes,1.70,No,1.98
+02/04,16:00,Young Sports Academy,Fauve Azur Elite,2.10,2.95,3.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,KF Drita,Drenica Skenderaj,1.25,4.90,10.00,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,KF Dukagjini,KF Ferizaj,2.10,3.10,3.35,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,HNK Rijeka,NK Osijek,1.90,3.50,3.95,O,2.05,U,1.72,Yes,1.90,No,1.80
+02/04,16:00,Birkirkara FC,Hibernians FC Paola,2.22,3.35,2.92,O,1.72,U,1.98,Yes,1.60,No,2.15
+02/04,16:00,FC Petrocub Hincesti,FC Balti,1.50,3.75,6.10,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Golden Arrows FC,Sekhukhune United,2.47,2.85,3.10,O,2.35,U,1.53,Yes,1.93,No,1.78
+02/04,16:00,Baroka FC,Black Leopards,1.78,3.25,4.30,O,2.30,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Magesi,Platinum City Rovers,2.10,2.87,3.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Springs Home Sweepers FC (W),Wits University (W),2.00,4.00,2.85,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Karcag SE,Egri FC,1.72,3.95,3.80,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,CA Cerro,La Luz,2.18,3.20,3.35,O,2.07,U,1.70,Yes,1.82,No,1.88
+02/04,16:00,Cracovia Krakow,Widzew Lodz,2.45,3.05,3.00,O,2.25,U,1.60,Yes,1.88,No,1.82
+02/04,16:00,Zaglebie Sosnowiec,Puszcza Niepolomice,2.35,3.15,3.00,O,2.25,U,1.57,Yes,1.95,No,1.75
+02/04,16:00,Wisla Sandomierz,KS Wiaznownica,3.05,3.70,2.00,O,1.62,U,2.15,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Espoir FC,Kiyovu Sports,6.50,3.90,1.45,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,APR,Bugesera,1.31,4.20,10.25,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Etincelles,Gasogi United,2.52,2.85,2.82,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Unirea Dej,Dinamo Bucuresti,3.25,3.20,2.22,O,2.15,U,1.65,Yes,1.90,No,1.80
+02/04,16:00,SP Tre Fiori,FC Fiorentino,1.42,4.15,6.40,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SC Faetano,SP La Fiorita,13.50,5.60,1.18,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SS Murata,SP Cailungo,1.87,3.45,3.60,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Rangers FC II,Celtic FC II,2.35,3.65,2.50,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Motherwell FC (W),Dundee United FC (W),1.40,4.30,6.50,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Hammarby IF,Degerfors IF,1.27,5.50,10.25,O,1.53,U,2.40,Yes,1.98,No,1.75
+02/04,16:00,IFK Norrkoping,FK Sirius,1.85,3.75,3.80,O,1.80,U,1.95,Yes,1.72,No,2.00
+02/04,16:00,Ostersunds FK,GAIS Göteborg,2.72,3.25,2.47,O,1.91,U,1.80,Yes,1.72,No,2.00
+02/04,16:00,IFK Lulea,Kiruna FF,1.45,4.40,5.70,O,1.57,U,2.20,Yes,1.75,No,1.93
+02/04,16:00,Pitea IF (W),Kristianstads DFF (W),4.00,3.60,1.75,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Vittsjo Gik (W),IF Brommapojkarna (W),1.33,4.80,7.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Djurgardens IF DFF (W),KIF Orebro (W),2.07,3.50,3.00,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,Vaxjo Dff (W),Hacken (W),22.00,7.80,1.08,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:00,SK Lisen II,Olympia Rajecko,1.20,6.20,9.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:15,SC Union Nettetal,Etb SW Essen,4.80,4.50,1.50,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Malaga City (W),Levante (W) C,1.44,4.70,5.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Afragolese 1944,Atletico Puteolana,1.91,3.25,3.70,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Sestri Levante 1919,Vado FC,2.20,3.05,3.15,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,1. FC Köln,Borussia Monchengladbach,2.25,3.55,3.10,O,1.75,U,2.07,Yes,1.60,No,2.25
+02/04,16:30,Fortuna Koln II,FC Wegberg-Beeck,5.20,4.35,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Siegburger SV 04,FC Pesch,2.10,3.55,2.90,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Spvg Frechen 20,Bonner SC,4.20,3.85,1.65,O,1.70,U,2.02,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Blau-Weiss Friesdorf,Borussia Freialdenhoven,3.40,4.10,1.78,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,VfL Vichttal,FC Hurth,1.72,4.00,3.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,FSV Duisburg,FC Kleve,5.40,4.90,1.40,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,SC St Tonis 11/20,VfB Homberg,2.85,3.85,2.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,TuS Kirchberg 1909,FV Dudenhofen,3.15,4.05,1.87,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,SV Schermbeck,Gievenbeck,1.57,4.15,4.55,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,DV Solingen,FSV Vohwinkel Wuppertal,1.36,5.00,6.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,FK Rudar Prijedor,Famos Vojkovici,1.22,4.80,14.00,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,FK Sloboda Mrkonjic Grad,Sutjeska Foca,1.50,4.25,5.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,PSIS Semarang,PSS Sleman,1.83,3.50,3.85,O,1.78,U,1.88,Yes,1.70,No,1.98
+02/04,16:30,Extension Gunners,Gaborone United,11.00,5.60,1.20,O,1.55,U,2.32,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Klepp (W),FK Fortuna Alesund (W),4.20,4.05,1.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Podkonice,SKF Sered,2.87,3.30,2.22,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Svidnik,MSK Tesla Stropkov,2.67,3.50,2.27,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Filakovo,SK Novohrad Lucenec,1.91,3.50,3.45,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,TJ Tatran Oravske Vesele,MFk Vranov nad Toplou,2.35,3.40,2.65,O,1.80,U,1.91,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Örebro Syrianska IF,Umea FC,2.40,3.55,2.57,O,1.65,U,2.05,Yes,1.57,No,2.22
+02/04,16:30,FSC Stara Rise,Zdar Nad Sazavou,5.80,4.80,1.39,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,TJ Sokol Lanzhot,FC Slovan Havlickuv Brod,1.26,5.40,8.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,FC Spartak Velka Bites,Sperice,1.47,4.45,5.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:30,Kozlovice,Tatran Vsechovice,1.11,7.60,15.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,16:45,CD Agoncillo,Club Haro Deportivo,2.47,2.95,2.87,O,2.30,U,1.53,Yes,1.93,No,1.75
+02/04,17:00,Bolton,Plymouth Argyle,2.50,3.25,2.77,O,1.98,U,1.78,Yes,1.75,No,1.98
+02/04,17:00,FC Romania,Hertford Town,6.60,5.60,1.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Leicester (W),Reading FC (W),2.35,3.30,2.70,O,1.85,U,1.87,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Bristol City (W),Sheffield United LFC (W),1.34,4.80,6.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Loughborough Lightning (W),Liverpool Feds WFC (W),5.20,4.55,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Cultural Leonesa,Linares Deportivo,1.87,3.45,3.95,O,1.95,U,1.75,Yes,1.83,No,1.87
+02/04,17:00,Real Sociedad II,CE Sabadell FC,1.93,3.20,4.05,O,2.12,U,1.65,Yes,1.93,No,1.78
+02/04,17:00,CF Talavera,CD Badajoz,2.42,3.00,3.00,O,2.30,U,1.55,Yes,1.95,No,1.75
+02/04,17:00,CD Binefar,SD Ejea,2.52,3.00,2.77,O,2.10,U,1.62,Yes,1.82,No,1.85
+02/04,17:00,FC Barcelona U19,CD Constancia U19,1.11,7.80,16.50,O,1.32,U,3.00,Yes,2.25,No,1.55
+02/04,17:00,26 de Febrero U19,Vazquez Cultural U19,2.07,3.75,2.95,O,1.57,U,2.20,Yes,1.53,No,2.30
+02/04,17:00,Athletic Bilbao U19,CMD San Juan U19,1.21,6.10,10.00,O,1.35,U,2.87,Yes,1.80,No,1.87
+02/04,17:00,BSG Chemie Leipzig,1. FC Lokomotive Leipzig,2.10,3.35,3.25,O,1.82,U,1.88,Yes,1.65,No,2.10
+02/04,17:00,TUS Erndtebrück,TUS Ennepetal,2.15,3.75,2.72,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,SG Essen-Schönebeck (W),Bayer 04 Leverkusen (W),2.25,3.60,2.65,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,VfL Wolfsburg (W),Werder Bremen (W),1.06,8.50,23.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,AD Sanjoanense,Amora FC,2.40,3.40,2.70,O,1.98,U,1.75,Yes,1.80,No,1.91
+02/04,17:00,Oliveira Hospital,Real Sport Clube Queluz,2.15,3.45,3.10,O,1.90,U,1.82,Yes,1.75,No,1.95
+02/04,17:00,Vitoria Setubal,Sporting CP II,2.52,3.30,2.62,O,1.80,U,1.91,Yes,1.62,No,2.15
+02/04,17:00,Moncarapachense,Caldas SC,3.25,3.50,2.05,O,1.85,U,1.85,Yes,1.72,No,2.00
+02/04,17:00,FC Sabah,FK Gabala,1.52,3.85,5.90,O,2.05,U,1.65,Yes,2.15,No,1.60
+02/04,17:00,FC Santa Coloma,Atletic Club Escaldes,2.72,3.15,2.40,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,San Lorenzo de Almagro (W),El Porvenir (W),1.20,5.70,11.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,RW Rankweil,Dornbirner SV,1.90,3.80,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,SC Rothis,FC Wolfurt,1.75,3.80,3.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,KAS Eupen,RSC Anderlecht,4.20,3.80,1.82,O,1.78,U,2.05,Yes,1.70,No,2.07
+02/04,17:00,Lommel SK,Royal Excelsior Virton,1.91,3.45,3.75,O,1.93,U,1.78,Yes,1.80,No,1.91
+02/04,17:00,Sloboda Tuzla,FK Sarajevo,2.87,2.80,2.60,O,2.62,U,1.42,Yes,2.15,No,1.60
+02/04,17:00,Gosk Gabela,NK Stupcanica,2.25,3.05,3.05,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Tosk Tesanj,NK Zvijezda Gradacac,1.78,3.35,4.15,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Brondby IF,Viborg FF,1.98,3.50,3.60,O,1.80,U,1.95,Yes,1.65,No,2.10
+02/04,17:00,Servette FC Chenois (W),FC Luzern (W),1.11,6.60,22.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Athlone Town U19,UCD U19,2.50,3.75,2.35,O,1.50,U,2.35,Yes,1.47,No,2.47
+02/04,17:00,KA Asvellir,Kormakur/Hvot,4.50,5.00,1.47,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Union Sportive Douala,Fortuna Mfou,2.07,2.90,3.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Differdange FC 03,F91 Dudelange,2.85,3.50,2.15,O,1.60,U,2.18,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,CS Fola Esch,Un Kaerjeng 97,1.40,4.60,5.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Una Strassen,Jeunesse Esch,2.80,3.35,2.27,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Etzella Ettelbruck,Victoria Rosport,4.15,3.90,1.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,US Mondorf-Les-Bains,Swift Hesperange,5.80,4.55,1.42,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Racing FC Union Luxembourg,FC Progres Niedercorn,3.15,3.45,2.05,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,CS Petange,FC Wiltz 71,1.70,3.80,4.05,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,FC Mondercange,US Hostert,1.87,3.60,3.50,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Deportivo Toluca U20,CF Tigres UANL U20,2.67,3.15,2.45,O,1.95,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Atletico San Luis U20,Mazatlan FC U20,2.20,3.40,2.85,O,1.72,U,2.00,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Masitaoka FC,Mogoditshane Fighters,1.29,4.90,8.50,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,IF Fuglafjordur,Argja Boltfelag,2.07,3.55,2.95,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,KI Klaksvik,Eb/Streymur,1.08,8.25,18.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,07 Vestur Sorvagur,Toftir B68,2.05,3.45,3.10,O,1.57,U,2.27,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Enugu Rangers International,Lobi Stars,1.70,3.20,5.40,O,2.67,U,1.40,Yes,2.55,No,1.44
+02/04,17:00,Gyirmot SE,FC Gyori Eto,1.72,3.65,4.45,O,1.91,U,1.80,Yes,1.87,No,1.83
+02/04,17:00,Szentlorinc SE,Csakvari TK,2.57,3.30,2.57,O,2.05,U,1.70,Yes,1.83,No,1.88
+02/04,17:00,Dorogi FC,Diosgyori Vtk,7.20,4.45,1.40,O,1.60,U,2.18,Yes,1.82,No,1.88
+02/04,17:00,Budafoki MTE,Mosonmagyarovar,1.88,3.30,4.05,O,2.15,U,1.62,Yes,1.98,No,1.75
+02/04,17:00,Kazincbarcikai SC,Szombathelyi Haladas,2.55,3.40,2.52,O,1.72,U,2.02,Yes,1.60,No,2.22
+02/04,17:00,Pecsi MFC,BFC Siofok,1.98,3.35,3.65,O,2.22,U,1.60,Yes,2.02,No,1.70
+02/04,17:00,Elore FC Bekescsaba,Kozarmisleny,2.27,3.25,3.00,O,1.91,U,1.80,Yes,1.72,No,2.02
+02/04,17:00,BKV Elore,Hajduszoboszloi SE,2.02,3.65,3.00,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Senyo Carnifex FC,Penzugyor SE,2.07,3.70,2.90,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,ESMTK Budapest,Ferencvarosi TC II,1.82,3.75,3.55,O,1.65,U,2.12,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Budaorsi,Fehervar FC II,2.02,3.80,2.92,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Sokol Sieniawa,Korona Kielce II,2.12,3.55,2.90,O,1.75,U,1.98,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,FK Radnik Surdulica,TSC Backa Topola,3.75,3.35,1.93,O,2.05,U,1.70,Yes,1.90,No,1.80
+02/04,17:00,Hearts (W),Glasgow City LFC (W),19.50,7.10,1.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,NK Krsko,Jadran Dekani,2.32,3.10,2.95,O,1.95,U,1.72,Yes,1.72,No,1.95
+02/04,17:00,Brinje-Grosuplje,NK Triglav,2.35,3.45,2.67,O,1.88,U,1.78,Yes,1.75,No,1.93
+02/04,17:00,Fama Vipava,Visoko Preddvor,1.57,3.95,4.70,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,NK Smartno 1928,Ljutomer,7.10,5.40,1.29,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:00,Dalkurd FF,Vasalunds IF,2.77,3.70,2.18,O,1.55,U,2.27,Yes,1.50,No,2.37
+02/04,17:00,Taby FK,Pitea IF,1.91,3.65,3.40,O,1.47,U,2.42,Yes,1.44,No,2.52
+02/04,17:00,Assyriska United IK,Sandvikens IF,2.87,3.60,2.15,O,1.65,U,2.07,Yes,1.57,No,2.20
+02/04,17:00,Ljungskile SK,Atvidaberg FF,1.75,3.65,4.10,O,1.65,U,2.05,Yes,1.65,No,2.07
+02/04,17:00,Vanersborgs FK,Lidkoping,3.70,4.05,1.75,O,1.42,U,2.57,Yes,1.45,No,2.50
+02/04,17:00,FK Teplice,FC Hradec Kralove,2.72,3.55,2.50,O,1.87,U,1.95,Yes,1.70,No,2.07
+02/04,17:00,FK Jablonec,FK Pardubice,1.70,4.05,4.65,O,1.72,U,2.12,Yes,1.70,No,2.07
+02/04,17:00,AC Sparta Praha,FC Zbrojovka Brno,1.18,7.80,13.50,O,1.47,U,2.72,Yes,2.20,No,1.62
+02/04,17:15,Real Madrid,Real Valladolid,1.19,7.90,12.50,O,1.38,U,3.05,Yes,1.95,No,1.78
+02/04,17:15,CD Lugo,SD Ponferradina,3.10,2.87,2.65,O,2.52,U,1.53,Yes,2.00,No,1.75
+02/04,17:15,Modena FC,AS Cittadella,2.27,3.10,3.50,O,2.40,U,1.57,Yes,1.98,No,1.78
+02/04,17:30,CD Galapagar,Flat Earth FC,1.85,3.50,3.85,O,1.85,U,1.82,Yes,1.78,No,1.91
+02/04,17:30,Rayo Ibense,CD Roda,3.25,2.87,2.30,O,2.72,U,1.38,Yes,2.25,No,1.55
+02/04,17:30,CE Andratx,SE Penya Independent,1.88,3.25,4.00,O,2.07,U,1.65,Yes,1.90,No,1.78
+02/04,17:30,SD Torina,CD Siete Villas,2.10,3.00,3.60,O,2.27,U,1.53,Yes,1.98,No,1.72
+02/04,17:30,CF Peralada,CF Pobla de Mafumet,2.02,3.15,3.55,O,2.15,U,1.60,Yes,1.93,No,1.75
+02/04,17:30,ASD Team Altamura,Matera,2.05,3.10,3.50,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,AS Giana Erminio,Scandicci,1.75,3.35,4.30,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,CS Maritimo,Boavista FC,2.30,3.20,3.30,O,2.25,U,1.65,Yes,1.91,No,1.83
+02/04,17:30,GD Chaves,SC Braga,5.90,4.10,1.57,O,1.82,U,2.00,Yes,1.87,No,1.88
+02/04,17:30,UD Vilafranquense,CD Nacional Madeira,1.91,3.55,3.75,O,2.05,U,1.72,Yes,1.90,No,1.82
+02/04,17:30,FC St. Gallen,FC Zurich,2.20,3.70,2.87,O,1.60,U,2.25,Yes,1.52,No,2.37
+02/04,17:30,FC Luzern,FC Sion,1.60,4.10,5.00,O,1.65,U,2.15,Yes,1.70,No,2.02
+02/04,17:30,FC Lausanne-Sport,Yverdon-Sport FC,1.72,3.80,4.20,O,1.57,U,2.27,Yes,1.57,No,2.27
+02/04,17:30,Neuchatel Xamax FC,FC Stade LS Ouchy,2.72,3.50,2.35,O,1.62,U,2.15,Yes,1.52,No,2.37
+02/04,17:30,Eding Sport,Pwd De Bamenda,2.20,2.95,3.25,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,Croatia Zmijavci,Vukovar 91,3.10,3.15,2.22,O,2.20,U,1.57,Yes,1.95,No,1.72
+02/04,17:30,Bedem Ivankovo,NK Slavija Pleternica,1.50,4.20,5.20,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,NK Granicar Zupanja,Sloga Nova Gradiska,1.25,5.40,8.75,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,NK Sava Strmec,NK Vrbovec,3.10,3.50,2.05,O,1.55,U,2.30,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,Ferencvarosi TC,Fehervar FC,1.40,4.60,7.10,O,1.70,U,2.07,Yes,1.91,No,1.80
+02/04,17:30,FK MAS Táborsko,MFK Karvina,2.77,3.30,2.40,O,2.00,U,1.72,Yes,1.78,No,1.93
+02/04,17:30,FK Seko Louny,Olympie Brezova,1.47,4.55,4.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:30,Touzim,Karlovy Vary II,1.53,4.90,4.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,17:45,SD Compostela,CD Arenteiro,2.47,2.82,3.05,O,2.70,U,1.39,Yes,2.20,No,1.57
+02/04,17:45,Fortuna Sittard,FC Groningen,2.15,3.55,3.30,O,1.87,U,1.95,Yes,1.70,No,2.07
+02/04,17:55,FK Dainava Alytus,FK Kauno Zalgiris,5.00,3.85,1.55,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Panathinaikos,Volos NFC,1.17,6.90,19.50,O,1.65,U,2.27,Yes,2.67,No,1.44
+02/04,18:00,CD Calahorra,SD Logrones,2.95,2.82,2.57,O,2.65,U,1.42,Yes,2.15,No,1.62
+02/04,18:00,CD Teruel,Atletico Saguntino,1.88,3.05,4.30,O,2.52,U,1.44,Yes,2.25,No,1.55
+02/04,18:00,Atletico Cirbonero,CD Tudelano,2.85,2.87,2.57,O,2.52,U,1.44,Yes,2.10,No,1.62
+02/04,18:00,CD Brea,Sestao River,4.25,3.15,1.85,O,2.52,U,1.45,Yes,2.27,No,1.53
+02/04,18:00,Burgos CF Promesas,Gimnastica de Torrelavega,3.85,2.85,2.10,O,2.60,U,1.42,Yes,2.15,No,1.60
+02/04,18:00,Marino Luanco,Real Aviles CF,3.00,2.87,2.45,O,2.42,U,1.47,Yes,2.00,No,1.70
+02/04,18:00,Cadiz CF II,UCAM Murcia CF,3.35,3.10,2.15,O,2.37,U,1.50,Yes,2.07,No,1.65
+02/04,18:00,Cerdanyola del Vallès FC,CD Leganes II,2.65,2.82,2.80,O,2.57,U,1.42,Yes,2.10,No,1.62
+02/04,18:00,CF Badalona,Girona FC II,3.30,3.15,2.12,O,2.15,U,1.60,Yes,1.93,No,1.75
+02/04,18:00,UE Sants,FE Grama,3.65,3.35,1.93,O,2.00,U,1.70,Yes,1.88,No,1.80
+02/04,18:00,CF Soller,UD Collerense,5.80,3.80,1.53,O,1.95,U,1.72,Yes,2.07,No,1.65
+02/04,18:00,SD Gama,CD Guarnizo,2.55,3.20,2.57,O,2.00,U,1.70,Yes,1.80,No,1.87
+02/04,18:00,SD Textil Escudo,SD Solares-Medio Cudeyo,2.52,3.05,2.75,O,2.07,U,1.65,Yes,1.82,No,1.85
+02/04,18:00,Deportes Naval,Cayon,3.60,3.00,2.10,O,2.42,U,1.47,Yes,2.07,No,1.65
+02/04,18:00,Castro FC,UC Cartes,1.93,3.35,3.70,O,1.98,U,1.70,Yes,1.83,No,1.83
+02/04,18:00,CSD Arzua,Silva SD,2.05,3.10,3.60,O,2.12,U,1.62,Yes,1.88,No,1.80
+02/04,18:00,UD Paiosaco,UD Somozas,2.80,3.00,2.50,O,2.20,U,1.57,Yes,1.88,No,1.80
+02/04,18:00,CD Becerril,Unami CP,2.02,3.25,3.45,O,2.05,U,1.65,Yes,1.87,No,1.80
+02/04,18:00,CD Atletico Tordesillas,Real Avila CF,2.70,2.90,2.67,O,2.50,U,1.45,Yes,2.07,No,1.65
+02/04,18:00,CAP Ciudad de Murcia,CD Cieza,2.50,3.05,2.77,O,2.22,U,1.57,Yes,1.90,No,1.78
+02/04,18:00,Atletico Bembibre,Palencia CF,2.62,3.15,2.57,O,2.10,U,1.62,Yes,1.85,No,1.83
+02/04,18:00,Peña Sport FC,CD Huarte,1.80,3.50,4.05,O,1.85,U,1.82,Yes,1.78,No,1.90
+02/04,18:00,CD Azkoyen,Club Deportivo Avance Ezcabarte,2.82,3.10,2.42,O,2.05,U,1.65,Yes,1.80,No,1.87
+02/04,18:00,CD Anguiano,CDFC La Calzada,1.93,3.20,3.85,O,2.10,U,1.62,Yes,1.90,No,1.78
+02/04,18:00,Pena Balmaiso CF,Yagüe CF,1.55,3.95,5.20,O,1.78,U,1.90,Yes,1.87,No,1.80
+02/04,18:00,Naxara CD,SD Oyonesa,1.85,3.45,3.90,O,2.00,U,1.70,Yes,1.88,No,1.78
+02/04,18:00,CD Utrillas,CF Illueca,2.82,2.92,2.55,O,2.25,U,1.55,Yes,1.90,No,1.78
+02/04,18:00,Las Rozas (W),Rayo Vallecano (W) II,1.26,5.60,7.90,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,OGC Nice (W),Olympique Marseille (W),5.90,4.80,1.38,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Merelinense FC,Moncao,1.91,3.30,3.65,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,FC Alpendorada,SC Salgueiros,4.70,3.50,1.65,O,1.88,U,1.82,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Rebordosa AC,GD Resende,1.24,5.20,10.25,O,1.60,U,2.20,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Leca FC,CS Maritimo II,2.35,3.20,2.77,O,2.02,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Praiense,SC Olhanense,1.42,4.35,6.10,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Su 1 Dezembro,UD Santarem,2.80,2.85,2.57,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Uniao Serra,Coruchense,2.62,3.10,2.52,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Amarante,FC Tirsense,2.05,3.05,3.50,O,2.22,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,AC Marinhense,Benfica Castelo Branco,2.18,3.10,3.15,O,2.35,U,1.53,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Maria da Fonte,Brito SC,2.07,3.10,3.40,O,2.30,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Sertanense,CA Pero Pinheiro,2.55,3.00,2.70,O,2.42,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Dumiense Cjpii Futebol Sad,Atletico de Vila Mea,2.22,3.15,3.00,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Pevidem SC,AR Sao Martinho,1.98,3.20,3.55,O,2.18,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Mortagua,Sintrense,2.40,3.10,2.77,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,AD Castro Daire,Beira Mar SC,4.55,3.25,1.75,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Valadares Gaia FC,Gondomar SC,1.91,3.00,4.15,O,2.12,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Juventude Evora,SC Angrense,1.34,4.45,7.80,O,1.83,U,1.87,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Lusitano Evora 1911,Atletico Cp,2.65,2.92,2.65,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,CD Alcains,Grupo Sportivo De Loures,2.95,2.90,2.40,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Imortal DC,Fabril Barreiro,2.32,2.95,3.05,O,2.35,U,1.52,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Juventude de Pedras Salgadas,Vilar de Perdizes,2.15,2.95,3.35,O,2.37,U,1.52,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,GD Braganca,SC Vianense,4.60,3.25,1.75,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,FC Serpa,FC Ferreiras,1.57,3.60,5.30,O,1.98,U,1.75,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Vasco da Gama Vidigueira,Oriental Dragon FC,3.00,3.05,2.30,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,AC Omonia Nicosia,Pafos FC,3.35,3.30,2.22,O,2.00,U,1.82,Yes,1.75,No,2.00
+02/04,18:00,Stromsgodset,Sandefjord Fotball,1.82,4.05,3.40,O,1.45,U,2.50,Yes,1.47,No,2.45
+02/04,18:00,Saint George FC,Ethio Electric SC,1.35,4.45,7.60,O,1.82,U,1.88,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,FC Urartu,Alashkert FC,2.20,3.00,3.25,O,2.25,U,1.57,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,SK Sturm Graz,SK Rapid Vienna,1.83,3.50,4.20,O,1.87,U,1.87,Yes,1.75,No,1.95
+02/04,18:00,Kotoku Royals,Medeama SC,2.77,3.00,2.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Karela FC,FC Samartex,1.60,3.20,6.10,O,2.32,U,1.55,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Accra Great Olympics,Berekum Chelsea,1.60,3.10,6.70,O,2.40,U,1.50,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,FA Tartu Kalev,JK Tammeka Tartu II,2.12,3.95,2.70,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Stade Renard,Colombe du Dja et Lobo,2.20,2.92,3.30,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Bamboutos FC,Dragon de Yaounde,1.31,4.40,9.25,O,1.82,U,1.88,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Queretaro FC U20,UNAM Pumas U20,3.80,3.50,1.80,O,1.80,U,1.90,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Kwara United,Shooting Stars,1.57,3.20,6.90,O,2.25,U,1.55,Yes,2.15,No,1.60
+02/04,18:00,Plateau United,Bendel Insurance,1.75,3.10,5.10,O,2.30,U,1.52,Yes,2.10,No,1.62
+02/04,18:00,Akwa United FC,Enyimba,1.60,3.20,6.40,O,2.25,U,1.55,Yes,2.15,No,1.60
+02/04,18:00,Remo Stars,Gombe United FC,1.34,4.10,9.75,O,2.27,U,1.53,Yes,2.92,No,1.34
+02/04,18:00,Wikki Tourists,Dakkada International FC,1.50,3.50,7.50,O,2.20,U,1.57,Yes,2.30,No,1.52
+02/04,18:00,Ajka FC,Soroksar SC,1.70,3.70,4.50,O,1.78,U,1.93,Yes,1.75,No,1.95
+02/04,18:00,Szeged 2011,Tiszakecskei LC,1.75,3.55,4.35,O,2.05,U,1.70,Yes,1.98,No,1.75
+02/04,18:00,Hamilton Academical (W),Glasgow Girls (W),1.14,6.80,13.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Puerto Montt (W),Universidad Catolica (W),4.60,4.20,1.55,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,CD Santiago Morning (W),Universidad de Concepcion (W),1.18,5.90,12.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:00,Colo Colo (W),Deportes Iquique (W),1.05,10.25,22.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:05,AS Monaco,RC Strasbourg,1.60,4.15,5.50,O,1.70,U,2.18,Yes,1.72,No,2.05
+02/04,18:10,Rangers FC (W),Hibernian (W),1.06,8.00,32.00,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:30,Newcastle United,Manchester United,2.47,3.52,3.21,O,1.90,U,1.91,Yes,1.70,No,2.07
+02/04,18:30,CD Arnedo,Real Sociedad C,3.65,3.15,2.02,O,2.12,U,1.62,Yes,1.88,No,1.80
+02/04,18:30,CD Padura,Urduliz FT,2.52,2.57,3.30,O,2.30,U,1.53,Yes,1.82,No,1.85
+02/04,18:30,CF Epila,CDJ Tamarite,1.75,3.50,4.25,O,2.00,U,1.70,Yes,1.93,No,1.75
+02/04,18:30,AD Almudevar,CF Calamocha,2.37,2.85,3.15,O,2.45,U,1.47,Yes,2.05,No,1.65
+02/04,18:30,Alboraya U19,UD Alzira U19,2.20,3.75,2.70,O,1.57,U,2.20,Yes,1.53,No,2.30
+02/04,18:30,Juve Stabia,US Avellino,2.67,3.15,2.60,O,2.02,U,1.70,Yes,1.78,No,1.93
+02/04,18:30,Audace Cerignola,Rossoblu Potenza,1.85,3.15,4.45,O,2.22,U,1.60,Yes,2.00,No,1.72
+02/04,18:30,FC Crotone,Taranto Sport,1.65,3.40,5.50,O,2.55,U,1.45,Yes,2.50,No,1.47
+02/04,18:30,Pescara Calcio,Virtus Francavilla,1.70,3.80,4.40,O,1.75,U,1.98,Yes,1.75,No,1.95
+02/04,18:30,SSD Fidelis Andria 2018,SS Turris Calcio,2.50,2.90,3.00,O,2.32,U,1.53,Yes,1.93,No,1.78
+02/04,18:30,Gelbison Vallo,Viterbese Castrense,2.55,2.77,3.05,O,2.67,U,1.42,Yes,2.15,No,1.62
+02/04,18:30,Werder Bremen,TSG 1899 Hoffenheim,2.35,3.50,2.95,O,1.75,U,2.10,Yes,1.60,No,2.27
+02/04,18:30,Raja de Casablanca (W),ASDCT (W),5.50,4.35,1.45,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,18:30,TS Galaxy FC,Maritzburg United,2.22,2.87,3.55,O,2.55,U,1.45,Yes,2.12,No,1.65
+02/04,18:30,Progresso,Institucion Atletica Sud America,2.02,3.05,3.75,O,2.15,U,1.60,Yes,1.90,No,1.78
+02/04,18:30,Lech Poznan,MKS Pogon Szczecin,2.02,3.50,3.45,O,1.90,U,1.85,Yes,1.75,No,1.95
+02/04,18:30,FC Spartak Trnava,SK Slovan Bratislava,2.55,3.25,2.70,O,1.83,U,1.91,Yes,1.62,No,2.15
+02/04,18:30,Olimpija Ljubljana,Tabor Sezana,1.42,4.35,6.90,O,1.72,U,2.02,Yes,1.93,No,1.78
+02/04,18:30,Halmstads BK,AIK Stockholm,3.65,3.20,2.07,O,2.15,U,1.65,Yes,1.87,No,1.83
+02/04,18:30,IFK Goteborg,IFK Varnamo,1.87,3.70,3.80,O,1.83,U,1.90,Yes,1.75,No,1.95
+02/04,19:00,West Ham United LFC (W),Liverpool FC (W),2.60,3.35,2.42,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,CD Eldense,CF Intercity,1.65,3.45,5.30,O,2.25,U,1.57,Yes,2.18,No,1.62
+02/04,19:00,CF Fuenlabrada,CF Rayo Majadahonda,1.95,3.30,3.80,O,2.27,U,1.57,Yes,2.05,No,1.70
+02/04,19:00,UD Logrones,CD Castellon,3.20,2.87,2.40,O,2.52,U,1.47,Yes,2.10,No,1.65
+02/04,19:00,CD El Ejido,Juventud Torremolinos CF,2.30,2.87,3.25,O,2.52,U,1.45,Yes,2.07,No,1.65
+02/04,19:00,Hercules CF,Terrassa FC,1.83,3.05,4.60,O,2.45,U,1.47,Yes,2.20,No,1.57
+02/04,19:00,CD Laredo,Real Valladolid II,2.65,2.85,2.77,O,2.50,U,1.45,Yes,2.05,No,1.65
+02/04,19:00,CD Coria,CDA Navalcarnero,2.47,2.92,2.90,O,2.42,U,1.47,Yes,2.05,No,1.65
+02/04,19:00,L'Entregu CF,Real Titanico Laviana,1.36,4.35,8.00,O,1.93,U,1.75,Yes,2.35,No,1.50
+02/04,19:00,CD Colunga,Luarca CF,1.91,3.10,4.05,O,2.47,U,1.47,Yes,2.20,No,1.57
+02/04,19:00,CD Estradense,Atletico Arteixo,1.98,3.35,3.55,O,2.00,U,1.70,Yes,1.85,No,1.82
+02/04,19:00,Salamanca CF UDS,Arandina CF,2.72,2.80,2.72,O,2.50,U,1.45,Yes,2.05,No,1.65
+02/04,19:00,CD La Almunia,CF Atletico Monzon,3.40,3.15,2.10,O,2.12,U,1.62,Yes,1.87,No,1.80
+02/04,19:00,Atletico Tomelloso,CD Toledo,4.35,3.35,1.78,O,2.15,U,1.60,Yes,2.00,No,1.70
+02/04,19:00,Alhama CF (W),FC Barcelona (W),37.00,11.50,1.01,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,UDG Tenerife Sur (W) II,FC Barcelona (W) II,6.30,4.25,1.42,O,1.78,U,1.93,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Athletic Bilbao (W) II,Cordoba CF SAD (W),1.95,3.35,3.45,O,1.85,U,1.85,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,AS Roma,UC Sampdoria,1.44,4.25,8.50,O,2.12,U,1.72,Yes,2.37,No,1.55
+02/04,19:00,Apollon Limassol,Aris Limassol,2.67,3.35,2.67,O,2.05,U,1.78,Yes,1.78,No,1.95
+02/04,19:00,KF Tirana,Erzeni Shijak,1.91,3.15,3.85,O,2.20,U,1.60,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Gimnasia y Esgrima La Plata (W),Racing Club (W),5.10,3.55,1.60,O,2.05,U,1.70,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,CA Rosario Central (W),CA Estudiantes Caseros (W),1.35,4.60,7.00,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,FC Copenhagen,Nordsjaelland,1.70,3.85,4.60,O,1.72,U,2.05,Yes,1.72,No,2.00
+02/04,19:00,FC Levadia Tallin,FC Kuressaare,1.42,4.35,6.00,O,1.65,U,2.10,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Isidro Metapan II,CD Platense II,2.22,3.75,2.62,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Les Astres,Yafoot FC,1.83,3.10,4.35,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,NK Lokomotiva Zagreb,NK Varazdin,1.95,3.45,3.80,O,1.90,U,1.85,Yes,1.75,No,1.98
+02/04,19:00,Invincible Eleven,BEA Mountain,4.55,3.60,1.65,O,1.70,U,2.05,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Nimba United,Nimba Kwado,3.65,3.00,2.02,O,2.10,U,1.65,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Viltis Vilnius,FK Tauras Taurage,1.62,4.20,4.05,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Etoile Filante,ASFA Yennega,3.80,2.77,2.10,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Sporting Cristal (W),CD Universitario Deportes (W),6.90,4.45,1.37,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet,No_bet
+02/04,19:00,Podbeskidzie Bielsko-Biala,ZKS Stal Rzeszow,1.95,3.25,3.90,O,2.10,U,1.65,Yes,1.90,No,1.80
+02/04,19:00,FK Radnicki Nis,FK Cukaricki,2.87,3.10,2.42,O,2.10,U,1.65,Yes,1.83,No,1.87
+02/04,19:05,UE Sant Andreu,CE Europa,2.22,3.20,3.05,O,2.30,U,1.52,Yes,2.05,No,1.65
+02/04,19:15,CF Trujillo,CD Calamonte,2.12,3.15,3.30,O,2.37,U,1.50,Yes,2.10,No,1.62
+02/04,19:30,AE Prat,Valencia CF Mestalla,4.05,2.95,1.98,O,2.47,U,1.47,Yes,2.12,No,1.62
+02/04,19:30,Atletico Pulpileño,CD Bullense,1.31,4.50,9.75,O,1.98,U,1.70,Yes,2.60,No,1.42
+02/04,19:30,Muleño CF,Real Murcia CF II,4.10,3.50,1.78,O,1.93,U,1.75,Yes,1.85,No,1.82
+02/04,19:30,CP Villarrobledo,CD Quintanar del Rey,3.60,3.15,2.02,O,2.32,U,1.52,Yes,2.07,No,1.65
+02/04,21:00,Asante Kotoko,Real Tamale United,1.60,3.15,6.40,O,2.40,U,1.50,No_bet,No_bet,No_bet,No_bet
