@@ -162,8 +162,8 @@ def novibet_basketball_export(basketball_string: str):
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['Championship','Team1','Team2','Time','win_1','odds_win_1','win_2','odds_win_2',
-                    'Over','odds_over','Under','odds_under','1','odds_1','2','odds_2']
+        header = ['Championship','Team1','Team2','Time','Win1','Win1_odd','Win2','Win2_odd',
+                    'Over','O_odd','Under','U_odd','One','One_odd','Two','Two_odd']
         writer.writerow(header)
 
         # Loop through all championships
@@ -258,8 +258,8 @@ def novibet_tennis_export(tennis_string: str):
     with open(output_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         # Write the header row to the CSV file
-        header = ['championship','player1','player2','time','1','odds_1','2','odds_2',
-                    'Over','odds_over','Under','odds_under','win_1','odds_win_1','win_2','odds_win_2']
+        header = ['Championship','Player1','Player2','Time','One','One_odd','Two','Two_odd'
+                    'Over','O_odd','Under','U_odd','Win1','Win1_odd','Win2','Win2_odd']
         writer.writerow(header)
 
         # Loop through all championships
