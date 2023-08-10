@@ -1,4 +1,8 @@
 __pycache__/novibet_functions.cpython-38.pyc
 __pycache__/stoiximan_function.cpython-38.pyc
+.venv
 
 
+web_scrape_functions/__pycache__/__init__.cpython-311.pyc
+web_scrape_functions/__pycache__/novibet_functions.cpython-311.pyc
+main_scripts/__pycache__/queries.cpython-311.pyc
